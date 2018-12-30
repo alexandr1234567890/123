@@ -1,0 +1,288 @@
+||coin-hive.com/lib/coinhive.min.js
+
+! Эти сайты (всплывающие) я раньше блокировал расширением -Block-Site_v0.1.5 (блокировка сайтов)------------------
+127.0.0.1 1bcde.com
+127.0.0.1 1xlsc.host
+127.0.0.1 2baksa.net
+127.0.0.1 adlabsretail.ru
+127.0.0.1 ads.adfox.ru
+127.0.0.1 authorne.info
+127.0.0.1 binariub.com
+127.0.0.1 binomo.com
+127.0.0.1 booking.com
+127.0.0.1 byt.su
+127.0.0.1 chance-for-dates.com
+127.0.0.1 click02.dsp.rambler.ru
+127.0.0.1 clicknshare.net
+127.0.0.1 clicksgear.com
+127.0.0.1 coin-hive.com
+127.0.0.1 coinhive.com
+127.0.0.1 deloton.com
+127.0.0.1 eidwmjwtv.net
+127.0.0.1 fil.su
+127.0.0.1 findplaceperfect.ru
+127.0.0.1 grand-casino50.com
+127.0.0.1 grandholding.nl
+127.0.0.1 hit.best-tracker.gdn
+127.0.0.1 imperiya.by
+127.0.0.1 inet-mones7.com
+127.0.0.1 informereng.com
+127.0.0.1 install.myvideotab.com
+127.0.0.1 install.streamfrenzy.com
+127.0.0.1 katfile.com
+127.0.0.1 leon.ru
+127.0.0.1 like-year.pro
+127.0.0.1 linkforyoud.com
+127.0.0.1 m1band.ru
+127.0.0.1 mmoframes.com
+127.0.0.1 news-speaker.com
+127.0.0.1 porngames.adult
+127.0.0.1 rcyclmnr.com
+127.0.0.1 rcyclmnrepv.com
+127.0.0.1 rcyclmnrhgntry.com
+127.0.0.1 rcylpd.com
+127.0.0.1 recycloped.com
+127.0.0.1 refuzzlizing.pro
+127.0.0.1 rt.bongacams.com
+127.0.0.1 rt.bongacams2.com
+127.0.0.1 rt.runetki2.com
+127.0.0.1 rt.smotricams.com
+127.0.0.1 ru.bongacams.com
+127.0.0.1 ru.smotricams.com
+127.0.0.1 runetki.com
+127.0.0.1 rusfolder.com
+127.0.0.1 screenwatch.yournewtab.com
+127.0.0.1 showjet.ru
+127.0.0.1 snowlooper.info
+127.0.0.1 softbesplatno.net
+127.0.0.1 solidayw.info
+127.0.0.1 static.olymptrade.com
+127.0.0.1 turbobooks.ru
+127.0.0.1 turbocap.net
+127.0.0.1 ultra-bonus.com
+127.0.0.1 utarget.ru
+127.0.0.1 vacaneedasap.com
+127.0.0.1 vulkanclubzz.org
+127.0.0.1 welcome.cuntwars.com
+127.0.0.1 wolve.pro
+127.0.0.1 www.2baksa.net
+127.0.0.1 www.booking.com
+127.0.0.1 www.clicksgear.com
+127.0.0.1 www.interest.center
+127.0.0.1 www.livelyoffers.club
+127.0.0.1 www.thegaw.org
+127.0.0.1 xxxlmusic.com
+127.0.0.1 zcltracker.com
+127.0.0.1 clemy.ru
+127.0.0.1 1xbdiq.host
+127.0.0.1 syndication.exosrv.com
+127.0.0.1 zirijasa.ru
+127.0.0.1 sale.aliexpress.com
+127.0.0.1 azartpl.com
+127.0.0.1 eranews.pro
+127.0.0.1 hsm5azph84.com
+127.0.0.1 play-vazartplay.com
+127.0.0.1 cobalten.com
+127.0.0.1 file-space.org
+127.0.0.1 lovenights.net
+127.0.0.1 crptentry.com
+127.0.0.1 livejasmin.com
+127.0.0.1 camgirlsowned.com
+127.0.0.1 adsbb.dfiles.ru
+127.0.0.1 diversubscribe.com
+127.0.0.1 binarium.com
+127.0.0.1 torsonercil.pro
+127.0.0.1 1xmiiy.host
+127.0.0.1 nxctrk.com
+127.0.0.1 vulkanvegas-offers.com
+127.0.0.1 1x*.host
+127.0.0.1 alpari.com
+127.0.0.1 rotumal.com
+127.0.0.1 mostbet.ru
+127.0.0.1 audienceline.com
+127.0.0.1 yealnk.com
+127.0.0.1 vsehd.ru
+127.0.0.1 rutracker.com.kz
+127.0.0.1 liversubscribe.com
+127.0.0.1 nextoptim.com
+127.0.0.1 popcash.net
+127.0.0.1 clk.*.*
+127.0.0.1 pushmobilenews.com
+127.0.0.1 */vulkan*
+127.0.0.1 */partners/*/yandex*
+127.0.0.1 */img/yandex*
+127.0.0.1 slogansubscribe.com
+127.0.0.1 nanoadexchange.com
+127.0.0.1 looadbukus.*.website
+127.0.0.1 douploads.com
+127.0.0.1 *casino*.com
+127.0.0.1 *xsd.*
+127.0.0.1 *.msf-help.*
+127.0.0.1 *.forelimit.com
+
+
+ovego.tv##table:nth-of-type(2) > tbody > tr > td > table > tbody > tr > td:nth-of-type(1)
+ovego.tv##table:nth-of-type(2) > tbody > tr > td > table > tbody > tr > td:nth-of-type(3)
+ovego.tv##.eBlock > tbody > tr:nth-of-type(2)
+ovego.tv##td:nth-of-type(2) > table > tbody > tr > td > table:nth-of-type(3)
+ovego.tv###postFormContent
+ovego.tv##td:nth-of-type(2) > table:nth-of-type(3)
+ovego.tv##body > table > tbody > tr > td:nth-of-type(2) > table:nth-of-type(1)
+ovego.tv##td > table > tbody > tr > td:nth-of-type(2) > table > tbody > tr > td > table:nth-of-type(1)
+ovego.tv##td > hr
+ovego.tv##.eTitle
+
+! Для входа на -p..hub----------------------------------------
+##div[id*=age-verification-wrapper]
+##div[id*=age-verification-container]
+
+diakov.net###thx
+diakov.net##.sh.card-body > .hidden-sm.hidden-xs
+diakov.net##.text-muted.card-footer
+
+www.youtube.com###search-secondary-col-contents
+www.youtube.com##.search-refinements
+www.youtube.com###upload-btn
+www.youtube.com##.ytp-pause-overlay
+www.youtube.com##.ytp-endscreen-content
+www.youtube.com##.ytp-chrome-top-buttons
+www.youtube.com##.ytp-title-text
+www.youtube.com##.ytp-title-channel
+www.youtube.com##.ytp-ce-element
+www.youtube.com##.ytp-ce-covering-overlay
+www.youtube.com##.watch-view-count
+www.youtube.com##.mealbar-promo-renderer.yt-dialog > .yt-dialog-base
+www.youtube.com##.ytp-scroll-min.ytp-pause-overlay
+! Скрывает чат
+||www.youtube.com/live_chat_replay$subdocument
+
+ok.ru##.__step-question
+ok.ru##.__promo.u-menu_a
+ok.ru##.__shared.h-mod.feed
+ok.ru##.gift-to-friend
+ok.ru##.h-mod.__no-ava.feed
+ok.ru##.h-mod.__no-ava.feed
+ok.ru##.media-block
+ok.ru##.h-mod.feed
+ok.ru##.media-link_a
+ok.ru###hook_Block_FriendshipRequestsListBlock
+ok.ru###FriendStreamContent
+ok.ru###online-fr_block
+ok.ru##.covers_control_cnt_w
+ok.ru##.h-mod.portlet
+
+vk.com###friends_possible_block
+vk.com###actualize_box
+
+www.findyoutube.net##.table-condensed.table-hover.table > tbody > tr:nth-of-type(1) > td:nth-of-type(1)
+www.findyoutube.net##.table-condensed.table-hover.table > tbody > tr:nth-of-type(1) > td:nth-of-type(2)
+www.findyoutube.net##.table-condensed.table-hover.table > tbody > tr:nth-of-type(1) > td:nth-of-type(3) > a[href^="https://r4---sn-npoe7nez.googlevideo.com/videoplayback"] > .btn-default.btn
+www.findyoutube.net##.table-condensed.table-hover.table > tbody > tr:nth-of-type(2) > td:nth-of-type(1)
+www.findyoutube.net##.table-condensed.table-hover.table > tbody > tr:nth-of-type(2) > td:nth-of-type(2)
+www.findyoutube.net##.table-condensed.table-hover.table > tbody > tr:nth-of-type(2) > td:nth-of-type(3)
+www.findyoutube.net##.table-condensed.table-hover.table > tbody > tr:nth-of-type(1) > td:nth-of-type(3)
+www.findyoutube.net##.table-condensed.table-hover.table > tbody > tr:nth-of-type(4) > td:nth-of-type(2)
+www.findyoutube.net##.table-condensed.table-hover.table > tbody > tr:nth-of-type(4) > td:nth-of-type(1)
+www.findyoutube.net##.table-condensed.table-hover.table > tbody > tr:nth-of-type(4) > td:nth-of-type(3)
+www.findyoutube.net##.table-condensed.table-hover.table > tbody > tr:nth-of-type(6) > td:nth-of-type(1)
+www.findyoutube.net##.navbar-inverse.navbar
+www.findyoutube.net##.container > h1:nth-of-type(1)
+www.findyoutube.net##.center-block.img-responsive
+www.findyoutube.net##.container > p:nth-of-type(1)
+www.findyoutube.net##h1:nth-of-type(2)
+www.findyoutube.net##.container > p:nth-of-type(2)
+www.findyoutube.net##p:nth-of-type(3)
+www.findyoutube.net##p:nth-of-type(4)
+www.findyoutube.net##.table-condensed.table-hover.table > thead > tr > th:nth-of-type(1)
+www.findyoutube.net##.table-condensed.table-hover.table > thead > tr > th:nth-of-type(2)
+www.findyoutube.net##h1:nth-of-type(3)
+www.findyoutube.net##p:nth-of-type(5)
+www.findyoutube.net##.container > h2
+www.findyoutube.net##.text-center:nth-of-type(3) > h4:nth-of-type(1)
+www.findyoutube.net###cloudflare-app-google-translate
+www.findyoutube.net##.text-center:nth-of-type(3) > p
+www.findyoutube.net##.text-center:nth-of-type(3) > h4:nth-of-type(2)
+www.findyoutube.net##.center.img-responsive
+www.findyoutube.net##.table-condensed.table-hover.table > tbody:nth-of-type(1) > tr > th:nth-of-type(1)
+www.findyoutube.net##.table-condensed.table-hover.table > tbody:nth-of-type(1) > tr > th:nth-of-type(2)
+www.findyoutube.net##.table-condensed.table-hover.table > tbody:nth-of-type(2) > tr:nth-of-type(3) > td:nth-of-type(1)
+www.findyoutube.net##.table-condensed.table-hover.table > tbody:nth-of-type(2) > tr:nth-of-type(3) > td:nth-of-type(2) > form
+www.findyoutube.net##.row
+www.findyoutube.net##.table-condensed.table-hover.table > tbody:nth-of-type(2) > tr:nth-of-type(3) > td:nth-of-type(2)
+www.findyoutube.net##.table-condensed.table-hover.table > tbody:nth-of-type(2) > tr:nth-of-type(5) > td:nth-of-type(2)
+www.findyoutube.net##.text-center:nth-of-type(4) > h4:nth-of-type(1)
+www.findyoutube.net##.text-center:nth-of-type(4) > p
+www.findyoutube.net##.text-center:nth-of-type(4) > h4:nth-of-type(2)
+www.findyoutube.net##.table-responsive:nth-of-type(2) > .table-condensed.table-hover.table
+www.findyoutube.net##.table-responsive:nth-of-type(1) > .table-condensed.table-hover.table > tbody > tr:nth-of-type(5) > td:nth-of-type(1)
+www.findyoutube.net##.table-condensed.table-hover.table > tbody > tr:nth-of-type(5) > td:nth-of-type(2)
+www.findyoutube.net##.table-condensed.table-hover.table > tbody > tr:nth-of-type(5) > td:nth-of-type(3)
+www.findyoutube.net##.table-condensed.table-hover.table > tbody > tr:nth-of-type(6) > td:nth-of-type(2)
+www.findyoutube.net##.col-sm-7.col-sm-offset-1:nth-of-type(5)
+www.findyoutube.net##.col-sm-7.col-sm-offset-1:nth-of-type(6)
+www.findyoutube.net##.text-center.center.page-header
+www.findyoutube.net##.form-horizontal
+www.findyoutube.net##.close
+www.findyoutube.net##.table-responsive:nth-of-type(1) > .table-condensed.table-hover.table > tbody > tr:nth-of-type(3) > td:nth-of-type(1)
+www.findyoutube.net##.table-condensed.table-hover.table > thead > tr > th:nth-of-type(3)
+www.findyoutube.net##.table-responsive:nth-of-type(1) > .table-condensed.table-hover.table > tbody > tr:nth-of-type(3) > td:nth-of-type(2)
+
+! Убираю ненужные ссылки на AliExpress ----------------------------------
+*alicdn.com/*секс*
+*alicdn.com/*пикантн*
+*alicdn.com/*adult*
+*alicdn.com/*masturb*
+*alicdn.com/*penis*
+*alicdn.com/*orgasm*
+*alicdn.com/*vagina*
+*alicdn.com/*clitor*
+*alicdn.com/*g-spot*
+*alicdn.com/*dildo*
+*alicdn.com/*-anal-*
+*alicdn.com/*sex*
+*alicdn.com/*vibrator*
+
+! Убираю рекламу перед видео ----------------------------------
+*/full_baraban*.webm
+*/prs*.mp4
+*/Azino_*.mp4
+*/akshkkj_xzmehlsbem_vvwhnh.mp4
+##div.vjs-video-download
+##div.video-rating-wrap
+##div.embed-buttons
+*/0DFAB3.mp4
+##.banner-popup
+www.drtuber.com##.drt-spot-frame
+www.drtuber.com##.drt-spot-visible.drt-spot-box
+www.sheshaft.com##.inner_ad
+www.vivatube.com##.drt-spot-frame
+www.vivatube.com##.drt-spot-visible.no-buttons.drt-spot-box
+||www.xozilla.com/player/html.php$subdocument
+www.keezmovies.com###vjs-inplayer-overlay
+
+! Всплывающие сообщения на страницах поисковиков ----------------------------------
+yandex.ru###wrccontainer
+yandex.ru##.wot-popup-container
+yandex.ru##.tooltip__content
+yandex.ru##.popup2__tail
+www.google.ru###wrccontainer
+www.google.ru##.wot-popup-container
+
+! Разное ----------------------------------
+www.rbc.ru##.push-allow
+yandex.ru##.yaplus_js_inited.i-bem.yaplus_available_yes.yaplus
+loadmod.com##.button_b
+yandex.ru##.distr-popup__content.popup2__content
+mail.ru##.V9EvBP1.bubble-home__content.bubble__content > .o-media
+mail.ru###bubble-home-close
+cloud.mail.ru##.b-bubble__container
+5play.ru##.rek-but
+mail.ru##.bubble__content
+##.clearfix.rek-blue.rek-but
+yandex.ru##.ugc-panel_js_inited.i-bem.ugc-panel_view_default.ugc-panel
+yandex.ru##.serp-footer__main
+yandex.ru##.misspell_bottom_yes.misspell
+e.mail.ru###b-announcements
+e.mail.ru##.news-widget__counter
+e.mail.ru##.mr_read__attach
+
