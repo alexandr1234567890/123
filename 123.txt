@@ -265,7 +265,7 @@ www.youtube.com##.ytp-ce-covering-overlay
 www.youtube.com##.watch-view-count
 www.youtube.com##.mealbar-promo-renderer.yt-dialog > .yt-dialog-base
 www.youtube.com##.ytp-scroll-min.ytp-pause-overlay
-www.youtube.com###survey-question-multi-select\:c
+www.youtube.com##.ytp-ad-survey-questions
 ||www.youtube.com/live_chat_replay$subdocument
 ##.__BC_Table
 
