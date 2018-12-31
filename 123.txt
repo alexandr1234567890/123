@@ -140,22 +140,6 @@ diakov.net###thx
 diakov.net##.sh.card-body > .hidden-sm.hidden-xs
 diakov.net##.text-muted.card-footer
 
-www.youtube.com###search-secondary-col-contents
-www.youtube.com##.search-refinements
-www.youtube.com###upload-btn
-www.youtube.com##.ytp-pause-overlay
-www.youtube.com##.ytp-endscreen-content
-www.youtube.com##.ytp-chrome-top-buttons
-www.youtube.com##.ytp-title-text
-www.youtube.com##.ytp-title-channel
-www.youtube.com##.ytp-ce-element
-www.youtube.com##.ytp-ce-covering-overlay
-www.youtube.com##.watch-view-count
-www.youtube.com##.mealbar-promo-renderer.yt-dialog > .yt-dialog-base
-www.youtube.com##.ytp-scroll-min.ytp-pause-overlay
-www.youtube.com###survey-question-multi-select\:c
-||www.youtube.com/live_chat_replay$subdocument
-
 ok.ru##.__step-question
 ok.ru##.__promo.u-menu_a
 ok.ru##.__shared.h-mod.feed
@@ -267,6 +251,23 @@ yandex.ru##.tooltip__content
 yandex.ru##.popup2__tail
 www.google.ru###wrccontainer
 www.google.ru##.wot-popup-container
+
+www.youtube.com###search-secondary-col-contents
+www.youtube.com##.search-refinements
+www.youtube.com###upload-btn
+www.youtube.com##.ytp-pause-overlay
+www.youtube.com##.ytp-endscreen-content
+www.youtube.com##.ytp-chrome-top-buttons
+www.youtube.com##.ytp-title-text
+www.youtube.com##.ytp-title-channel
+www.youtube.com##.ytp-ce-element
+www.youtube.com##.ytp-ce-covering-overlay
+www.youtube.com##.watch-view-count
+www.youtube.com##.mealbar-promo-renderer.yt-dialog > .yt-dialog-base
+www.youtube.com##.ytp-scroll-min.ytp-pause-overlay
+www.youtube.com###survey-question-multi-select\:c
+||www.youtube.com/live_chat_replay$subdocument
+##.__BC_Table
 
 ! Разное ----------------------------------
 www.rbc.ru##.push-allow
