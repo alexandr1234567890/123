@@ -153,7 +153,7 @@ www.youtube.com##.ytp-ce-covering-overlay
 www.youtube.com##.watch-view-count
 www.youtube.com##.mealbar-promo-renderer.yt-dialog > .yt-dialog-base
 www.youtube.com##.ytp-scroll-min.ytp-pause-overlay
-! Скрывает чат
+www.youtube.com###survey-question-multi-select\:c
 ||www.youtube.com/live_chat_replay$subdocument
 
 ok.ru##.__step-question
