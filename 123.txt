@@ -1,6 +1,5 @@
 ||coin-hive.com/lib/coinhive.min.js
 
-! Эти сайты (всплывающие) я раньше блокировал расширением -Block-Site_v0.1.5 (блокировка сайтов)------------------
 127.0.0.1 1bcde.com
 127.0.0.1 1xlsc.host
 127.0.0.1 2baksa.net
@@ -119,7 +118,9 @@
 127.0.0.1 *xsd.*
 127.0.0.1 *.msf-help.*
 127.0.0.1 *.forelimit.com
-
+127.0.0.1 *.upgers-armine.*
+127.0.0.1 *.mybestmv.*
+127.0.0.1 webnull.*
 
 ovego.tv##table:nth-of-type(2) > tbody > tr > td > table > tbody > tr > td:nth-of-type(1)
 ovego.tv##table:nth-of-type(2) > tbody > tr > td > table > tbody > tr > td:nth-of-type(3)
