@@ -291,4 +291,8 @@ yandex.ru##.misspell_bottom_yes.misspell
 e.mail.ru###b-announcements
 e.mail.ru##.news-widget__counter
 e.mail.ru##.mr_read__attach
-
+yandex.ru##.b-inline.button_theme_cpopup__text
+yandex.ru##.button_js_inited.i-bem.button_size_s.button_theme_normal.dist-popup__yes.button
+yandex.ru##.dist-popup__buttons
+yandex.ru##.dist-popup__message
+yandex.ru##.dist-popup__content.popup__content
