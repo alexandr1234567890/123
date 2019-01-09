@@ -296,3 +296,4 @@ yandex.ru##.button_js_inited.i-bem.button_size_s.button_theme_normal.dist-popup_
 yandex.ru##.dist-popup__buttons
 yandex.ru##.dist-popup__message
 yandex.ru##.dist-popup__content.popup__content
+##a[href^="//sale.aliexpress.com/"]
