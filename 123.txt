@@ -274,6 +274,7 @@ www.youtube.com##.ytp-scroll-min.ytp-pause-overlay
 www.youtube.com##.ytp-ad-survey-questions
 ||www.youtube.com/live_chat_replay$subdocument
 ##.__BC_Table
+||www.youtube.com/live_chat$subdocument
 
 ! Разное ----------------------------------
 www.rbc.ru##.push-allow
