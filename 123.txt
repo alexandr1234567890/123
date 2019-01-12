@@ -300,3 +300,4 @@ yandex.ru##.dist-popup__message
 yandex.ru##.dist-popup__content.popup__content
 ##a[href^="//sale.aliexpress.com/"]
 ru.aliexpress.com##.top-banner-container
+e.mail.ru###g_mail_events
