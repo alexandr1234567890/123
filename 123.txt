@@ -302,3 +302,4 @@ yandex.ru##.dist-popup__content.popup__content
 ru.aliexpress.com##.top-banner-container
 e.mail.ru###g_mail_events
 */yabanner.*
+##.b-rec__button
