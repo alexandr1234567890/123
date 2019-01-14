@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Title: My Filter List
+! Title: LVU Filter List
 ! Expires: 2 days (update frequency)
-! Version: 118
-! Last modified: 31 December 2018
-! Homepage: https://github.com/hoshsadiq/adblock-nocoin-list/
-! Contribute: https://github.com/hoshsadiq/adblock-nocoin-list/issues
+! Version: 1
+! Last modified: 14 January 2019
+! Homepage: https://github.com/alexandr1234567890/123
+! Contribute: https://github.com/alexandr1234567890/123/issues
 ! License: https://mit-license.org/
-! Description: This filter disables browser based miners such as coin-hive
+! Description: This LVU filter
 !-------------------------------------------------------------------------------
 
 ! Third Party blocking ---------------------------------------------------------
