@@ -1,5 +1,16 @@
-||coin-hive.com/lib/coinhive.min.js
+[Adblock Plus 2.0]
+! Title: My Filter List
+! Expires: 2 days (update frequency)
+! Version: 118
+! Last modified: 31 December 2018
+! Homepage: https://github.com/hoshsadiq/adblock-nocoin-list/
+! Contribute: https://github.com/hoshsadiq/adblock-nocoin-list/issues
+! License: https://mit-license.org/
+! Description: This filter disables browser based miners such as coin-hive
+!-------------------------------------------------------------------------------
 
+! Third Party blocking ---------------------------------------------------------
+||coin-hive.com/lib/coinhive.min.js
 127.0.0.1 1bcde.com
 127.0.0.1 1xlsc.host
 127.0.0.1 2baksa.net
