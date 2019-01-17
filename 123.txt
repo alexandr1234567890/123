@@ -2,7 +2,7 @@
 ! Title: LVU Filter List
 ! Expires: 1 days (update frequency)
 ! Version: 1
-! Last modified: 16.01.2019
+! Last modified: 17.01.2019
 ! Homepage: https://github.com/alexandr1234567890/123
 ! Contribute: https://github.com/alexandr1234567890/123/issues
 ! License: https://mit-license.org/
@@ -316,3 +316,4 @@ e.mail.ru###g_mail_events
 */yabanner.*
 ##.b-rec__button
 ||dfiles.ru/pay_request.php$subdocument
+yandex.ru##.promo-popup__content.popup2__content
