@@ -287,6 +287,7 @@ www.youtube.com##.ytp-ad-survey-questions
 ||www.youtube.com/live_chat_replay$subdocument
 ##.__BC_Table
 ||www.youtube.com/live_chat$subdocument
+www.youtube.com###trending-guide-item
 
 ! Разное ----------------------------------
 www.rbc.ru##.push-allow
