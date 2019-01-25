@@ -322,3 +322,4 @@ yandex.ru##.promo-popup__content.popup2__content
 yandex.ru##.notifier__ticker
 turbobit.net##.payment-block
 ##.active.beamer_icon
+www.unibytes.com##.btn-warning.btn-lg.btn
