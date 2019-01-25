@@ -323,3 +323,6 @@ yandex.ru##.notifier__ticker
 turbobit.net##.payment-block
 ##.active.beamer_icon
 www.unibytes.com##.btn-warning.btn-lg.btn
+www.unibytes.com##.phoneArea
+www.unibytes.com###pay3All
+www.unibytes.com###upPayTariffs
