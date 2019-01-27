@@ -329,3 +329,7 @@ www.unibytes.com##.phoneArea
 www.unibytes.com###pay3All
 www.unibytes.com###upPayTariffs
 www.file-up.org##.mnbt1.btn-success.btn-xs.btn
+www.file-up.org##.btn-pro.btn-danger.btn
+turbobit.net##.btn-red
+turbobit.net##a[href^="https://turbobit.net/turbo"]
+www.google.ru##.gb_g.gb_ba
