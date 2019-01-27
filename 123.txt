@@ -288,6 +288,8 @@ www.youtube.com##.ytp-ad-survey-questions
 ##.__BC_Table
 ||www.youtube.com/live_chat$subdocument
 www.youtube.com###trending-guide-item
+www.youtube.com##.standalone-collection-badge-renderer-text > .spf-link.yt-uix-sessionlink
+www.youtube.com##.epic-nav-item-heading
 
 ! Разное ----------------------------------
 www.rbc.ru##.push-allow
