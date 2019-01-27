@@ -328,3 +328,4 @@ www.unibytes.com##.btn-warning.btn-lg.btn
 www.unibytes.com##.phoneArea
 www.unibytes.com###pay3All
 www.unibytes.com###upPayTariffs
+www.file-up.org##.mnbt1.btn-success.btn-xs.btn
