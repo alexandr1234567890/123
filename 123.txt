@@ -261,6 +261,7 @@ www.vivatube.com##.drt-spot-frame
 www.vivatube.com##.drt-spot-visible.no-buttons.drt-spot-box
 ||www.xozilla.com/player/html.php$subdocument
 www.keezmovies.com###vjs-inplayer-overlay
+www.foteens.com##.invideo
 
 ! Всплывающие сообщения на страницах поисковиков ----------------------------------
 yandex.ru###wrccontainer
