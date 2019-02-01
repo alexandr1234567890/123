@@ -313,7 +313,6 @@ yandex.ru##.dist-popup__message
 yandex.ru##.dist-popup__content.popup__content
 ##a[href^="//sale.aliexpress.com/"]
 ##.top-banner-container
-e.mail.ru###g_mail_events
 */yabanner.*
 ##.b-rec__button
 ||dfiles.ru/pay_request.php$subdocument
@@ -333,9 +332,3 @@ turbobit.net##a[href^="https://turbobit.net/turbo"]
 www.google.ru##.gb_g.gb_ba
 cloud.mail.ru##.b-promo-banner-mobile__content
 cloud.mail.ru##.portal-promo_with-icon.portal-promo
-cloud.mail.ru##.x-ph__link:nth-of-type(5)
-cloud.mail.ru##.w-x-ph__link > .x-ph__link
-cloud.mail.ru###g_mail_events
-cloud.mail.ru##.download
-e.mail.ru##.x-ph__link:nth-of-type(5)
-e.mail.ru##.w-x-ph__link > .x-ph__link
