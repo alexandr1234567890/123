@@ -296,7 +296,6 @@ www.rbc.ru##.push-allow
 yandex.ru##.yaplus_js_inited.i-bem.yaplus_available_yes.yaplus
 loadmod.com##.button_b
 yandex.ru##.distr-popup__content.popup2__content
-mail.ru##.V9EvBP1.bubble-home__content.bubble__content > .o-media
 mail.ru###bubble-home-close
 cloud.mail.ru##.b-bubble__container
 5play.ru##.rek-but
@@ -307,7 +306,6 @@ yandex.ru##.serp-footer__main
 yandex.ru##.misspell_bottom_yes.misspell
 e.mail.ru###b-announcements
 e.mail.ru##.news-widget__counter
-e.mail.ru##.mr_read__attach
 yandex.ru##.b-inline.button_theme_cpopup__text
 yandex.ru##.button_js_inited.i-bem.button_size_s.button_theme_normal.dist-popup__yes.button
 yandex.ru##.dist-popup__buttons
@@ -339,3 +337,5 @@ cloud.mail.ru##.x-ph__link:nth-of-type(5)
 cloud.mail.ru##.w-x-ph__link > .x-ph__link
 cloud.mail.ru###g_mail_events
 cloud.mail.ru##.download
+e.mail.ru##.x-ph__link:nth-of-type(5)
+e.mail.ru##.w-x-ph__link > .x-ph__link
