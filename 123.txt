@@ -335,3 +335,4 @@ cloud.mail.ru##.b-promo-banner-mobile__content
 cloud.mail.ru##.portal-promo_with-icon.portal-promo
 otvet.mail.ru##.nt--item-daylypromo.nt--item
 ###push-alert-block
+##.sendpulse-prompt
