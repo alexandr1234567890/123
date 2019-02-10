@@ -333,6 +333,7 @@ turbobit.net##a[href^="https://turbobit.net/turbo"]
 www.google.ru##.gb_g.gb_ba
 cloud.mail.ru##.b-promo-banner-mobile__content
 cloud.mail.ru##.portal-promo_with-icon.portal-promo
+cloud.mail.ru##.b-layer__container_disko-popup.b-layer__container_popup.b-layer__container
 otvet.mail.ru##.nt--item-daylypromo.nt--item
 ###push-alert-block
 ##.sendpulse-prompt
