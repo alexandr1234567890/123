@@ -339,3 +339,4 @@ otvet.mail.ru##.nt--item-daylypromo.nt--item
 ##.sendpulse-prompt
 ##.wpn-ok-btn
 ##.wpn-block-btn
+###onesignal-popover-dialog
