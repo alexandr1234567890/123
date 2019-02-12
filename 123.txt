@@ -342,3 +342,5 @@ otvet.mail.ru##.nt--item-daylypromo.nt--item
 ##.wpn-block-btn
 ###onesignal-popover-dialog
 ##body > iframe
+mail.sibintek.ru###dvInf
+##div#sponsor-button
