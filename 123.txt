@@ -341,3 +341,4 @@ otvet.mail.ru##.nt--item-daylypromo.nt--item
 ##.wpn-ok-btn
 ##.wpn-block-btn
 ###onesignal-popover-dialog
+##body > iframe
