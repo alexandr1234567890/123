@@ -10,7 +10,6 @@
 !-------------------------------------------------------------------------------
 
 ! Third Party blocking ---------------------------------------------------------
-||coin-hive.com/lib/coinhive.min.js
 127.0.0.1 1bcde.com
 127.0.0.1 1xlsc.host
 127.0.0.1 2baksa.net
@@ -139,6 +138,8 @@
 127.0.0.1 prpops.com
 127.0.0.1 techno-magazin.com
 
+||coin-hive.com/lib/coinhive.min.js
+
 ovego.tv##table:nth-of-type(2) > tbody > tr > td > table > tbody > tr > td:nth-of-type(1)
 ovego.tv##table:nth-of-type(2) > tbody > tr > td > table > tbody > tr > td:nth-of-type(3)
 ovego.tv##.eBlock > tbody > tr:nth-of-type(2)
@@ -176,59 +177,6 @@ ok.ru##.h-mod.portlet
 vk.com###friends_possible_block
 vk.com###actualize_box
 
-www.findyoutube.net##.table-condensed.table-hover.table > tbody > tr:nth-of-type(1) > td:nth-of-type(1)
-www.findyoutube.net##.table-condensed.table-hover.table > tbody > tr:nth-of-type(1) > td:nth-of-type(2)
-www.findyoutube.net##.table-condensed.table-hover.table > tbody > tr:nth-of-type(1) > td:nth-of-type(3) > a[href^="https://r4---sn-npoe7nez.googlevideo.com/videoplayback"] > .btn-default.btn
-www.findyoutube.net##.table-condensed.table-hover.table > tbody > tr:nth-of-type(2) > td:nth-of-type(1)
-www.findyoutube.net##.table-condensed.table-hover.table > tbody > tr:nth-of-type(2) > td:nth-of-type(2)
-www.findyoutube.net##.table-condensed.table-hover.table > tbody > tr:nth-of-type(2) > td:nth-of-type(3)
-www.findyoutube.net##.table-condensed.table-hover.table > tbody > tr:nth-of-type(1) > td:nth-of-type(3)
-www.findyoutube.net##.table-condensed.table-hover.table > tbody > tr:nth-of-type(4) > td:nth-of-type(2)
-www.findyoutube.net##.table-condensed.table-hover.table > tbody > tr:nth-of-type(4) > td:nth-of-type(1)
-www.findyoutube.net##.table-condensed.table-hover.table > tbody > tr:nth-of-type(4) > td:nth-of-type(3)
-www.findyoutube.net##.table-condensed.table-hover.table > tbody > tr:nth-of-type(6) > td:nth-of-type(1)
-www.findyoutube.net##.navbar-inverse.navbar
-www.findyoutube.net##.container > h1:nth-of-type(1)
-www.findyoutube.net##.center-block.img-responsive
-www.findyoutube.net##.container > p:nth-of-type(1)
-www.findyoutube.net##h1:nth-of-type(2)
-www.findyoutube.net##.container > p:nth-of-type(2)
-www.findyoutube.net##p:nth-of-type(3)
-www.findyoutube.net##p:nth-of-type(4)
-www.findyoutube.net##.table-condensed.table-hover.table > thead > tr > th:nth-of-type(1)
-www.findyoutube.net##.table-condensed.table-hover.table > thead > tr > th:nth-of-type(2)
-www.findyoutube.net##h1:nth-of-type(3)
-www.findyoutube.net##p:nth-of-type(5)
-www.findyoutube.net##.container > h2
-www.findyoutube.net##.text-center:nth-of-type(3) > h4:nth-of-type(1)
-www.findyoutube.net###cloudflare-app-google-translate
-www.findyoutube.net##.text-center:nth-of-type(3) > p
-www.findyoutube.net##.text-center:nth-of-type(3) > h4:nth-of-type(2)
-www.findyoutube.net##.center.img-responsive
-www.findyoutube.net##.table-condensed.table-hover.table > tbody:nth-of-type(1) > tr > th:nth-of-type(1)
-www.findyoutube.net##.table-condensed.table-hover.table > tbody:nth-of-type(1) > tr > th:nth-of-type(2)
-www.findyoutube.net##.table-condensed.table-hover.table > tbody:nth-of-type(2) > tr:nth-of-type(3) > td:nth-of-type(1)
-www.findyoutube.net##.table-condensed.table-hover.table > tbody:nth-of-type(2) > tr:nth-of-type(3) > td:nth-of-type(2) > form
-www.findyoutube.net##.row
-www.findyoutube.net##.table-condensed.table-hover.table > tbody:nth-of-type(2) > tr:nth-of-type(3) > td:nth-of-type(2)
-www.findyoutube.net##.table-condensed.table-hover.table > tbody:nth-of-type(2) > tr:nth-of-type(5) > td:nth-of-type(2)
-www.findyoutube.net##.text-center:nth-of-type(4) > h4:nth-of-type(1)
-www.findyoutube.net##.text-center:nth-of-type(4) > p
-www.findyoutube.net##.text-center:nth-of-type(4) > h4:nth-of-type(2)
-www.findyoutube.net##.table-responsive:nth-of-type(2) > .table-condensed.table-hover.table
-www.findyoutube.net##.table-responsive:nth-of-type(1) > .table-condensed.table-hover.table > tbody > tr:nth-of-type(5) > td:nth-of-type(1)
-www.findyoutube.net##.table-condensed.table-hover.table > tbody > tr:nth-of-type(5) > td:nth-of-type(2)
-www.findyoutube.net##.table-condensed.table-hover.table > tbody > tr:nth-of-type(5) > td:nth-of-type(3)
-www.findyoutube.net##.table-condensed.table-hover.table > tbody > tr:nth-of-type(6) > td:nth-of-type(2)
-www.findyoutube.net##.col-sm-7.col-sm-offset-1:nth-of-type(5)
-www.findyoutube.net##.col-sm-7.col-sm-offset-1:nth-of-type(6)
-www.findyoutube.net##.text-center.center.page-header
-www.findyoutube.net##.form-horizontal
-www.findyoutube.net##.close
-www.findyoutube.net##.table-responsive:nth-of-type(1) > .table-condensed.table-hover.table > tbody > tr:nth-of-type(3) > td:nth-of-type(1)
-www.findyoutube.net##.table-condensed.table-hover.table > thead > tr > th:nth-of-type(3)
-www.findyoutube.net##.table-responsive:nth-of-type(1) > .table-condensed.table-hover.table > tbody > tr:nth-of-type(3) > td:nth-of-type(2)
-
 ! Убираю ненужные ссылки на AliExpress ----------------------------------
 *alicdn.com/*секс*
 *alicdn.com/*пикантн*
@@ -263,14 +211,6 @@ www.vivatube.com##.drt-spot-visible.no-buttons.drt-spot-box
 www.keezmovies.com###vjs-inplayer-overlay
 www.foteens.com##.invideo
 
-! Всплывающие сообщения на страницах поисковиков ----------------------------------
-yandex.ru###wrccontainer
-yandex.ru##.wot-popup-container
-yandex.ru##.tooltip__content
-yandex.ru##.popup2__tail
-www.google.ru###wrccontainer
-www.google.ru##.wot-popup-container
-
 www.youtube.com###search-secondary-col-contents
 www.youtube.com##.search-refinements
 www.youtube.com###upload-btn
@@ -294,6 +234,12 @@ www.youtube.com##.epic-nav-item-heading
 www.youtube.com##.ytd-video-primary-info-renderer.style-scope.super-title > .yt-formatted-string.style-scope.yt-simple-endpoint
 
 ! Разное ----------------------------------
+yandex.ru###wrccontainer
+yandex.ru##.wot-popup-container
+yandex.ru##.tooltip__content
+yandex.ru##.popup2__tail
+www.google.ru###wrccontainer
+www.google.ru##.wot-popup-container
 www.rbc.ru##.push-allow
 yandex.ru##.yaplus_js_inited.i-bem.yaplus_available_yes.yaplus
 loadmod.com##.button_b
