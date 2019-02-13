@@ -232,6 +232,7 @@ www.youtube.com###trending-guide-item
 www.youtube.com##.standalone-collection-badge-renderer-text > .spf-link.yt-uix-sessionlink
 www.youtube.com##.epic-nav-item-heading
 www.youtube.com##.ytd-video-primary-info-renderer.style-scope.super-title > .yt-formatted-string.style-scope.yt-simple-endpoint
+www.youtube.com###chatframe
 
 ! Разное ----------------------------------
 yandex.ru###wrccontainer
