@@ -141,6 +141,9 @@
 127.0.0.1 browsergames*.com
 127.0.0.1 prpops.com
 127.0.0.1 techno-magazin.com
+127.0.0.1 google-analytics.com 
+127.0.0.1 www.google-analytics.com  
+127.0.0.1 ssl.google-analytics.com
 
 ||coin-hive.com/lib/coinhive.min.js
 
