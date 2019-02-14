@@ -2,7 +2,7 @@
 ! Title: LVU Filter List
 ! Expires: 1 days (update frequency)
 ! Version: 1
-! Last modified: 17.01.2019
+! Last modified: 14.02.2019
 ! Homepage: https://github.com/alexandr1234567890/123
 ! Contribute: https://github.com/alexandr1234567890/123/issues
 ! License: https://mit-license.org/
@@ -26,6 +26,10 @@
 127.0.0.1 clicksgear.com
 127.0.0.1 coin-hive.com
 127.0.0.1 coinhive.com
+127.0.0.1 cnhv.co
+127.0.0.1 gus.host
+127.0.0.1 jsecoin.com
+127.0.0.1 pr0gramm.com
 127.0.0.1 deloton.com
 127.0.0.1 eidwmjwtv.net
 127.0.0.1 fil.su
