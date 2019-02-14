@@ -291,3 +291,4 @@ otvet.mail.ru##.nt--item-daylypromo.nt--item
 ##body > iframe
 mail.sibintek.ru###dvInf
 ##div#sponsor-button
+! Посмотрим, обновит или нет ---------------------------------------------------------
