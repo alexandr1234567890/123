@@ -232,15 +232,16 @@ www.youtube.com##.watch-view-count
 www.youtube.com##.mealbar-promo-renderer.yt-dialog > .yt-dialog-base
 www.youtube.com##.ytp-scroll-min.ytp-pause-overlay
 www.youtube.com##.ytp-ad-survey-questions
-||www.youtube.com/live_chat_replay$subdocument
 ##.__BC_Table
-||www.youtube.com/live_chat$subdocument
 www.youtube.com###trending-guide-item
 www.youtube.com##.standalone-collection-badge-renderer-text > .spf-link.yt-uix-sessionlink
 www.youtube.com##.epic-nav-item-heading
 www.youtube.com##.ytd-video-primary-info-renderer.style-scope.super-title > .yt-formatted-string.style-scope.yt-simple-endpoint
+||www.youtube.com/live_chat_replay$subdocument
+||www.youtube.com/live_chat$subdocument
 www.youtube.com###chatframe
 www.youtube.com###chat
+www.youtube.com###comments
 
 ! Разное ----------------------------------
 yandex.ru###wrccontainer
