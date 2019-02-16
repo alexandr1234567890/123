@@ -240,6 +240,7 @@ www.youtube.com##.standalone-collection-badge-renderer-text > .spf-link.yt-uix-s
 www.youtube.com##.epic-nav-item-heading
 www.youtube.com##.ytd-video-primary-info-renderer.style-scope.super-title > .yt-formatted-string.style-scope.yt-simple-endpoint
 www.youtube.com###chatframe
+www.youtube.com###chat
 
 ! Разное ----------------------------------
 yandex.ru###wrccontainer
