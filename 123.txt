@@ -300,5 +300,6 @@ otvet.mail.ru##.nt--item-daylypromo.nt--item
 ##body > iframe
 mail.sibintek.ru###dvInf
 ##div#sponsor-button
+cloud.mail.ru##.content__banner
 ! Посмотрим, обновит или нет ---------------------------------------------------------
 ! Посмотрим, обновит или нет ---------------------------------------------------------
