@@ -218,6 +218,7 @@ www.vivatube.com##.drt-spot-visible.no-buttons.drt-spot-box
 www.keezmovies.com###vjs-inplayer-overlay
 www.foteens.com##.invideo
 tgurl.tv##.overlay-content
+fantasti.cc##.pl_1
 
 www.youtube.com###search-secondary-col-contents
 www.youtube.com##.search-refinements
