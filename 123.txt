@@ -304,5 +304,5 @@ otvet.mail.ru##.nt--item-daylypromo.nt--item
 mail.sibintek.ru###dvInf
 ##div#sponsor-button
 cloud.mail.ru##.content__banner
-! Посмотрим, обновит или нет ---------------------------------------------------------
-! Посмотрим, обновит или нет ------17.02.
+cloud.mail.ru##.b-tooltip_tc.b-tooltip_animate.b-tooltip_valentine-day-promo.b-tooltip_tariff-promo.b-tooltip_flex.b-tooltip
+##.push_offer
