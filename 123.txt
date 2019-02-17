@@ -217,6 +217,7 @@ www.vivatube.com##.drt-spot-visible.no-buttons.drt-spot-box
 ||www.xozilla.com/player/html.php$subdocument
 www.keezmovies.com###vjs-inplayer-overlay
 www.foteens.com##.invideo
+tgurl.tv##.overlay-content
 
 www.youtube.com###search-secondary-col-contents
 www.youtube.com##.search-refinements
