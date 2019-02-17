@@ -219,6 +219,7 @@ www.keezmovies.com###vjs-inplayer-overlay
 www.foteens.com##.invideo
 tgurl.tv##.overlay-content
 fantasti.cc##.pl_1
+www.gotporn.com##.analytics-push.play-text-btn.play-btn
 
 www.youtube.com###search-secondary-col-contents
 www.youtube.com##.search-refinements
