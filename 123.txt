@@ -12,7 +12,7 @@
 ! Third Party blocking ---------------------------------------------------------
 127.0.0.1 1bcde.com
 127.0.0.1 1xlsc.host
-127.0.0.1 2baksa.net
+127.0.0.1 2baksa1.net
 127.0.0.1 adlabsretail.ru
 127.0.0.1 ads.adfox.ru
 127.0.0.1 authorne.info
