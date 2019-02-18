@@ -317,3 +317,5 @@ mail.sibintek.ru###dvInf
 cloud.mail.ru##.content__banner
 cloud.mail.ru##.b-tooltip_tc.b-tooltip_animate.b-tooltip_valentine-day-promo.b-tooltip_tariff-promo.b-tooltip_flex.b-tooltip
 ##.push_offer
+###rek_blocker
+www.rbc.ru##.l-small-width-static.l-sticky.l-col-left-border
