@@ -223,6 +223,8 @@ www.gotporn.com##.analytics-push.play-text-btn.play-btn
 www.fetishshrine.com###end-play
 xcum.com##.bnnrs-player
 www.nuvid.com##.drt-spot-visible.drt-spot-box
+www.submityourflicks.com##.overlay-banner
+www.submityourflicks.com##.overlay-ggf
 
 www.youtube.com###search-secondary-col-contents
 www.youtube.com##.search-refinements
@@ -258,6 +260,9 @@ www.youtube.com###items > .ytd-guide-section-renderer.style-scope:nth-of-type(3)
 www.youtube.com###items > .ytd-guide-section-renderer.style-scope:nth-of-type(4)
 www.youtube.com##.ytd-guide-renderer.style-scope:nth-of-type(4)
 www.youtube.com###footer
+www.youtube.com##.style-default.ytd-masthead.style-scope:nth-of-type(2)
+www.youtube.com###buttons > .style-default.ytd-masthead.style-scope:nth-of-type(1)
+www.youtube.com##.notification-button-style-type-conversation-default.ytd-masthead.style-scope
 
 ! Разное ----------------------------------
 yandex.ru###wrccontainer
@@ -320,3 +325,5 @@ cloud.mail.ru##.b-tooltip_tc.b-tooltip_animate.b-tooltip_valentine-day-promo.b-t
 ##.push_offer
 ###rek_blocker
 www.rbc.ru##.l-small-width-static.l-sticky.l-col-left-border
+##.attentionMsg
+###abmessage
