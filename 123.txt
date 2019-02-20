@@ -262,7 +262,6 @@ www.youtube.com###buttons > .style-default.ytd-masthead.style-scope:nth-of-type(
 www.youtube.com##.notification-button-style-type-conversation-default.ytd-masthead.style-scope
 www.youtube.com###contents.ytd-section-list-renderer
 
-
 ! Разное ----------------------------------
 yandex.ru###wrccontainer
 yandex.ru##.wot-popup-container
