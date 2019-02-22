@@ -291,6 +291,8 @@ yandex.ru##.button_js_inited.i-bem.button_size_s.button_theme_normal.dist-popup_
 yandex.ru##.dist-popup__buttons
 yandex.ru##.dist-popup__message
 yandex.ru##.dist-popup__content.popup__content
+yandex.ru##.yaplus__link.link_theme_normal.link.control
+yandex.ru##.button_icon-only.button_head_favorites.button_head.button_ei.button_type_clear.button_size_L.button
 ##a[href^="//sale.aliexpress.com/"]
 ##.top-banner-container
 */yabanner.*
