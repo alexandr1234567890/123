@@ -332,3 +332,4 @@ cloud.mail.ru##.b-tooltip_tc.b-tooltip_animate.b-tooltip_valentine-day-promo.b-t
 www.rbc.ru##.l-small-width-static.l-sticky.l-col-left-border
 ##.attentionMsg
 ###abmessage
+##.js-subscription.subscribe-popup
