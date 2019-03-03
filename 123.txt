@@ -210,11 +210,10 @@ vk.com###actualize_box
 ##div.embed-buttons
 */0DFAB3.mp4
 ##.banner-popup
-www.drtuber.com##.drt-spot-frame
-www.drtuber.com##.drt-spot-visible.drt-spot-box
+##.drt-spot-frame
+##.drt-spot-visible.drt-spot-box
 www.sheshaft.com##.inner_ad
-www.vivatube.com##.drt-spot-frame
-www.vivatube.com##.drt-spot-visible.no-buttons.drt-spot-box
+##.drt-spot-visible.no-buttons.drt-spot-box
 ||www.xozilla.com/player/html.php$subdocument
 www.keezmovies.com###vjs-inplayer-overlay
 www.foteens.com##.invideo
@@ -223,13 +222,11 @@ fantasti.cc##.pl_1
 www.gotporn.com##.analytics-push.play-text-btn.play-btn
 www.fetishshrine.com###end-play
 xcum.com##.bnnrs-player
-www.nuvid.com##.drt-spot-visible.drt-spot-box
 www.submityourflicks.com##.overlay-banner
 www.submityourflicks.com##.overlay-ggf
 www.pornwhite.com###after-adv
-www.cockmeter.com##.banner-wrapper
-www.cockmeter.com###advertising
-www.spycock.com##.banner-wrapper
+##.banner-wrapper
+###advertising
 
 www.youtube.com###search-secondary-col-contents
 www.youtube.com##.search-refinements
