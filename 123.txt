@@ -227,7 +227,8 @@ www.nuvid.com##.drt-spot-visible.drt-spot-box
 www.submityourflicks.com##.overlay-banner
 www.submityourflicks.com##.overlay-ggf
 www.pornwhite.com###after-adv
-
+www.cockmeter.com##.banner-wrapper
+www.cockmeter.com###advertising
 
 www.youtube.com###search-secondary-col-contents
 www.youtube.com##.search-refinements
