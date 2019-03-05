@@ -160,10 +160,6 @@ ovego.tv##td > table > tbody > tr > td:nth-of-type(2) > table > tbody > tr > td 
 ovego.tv##td > hr
 ovego.tv##.eTitle
 
-! Для входа на -p..hub----------------------------------------
-##div[id*=age-verification-wrapper]
-##div[id*=age-verification-container]
-
 diakov.net###thx
 diakov.net##.sh.card-body > .hidden-sm.hidden-xs
 diakov.net##.text-muted.card-footer
@@ -186,22 +182,9 @@ ok.ru##.h-mod.portlet
 vk.com###friends_possible_block
 vk.com###actualize_box
 
-! Убираю ненужные ссылки на AliExpress ----------------------------------
-*alicdn.com/*секс*
-*alicdn.com/*пикантн*
-*alicdn.com/*adult*
-*alicdn.com/*masturb*
-*alicdn.com/*penis*
-*alicdn.com/*orgasm*
-*alicdn.com/*vagina*
-*alicdn.com/*clitor*
-*alicdn.com/*g-spot*
-*alicdn.com/*dildo*
-*alicdn.com/*-anal-*
-*alicdn.com/*sex*
-*alicdn.com/*vibrator*
-
 ! Убираю рекламу перед видео ----------------------------------
+##div[id*=age-verification-wrapper]
+##div[id*=age-verification-container]
 */full_baraban*.webm
 */prs*.mp4
 */Azino_*.mp4
@@ -229,6 +212,7 @@ www.pornwhite.com###after-adv
 ##.banner-wrapper
 ###advertising
 
+! YouTube--------------------------------------------------
 www.youtube.com###search-secondary-col-contents
 www.youtube.com##.search-refinements
 www.youtube.com###upload-btn
@@ -268,7 +252,25 @@ www.youtube.com###title.ytd-shelf-renderer.style-scope
 www.youtube.com###contents > .ytd-browse-secondary-contents-renderer.style-scope
 www.youtube.com##.ytd-browse-secondary-contents-renderer.style-scope:nth-of-type(2)
 
-! Разное ----------------------------------
+! AliExpress------------------------------
+*alicdn.com/*секс*
+*alicdn.com/*пикантн*
+*alicdn.com/*adult*
+*alicdn.com/*masturb*
+*alicdn.com/*penis*
+*alicdn.com/*orgasm*
+*alicdn.com/*vagina*
+*alicdn.com/*clitor*
+*alicdn.com/*g-spot*
+*alicdn.com/*dildo*
+*alicdn.com/*-anal-*
+*alicdn.com/*sex*
+*alicdn.com/*vibrator*
+m##a[href^="https://sale.aliexpress.com/season_of_thanks_luckydraw.htm"]
+ru.aliexpress.com###girdle-banner-info
+##a[href^="//sale.aliexpress.com/"]
+
+! Разное ---------------------------------
 yandex.ru###wrccontainer
 yandex.ru##.wot-popup-container
 yandex.ru##.tooltip__content
@@ -298,7 +300,6 @@ yandex.ru##.yaplus__link.link_theme_normal.link.control
 yandex.ru##.button_icon-only.button_head_favorites.button_head.button_ei.button_type_clear.button_size_L.button
 yandex.ru##.comments
 yandex.ru##.header-favorites-button_js_inited.i-bem.header-favorites-button
-##a[href^="//sale.aliexpress.com/"]
 ##.top-banner-container
 */yabanner.*
 ##.b-rec__button
