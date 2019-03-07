@@ -148,6 +148,7 @@
 127.0.0.1 exclusive-prizeforyou.com
 127.0.0.1 *sexshop*
 127.0.0.1 *specif1c*
+127.0.0.1 *edirect-news*
 
 ||coin-hive.com/lib/coinhive.min.js
 
