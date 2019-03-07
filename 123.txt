@@ -147,6 +147,7 @@
 127.0.0.1 best.aliexpress.com
 127.0.0.1 exclusive-prizeforyou.com
 127.0.0.1 *sexshop*
+127.0.0.1 *specif1c*
 
 ||coin-hive.com/lib/coinhive.min.js
 
