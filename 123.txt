@@ -149,6 +149,9 @@
 127.0.0.1 *sexshop*
 127.0.0.1 *specif1c*
 127.0.0.1 *edirect-news*
+127.0.0.1 master-skidok*
+127.0.0.1 mmo-portal*
+127.0.0.1 shopper2*
 
 ||coin-hive.com/lib/coinhive.min.js
 
@@ -341,3 +344,9 @@ www.rbc.ru##.l-small-width-static.l-sticky.l-col-left-border
 ###abmessage
 ##.js-subscription.subscribe-popup
 zen.yandex.ru###yabro-strip-element
+###after-adv
+###div.distr-popup i-bem distr-popup_theme_yellow distr-popup_icon_yes distr-popup_layout_flat distr-popup__visible distr-popup_animation_fade-show
+###div.distr-popup__controls
+zen.yandex.ru##.zen-ui-sms-popup__container.zen-ui-popup-element__tailed-content
+news.yandex.ru##.i-bem.yaplus_available_yes.yaplus
+dfiles.ru##td:nth-of-type(1) > .df_button
