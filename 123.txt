@@ -351,4 +351,3 @@ zen.yandex.ru##.zen-ui-sms-popup__container.zen-ui-popup-element__tailed-content
 news.yandex.ru##.i-bem.yaplus_available_yes.yaplus
 dfiles.ru##td:nth-of-type(1) > .df_button
 
-||forum.ru-board.com/board/images/remake1.gif$image
