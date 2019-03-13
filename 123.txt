@@ -350,4 +350,5 @@ zen.yandex.ru###yabro-strip-element
 zen.yandex.ru##.zen-ui-sms-popup__container.zen-ui-popup-element__tailed-content
 news.yandex.ru##.i-bem.yaplus_available_yes.yaplus
 dfiles.ru##td:nth-of-type(1) > .df_button
-
+##.bl_all_rek
+###tagcanvas
