@@ -90,7 +90,6 @@
 127.0.0.1 1xbdiq.host
 127.0.0.1 syndication.exosrv.com
 127.0.0.1 zirijasa.ru
-127.0.0.1 sale.aliexpress.com
 127.0.0.1 azartpl.com
 127.0.0.1 eranews.pro
 127.0.0.1 hsm5azph84.com
