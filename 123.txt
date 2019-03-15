@@ -351,3 +351,4 @@ news.yandex.ru##.i-bem.yaplus_available_yes.yaplus
 dfiles.ru##td:nth-of-type(1) > .df_button
 ##.bl_all_rek
 ###tagcanvas
+##.cookie_privacy_block
