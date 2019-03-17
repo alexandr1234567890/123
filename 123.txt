@@ -352,3 +352,5 @@ dfiles.ru##td:nth-of-type(1) > .df_button
 ##.bl_all_rek
 ###tagcanvas
 ##.cookie_privacy_block
+##.webnavoz_notificationbox
+###comment
