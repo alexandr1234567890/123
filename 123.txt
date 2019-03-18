@@ -353,4 +353,3 @@ dfiles.ru##td:nth-of-type(1) > .df_button
 ###tagcanvas
 ##.cookie_privacy_block
 ##.webnavoz_notificationbox
-###comment
