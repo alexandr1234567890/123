@@ -152,6 +152,7 @@
 127.0.0.1 mmo-portal*
 127.0.0.1 shopper2*
 127.0.0.1 shopeasy*
+127.0.0.1 *reddit.*
 
 ||coin-hive.com/lib/coinhive.min.js
 
