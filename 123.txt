@@ -357,3 +357,7 @@ dfiles.ru##td:nth-of-type(1) > .df_button
 ##.webnavoz_notificationbox
 yandex.ru##.chat-operator-label__image
 yandex.ru##.serp-item-actions
+ru.aliexpress.com##.ui-newuser-coupon-tips
+##.v2-p4s-confirm
+www.onlinevideoconverter.com##.download-section-1-2
+www.onlinevideoconverter.com###convertq
