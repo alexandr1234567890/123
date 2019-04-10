@@ -364,3 +364,4 @@ www.onlinevideoconverter.com##.download-section-1-2
 www.onlinevideoconverter.com###convertq
 ru.aliexpress.com###j-price-extra-wrap
 getvideo.org###windows-app-promo-max-resolution
+e.mail.ru##.banner
