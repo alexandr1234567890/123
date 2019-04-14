@@ -276,7 +276,6 @@ www.youtube.com##.ytd-browse-secondary-contents-renderer.style-scope:nth-of-type
 *alicdn.com/*vibrator*
 m##a[href^="https://sale.aliexpress.com/season_of_thanks_luckydraw.htm"]
 ru.aliexpress.com###girdle-banner-info
-##a[href^="//sale.aliexpress.com/"]
 
 ! Разное ---------------------------------
 yandex.ru###wrccontainer
