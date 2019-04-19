@@ -365,3 +365,5 @@ getvideo.org###windows-app-promo-max-resolution
 e.mail.ru##.banner
 yandex.ru##.popup2_visible_yes.popup2_direction_bottom-right.popup2_js_inited.i-bem.serp-user__promo-popup.popup2_view_classic.popup2_hiding_yes.popup2_autoclosable_yes.popup2_target_anchor.popup2_theme_normal.popup2
 e.mail.ru###leftcol-banners
+yandex.ru##.ya-chat-widget
+||*/images/banners/*$image
