@@ -152,6 +152,7 @@
 127.0.0.1 shopper2*
 127.0.0.1 shopeasy*
 127.0.0.1 *reddit.*
+127.0.0.1 ropleftinwaref.*
 
 ||coin-hive.com/lib/coinhive.min.js
 
@@ -367,3 +368,5 @@ yandex.ru##.popup2_visible_yes.popup2_direction_bottom-right.popup2_js_inited.i-
 e.mail.ru###leftcol-banners
 yandex.ru##.ya-chat-widget
 ||*/images/banners/*$image
+www.youtube.com##.miniplayer
+##.bnnrs-player
