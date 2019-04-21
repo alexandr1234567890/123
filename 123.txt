@@ -154,6 +154,8 @@
 127.0.0.1 *reddit.*
 127.0.0.1 ropleftinwaref.*
 127.0.0.1 mobile-win.tech
+127.0.0.1 *.prot-news*.club
+127.0.0.1 prot-news*.club
 
 ||coin-hive.com/lib/coinhive.min.js
 
