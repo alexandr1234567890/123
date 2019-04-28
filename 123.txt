@@ -373,3 +373,5 @@ yandex.ru##.ya-chat-widget
 ||*/images/banners/*$image
 www.youtube.com##.miniplayer
 ##.bnnrs-player
+||*/images/bannr.png$image
+e.mail.ru###b-letters > div > div:nth-child(2) > div > div:nth-child(1)
