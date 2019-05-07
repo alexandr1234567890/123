@@ -333,7 +333,7 @@ cloud.mail.ru##.portal-promo_with-icon.portal-promo
 cloud.mail.ru##.b-layer__container_disko-popup.b-layer__container_popup.b-layer__container
 otvet.mail.ru##.nt--item-daylypromo.nt--item
 ###push-alert-block
-##.sendpulse-prompt
+##.sendpulse-prompt-buttons
 ##.wpn-ok-btn
 ##.wpn-block-btn
 ###onesignal-popover-dialog
