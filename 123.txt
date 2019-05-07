@@ -376,3 +376,4 @@ www.youtube.com##.miniplayer
 ||*/images/bannr.png$image
 e.mail.ru###b-letters > div > div:nth-child(2) > div > div:nth-child(1)
 ##.horz-line-agd
+###lemur-promo
