@@ -382,3 +382,4 @@ e.mail.ru###b-letters > div > div:nth-child(2) > div > div:nth-child(1)
 www.unibytes.com##div:nth-of-type(3) > .form-inline > p
 www.unibytes.com##.footer
 turbobit.net##.footer
+||*/banner_*.html$subdocument
