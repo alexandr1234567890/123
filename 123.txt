@@ -393,3 +393,8 @@ turbobit.net##.footer
 e##.wid-sponsor-banner
 ##.sponsor-message
 ##.__comeback-prompt-buttons
+##.head-promo-banner
+www.block.si##.br
+www.block.si##strong:nth-of-type(2)
+www.block.si##strong:nth-of-type(1)
+www.block.si##section > article
