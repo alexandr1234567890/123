@@ -402,3 +402,7 @@ www.google.ru###extrares
 127.0.0.1 *bitcoin*.*
 otvet.mail.ru##.column_right.column
 ##.widget__advert-banner
+127.0.0.1 file-up.*
+127.0.0.1 ya-distrib.*
+127.0.0.1 plarium.*
+127.0.0.1 compute.amazonaws.*
