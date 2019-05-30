@@ -405,3 +405,4 @@ otvet.mail.ru##.column_right.column
 127.0.0.1 ya-distrib.*
 127.0.0.1 plarium.*
 127.0.0.1 compute.amazonaws.*
+##.donat-cont
