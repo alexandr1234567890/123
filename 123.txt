@@ -280,7 +280,6 @@ www.youtube.com##.ytd-browse-secondary-contents-renderer.style-scope:nth-of-type
 *alicdn.com/*-anal-*
 *alicdn.com/*sex*
 *alicdn.com/*vibrator*
-m##a[href^="https://sale.aliexpress.com/season_of_thanks_luckydraw.htm"]
 ru.aliexpress.com###girdle-banner-info
 
 ! Разное ---------------------------------
