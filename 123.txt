@@ -406,3 +406,13 @@ otvet.mail.ru##.column_right.column
 127.0.0.1 plarium.*
 127.0.0.1 compute.amazonaws.*
 ##.donat-cont
+127.0.0.1 uploadrar.*
+127.0.0.1 *book.xyz
+127.0.0.1 triofiles.*
+127.0.0.1 shkola2*.*
+||*/img/yal.png$image
+ru.aliexpress.com##.store-header-bg
+##.fly-button__yota
+music.yandex.ru##.bar-below
+music.yandex.ru##.sidebar__placeholder
+trade.aliexpress.com##a[href="//sale.aliexpress.com/BRAND_FEST_SHEIN.htm"]
