@@ -418,4 +418,6 @@ music.yandex.ru##.sidebar__placeholder
 trade.aliexpress.com##a[href="//sale.aliexpress.com/BRAND_FEST_SHEIN.htm"]
 ||vk.com/widget_community.php$subdocument
 ||vk.com/images/upload.gif$image
-127.0.0.1 1x*.*
+##.sidebar__best-dem
+t##.sidebar__block_tags
+127.0.0.1 *parimatch.*
