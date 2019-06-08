@@ -9,6 +9,271 @@
 ! Description: This LVU filter
 !-------------------------------------------------------------------------------
 
+большие члены^
+большой член^
+lovedoll^
+знакомства^
+видео для взрослых^
+взрослый контент^
+dracula^
+пентхаус^
+erotik^
+аниме^
+нетрадиционная ориентация^
+хента^
+охерел^
+нахер^
+мудак^
+поцелуй геев^
+аборт^
+вжоп^
+* anal^
+сект^
+полиамор^
+casino^
+казино^
+чайлдфри^
+обнажен^
+обнажён^
+самоубийств^
+суицид^
+пендос^
+любвеобильн^
+камасутр^
+стрип-^
+дерьм^
+кокаин^
+генитали^
+гомофоб^
+пидарас^
+педерас^
+пиндос^
+гейроп^
+гомосек^
+мужелож^
+спаривание^
+playboy^
+adult photo^
+adult video^
+анальны^
+gay^
+ballsack^
+на член^
+грудастая^
+голый мальчик^
+голые мальчик^
+голый муж^
+голые муж^
+голая жен^
+голые жен^
+голые девушк^
+голая девушк^
+голая девочк^
+голые девочк^
+adult's game^
+adult game^
+penthouse^
+наркотик^
+однопол^
+met-art^
+private webcam^
+гендер^
+трансвестит^
+соитие^
+сэйнэн^
+сёнэн^
+incest^
+hand job^
+penis^
+hidden camera^
+cum swapping^
+cum on feet^
+female muscle^
+cum swallow^
+butt plug^
+ass to mouth^
+big nipples^
+transgender^
+boobjob^
+titjob^
+foot fetish^
+gangbang^
+finger job^
+fingerjob^
+girl suck^
+fellatio^
+footjob^
+petite^
+erotic^
+трахну^
+оттрах^
+затрах^
+мамин лобок^
+небритый лобок^
+лохматый лобок^
+бритый лобок^
+женский лобок^
+на лобок^
+волосатый лобок^
+голый лобок^
+самотык^
+между сисек^
+кончает в^
+кончает на^
+кончил в^
+фемдом^
+пролапс^
+кончил в^
+кончают в^
+кончаю в^
+изнасилова^
+ганг банг^
+буккаке^
+бритые киски^
+большие соски^
+анилингус^
+стриптиз^
+сквирт^
+пидор^
+инцест^
+нудист^
+плейбой^
+плэйбой^
+трах между^
+трах в ж^
+трах в п^
+трах в р^
+сиськами^
+письк^
+попка^
+куколд^
+свингер^
+гонзо^
+кремпай^
+шлюх^
+страпон^
+извращен^
+камшот^
+развра^
+фистинг^
+проститут^
+презерватив^
+влагалищ^
+жестокий анал^
+анал онлайн^
+в попу д^
+в попу е^
+в попу ж^
+в попу т^
+кунилингус^
+минет^
+отсос^
+миньет^
+сперм^
+беремен^
+эротик^
+erotica^
+casting^
+innocent^
+monster cock^
+vibrator^
+rimjob^
+prolapse^
+cuckold^
+cum in ass^
+cum in mouth^
+anime^
+sperm^
+boobs^
+squirt^
+lingerie^
+shemale^
+big cock^
+big clit^
+big ass^
+double penetration^
+huge toy^
+huge cock^
+midget^
+horror^
+handcuffed^
+hermaphrodit^
+masturbat^
+vagina^
+asshole^
+assfinger^
+asslick^
+bdsm^
+оргазм^
+дрючит^
+* траха^
+обкончал^
+говн^
+лесбиян^
+гандон^
+гондон^
+педик^
+педофил^
+письк^
+сиськ^
+сэкс^
+задниц^
+БДСМ^
+секс^
+клитор^
+хуй^
+пизд^
+охуев^
+ёбнут^
+ебанут^
+ебать^
+дроч^
+порно^
+порну^
+вибратор^
+мастурб^
+маструб^
+вагин^
+эроти^
+дилдо^
+виагр^
+фалл^
+пенис^
+эрекц^
+интим^
+бляд^
+ебал^
+гей-^
+ЛГБТ^
+sex^
+fuck^
+orgasm^
+deepthroat^
+milf^
+femdom^
+hentai^
+lesbian^
+handjob^
+gloryhole^
+adorable^
+pissing^
+cumshot^
+fisting^
+nude^
+futanari^
+blowjob^
+pregnant^
+dildo^
+ladyboy^
+swinger^
+tgirl^
+orgy^
+pussy^
+creampie^
+bukkake^
+busty^
+porn^
+
 ! Third Party blocking ---------------------------------------------------------
 127.0.0.1 1bcde.com
 127.0.0.1 1xlsc.host
@@ -421,3 +686,11 @@ trade.aliexpress.com##a[href="//sale.aliexpress.com/BRAND_FEST_SHEIN.htm"]
 ##.sidebar__best-dem
 t##.sidebar__block_tags
 127.0.0.1 *parimatch.*
+##.topictags
+##.visible.store-install-banner
+##.dialog
+||cdn.*.*/upload/post/*/tn/po*.png$image
+##.adlink_block
+||*/zadat_vopros.jpg$image
+##milktruck
+##milktruck_ftr
