@@ -9,6 +9,7 @@
 ! Description: This LVU filter
 !-------------------------------------------------------------------------------
 
+pizd^
 большие члены^
 большой член^
 lovedoll^
@@ -694,3 +695,8 @@ t##.sidebar__block_tags
 ||*/zadat_vopros.jpg$image
 ##milktruck
 ##milktruck_ftr
+##.push_offer_container
+###smartmedia-oxybranding
+127.0.0.1 tiruniversal.*
+127.0.0.1 bit.ly
+||turbobit.net/files/news/image/*ypack.png$image
