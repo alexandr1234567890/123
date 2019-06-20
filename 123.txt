@@ -700,3 +700,6 @@ t##.sidebar__block_tags
 127.0.0.1 tiruniversal.*
 127.0.0.1 bit.ly
 ||turbobit.net/files/news/image/*ypack.png$image
+myzcloud.me##.pading
+myzcloud.me##.st-browser__page
+||sorus.ucoz.ru/img/atom*.jpeg$image
