@@ -9,6 +9,12 @@
 ! Description: This LVU filter
 !-------------------------------------------------------------------------------
 
+причинное место^
+girlfriends^
+not die^
+or die^
+чтоб не умереть^
+чтобы не умереть^
 tiktok^
 товары для взрослых^
 насилуют^
@@ -38,7 +44,6 @@ erotik^
 аборт^
 вжоп^
 * anal^
-сект^
 полиамор^
 casino^
 казино^
@@ -712,3 +717,12 @@ t##.sidebar__block_tags
 myzcloud.me##.pading
 myzcloud.me##.st-browser__page
 ||sorus.ucoz.ru/img/atom*.jpeg$image
+##.module-tags
+###banner-place
+yandex.ru###bk-container
+||*/img/yad*.png$image
+||torrent*/20*/1k.png$image
+###u_preroll_videoadbetnet
+###mouselayer
+||turbobit.net/files/news/image/offer*.png$image
+||turbobit.net/files/news/image/big.png$image
