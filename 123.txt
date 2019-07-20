@@ -9,8 +9,13 @@
 ! Description: This LVU filter
 !-------------------------------------------------------------------------------
 
+блять^
+хоррор^
+беги или умри^
+tеамо.ру^
+teamo.ru^
 причинное место^
-girlfriends^
+girlfriends
 not die^
 or die^
 чтоб не умереть^
@@ -726,3 +731,11 @@ yandex.ru###bk-container
 ###mouselayer
 ||turbobit.net/files/news/image/offer*.png$image
 ||turbobit.net/files/news/image/big.png$image
+127.0.0.1 manualbox.website
+turbobit.net##a[href="https://costaction.com/partner"]
+##a[href^="https://download.cdn.yandex.net/yandex-tag/weboffer/YandexPackLoader.exe"]
+127.0.0.1 ffilueportal.*.site
+127.0.0.1 1cbq.org
+127.0.0.1 smski.mobi
+turbobit.net##.subs-form
+https://*/nb-back?*
