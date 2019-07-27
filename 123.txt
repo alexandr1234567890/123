@@ -747,6 +747,25 @@ turbobit.net###subs-main-header
 ||turbobit.net/fd1/img/download/main-info-hr.png$image
 ###div_anim_rec_before_files_block
 ###pw
+turbobit.cc##.payment-block
+turbobit.cc##.btn-red
+turbobit.cc##a[href^="https://turbobit.cc/turbo"]
+||turbobit.cc/*/yandex_small.png$image
+||turbobit.cc/*/yandex_big.png$image
+turbobit.cc##.footer
+||turbobit.cc/files/news/image/*ypack.png$image
+||turbobit.cc/files/news/image/offer*.png$image
+||turbobit.cc/files/news/image/big.png$image
+turbobit.cc##a[href="https://costaction.com/partner"]
+turbobit.cc##.subs-form
+turbobit.cc##.web-subs-rules
+turbobit.cc###phone-number-block
+turbobit.cc##.subs-top-banner
+turbobit.cc##.main-websubs-txt
+turbobit.cc##.big-size-text
+turbobit.cc###subs-main-header > .bg-top-right
+turbobit.cc###subs-main-header
+||turbobit.cc/fd1/img/download/main-info-hr.png$image
 
 
 
