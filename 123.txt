@@ -604,14 +604,14 @@ yandex.ru##.header-favorites-button_js_inited.i-bem.header-favorites-button
 yandex.ru##.promo-popup__content.popup2__content
 */load-indicator.gif$image
 yandex.ru##.notifier__ticker
-turbobit.*##.payment-block
+turbobit.net##.payment-block
 ##.active.beamer_icon
 www.unibytes.com##.btn-warning.btn-lg.btn
 www.unibytes.com##.phoneArea
 www.unibytes.com###pay3All
 www.unibytes.com###upPayTariffs
-turbobit.*##.btn-red
-turbobit.*##a[href^="https://turbobit.net/turbo"]
+turbobit.net##.btn-red
+turbobit.net##a[href^="https://turbobit.net/turbo"]
 www.google.ru##.gb_g.gb_ba
 cloud.mail.ru##.b-promo-banner-mobile__content
 cloud.mail.ru##.portal-promo_with-icon.portal-promo
@@ -662,11 +662,11 @@ www.youtube.com##.miniplayer
 e.mail.ru###b-letters > div > div:nth-child(2) > div > div:nth-child(1)
 ##.horz-line-agd
 ###lemur-promo
-||turbobit.*/*/yandex_small.png$image
-||turbobit.*/*/yandex_big.png$image
+||turbobit.net/*/yandex_small.png$image
+||turbobit.net/*/yandex_big.png$image
 www.unibytes.com##div:nth-of-type(3) > .form-inline > p
 www.unibytes.com##.footer
-turbobit.*##.footer
+turbobit.net##.footer
 ##.wid-cams-widget
 ##.comments-list
 ##.related-list
@@ -716,7 +716,7 @@ t##.sidebar__block_tags
 ###smartmedia-oxybranding
 127.0.0.1 tiruniversal.*
 127.0.0.1 bit.ly
-||turbobit.*/files/news/image/*ypack.png$image
+||turbobit.net/files/news/image/*ypack.png$image
 myzcloud.me##.pading
 myzcloud.me##.st-browser__page
 ||sorus.ucoz.ru/img/atom*.jpeg$image
@@ -727,24 +727,26 @@ yandex.ru###bk-container
 ||torrent*/20*/1k.png$image
 ###u_preroll_videoadbetnet
 ###mouselayer
-||turbobit.*/files/news/image/offer*.png$image
-||turbobit.*/files/news/image/big.png$image
+||turbobit.net/files/news/image/offer*.png$image
+||turbobit.net/files/news/image/big.png$image
 127.0.0.1 manualbox.website
-turbobit.*##a[href="https://costaction.com/partner"]
+turbobit.net##a[href="https://costaction.com/partner"]
 ##a[href^="https://download.cdn.yandex.net/yandex-tag/weboffer/YandexPackLoader.exe"]
 127.0.0.1 ffilueportal.*.site
 127.0.0.1 1cbq.org
 127.0.0.1 smski.mobi
-turbobit.*##.subs-form
+turbobit.net##.subs-form
 https://*/nb-back?*
-turbobit.*##.web-subs-rules
-turbobit.*###phone-number-block
-turbobit.*##.subs-top-banner
-turbobit.*##.main-websubs-txt
-turbobit.*##.big-size-text
-turbobit.*###subs-main-header > .bg-top-right
-turbobit.*###subs-main-header
-||turbobit.*/fd1/img/download/main-info-hr.png$image
+turbobit.net##.web-subs-rules
+turbobit.net###phone-number-block
+turbobit.net##.subs-top-banner
+turbobit.net##.main-websubs-txt
+turbobit.net##.big-size-text
+turbobit.net###subs-main-header > .bg-top-right
+turbobit.net###subs-main-header
+||turbobit.net/fd1/img/download/main-info-hr.png$image
 ###div_anim_rec_before_files_block
 ###pw
+
+
 
