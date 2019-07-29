@@ -9,6 +9,8 @@
 ! Description: This LVU filter
 !-------------------------------------------------------------------------------
 
+аватария^
+вейп^
 блять^
 хоррор^
 беги или умри^
@@ -766,6 +768,14 @@ turbobit.cc##.big-size-text
 turbobit.cc###subs-main-header > .bg-top-right
 turbobit.cc###subs-main-header
 ||turbobit.cc/fd1/img/download/main-info-hr.png$image
+simpleyoutubeconverter.com###searchbar
+simpleyoutubeconverter.com##a:nth-of-type(2) > h3
+simpleyoutubeconverter.com###dlarea > div:nth-of-type(1) > strong
+simpleyoutubeconverter.com###dlarea > div:nth-of-type(2)
+simpleyoutubeconverter.com##body > center
+simpleyoutubeconverter.com###footer
+simpleyoutubeconverter.com###banner
+simpleyoutubeconverter.com###topbar
 
 
 
