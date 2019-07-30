@@ -771,11 +771,18 @@ turbobit.cc###subs-main-header
 simpleyoutubeconverter.com###searchbar
 simpleyoutubeconverter.com##a:nth-of-type(2) > h3
 simpleyoutubeconverter.com###dlarea > div:nth-of-type(1) > strong
-simpleyoutubeconverter.com###dlarea > div:nth-of-type(2)
 simpleyoutubeconverter.com##body > center
 simpleyoutubeconverter.com###footer
 simpleyoutubeconverter.com###banner
 simpleyoutubeconverter.com###topbar
 simpleyoutubeconverter.com##center > h1
+simpleyoutubeconverter.com##a:nth-of-type(7)
+simpleyoutubeconverter.com##a:nth-of-type(8)
+simpleyoutubeconverter.com##a:nth-of-type(6)
+simpleyoutubeconverter.com##a:nth-of-type(5)
+simpleyoutubeconverter.com##div:nth-of-type(2) > strong
+simpleyoutubeconverter.com##a:nth-of-type(1) > strong
+simpleyoutubeconverter.com##a:nth-of-type(3)
+simpleyoutubeconverter.com##a:nth-of-type(4)
 
 
