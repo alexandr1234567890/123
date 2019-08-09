@@ -9,6 +9,8 @@
 ! Description: This LVU filter
 !-------------------------------------------------------------------------------
 
+лезбиян^
+skylove^
 cfnm^
 йух^
 аватария^
@@ -574,7 +576,6 @@ ru.aliexpress.com###girdle-banner-info
 ! Разное ---------------------------------
 yandex.ru###wrccontainer
 yandex.ru##.wot-popup-container
-yandex.ru##.tooltip__content
 yandex.ru##.popup2__tail
 www.google.ru###wrccontainer
 www.google.ru##.wot-popup-container
@@ -791,4 +792,9 @@ simpleyoutubeconverter.com###content > div > strong
 yandex.ru##.distr-default-search
 ##.overlay-ggf
 ##.drt-spot-box
-
+##.load_banner
+dfiles.ru###foobar
+dfiles.ru###box_small > .boxtitle
+turbobit.net###subs-small-text
+turbobit.net##.subs-rules-block
+turbobit.net##a[href="/payments/sms/checkSmsPin/"]
