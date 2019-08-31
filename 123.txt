@@ -9,6 +9,12 @@
 ! Description: This LVU filter
 !-------------------------------------------------------------------------------
 
+badoo^
+w-match^
+big dick^
+любовник^
+любовниц^
+lovoo^
 лезбиян^
 skylove^
 cfnm^
@@ -798,3 +804,26 @@ dfiles.ru###box_small > .boxtitle
 turbobit.net###subs-small-text
 turbobit.net##.subs-rules-block
 turbobit.net##a[href="/payments/sms/checkSmsPin/"]
+turbobit.net###download-top-note
+turbobit.net###premium-download-info
+turbobit.cc###download-top-note
+turbobit.cc###premium-download-info
+turbobit.net##.active
+turbobit.net##.main-menu-links > a[href^="/turbo"]
+turbobit.cc##.active
+turbobit.cc##.main-menu-links > a[href^="/turbo"]
+##banner
+###banner_container
+gigapeta.com###premium-table
+gigapeta.com###premium-price
+###pre-ad
+##.desktop-reclam
+###puFloatDiv
+127.0.0.1 mylove.ru
+127.0.0.1 love.ru
+||turbobit.net/files/news/image/*.jpg$image
+||turbobit.cc/files/news/image/*.jpg$image
+127.0.0.1 cryptobrowser.site
+127.0.0.1 allcoins.*
+127.0.0.1 worldoftanks.*
+127.0.0.1 bnsjb1ab1e.*
