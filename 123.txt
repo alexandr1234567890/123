@@ -9,6 +9,10 @@
 ! Description: This LVU filter
 !-------------------------------------------------------------------------------
 
+snuff^
+снафф^
+пиздец^
+анимэ^
 badoo^
 w-match^
 big dick^
@@ -777,23 +781,6 @@ turbobit.cc##.big-size-text
 turbobit.cc###subs-main-header > .bg-top-right
 turbobit.cc###subs-main-header
 ||turbobit.cc/fd1/img/download/main-info-hr.png$image
-simpleyoutubeconverter.com###searchbar
-simpleyoutubeconverter.com##a:nth-of-type(2) > h3
-simpleyoutubeconverter.com###dlarea > div:nth-of-type(1) > strong
-simpleyoutubeconverter.com##body > center
-simpleyoutubeconverter.com###footer
-simpleyoutubeconverter.com###banner
-simpleyoutubeconverter.com###topbar
-simpleyoutubeconverter.com##center > h1
-simpleyoutubeconverter.com##a:nth-of-type(7)
-simpleyoutubeconverter.com##a:nth-of-type(8)
-simpleyoutubeconverter.com##a:nth-of-type(6)
-simpleyoutubeconverter.com##a:nth-of-type(5)
-simpleyoutubeconverter.com##div:nth-of-type(2) > strong
-simpleyoutubeconverter.com##a:nth-of-type(1) > strong
-simpleyoutubeconverter.com##a:nth-of-type(3)
-simpleyoutubeconverter.com##a:nth-of-type(4)
-simpleyoutubeconverter.com###content > div > strong
 ##.wit-sponsor-banner
 yandex.ru##.distr-default-search
 ##.overlay-ggf
@@ -827,3 +814,36 @@ gigapeta.com###premium-price
 127.0.0.1 allcoins.*
 127.0.0.1 worldoftanks.*
 127.0.0.1 bnsjb1ab1e.*
+127.0.0.1 brave.com
+127.0.0.1 moocauby.com
+###vertical-banners
+||www.gottanut.com/addons/*$image
+##.global-notif
+##.flex.player-cams
+##.js-notification__more.notify
+||*/uploads/ya-button.png$image
+##a[href^="//tiruniversal.com/api/redirect"] > .loadbutton
+||*/nb/phpfile.php$image
+###list_webcams_list_webcams
+###fishki-branding-spacer
+##.wit-cams-widget
+###video_header.show_page_video_title
+##.remove_ads.js_upgrade_modal.removeAdLink
+###show_page_streamate
+##.no_pop.center
+127.0.0.1 666game.ru
+##.b-topic-sidebar
+##.slider--sidebar--cover
+##.dark.side-box
+simpleyoutubeconverter.com###topbar
+simpleyoutubeconverter.com###searchbar
+simpleyoutubeconverter.com###footer
+simpleyoutubeconverter.com###banner
+simpleyoutubeconverter.com##body > center > table > tbody > tr > td:nth-of-type(2)
+simpleyoutubeconverter.com##div:nth-of-type(2) > h3
+simpleyoutubeconverter.com##div:nth-of-type(2) > div:nth-of-type(8)
+simpleyoutubeconverter.com##div:nth-of-type(2) > div:nth-of-type(7)
+simpleyoutubeconverter.com##div:nth-of-type(2) > div:nth-of-type(6)
+simpleyoutubeconverter.com##div:nth-of-type(2) > div:nth-of-type(5)
+simpleyoutubeconverter.com##div:nth-of-type(2) > div:nth-of-type(4)
+simpleyoutubeconverter.com##div:nth-of-type(2) > div:nth-of-type(3)
