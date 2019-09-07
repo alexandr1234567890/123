@@ -674,7 +674,6 @@ yandex.ru##.ya-chat-widget
 www.youtube.com##.miniplayer
 ##.bnnrs-player
 ||*/images/bannr.png$image
-e.mail.ru###b-letters > div > div:nth-child(2) > div > div:nth-child(1)
 ##.horz-line-agd
 ###lemur-promo
 ||turbobit.net/*/yandex_small.png$image
