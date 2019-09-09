@@ -311,140 +311,140 @@ busty^
 porn^
 
 ! Third Party blocking ---------------------------------------------------------
-127.0.0.1 1bcde.com
-127.0.0.1 1xlsc.host
-127.0.0.1 2baksa.net
-127.0.0.1 adlabsretail.ru
-127.0.0.1 ads.adfox.ru
-127.0.0.1 authorne.info
-127.0.0.1 binariub.com
-127.0.0.1 binomo.com
-127.0.0.1 booking.com
-127.0.0.1 byt.su
-127.0.0.1 chance-for-dates.com
+127.0.0.1 1bcde.*
+127.0.0.1 1xlsc.*
+127.0.0.1 2baksa.*
+127.0.0.1 adlabsretail.*
+127.0.0.1 ads.adfox.*
+127.0.0.1 authorne.*
+127.0.0.1 binariub.*
+127.0.0.1 binomo.*
+127.0.0.1 booking.*
+127.0.0.1 byt.*
+127.0.0.1 chance-for-dates.*
 127.0.0.1 click02.dsp.rambler.ru
-127.0.0.1 clicknshare.net
-127.0.0.1 clicksgear.com
-127.0.0.1 coin-hive.com
-127.0.0.1 coinhive.com
-127.0.0.1 cnhv.co
-127.0.0.1 gus.host
-127.0.0.1 jsecoin.com
-127.0.0.1 pr0gramm.com
-127.0.0.1 deloton.com
-127.0.0.1 eidwmjwtv.net
-127.0.0.1 fil.su
-127.0.0.1 findplaceperfect.ru
-127.0.0.1 grand-casino50.com
-127.0.0.1 grandholding.nl
-127.0.0.1 hit.best-tracker.gdn
-127.0.0.1 imperiya.by
-127.0.0.1 inet-mones7.com
-127.0.0.1 informereng.com
-127.0.0.1 install.myvideotab.com
-127.0.0.1 install.streamfrenzy.com
-127.0.0.1 katfile.com
-127.0.0.1 leon.ru
-127.0.0.1 like-year.pro
-127.0.0.1 linkforyoud.com
+127.0.0.1 clicknshare.*
+127.0.0.1 clicksgear.*
+127.0.0.1 coin-hive.*
+127.0.0.1 coinhive.*
+127.0.0.1 cnhv.*
+127.0.0.1 gus.*
+127.0.0.1 jsecoin.*
+127.0.0.1 pr0gramm.*
+127.0.0.1 deloton.*
+127.0.0.1 eidwmjwtv.*
+127.0.0.1 fil.*
+127.0.0.1 findplaceperfect.*
+127.0.0.1 grand-casino50.*
+127.0.0.1 grandholding.*
+127.0.0.1 hit.best-tracker.*
+127.0.0.1 imperiya.*
+127.0.0.1 inet-mones7.*
+127.0.0.1 informereng.*
+127.0.0.1 install.myvideotab.*
+127.0.0.1 install.streamfrenzy.*
+127.0.0.1 katfile.*
+127.0.0.1 leon.*
+127.0.0.1 like-year.*
+127.0.0.1 linkforyoud.*
 127.0.0.1 m1band.ru
-127.0.0.1 mmoframes.com
-127.0.0.1 news-speaker.com
-127.0.0.1 porngames.adult
-127.0.0.1 rcyclmnr.com
-127.0.0.1 rcyclmnrepv.com
-127.0.0.1 rcyclmnrhgntry.com
-127.0.0.1 rcylpd.com
-127.0.0.1 recycloped.com
-127.0.0.1 refuzzlizing.pro
-127.0.0.1 rt.bongacams.com
-127.0.0.1 rt.bongacams2.com
-127.0.0.1 rt.runetki2.com
-127.0.0.1 rt.smotricams.com
-127.0.0.1 ru.bongacams.com
-127.0.0.1 ru.smotricams.com
-127.0.0.1 runetki.com
-127.0.0.1 rusfolder.com
-127.0.0.1 screenwatch.yournewtab.com
-127.0.0.1 showjet.ru
-127.0.0.1 snowlooper.info
-127.0.0.1 softbesplatno.net
-127.0.0.1 solidayw.info
-127.0.0.1 static.olymptrade.com
-127.0.0.1 turbobooks.ru
-127.0.0.1 turbocap.net
-127.0.0.1 ultra-bonus.com
+127.0.0.1 mmoframes.*
+127.0.0.1 news-speaker.*
+127.0.0.1 porngames.*
+127.0.0.1 rcyclmnr.*
+127.0.0.1 rcyclmnrepv.*
+127.0.0.1 rcyclmnrhgntry.*
+127.0.0.1 rcylpd.*
+127.0.0.1 recycloped.*
+127.0.0.1 refuzzlizing.*
+127.0.0.1 rt.bongacams.*
+127.0.0.1 rt.bongacams2.*
+127.0.0.1 rt.runetki2.*
+127.0.0.1 rt.smotricams.*
+127.0.0.1 ru.bongacams.*
+127.0.0.1 ru.smotricams.*
+127.0.0.1 runetki.*
+127.0.0.1 rusfolder.*
+127.0.0.1 screenwatch.yournewtab.*
+127.0.0.1 showjet.*
+127.0.0.1 snowlooper.*
+127.0.0.1 softbesplatno.*
+127.0.0.1 solidayw.*
+127.0.0.1 static.olymptrade.*
+127.0.0.1 turbobooks.*
+127.0.0.1 turbocap.*
+127.0.0.1 ultra-bonus.*
 127.0.0.1 utarget.ru
-127.0.0.1 vacaneedasap.com
-127.0.0.1 vulkanclubzz.org
-127.0.0.1 welcome.cuntwars.com
-127.0.0.1 wolve.pro
-127.0.0.1 www.2baksa.net
-127.0.0.1 www.booking.com
-127.0.0.1 www.clicksgear.com
-127.0.0.1 www.interest.center
-127.0.0.1 www.livelyoffers.club
-127.0.0.1 www.thegaw.org
-127.0.0.1 xxxlmusic.com
-127.0.0.1 zcltracker.com
-127.0.0.1 clemy.ru
-127.0.0.1 1xbdiq.host
-127.0.0.1 syndication.exosrv.com
-127.0.0.1 zirijasa.ru
-127.0.0.1 azartpl.com
-127.0.0.1 eranews.pro
-127.0.0.1 hsm5azph84.com
-127.0.0.1 play-vazartplay.com
-127.0.0.1 cobalten.com
-127.0.0.1 file-space.org
-127.0.0.1 lovenights.net
-127.0.0.1 crptentry.com
-127.0.0.1 livejasmin.com
-127.0.0.1 camgirlsowned.com
-127.0.0.1 adsbb.dfiles.ru
-127.0.0.1 diversubscribe.com
-127.0.0.1 binarium.com
-127.0.0.1 torsonercil.pro
-127.0.0.1 1xmiiy.host
-127.0.0.1 nxctrk.com
-127.0.0.1 vulkanvegas-offers.com
-127.0.0.1 1x*.host
-127.0.0.1 alpari.com
-127.0.0.1 rotumal.com
-127.0.0.1 mostbet.ru
-127.0.0.1 audienceline.com
-127.0.0.1 yealnk.com
-127.0.0.1 vsehd.ru
-127.0.0.1 rutracker.com.kz
-127.0.0.1 liversubscribe.com
-127.0.0.1 nextoptim.com
-127.0.0.1 popcash.net
+127.0.0.1 vacaneedasap.*
+127.0.0.1 vulkanclubzz.*
+127.0.0.1 welcome.cuntwars.*
+127.0.0.1 wolve.*
+127.0.0.1 www.2baksa.*
+127.0.0.1 www.booking.*
+127.0.0.1 www.clicksgear.*
+127.0.0.1 www.interest.*
+127.0.0.1 www.livelyoffers.*
+127.0.0.1 www.thegaw.*
+127.0.0.1 xxxlmusic.*
+127.0.0.1 zcltracker.*
+127.0.0.1 clemy.*
+127.0.0.1 1xbdiq.*
+127.0.0.1 syndication.exosrv.*
+127.0.0.1 zirijasa.*
+127.0.0.1 azartpl.*
+127.0.0.1 eranews.*
+127.0.0.1 hsm5azph84.*
+127.0.0.1 play-vazartplay.*
+127.0.0.1 cobalten.*
+127.0.0.1 file-space.*
+127.0.0.1 lovenights.*
+127.0.0.1 crptentry.*
+127.0.0.1 livejasmin.*
+127.0.0.1 camgirlsowned.*
+127.0.0.1 adsbb.dfiles.*
+127.0.0.1 diversubscribe.*
+127.0.0.1 binarium.*
+127.0.0.1 torsonercil.*
+127.0.0.1 1xmiiy.*
+127.0.0.1 nxctrk.*
+127.0.0.1 vulkanvegas-offers.*
+127.0.0.1 1x*.*
+127.0.0.1 alpari.*
+127.0.0.1 rotumal.*
+127.0.0.1 mostbet.*
+127.0.0.1 audienceline.*
+127.0.0.1 yealnk.*
+127.0.0.1 vsehd.*
+127.0.0.1 rutracker.com.*
+127.0.0.1 liversubscribe.*
+127.0.0.1 nextoptim.*
+127.0.0.1 popcash.*
 127.0.0.1 clk.*.*
-127.0.0.1 pushmobilenews.com
+127.0.0.1 pushmobilenews.*
 127.0.0.1 */vulkan*
 127.0.0.1 */partners/*/yandex*
 127.0.0.1 */img/yandex*
-127.0.0.1 slogansubscribe.com
-127.0.0.1 nanoadexchange.com
-127.0.0.1 looadbukus.*.website
-127.0.0.1 douploads.com
-127.0.0.1 *casino*.com
+127.0.0.1 slogansubscribe.*
+127.0.0.1 nanoadexchange.*
+127.0.0.1 looadbukus.*.*
+127.0.0.1 douploads.*
+127.0.0.1 *casino*.*
 127.0.0.1 *xsd.*
 127.0.0.1 *.msf-help.*
-127.0.0.1 *.forelimit.com
+127.0.0.1 *.forelimit.*
 127.0.0.1 *.upgers-armine.*
 127.0.0.1 *.mybestmv.*
 127.0.0.1 webnull.*
-127.0.0.1 naganoadigei.com
+127.0.0.1 naganoadigei.*
 127.0.0.1 new.win-now.*
 127.0.0.1 *joycasino*
-127.0.0.1 browsergames*.com
-127.0.0.1 prpops.com
-127.0.0.1 techno-magazin.com
-127.0.0.1 google-analytics.com 
-127.0.0.1 www.google-analytics.com  
-127.0.0.1 ssl.google-analytics.com
-127.0.0.1 exclusive-prizeforyou.com
+127.0.0.1 browsergames*.*
+127.0.0.1 prpops.*
+127.0.0.1 techno-magazin.*
+127.0.0.1 google-analytics.* 
+127.0.0.1 www.google-analytics.*  
+127.0.0.1 ssl.google-analytics.*
+127.0.0.1 exclusive-prizeforyou.*
 127.0.0.1 *sexshop*
 127.0.0.1 *specif1c*
 127.0.0.1 *edirect-news*
@@ -454,10 +454,10 @@ porn^
 127.0.0.1 shopeasy*
 127.0.0.1 *reddit.*
 127.0.0.1 ropleftinwaref.*
-127.0.0.1 mobile-win.tech
-127.0.0.1 *.prot-news*.club
-127.0.0.1 prot-news*.club
-127.0.0.1 stinvestservis.top
+127.0.0.1 mobile-win.*
+127.0.0.1 *.prot-news*.*
+127.0.0.1 prot-news*.*
+127.0.0.1 stinvestservis.*
 127.0.0.1 stinvestservis*
 127.0.0.1 *stinvestservis*
 
@@ -729,7 +729,7 @@ t##.sidebar__block_tags
 ##.push_offer_container
 ###smartmedia-oxybranding
 127.0.0.1 tiruniversal.*
-127.0.0.1 bit.ly
+127.0.0.1 bit.*
 ||turbobit.net/files/news/image/*ypack.png$image
 myzcloud.me##.pading
 myzcloud.me##.st-browser__page
@@ -743,12 +743,12 @@ yandex.ru###bk-container
 ###mouselayer
 ||turbobit.net/files/news/image/offer*.png$image
 ||turbobit.net/files/news/image/big.png$image
-127.0.0.1 manualbox.website
+127.0.0.1 manualbox.*
 turbobit.net##a[href="https://costaction.com/partner"]
 ##a[href^="https://download.cdn.yandex.net/yandex-tag/weboffer/YandexPackLoader.exe"]
-127.0.0.1 ffilueportal.*.site
-127.0.0.1 1cbq.org
-127.0.0.1 smski.mobi
+127.0.0.1 ffilueportal.*.*
+127.0.0.1 1cbq.*
+127.0.0.1 smski.*
 turbobit.net##.subs-form
 https://*/nb-back?*
 turbobit.net##.web-subs-rules
@@ -805,16 +805,16 @@ gigapeta.com###premium-price
 ###pre-ad
 ##.desktop-reclam
 ###puFloatDiv
-127.0.0.1 mylove.ru
-127.0.0.1 love.ru
+127.0.0.1 mylove.*
+127.0.0.1 love.*
 ||turbobit.net/files/news/image/*.jpg$image
 ||turbobit.cc/files/news/image/*.jpg$image
-127.0.0.1 cryptobrowser.site
+127.0.0.1 cryptobrowser.*
 127.0.0.1 allcoins.*
 127.0.0.1 worldoftanks.*
 127.0.0.1 bnsjb1ab1e.*
-127.0.0.1 brave.com
-127.0.0.1 moocauby.com
+127.0.0.1 brave.*
+127.0.0.1 moocauby.*
 ###vertical-banners
 ||www.gottanut.com/addons/*$image
 ##.global-notif
@@ -830,7 +830,7 @@ gigapeta.com###premium-price
 ##.remove_ads.js_upgrade_modal.removeAdLink
 ###show_page_streamate
 ##.no_pop.center
-127.0.0.1 666game.ru
+127.0.0.1 666game.*
 ##.b-topic-sidebar
 ##.slider--sidebar--cover
 ##.dark.side-box
@@ -847,3 +847,4 @@ simpleyoutubeconverter.com##div:nth-of-type(2) > div:nth-of-type(5)
 simpleyoutubeconverter.com##div:nth-of-type(2) > div:nth-of-type(4)
 simpleyoutubeconverter.com##div:nth-of-type(2) > div:nth-of-type(3)
 simpleyoutubeconverter.com##div:nth-of-type(2) > div:nth-of-type(1) > strong
+
