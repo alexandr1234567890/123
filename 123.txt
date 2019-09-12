@@ -728,7 +728,6 @@ t##.sidebar__block_tags
 ##milktruck_ftr
 ##.push_offer_container
 ###smartmedia-oxybranding
-127.0.0.1 tiruniversal.*
 127.0.0.1 bit.*
 ||turbobit.net/files/news/image/*ypack.png$image
 myzcloud.me##.pading
@@ -847,4 +846,37 @@ simpleyoutubeconverter.com##div:nth-of-type(2) > div:nth-of-type(5)
 simpleyoutubeconverter.com##div:nth-of-type(2) > div:nth-of-type(4)
 simpleyoutubeconverter.com##div:nth-of-type(2) > div:nth-of-type(3)
 simpleyoutubeconverter.com##div:nth-of-type(2) > div:nth-of-type(1) > strong
+dfiles.ru##.violation
+dfiles.ru##.hide_download_started.gold_speed_promo_block
+dfiles.ru##a[href^="https://dfiles.ru/static.php"]
+dfiles.ru##.service18
+dfiles.ru##.submenu_wrapper > .submenu
+uploaded.net###prem
+hitfile.net##.footer
+uploaded.net##td:nth-of-type(6)
+uploaded.net##a[href="registerfree"]
+uploaded.net##.aB.cL:nth-of-type(5) > small > a[href="register"]
+##a[href="http://ul.to/register"]
+##.ulp-bounceInUp.ulp-animated.ulp-layer
+dfiles.ru##.top_menu
+dfiles.ru##.text
+dfiles.ru##.string_title
+dfiles.ru##.gold_speed_promo_block
+dfiles.ru##a[href="https://dfiles.ru/faq_download.html"]
+dfiles.ru##a[href^="/get_file.php"]
+##.mywidget__row
+vip-file.net##.btnn.btn-block.btn-lg.btn-primary.btn
+filefreak.com##.btnn.btn-block.btn-lg.btn-primary.btn
+127.0.0.1 pinterest.*
+127.0.0.1 vexfile.*
+hitfile.net##.download-button.no-border:nth-of-type(3)
+##.reclam-overlayVid-desktop
+##.placeholder
+##.aff-item-list
+||*/blo.php$image
+##.wil-cams-widget
+##.adv-aside
+##.bottom-tags
+###below_footer_ad_content
+||*/wp-content/uploads/20*/*/coin*.png$image
 
