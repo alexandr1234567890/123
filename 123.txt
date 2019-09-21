@@ -9,6 +9,8 @@
 ! Description: This LVU filter
 !-------------------------------------------------------------------------------
 
+big tits^
+real talk^
 snuff^
 снафф^
 пиздец^
@@ -408,7 +410,6 @@ porn^
 127.0.0.1 1xmiiy.*
 127.0.0.1 nxctrk.*
 127.0.0.1 vulkanvegas-offers.*
-127.0.0.1 1x*.*
 127.0.0.1 alpari.*
 127.0.0.1 rotumal.*
 127.0.0.1 mostbet.*
@@ -879,4 +880,49 @@ hitfile.net##.download-button.no-border:nth-of-type(3)
 ##.bottom-tags
 ###below_footer_ad_content
 ||*/wp-content/uploads/20*/*/coin*.png$image
+||turbobit.net/fd1/img/main/whatdoesitmean.png$image
+##.coverImage
+newbrowserforya.net##.header
+newbrowserforya.net##body > .wrapper
+127.0.0.1 fleeenker.*
+##.download2
+yandex.ru##.yaplus__badge-main
+fantasti.cc##.right_column
+pornclipsxxx.com###offer
+www.porntube.com##.video-content
+##.mobile-middle-banner
+##.hidden-xs-down.video-added
+##.instagram-block
+||*/templates/*/images/bg.png$image
+e.mail.ru###octavius-notify-delivery
+##.container-slider-top.container
+##.b-board__brand-wrap
+##._olimp
+###big-bg
+##.awidget
+127.0.0.1 fonbet.*
+##._social-network
+###thanks
+yandex.ru##.related_type_with-icons.related
+mail.yandex.ru###bk-stripe
+mail.yandex.ru##.mail-yaplus__badge
+||*/bg/site_bg.png$image
+##.video-tags-container
+###announcement_ticker
+##.js-bought.bought
+##.upper-tags
+##.top-sponsor
+##.sponsor
+##.social_main
+##.b-social-btns
+##.ya-share2
+||*/images/*/bkg-*.jpg$image
+##.spnsrd
+##.social_panel
+###flagging_container
+##.likes.btn-group
+##.social_block
+##.b-socials
+##.sidebar-social-list
+##.voting
 
