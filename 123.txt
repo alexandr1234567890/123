@@ -953,7 +953,6 @@ zen.yandex.ru##.article-render__block_embed
 ##.social
 ##.rambler-share
 ##.big-share
-##.rate-link
 ##.likes-count
 ##.social-line
 ##.js-vote
