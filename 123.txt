@@ -321,7 +321,6 @@ porn^
 127.0.0.1 authorne.*
 127.0.0.1 binariub.*
 127.0.0.1 binomo.*
-127.0.0.1 booking.*
 127.0.0.1 byt.*
 127.0.0.1 chance-for-dates.*
 127.0.0.1 click02.dsp.rambler.ru
@@ -925,4 +924,51 @@ mail.yandex.ru##.mail-yaplus__badge
 ##.b-socials
 ##.sidebar-social-list
 ##.voting
+##.socials
+zen.yandex.ru##.article-render__block_embed
+##.share-button
+##.b-socials-subscribe
+##.plate
+##.b-share
+##.material-rating
+##.material-tag
+##.social-link
+##.social-and-date
+##.post-ratings
+##.postpage_telega
+##.postpage_dont_forget_other
+##.social-share-btn
+##.post__tags-cont
+##.video__utilities_child
+##.rating-container
+##.btnShare
+##.votes-fav-wrap
+##.rating-info-container
+##.streamatesModelsContainer
+##.block-rate_nlb
+##.inplgood
+##.rated
+##.post_collection_widget
+##.mrating
+##.social
+##.rambler-share
+##.big-share
+##.rate-link
+##.likes-count
+##.social-line
+##.js-vote
+5play.ru##.gaming-button
+5play.ru##.load-button
+##.desktop-fixed-bar__social
+##.sharing-new-icons
+##.social-bar-round
+##.header-post__share
+##.bolt-social-wrap
+##.evc-social-likes
+##.footer-social-wrap
+##.group-article_socprint
+##.telegramim_button
+###share42
+##.post-share
+##.social-icon
 
