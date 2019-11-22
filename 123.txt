@@ -1105,3 +1105,34 @@ zen.yandex.ru##.adjustable-container__inner
 yandex.ru##.i-bem.related
 yandex.ru##.incut
 ##.sfsi
+##.header-bottom
+##.btn-social-icon
+127.0.0.1 *farcaleniom.*
+||*/banner.jpg$image
+##.tempWrap > ul
+##.share-btn
+###ad-aegon-side
+##.banner
+apkpure.com##.left:nth-of-type(4)
+apkpure.com##.left:nth-of-type(6)
+apkpure.com##.right:nth-of-type(7)
+apkpure.com##.right:nth-of-type(5)
+apkpure.com##.footer
+apkpure.com##.right:nth-of-type(2) > .box:nth-of-type(2)
+apkpure.com##.index_r_hot
+apkpure.com##.index_banner
+apkpure.com##.nav_menu
+apkpure.com##.box:nth-of-type(2)
+apkpure.com##.box:nth-of-type(4)
+apkpure.com##.index-so-box.box > .title
+apkpure.com##.search-tabs
+apkpure.com##.right > div:nth-of-type(2)
+apkpure.com##.box:nth-of-type(3)
+apkpure.com##.box:nth-of-type(5)
+apkpure.com##.social-network
+apkpure.com##.facebook-like
+apkpure.com##.box:nth-of-type(7)
+apkpure.com##.cmt-container
+apkpure.com###comment
+apkpure.com##.bread-crumbs.title
+apkpure.com##.ver-title > .tit
