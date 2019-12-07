@@ -398,6 +398,9 @@ porn^
 127.0.0.1 play-vazartplay.*
 127.0.0.1 cobalten.*
 127.0.0.1 file-space.*
+127.0.0.1 google-analytics.* 
+127.0.0.1 www.google-analytics.*  
+127.0.0.1 ssl.google-analytics.*
 127.0.0.1 lovenights.*
 127.0.0.1 crptentry.*
 127.0.0.1 livejasmin.*
@@ -441,9 +444,6 @@ porn^
 127.0.0.1 browsergames*.*
 127.0.0.1 prpops.*
 127.0.0.1 techno-magazin.*
-127.0.0.1 google-analytics.* 
-127.0.0.1 www.google-analytics.*  
-127.0.0.1 ssl.google-analytics.*
 127.0.0.1 exclusive-prizeforyou.*
 127.0.0.1 *sexshop*
 127.0.0.1 *specif1c*
@@ -619,14 +619,14 @@ yandex.ru##.header-favorites-button_js_inited.i-bem.header-favorites-button
 yandex.ru##.promo-popup__content.popup2__content
 */load-indicator.gif$image
 yandex.ru##.notifier__ticker
-turbobit.net##.payment-block
+turbobit.pw##.payment-block
 ##.active.beamer_icon
 www.unibytes.com##.btn-warning.btn-lg.btn
 www.unibytes.com##.phoneArea
 www.unibytes.com###pay3All
 www.unibytes.com###upPayTariffs
-turbobit.net##.btn-red
-turbobit.net##a[href^="https://turbobit.net/turbo"]
+turbobit.pw##.btn-red
+turbobit.pw##a[href^="https://turbobit.pw/turbo"]
 www.google.ru##.gb_g.gb_ba
 cloud.mail.ru##.b-promo-banner-mobile__content
 cloud.mail.ru##.portal-promo_with-icon.portal-promo
@@ -676,11 +676,11 @@ www.youtube.com##.miniplayer
 ||*/images/bannr.png$image
 ##.horz-line-agd
 ###lemur-promo
-||turbobit.net/*/yandex_small.png$image
-||turbobit.net/*/yandex_big.png$image
+||turbobit.pw/*/yandex_small.png$image
+||turbobit.pw/*/yandex_big.png$image
 www.unibytes.com##div:nth-of-type(3) > .form-inline > p
 www.unibytes.com##.footer
-turbobit.net##.footer
+turbobit.pw##.footer
 ##.wid-cams-widget
 ##.comments-list
 ##.related-list
@@ -729,7 +729,7 @@ t##.sidebar__block_tags
 ##.push_offer_container
 ###smartmedia-oxybranding
 127.0.0.1 bit.*
-||turbobit.net/files/news/image/*ypack.png$image
+||turbobit.pw/files/news/image/*ypack.png$image
 myzcloud.me##.pading
 myzcloud.me##.st-browser__page
 ||sorus.ucoz.ru/img/atom*.jpeg$image
@@ -740,24 +740,24 @@ yandex.ru###bk-container
 ||torrent*/20*/1k.png$image
 ###u_preroll_videoadbetnet
 ###mouselayer
-||turbobit.net/files/news/image/offer*.png$image
-||turbobit.net/files/news/image/big.png$image
+||turbobit.pw/files/news/image/offer*.png$image
+||turbobit.pw/files/news/image/big.png$image
 127.0.0.1 manualbox.*
-turbobit.net##a[href="https://costaction.com/partner"]
+turbobit.pw##a[href="https://costaction.com/partner"]
 ##a[href^="https://download.cdn.yandex.net/yandex-tag/weboffer/YandexPackLoader.exe"]
 127.0.0.1 ffilueportal.*.*
 127.0.0.1 1cbq.*
 127.0.0.1 smski.*
-turbobit.net##.subs-form
+turbobit.pw##.subs-form
 https://*/nb-back?*
-turbobit.net##.web-subs-rules
-turbobit.net###phone-number-block
-turbobit.net##.subs-top-banner
-turbobit.net##.main-websubs-txt
-turbobit.net##.big-size-text
-turbobit.net###subs-main-header > .bg-top-right
-turbobit.net###subs-main-header
-||turbobit.net/fd1/img/download/main-info-hr.png$image
+turbobit.pw##.web-subs-rules
+turbobit.pw###phone-number-block
+turbobit.pw##.subs-top-banner
+turbobit.pw##.main-websubs-txt
+turbobit.pw##.big-size-text
+turbobit.pw###subs-main-header > .bg-top-right
+turbobit.pw###subs-main-header
+||turbobit.pw/fd1/img/download/main-info-hr.png$image
 ###div_anim_rec_before_files_block
 ###pw
 turbobit.cc##.payment-block
@@ -786,15 +786,15 @@ yandex.ru##.distr-default-search
 ##.load_banner
 dfiles.ru###foobar
 dfiles.ru###box_small > .boxtitle
-turbobit.net###subs-small-text
-turbobit.net##.subs-rules-block
-turbobit.net##a[href="/payments/sms/checkSmsPin/"]
-turbobit.net###download-top-note
-turbobit.net###premium-download-info
+turbobit.pw###subs-small-text
+turbobit.pw##.subs-rules-block
+turbobit.pw##a[href="/payments/sms/checkSmsPin/"]
+turbobit.pw###download-top-note
+turbobit.pw###premium-download-info
 turbobit.cc###download-top-note
 turbobit.cc###premium-download-info
-turbobit.net##.active
-turbobit.net##.main-menu-links > a[href^="/turbo"]
+turbobit.pw##.active
+turbobit.pw##.main-menu-links > a[href^="/turbo"]
 turbobit.cc##.active
 turbobit.cc##.main-menu-links > a[href^="/turbo"]
 ##banner
@@ -806,7 +806,7 @@ gigapeta.com###premium-price
 ###puFloatDiv
 127.0.0.1 mylove.*
 127.0.0.1 love.*
-||turbobit.net/files/news/image/*.jpg$image
+||turbobit.pw/files/news/image/*.jpg$image
 ||turbobit.cc/files/news/image/*.jpg$image
 127.0.0.1 cryptobrowser.*
 127.0.0.1 allcoins.*
@@ -879,7 +879,7 @@ hitfile.net##.download-button.no-border:nth-of-type(3)
 ##.bottom-tags
 ###below_footer_ad_content
 ||*/wp-content/uploads/20*/*/coin*.png$image
-||turbobit.net/fd1/img/main/whatdoesitmean.png$image
+||turbobit.pw/fd1/img/main/whatdoesitmean.png$image
 ##.coverImage
 newbrowserforya.net##.header
 newbrowserforya.net##body > .wrapper
@@ -970,6 +970,7 @@ zen.yandex.ru##.article-render__block_embed
 ###share42
 ##.post-share
 ##.social-icon
+##.sharing
 ##.soc
 ##.ratingVote
 ##.social__subscribe
@@ -1136,3 +1137,31 @@ apkpure.com##.cmt-container
 apkpure.com###comment
 apkpure.com##.bread-crumbs.title
 apkpure.com##.ver-title > .tit
+##.bc_line
+##.banner-links
+##.social-icons
+turbobit.pw##.large.button-ok
+turbobit.pw###window-title
+turbobit.pw##.top-text
+turbobit.pw###plus
+turbobit.pw###result
+127.0.0.1 deloplen.*
+yandex.ru##.last-seen
+turbobit.pw##center > a[href^="/turbo"]
+###video-slider
+##.rate_button
+##.inplb
+yandex.ru##.ImagesViewerApp-DirectStripeContainer
+yandex.ru##.notifier__bell
+yandex.ru##.notifier__clapper
+||hfaibhaebhdddbdeaei.ru/*
+turbobit.pw###formula
+turbobit.pw##p:nth-of-type(3)
+turbobit.pw##p:nth-of-type(1)
+##.advertising-side
+##a[href="/premium"]
+##.mc-comment-footer
+##.share-list
+127.0.0.1 *.ebbp*.*
+127.0.0.1 rasputin*.*
+##.clear.hd
