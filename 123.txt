@@ -9,6 +9,10 @@
 ! Description: This LVU filter
 !-------------------------------------------------------------------------------
 
+love story^
+на любов^
+про любов^
+любовн^
 big tits^
 real talk^
 snuff^
@@ -1165,3 +1169,37 @@ turbobit.pw##p:nth-of-type(1)
 127.0.0.1 *.ebbp*.*
 127.0.0.1 rasputin*.*
 ##.clear.hd
+turbobit.pw###b_bn_17
+##.likes-block_center
+##.uix_socialMediaLinks
+##.meta-info__comments
+###upprev_box
+##.lk_banner
+kuban.mts.ru##.product-info__media
+##.wig-cams-widget
+##.dyltv-container
+mp3ton.info##center
+##.article__item_source_viqeo
+##.nvDislike
+##.nvLike
+##.star_big_relative
+##.spu-box
+yandex.ru##.default-search-header_js_inited
+##a[href="https://haritaful.com/7-1lqd-e1i-h1l4-c8x"]
+||*/hook.js
+##.js_seven_pisem_popup_subscribe_window_not_subscribed.seven_pisem_popup_subscribe_window_not_subscribed
+##.rate3
+##.fav-guest
+##.tags-fullnews
+##.evaluation
+##.b-label-list
+##.meta
+login.mts.ru##.b-login_phone
+##.promo-message__banner
+###social
+apkpure.com##.left > .ad-box-auto
+apkpure.com##.box:nth-of-type(8)
+apkpure.com##.more
+apkpure.com##.stars
+apkpure.com##dd > p:nth-of-type(2)
+apkpure.com##.more-down
