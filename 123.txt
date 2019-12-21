@@ -1198,7 +1198,16 @@ login.mts.ru##.b-login_phone
 ##.promo-message__banner
 ###social
 apkpure.com##.left > .ad-box-auto
+apkpure.com##.box:nth-of-type(1)
+apkpure.com##.box:nth-of-type(2)
+apkpure.com##.box:nth-of-type(3)
+apkpure.com##.box:nth-of-type(4)
+apkpure.com##.box:nth-of-type(5)
+apkpure.com##.box:nth-of-type(6)
+apkpure.com##.box:nth-of-type(7)
 apkpure.com##.box:nth-of-type(8)
+apkpure.com##.box:nth-of-type(9)
+apkpure.com##.box:nth-of-type(10)
 apkpure.com##.more
 apkpure.com##.stars
 apkpure.com##dd > p:nth-of-type(2)
