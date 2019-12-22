@@ -463,8 +463,48 @@ porn^
 127.0.0.1 stinvestservis.*
 127.0.0.1 stinvestservis*
 127.0.0.1 *stinvestservis*
+127.0.0.1 *bitcoin*.*
+127.0.0.1 file-up.*
+127.0.0.1 ya-distrib.*
+127.0.0.1 plarium.*
+127.0.0.1 compute.amazonaws.*
+127.0.0.1 uploadrar.*
+127.0.0.1 *book.xyz
+127.0.0.1 triofiles.*
+127.0.0.1 shkola2*.*
+127.0.0.1 *parimatch.*
+127.0.0.1 bit.*
+127.0.0.1 manualbox.*
+127.0.0.1 ffilueportal.*.*
+127.0.0.1 1cbq.*
+127.0.0.1 smski.*
+127.0.0.1 mylove.*
+127.0.0.1 love.*
+127.0.0.1 cryptobrowser.*
+127.0.0.1 allcoins.*
+127.0.0.1 worldoftanks.*
+127.0.0.1 bnsjb1ab1e.*
+127.0.0.1 brave.*
+127.0.0.1 moocauby.*
+127.0.0.1 666game.*
+127.0.0.1 pinterest.*
+127.0.0.1 vexfile.*
+127.0.0.1 fleeenker.*
+127.0.0.1 fonbet.*
+127.0.0.1 35.224.227.218
+127.0.0.1 cryptounit.*
+127.0.0.1 www.2bay.*
+127.0.0.1 gosinpai.*
+127.0.0.1 *adultgames.*
+127.0.0.1 *farcaleniom.*
+127.0.0.1 deloplen.*
+127.0.0.1 *.ebbp*.*
+127.0.0.1 rasputin*.*
+127.0.0.1 *xtvnbs*
+127.0.0.1 *cronruph*
 
 ||coin-hive.com/lib/coinhive.min.js
+||*/hook.js
 
 ovego.tv##table:nth-of-type(2) > tbody > tr > td > table > tbody > tr > td:nth-of-type(1)
 ovego.tv##table:nth-of-type(2) > tbody > tr > td > table > tbody > tr > td:nth-of-type(3)
@@ -476,9 +516,7 @@ ovego.tv##body > table > tbody > tr > td:nth-of-type(2) > table:nth-of-type(1)
 ovego.tv##td > table > tbody > tr > td:nth-of-type(2) > table > tbody > tr > td > table:nth-of-type(1)
 ovego.tv##td > hr
 ovego.tv##.eTitle
-diakov.net###thx
-diakov.net##.sh.card-body > .hidden-sm.hidden-xs
-diakov.net##.text-muted.card-footer
+
 ok.ru##.__step-question
 ok.ru##.__promo.u-menu_a
 ok.ru##.__shared.h-mod.feed
@@ -495,8 +533,12 @@ ok.ru##.covers_control_cnt_w
 ok.ru##.h-mod.portlet
 vk.com###friends_possible_block
 vk.com###actualize_box
+||vk.com/widget_community.php$subdocument
+||vk.com/images/upload.gif$image
+
 
 ! Убираю рекламу перед видео ----------------------------------
+
 ##div[id*=age-verification-wrapper]
 ##div[id*=age-verification-container]
 */full_baraban*.webm
@@ -564,8 +606,11 @@ www.youtube.com###channel.ytd-grid-channel-renderer.style-scope
 www.youtube.com###title.ytd-shelf-renderer.style-scope
 www.youtube.com###contents > .ytd-browse-secondary-contents-renderer.style-scope
 www.youtube.com##.ytd-browse-secondary-contents-renderer.style-scope:nth-of-type(2)
+www.youtube.com##.miniplayer
+
 
 ! AliExpress------------------------------
+
 *alicdn.com/*секс*
 *alicdn.com/*пикантн*
 *alicdn.com/*adult*
@@ -581,195 +626,16 @@ www.youtube.com##.ytd-browse-secondary-contents-renderer.style-scope:nth-of-type
 *alicdn.com/*sex*
 *alicdn.com/*vibrator*
 ru.aliexpress.com###girdle-banner-info
-
-! Разное ---------------------------------
-yandex.ru###wrccontainer
-yandex.ru##.wot-popup-container
-yandex.ru##.popup2__tail
-www.google.ru###wrccontainer
-www.google.ru##.wot-popup-container
-www.rbc.ru##.push-allow
-yandex.ru##.yaplus_js_inited.i-bem.yaplus_available_yes.yaplus
-loadmod.com##.button_b
-yandex.ru##.distr-popup__content.popup2__content
-mail.ru###bubble-home-close
-cloud.mail.ru##.b-bubble__container
-5play.ru##.rek-but
-mail.ru##.bubble__content
-##.clearfix.rek-blue.rek-but
-yandex.ru##.ugc-panel_js_inited.i-bem.ugc-panel_view_default.ugc-panel
-yandex.ru##.serp-footer__main
-yandex.ru##.misspell_bottom_yes.misspell
-e.mail.ru###b-announcements
-e.mail.ru##.news-widget__counter
-yandex.ru##.b-inline.button_theme_cpopup__text
-yandex.ru##.button_js_inited.i-bem.button_size_s.button_theme_normal.dist-popup__yes.button
-yandex.ru##.dist-popup__buttons
-yandex.ru##.dist-popup__message
-yandex.ru##.dist-popup__content.popup__content
-yandex.ru##.yaplus__link.link_theme_normal.link.control
-yandex.ru##.button_icon-only.button_head_favorites.button_head.button_ei.button_type_clear.button_size_L.button
-yandex.ru##.comments
-yandex.ru##.header-favorites-button_js_inited.i-bem.header-favorites-button
-##.top-banner-container
-*/yabanner.*
-##.b-rec__button
-yandex.ru##.promo-popup__content.popup2__content
-*/load-indicator.gif$image
-yandex.ru##.notifier__ticker
-##.active.beamer_icon
-www.google.ru##.gb_g.gb_ba
-cloud.mail.ru##.b-promo-banner-mobile__content
-cloud.mail.ru##.portal-promo_with-icon.portal-promo
-cloud.mail.ru##.b-layer__container_disko-popup.b-layer__container_popup.b-layer__container
-otvet.mail.ru##.nt--item-daylypromo.nt--item
-###push-alert-block
-##.sendpulse-prompt-buttons
-##.wpn-ok-btn
-##.wpn-block-btn
-###onesignal-popover-dialog
-mail.sibintek.ru###dvInf
-##div#sponsor-button
-cloud.mail.ru##.content__banner
-cloud.mail.ru##.b-tooltip_tc.b-tooltip_animate.b-tooltip_valentine-day-promo.b-tooltip_tariff-promo.b-tooltip_flex.b-tooltip
-##.push_offer
-###rek_blocker
-www.rbc.ru##.l-small-width-static.l-sticky.l-col-left-border
-##.attentionMsg
-###abmessage
-##.js-subscription.subscribe-popup
-zen.yandex.ru###yabro-strip-element
-###after-adv
-###div.distr-popup i-bem distr-popup_theme_yellow distr-popup_icon_yes distr-popup_layout_flat distr-popup__visible distr-popup_animation_fade-show
-###div.distr-popup__controls
-zen.yandex.ru##.zen-ui-sms-popup__container.zen-ui-popup-element__tailed-content
-news.yandex.ru##.i-bem.yaplus_available_yes.yaplus
-##.bl_all_rek
-###tagcanvas
-##.cookie_privacy_block
-##.webnavoz_notificationbox
-yandex.ru##.chat-operator-label__image
-yandex.ru##.serp-item-actions
 ru.aliexpress.com##.ui-newuser-coupon-tips
-##.v2-p4s-confirm
+ru.aliexpress.com###j-price-extra-wrap
+ru.aliexpress.com##.store-header-bg
+##a[href*="campaign.aliexpress.com"]
+trade.aliexpress.com###J_xiaomi_dialog
+trade.aliexpress.com##a[href="//sale.aliexpress.com/BRAND_FEST_SHEIN.htm"]
+
 www.onlinevideoconverter.com##.download-section-1-2
 www.onlinevideoconverter.com###convertq
-ru.aliexpress.com###j-price-extra-wrap
-getvideo.org###windows-app-promo-max-resolution
-e.mail.ru##.banner
-yandex.ru##.popup2_visible_yes.popup2_direction_bottom-right.popup2_js_inited.i-bem.serp-user__promo-popup.popup2_view_classic.popup2_hiding_yes.popup2_autoclosable_yes.popup2_target_anchor.popup2_theme_normal.popup2
-e.mail.ru###leftcol-banners
-yandex.ru##.ya-chat-widget
-||*/images/banners/*$image
-www.youtube.com##.miniplayer
-##.bnnrs-player
-||*/images/bannr.png$image
-##.horz-line-agd
-###lemur-promo
-##.wid-cams-widget
-##.comments-list
-##.related-list
-##.wid-player--sponsor-message
-###helios-videos
-e##.wid-sponsor-banner
-##.sponsor-message
-##.__comeback-prompt-buttons
-##.head-promo-banner
-www.block.si##.br
-www.block.si##strong:nth-of-type(2)
-www.block.si##strong:nth-of-type(1)
-www.block.si##section > article
-www.google.ru###extrares
-127.0.0.1 *bitcoin*.*
-otvet.mail.ru##.column_right.column
-##.widget__advert-banner
-127.0.0.1 file-up.*
-127.0.0.1 ya-distrib.*
-127.0.0.1 plarium.*
-127.0.0.1 compute.amazonaws.*
-##.donat-cont
-127.0.0.1 uploadrar.*
-127.0.0.1 *book.xyz
-127.0.0.1 triofiles.*
-127.0.0.1 shkola2*.*
-||*/img/yal.png$image
-ru.aliexpress.com##.store-header-bg
-##.fly-button__yota
-music.yandex.ru##.bar-below
-music.yandex.ru##.sidebar__placeholder
-trade.aliexpress.com##a[href="//sale.aliexpress.com/BRAND_FEST_SHEIN.htm"]
-||vk.com/widget_community.php$subdocument
-||vk.com/images/upload.gif$image
-##.sidebar__best-dem
-t##.sidebar__block_tags
-127.0.0.1 *parimatch.*
-##.topictags
-##.visible.store-install-banner
-##.dialog
-||cdn.*.*/upload/post/*/tn/po*.png$image
-##.adlink_block
-||*/zadat_vopros.jpg$image
-##milktruck
-##milktruck_ftr
-##.push_offer_container
-###smartmedia-oxybranding
-127.0.0.1 bit.*
-myzcloud.me##.pading
-myzcloud.me##.st-browser__page
-||sorus.ucoz.ru/img/atom*.jpeg$image
-##.module-tags
-###banner-place
-yandex.ru###bk-container
-||*/img/yad*.png$image
-||torrent*/20*/1k.png$image
-###u_preroll_videoadbetnet
-###mouselayer
-127.0.0.1 manualbox.*
-127.0.0.1 ffilueportal.*.*
-127.0.0.1 1cbq.*
-127.0.0.1 smski.*
-https://*/nb-back?*
-###div_anim_rec_before_files_block
-###pw
-##.wit-sponsor-banner
-yandex.ru##.distr-default-search
-##.overlay-ggf
-##.drt-spot-box
-##.load_banner
-##banner
-###banner_container
-gigapeta.com###premium-table
-gigapeta.com###premium-price
-###pre-ad
-##.desktop-reclam
-###puFloatDiv
-127.0.0.1 mylove.*
-127.0.0.1 love.*
-127.0.0.1 cryptobrowser.*
-127.0.0.1 allcoins.*
-127.0.0.1 worldoftanks.*
-127.0.0.1 bnsjb1ab1e.*
-127.0.0.1 brave.*
-127.0.0.1 moocauby.*
-###vertical-banners
-||www.gottanut.com/addons/*$image
-##.global-notif
-##.flex.player-cams
-##.js-notification__more.notify
-||*/uploads/ya-button.png$image
-##a[href^="//tiruniversal.com/api/redirect"] > .loadbutton
-||*/nb/phpfile.php$image
-###list_webcams_list_webcams
-###fishki-branding-spacer
-##.wit-cams-widget
-###video_header.show_page_video_title
-##.remove_ads.js_upgrade_modal.removeAdLink
-###show_page_streamate
-##.no_pop.center
-127.0.0.1 666game.*
-##.b-topic-sidebar
-##.slider--sidebar--cover
-##.dark.side-box
+
 simpleyoutubeconverter.com###topbar
 simpleyoutubeconverter.com###searchbar
 simpleyoutubeconverter.com###footer
@@ -783,256 +649,7 @@ simpleyoutubeconverter.com##div:nth-of-type(2) > div:nth-of-type(5)
 simpleyoutubeconverter.com##div:nth-of-type(2) > div:nth-of-type(4)
 simpleyoutubeconverter.com##div:nth-of-type(2) > div:nth-of-type(3)
 simpleyoutubeconverter.com##div:nth-of-type(2) > div:nth-of-type(1) > strong
-##a[href="http://ul.to/register"]
-##.ulp-bounceInUp.ulp-animated.ulp-layer
-##.mywidget__row
-vip-file.net##.btnn.btn-block.btn-lg.btn-primary.btn
-filefreak.com##.btnn.btn-block.btn-lg.btn-primary.btn
-127.0.0.1 pinterest.*
-127.0.0.1 vexfile.*
-##.reclam-overlayVid-desktop
-##.placeholder
-##.aff-item-list
-||*/blo.php$image
-##.wil-cams-widget
-##.adv-aside
-##.bottom-tags
-###below_footer_ad_content
-||*/wp-content/uploads/20*/*/coin*.png$image
-##.coverImage
-newbrowserforya.net##.header
-newbrowserforya.net##body > .wrapper
-127.0.0.1 fleeenker.*
-##.download2
-yandex.ru##.yaplus__badge-main
-fantasti.cc##.right_column
-pornclipsxxx.com###offer
-www.porntube.com##.video-content
-##.mobile-middle-banner
-##.hidden-xs-down.video-added
-##.instagram-block
-||*/templates/*/images/bg.png$image
-e.mail.ru###octavius-notify-delivery
-##.container-slider-top.container
-##.b-board__brand-wrap
-##._olimp
-###big-bg
-##.awidget
-127.0.0.1 fonbet.*
-##._social-network
-###thanks
-yandex.ru##.related_type_with-icons.related
-mail.yandex.ru###bk-stripe
-mail.yandex.ru##.mail-yaplus__badge
-||*/bg/site_bg.png$image
-##.video-tags-container
-###announcement_ticker
-##.js-bought.bought
-##.upper-tags
-##.top-sponsor
-##.sponsor
-##.social_main
-##.b-social-btns
-##.ya-share2
-||*/images/*/bkg-*.jpg$image
-##.spnsrd
-##.social_panel
-###flagging_container
-##.likes.btn-group
-##.social_block
-##.b-socials
-##.sidebar-social-list
-##.voting
-##.socials
-zen.yandex.ru##.article-render__block_embed
-##.share-button
-##.b-socials-subscribe
-##.plate
-##.b-share
-##.material-rating
-##.material-tag
-##.social-link
-##.social-and-date
-##.post-ratings
-##.postpage_telega
-##.postpage_dont_forget_other
-##.social-share-btn
-##.post__tags-cont
-##.video__utilities_child
-##.rating-container
-##.btnShare
-##.votes-fav-wrap
-##.rating-info-container
-##.streamatesModelsContainer
-##.block-rate_nlb
-##.inplgood
-##.rated
-##.post_collection_widget
-##.mrating
-##.social
-##.rambler-share
-##.big-share
-##.likes-count
-##.social-line
-##.js-vote
-5play.ru##.gaming-button
-5play.ru##.load-button
-##.desktop-fixed-bar__social
-##.sharing-new-icons
-##.social-bar-round
-##.header-post__share
-##.bolt-social-wrap
-##.evc-social-likes
-##.footer-social-wrap
-##.group-article_socprint
-##.telegramim_button
-###share42
-##.post-share
-##.social-icon
-##.sharing
-##.soc
-##.ratingVote
-##.social__subscribe
-###UIP-NTV-B
-###UIP-NTV-A
-###likes_vkontakte
-###likes_twitter
-##.answer__controls
-##.module-share
-yandex.ru##.grid
-yandex.ru##.divider
-yandex.ru##.composite
-dropapk.to##footer
-dropapk.to##.payment_methods
-dropapk.to##.navbar-nav
-dropapk.to##.text-center.col-md-4:nth-of-type(2)
-dropapk.to##.features__section
-dropapk.to##.features
-dropapk.to##.header
-127.0.0.1 35.224.227.218
-##.ratingSystem
-translate.yandex.ru##.footer-line_promo.footer-line
-##.social_
-##.sponsor_news
-##.sponsor_news_list_but
-##.allow-rate
-##.social-login
-##.small-likes-wrap
-##.star__small
-||fantasti.cc//nvb/?src=*$image
-##.cactus-share-and-like
-###recommend0
-yandex.ru##.entity-search__rating
-##.sb_bnr
-##.tags
-##a[href*="www.up-4ever.org"]
-###vote-layer
-##.fstory-rating
-###lessbuttons_holder
-##.td-post-sharing
-##.mc-comment-star
-###privacypolicy
-##.rating
-##.pluso
-##.easylike_count
-127.0.0.1 cryptounit.*
-##.fivestar-summary
-##a[href*="campaign.aliexpress.com"]
-trade.aliexpress.com###J_xiaomi_dialog
-##.our-social
-##.bpartners
-127.0.0.1 www.2bay.*
-##.postLikesBox
-##.fb-like
-##.ww-post-share
-filefox.cc##.row > .download-buttons.col-md-4.col-sm-5
-filefox.cc##.premium-compare.row
-filefox.cc##.safe-and-secure.row
-##.share
-##.b-social
-##.footer__top__inside__left__social
-##.social-footer
-127.0.0.1 gosinpai.*
-127.0.0.1 *adultgames.*
-www.nuvid.com##.panel_heading
-##.wil-sponsor-banner
-##.xplayer-hover-menu
-##.td-header-sp-top-widget
-##.ft-feed-soc
-###offer
-##.ratingStars
-##.star_off
-##.star_on
-##.block-share-default
-##.sharedaddy
-##.share_box
-##.social-likes
-||*/images/*/social-logo*.jpg$image
-##.soc-btns
-##.top-social
-##a[href="/yandeks-brauzer/"]
-##.incshare
-##.post__favorites
-##.postpage__favorites
-##.topnews2
-##.related-posts
-##.js-notification__more
-||money.yandex.ru/quickpay/button-widget$subdocument
-##.text_adv
-##.button-products
-##.reclam
-##.reclam-box-container
-##.reclam-title
-##.rightContent-videoPage.col-xl-3.col-xs-12 > .reclam-text-desktop
-##.reclams
-##.reclamUndervideo
-##.subsol.wrap-reclam-new
-##.rating-controls
-###rating_options
-##.gravity-like
-##.sociallogin
-www.imgonline.com.ua###content > div:nth-of-type(1)
-###channel_header
-##.essb_links_list
-##.anycomment-form__guest-socials
-##.rt_share
-##.dx-pr-1
-##.networking
-##.likebtn_container
-##.post-footer
-##.favorite-single
-##.comment-footer__container
-##.likely
-##.b-social-buttons
-##.header-post
-##.ac-soc
-##.to-fav
-##.disclamer
-##.ha-icon
-##.bi_rating
-##.js-mark
-##.modal.ru-RU.layout
-##.mom-social-share
-##.policy-accept
-##.t_subscribe
-##.article__share
-##.last
-##.pl_1
-zen.yandex.ru##.adjustable-container__inner
-##.social-links
-##.inplayer-ad
-##.ntv-code-container
-yandex.ru##.i-bem.related
-yandex.ru##.incut
-##.sfsi
-##.header-bottom
-##.btn-social-icon
-127.0.0.1 *farcaleniom.*
-||*/banner.jpg$image
-##.tempWrap > ul
-##.share-btn
-###ad-aegon-side
-##.banner
+
 apkpure.com##.left:nth-of-type(4)
 apkpure.com##.left:nth-of-type(6)
 apkpure.com##.right:nth-of-type(7)
@@ -1056,52 +673,6 @@ apkpure.com##.cmt-container
 apkpure.com###comment
 apkpure.com##.bread-crumbs.title
 apkpure.com##.ver-title > .tit
-##.bc_line
-##.banner-links
-##.social-icons
-127.0.0.1 deloplen.*
-yandex.ru##.last-seen
-###video-slider
-##.rate_button
-##.inplb
-yandex.ru##.ImagesViewerApp-DirectStripeContainer
-yandex.ru##.notifier__bell
-yandex.ru##.notifier__clapper
-||hfaibhaebhdddbdeaei.ru/*
-##.advertising-side
-##a[href="/premium"]
-##.mc-comment-footer
-##.share-list
-127.0.0.1 *.ebbp*.*
-127.0.0.1 rasputin*.*
-##.clear.hd
-##.likes-block_center
-##.uix_socialMediaLinks
-##.meta-info__comments
-###upprev_box
-##.lk_banner
-kuban.mts.ru##.product-info__media
-##.wig-cams-widget
-##.dyltv-container
-mp3ton.info##center
-##.article__item_source_viqeo
-##.nvDislike
-##.nvLike
-##.star_big_relative
-##.spu-box
-yandex.ru##.default-search-header_js_inited
-##a[href="https://haritaful.com/7-1lqd-e1i-h1l4-c8x"]
-||*/hook.js
-##.js_seven_pisem_popup_subscribe_window_not_subscribed.seven_pisem_popup_subscribe_window_not_subscribed
-##.rate3
-##.fav-guest
-##.tags-fullnews
-##.evaluation
-##.b-label-list
-##.meta
-login.mts.ru##.b-login_phone
-##.promo-message__banner
-###social
 apkpure.com##.left > .ad-box-auto
 apkpure.com##.box:nth-of-type(1)
 apkpure.com##.box:nth-of-type(2)
@@ -1117,11 +688,7 @@ apkpure.com##.more
 apkpure.com##.stars
 apkpure.com##dd > p:nth-of-type(2)
 apkpure.com##.more-down
-127.0.0.1 *xtvnbs*
-127.0.0.1 *cronruph*
-##.awaps__banner
-##.mobile-badges
-##.yashare
+
 
 
 
