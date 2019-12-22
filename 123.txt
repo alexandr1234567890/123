@@ -377,7 +377,6 @@ porn^
 127.0.0.1 solidayw.*
 127.0.0.1 static.olymptrade.*
 127.0.0.1 turbobooks.*
-127.0.0.1 turbocap.*
 127.0.0.1 ultra-bonus.*
 127.0.0.1 utarget.ru
 127.0.0.1 vacaneedasap.*
@@ -784,7 +783,6 @@ simpleyoutubeconverter.com##div:nth-of-type(2) > div:nth-of-type(5)
 simpleyoutubeconverter.com##div:nth-of-type(2) > div:nth-of-type(4)
 simpleyoutubeconverter.com##div:nth-of-type(2) > div:nth-of-type(3)
 simpleyoutubeconverter.com##div:nth-of-type(2) > div:nth-of-type(1) > strong
-hitfile.net##.footer
 ##a[href="http://ul.to/register"]
 ##.ulp-bounceInUp.ulp-animated.ulp-layer
 ##.mywidget__row
@@ -792,7 +790,6 @@ vip-file.net##.btnn.btn-block.btn-lg.btn-primary.btn
 filefreak.com##.btnn.btn-block.btn-lg.btn-primary.btn
 127.0.0.1 pinterest.*
 127.0.0.1 vexfile.*
-hitfile.net##.download-button.no-border:nth-of-type(3)
 ##.reclam-overlayVid-desktop
 ##.placeholder
 ##.aff-item-list
@@ -1125,6 +1122,7 @@ apkpure.com##.more-down
 ##.awaps__banner
 ##.mobile-badges
 ##.yashare
+
 
 
 
