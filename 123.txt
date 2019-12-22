@@ -477,11 +477,9 @@ ovego.tv##body > table > tbody > tr > td:nth-of-type(2) > table:nth-of-type(1)
 ovego.tv##td > table > tbody > tr > td:nth-of-type(2) > table > tbody > tr > td > table:nth-of-type(1)
 ovego.tv##td > hr
 ovego.tv##.eTitle
-
 diakov.net###thx
 diakov.net##.sh.card-body > .hidden-sm.hidden-xs
 diakov.net##.text-muted.card-footer
-
 ok.ru##.__step-question
 ok.ru##.__promo.u-menu_a
 ok.ru##.__shared.h-mod.feed
@@ -496,7 +494,6 @@ ok.ru###FriendStreamContent
 ok.ru###online-fr_block
 ok.ru##.covers_control_cnt_w
 ok.ru##.h-mod.portlet
-
 vk.com###friends_possible_block
 vk.com###actualize_box
 
@@ -530,7 +527,6 @@ www.pornwhite.com###after-adv
 ##.banner-wrapper
 ###advertising
 
-! YouTube--------------------------------------------------
 www.youtube.com###search-secondary-col-contents
 www.youtube.com##.search-refinements
 www.youtube.com###upload-btn
@@ -619,18 +615,10 @@ yandex.ru##.header-favorites-button_js_inited.i-bem.header-favorites-button
 ##.top-banner-container
 */yabanner.*
 ##.b-rec__button
-||dfiles.ru/pay_request.php$subdocument
 yandex.ru##.promo-popup__content.popup2__content
 */load-indicator.gif$image
 yandex.ru##.notifier__ticker
-turbobit.*##.payment-block
 ##.active.beamer_icon
-www.unibytes.com##.btn-warning.btn-lg.btn
-www.unibytes.com##.phoneArea
-www.unibytes.com###pay3All
-www.unibytes.com###upPayTariffs
-turbobit.*##.btn-red
-turbobit.*##a[href^="https://turbobit.pw/turbo"]
 www.google.ru##.gb_g.gb_ba
 cloud.mail.ru##.b-promo-banner-mobile__content
 cloud.mail.ru##.portal-promo_with-icon.portal-promo
@@ -657,7 +645,6 @@ zen.yandex.ru###yabro-strip-element
 ###div.distr-popup__controls
 zen.yandex.ru##.zen-ui-sms-popup__container.zen-ui-popup-element__tailed-content
 news.yandex.ru##.i-bem.yaplus_available_yes.yaplus
-dfiles.ru##td:nth-of-type(1) > .df_button
 ##.bl_all_rek
 ###tagcanvas
 ##.cookie_privacy_block
@@ -680,11 +667,6 @@ www.youtube.com##.miniplayer
 ||*/images/bannr.png$image
 ##.horz-line-agd
 ###lemur-promo
-||turbobit.*/*/yandex_small.png$image
-||turbobit.*/*/yandex_big.png$image
-www.unibytes.com##div:nth-of-type(3) > .form-inline > p
-www.unibytes.com##.footer
-turbobit.*##.footer
 ##.wid-cams-widget
 ##.comments-list
 ##.related-list
@@ -733,7 +715,6 @@ t##.sidebar__block_tags
 ##.push_offer_container
 ###smartmedia-oxybranding
 127.0.0.1 bit.*
-||turbobit.*/files/news/image/*ypack.png$image
 myzcloud.me##.pading
 myzcloud.me##.st-browser__page
 ||sorus.ucoz.ru/img/atom*.jpeg$image
@@ -744,63 +725,19 @@ yandex.ru###bk-container
 ||torrent*/20*/1k.png$image
 ###u_preroll_videoadbetnet
 ###mouselayer
-||turbobit.*/files/news/image/offer*.png$image
-||turbobit.*/files/news/image/big.png$image
 127.0.0.1 manualbox.*
-turbobit.*##a[href="https://costaction.com/partner"]
 ##a[href^="https://download.cdn.yandex.net/yandex-tag/weboffer/YandexPackLoader.exe"]
 127.0.0.1 ffilueportal.*.*
 127.0.0.1 1cbq.*
 127.0.0.1 smski.*
-turbobit.*##.subs-form
 https://*/nb-back?*
-turbobit.*##.web-subs-rules
-turbobit.*###phone-number-block
-turbobit.*##.subs-top-banner
-turbobit.*##.main-websubs-txt
-turbobit.*##.big-size-text
-turbobit.*###subs-main-header > .bg-top-right
-turbobit.*###subs-main-header
-||turbobit.*/fd1/img/download/main-info-hr.png$image
 ###div_anim_rec_before_files_block
 ###pw
-turbobit.*##.payment-block
-turbobit.*##.btn-red
-turbobit.*##a[href^="https://turbobit.cc/turbo"]
-||turbobit.*/*/yandex_small.png$image
-||turbobit.*/*/yandex_big.png$image
-turbobit.*##.footer
-||turbobit.*/files/news/image/*ypack.png$image
-||turbobit.*/files/news/image/offer*.png$image
-||turbobit.*/files/news/image/big.png$image
-turbobit.*##a[href="https://costaction.com/partner"]
-turbobit.*##.subs-form
-turbobit.*##.web-subs-rules
-turbobit.*###phone-number-block
-turbobit.*##.subs-top-banner
-turbobit.*##.main-websubs-txt
-turbobit.*##.big-size-text
-turbobit.*###subs-main-header > .bg-top-right
-turbobit.*###subs-main-header
-||turbobit.*/fd1/img/download/main-info-hr.png$image
 ##.wit-sponsor-banner
 yandex.ru##.distr-default-search
 ##.overlay-ggf
 ##.drt-spot-box
 ##.load_banner
-dfiles.ru###foobar
-dfiles.ru###box_small > .boxtitle
-turbobit.*###subs-small-text
-turbobit.*##.subs-rules-block
-turbobit.*##a[href="/payments/sms/checkSmsPin/"]
-turbobit.*###download-top-note
-turbobit.*###premium-download-info
-turbobit.*###download-top-note
-turbobit.*###premium-download-info
-turbobit.*##.active
-turbobit.*##.main-menu-links > a[href^="/turbo"]
-turbobit.*##.active
-turbobit.*##.main-menu-links > a[href^="/turbo"]
 ##banner
 ###banner_container
 gigapeta.com###premium-table
@@ -810,8 +747,6 @@ gigapeta.com###premium-price
 ###puFloatDiv
 127.0.0.1 mylove.*
 127.0.0.1 love.*
-||turbobit.*/files/news/image/*.jpg$image
-||turbobit.*/files/news/image/*.jpg$image
 127.0.0.1 cryptobrowser.*
 127.0.0.1 allcoins.*
 127.0.0.1 worldoftanks.*
@@ -850,24 +785,9 @@ simpleyoutubeconverter.com##div:nth-of-type(2) > div:nth-of-type(5)
 simpleyoutubeconverter.com##div:nth-of-type(2) > div:nth-of-type(4)
 simpleyoutubeconverter.com##div:nth-of-type(2) > div:nth-of-type(3)
 simpleyoutubeconverter.com##div:nth-of-type(2) > div:nth-of-type(1) > strong
-dfiles.ru##.violation
-dfiles.ru##.hide_download_started.gold_speed_promo_block
-dfiles.ru##a[href^="https://dfiles.ru/static.php"]
-dfiles.ru##.service18
-dfiles.ru##.submenu_wrapper > .submenu
-uploaded.net###prem
 hitfile.net##.footer
-uploaded.net##td:nth-of-type(6)
-uploaded.net##a[href="registerfree"]
-uploaded.net##.aB.cL:nth-of-type(5) > small > a[href="register"]
 ##a[href="http://ul.to/register"]
 ##.ulp-bounceInUp.ulp-animated.ulp-layer
-dfiles.ru##.top_menu
-dfiles.ru##.text
-dfiles.ru##.string_title
-dfiles.ru##.gold_speed_promo_block
-dfiles.ru##a[href="https://dfiles.ru/faq_download.html"]
-dfiles.ru##a[href^="/get_file.php"]
 ##.mywidget__row
 vip-file.net##.btnn.btn-block.btn-lg.btn-primary.btn
 filefreak.com##.btnn.btn-block.btn-lg.btn-primary.btn
@@ -883,7 +803,6 @@ hitfile.net##.download-button.no-border:nth-of-type(3)
 ##.bottom-tags
 ###below_footer_ad_content
 ||*/wp-content/uploads/20*/*/coin*.png$image
-||turbobit.*/fd1/img/main/whatdoesitmean.png$image
 ##.coverImage
 newbrowserforya.net##.header
 newbrowserforya.net##body > .wrapper
@@ -1144,14 +1063,8 @@ apkpure.com##.ver-title > .tit
 ##.bc_line
 ##.banner-links
 ##.social-icons
-turbobit.*##.large.button-ok
-turbobit.*###window-title
-turbobit.*##.top-text
-turbobit.*###plus
-turbobit.*###result
 127.0.0.1 deloplen.*
 yandex.ru##.last-seen
-turbobit.*##center > a[href^="/turbo"]
 ###video-slider
 ##.rate_button
 ##.inplb
@@ -1159,9 +1072,6 @@ yandex.ru##.ImagesViewerApp-DirectStripeContainer
 yandex.ru##.notifier__bell
 yandex.ru##.notifier__clapper
 ||hfaibhaebhdddbdeaei.ru/*
-turbobit.*###formula
-turbobit.*##p:nth-of-type(3)
-turbobit.*##p:nth-of-type(1)
 ##.advertising-side
 ##a[href="/premium"]
 ##.mc-comment-footer
@@ -1169,7 +1079,6 @@ turbobit.*##p:nth-of-type(1)
 127.0.0.1 *.ebbp*.*
 127.0.0.1 rasputin*.*
 ##.clear.hd
-turbobit.*###b_bn_17
 ##.likes-block_center
 ##.uix_socialMediaLinks
 ##.meta-info__comments
@@ -1217,21 +1126,6 @@ apkpure.com##.more-down
 ##.awaps__banner
 ##.mobile-badges
 ##.yashare
-nitroflare.com###footerCredits
-nitroflare.com###footer
-nitroflare.com###folderPages
-nitroflare.com##th
-nitroflare.com##.text > div:nth-of-type(1)
-nitroflare.com###menu
-nitroflare.com###left_buttons > div
-nitroflare.com###pacsTables > div:nth-of-type(2)
-nitroflare.com###report
-nitroflare.com##.bad.table2
-nitroflare.com###pacsTables > div:nth-of-type(1) > div:nth-of-type(1)
-nitroflare.com###popupContent > a[href^="payment"]
-nitroflare.com##.noticeMessage
-nitroflare.com##div:nth-of-type(3) > .purchaseNoWaiting
-nitroflare.com###file > div:nth-of-type(1) > div > div:nth-of-type(1)
-turbobit.*###file-pager
-turbobit.*##.form > a[href^="/turbo"]
+
+
 
