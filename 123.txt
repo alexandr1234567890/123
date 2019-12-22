@@ -726,7 +726,6 @@ yandex.ru###bk-container
 ###u_preroll_videoadbetnet
 ###mouselayer
 127.0.0.1 manualbox.*
-##a[href^="https://download.cdn.yandex.net/yandex-tag/weboffer/YandexPackLoader.exe"]
 127.0.0.1 ffilueportal.*.*
 127.0.0.1 1cbq.*
 127.0.0.1 smski.*
@@ -1126,6 +1125,7 @@ apkpure.com##.more-down
 ##.awaps__banner
 ##.mobile-badges
 ##.yashare
+
 
 
 
