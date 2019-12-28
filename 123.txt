@@ -500,8 +500,13 @@ porn^
 127.0.0.1 deloplen.*
 127.0.0.1 *.ebbp*.*
 127.0.0.1 rasputin*.*
-127.0.0.1 *xtvnbs*
-127.0.0.1 *cronruph*
+127.0.0.1 *xtvnbs.*
+127.0.0.1 *cronruph.*
+127.0.0.1 *navechno.*
+127.0.0.1 *luckylife*.*
+127.0.0.1 *new-gamess*.*
+127.0.0.1 *wisokykulas*.*
+127.0.0.1 *bigassmessage*.*
 
 ||coin-hive.com/lib/coinhive.min.js
 ||*/hook.js
@@ -531,6 +536,7 @@ ok.ru###FriendStreamContent
 ok.ru###online-fr_block
 ok.ru##.covers_control_cnt_w
 ok.ru##.h-mod.portlet
+
 vk.com###friends_possible_block
 vk.com###actualize_box
 ||vk.com/widget_community.php$subdocument
@@ -659,16 +665,11 @@ apkpure.com##.right:nth-of-type(2) > .box:nth-of-type(2)
 apkpure.com##.index_r_hot
 apkpure.com##.index_banner
 apkpure.com##.nav_menu
-apkpure.com##.box:nth-of-type(2)
-apkpure.com##.box:nth-of-type(4)
 apkpure.com##.index-so-box.box > .title
 apkpure.com##.search-tabs
 apkpure.com##.right > div:nth-of-type(2)
-apkpure.com##.box:nth-of-type(3)
-apkpure.com##.box:nth-of-type(5)
 apkpure.com##.social-network
 apkpure.com##.facebook-like
-apkpure.com##.box:nth-of-type(7)
 apkpure.com##.cmt-container
 apkpure.com###comment
 apkpure.com##.bread-crumbs.title
@@ -688,9 +689,5 @@ apkpure.com##.more
 apkpure.com##.stars
 apkpure.com##dd > p:nth-of-type(2)
 apkpure.com##.more-down
-
-
-
-
 
 
