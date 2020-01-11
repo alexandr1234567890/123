@@ -390,6 +390,14 @@ lenta.ru##.b-video-box__frame
 
 yandex.ru###bk-container
 yandex.ru##.direct_js_inited
+yandex.ru##.notifier__box
+yandex.ru##.yaplus
+yandex.ru##.header-favorites-button
+yandex.ru##.safety-filter__icon
+yandex.ru##.serp-footer__family-mode
+yandex.ru##.footer__settings
+yandex.ru##.serp-footer__feedback
+yandex.ru##.serp-footer__help
 
 
 ! Удаляем со страницы элементы, ссылающиеся на ЭТИ сайты ----------------------------------
@@ -411,3 +419,5 @@ yandex.ru##.direct_js_inited
 ##a[href*="iphos.ru"]
 ##a[href*="torrent-2051.ru"]
 ##a[href*="torrent-2050.ru"]
+
+
