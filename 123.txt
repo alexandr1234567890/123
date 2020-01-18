@@ -205,6 +205,8 @@
 127.0.0.1 *partners*.*
 127.0.0.1 *bdsmrussia*.*
 127.0.0.1 *getyournewbrowser*.*
+127.0.0.1 *americascardroom*.*
+127.0.0.1 *worldof*.*
 
 ||coin-hive.com/lib/coinhive.min.js
 ||*/hook.js
@@ -335,22 +337,14 @@ trade.aliexpress.com##a[href="//sale.aliexpress.com/BRAND_FEST_SHEIN.htm"]
 *alicdn.com/*sex*
 *alicdn.com/*vibrator*
 
-www.onlinevideoconverter.com##.download-section-1-2
-www.onlinevideoconverter.com###convertq
-
-simpleyoutubeconverter.com###topbar
-simpleyoutubeconverter.com###searchbar
-simpleyoutubeconverter.com###footer
-simpleyoutubeconverter.com###banner
-simpleyoutubeconverter.com##body > center > table > tbody > tr > td:nth-of-type(2)
-simpleyoutubeconverter.com##div:nth-of-type(2) > h3
-simpleyoutubeconverter.com##div:nth-of-type(2) > div:nth-of-type(8)
-simpleyoutubeconverter.com##div:nth-of-type(2) > div:nth-of-type(7)
-simpleyoutubeconverter.com##div:nth-of-type(2) > div:nth-of-type(6)
-simpleyoutubeconverter.com##div:nth-of-type(2) > div:nth-of-type(5)
-simpleyoutubeconverter.com##div:nth-of-type(2) > div:nth-of-type(4)
-simpleyoutubeconverter.com##div:nth-of-type(2) > div:nth-of-type(3)
-simpleyoutubeconverter.com##div:nth-of-type(2) > div:nth-of-type(1) > strong
+getvideo.org###windows-app-promo-max-resolution
+getvideo.org##.windows-app-promo
+getvideo.org##a[href="#webm"]
+getvideo.org##.mc-comments
+getvideo.org##.vk-widget-faq.row
+getvideo.org##.social-footer.row
+mp3.getvideo.org###vk_comments
+mp3.getvideo.org##.footer-contacts
 
 apkpure.com##.left:nth-of-type(4)
 apkpure.com##.left:nth-of-type(6)
@@ -371,7 +365,6 @@ apkpure.com###comment
 apkpure.com##.bread-crumbs.title
 apkpure.com##.ver-title > .tit
 apkpure.com##.left > .ad-box-auto
-apkpure.com##.box:nth-of-type(1)
 apkpure.com##.box:nth-of-type(2)
 apkpure.com##.box:nth-of-type(3)
 apkpure.com##.box:nth-of-type(4)
@@ -398,6 +391,10 @@ yandex.ru##.serp-footer__family-mode
 yandex.ru##.footer__settings
 yandex.ru##.serp-footer__feedback
 yandex.ru##.serp-footer__help
+yandex.ru##.head-promo-plus
+yandex.ru##.home-link_intense-blue_yes
+
+www.google.ru###abar_button_opt
 
 
 ! Удаляем со страницы элементы, ссылающиеся на ЭТИ сайты ----------------------------------
@@ -419,5 +416,7 @@ yandex.ru##.serp-footer__help
 ##a[href*="iphos.ru"]
 ##a[href*="torrent-2051.ru"]
 ##a[href*="torrent-2050.ru"]
+##a[href*="mahidevrat.com"]
+
 
 
