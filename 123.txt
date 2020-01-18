@@ -378,6 +378,7 @@ apkpure.com##.more
 apkpure.com##.stars
 apkpure.com##dd > p:nth-of-type(2)
 apkpure.com##.more-down
+apkpure.com##.index-so-box.box
 
 lenta.ru##.b-video-box__frame
 
