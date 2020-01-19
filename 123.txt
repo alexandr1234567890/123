@@ -207,6 +207,7 @@
 127.0.0.1 *getyournewbrowser*.*
 127.0.0.1 *americascardroom*.*
 127.0.0.1 *worldof*.*
+127.0.0.1 netu.tv
 
 ||coin-hive.com/lib/coinhive.min.js
 ||*/hook.js
@@ -380,6 +381,22 @@ apkpure.com##dd > p:nth-of-type(2)
 apkpure.com##.more-down
 apkpure.com##.index-so-box.box
 
+apkfind.com##.mdl-mega-footer
+apkfind.com##.mdl-layout__header-row
+apk-dl.com##.is-casting-shadow.mdl-layout__header
+apk-dl.com##.mdl-mega-footer
+apk-dl.com##.mdl-shadow--4dp.mdl-button--fab.mdl-js-ripple-effect.mdl-js-button.mdl-button.hero__fab.js_scroll
+apk-dl.com##.flat.breadcrumb > span > span
+apk-dl.com##.similar:nth-of-type(2)
+apk-dl.com##.similar:nth-of-type(3)
+apk-dl.com##.developer-apps
+apk-dl.com###disqus_thread
+apk-dl.com##.file-list.content-child
+apk-dl.com##.content-child:nth-of-type(4)
+apk-dl.com##.section.desc
+apk-dl.com##.section.info
+apk-dl.com###contents > .container > .cluster-heading > .single-title-link
+
 lenta.ru##.b-video-box__frame
 
 yandex.ru###bk-container
@@ -418,6 +435,10 @@ www.google.ru###abar_button_opt
 ##a[href*="torrent-2051.ru"]
 ##a[href*="torrent-2050.ru"]
 ##a[href*="mahidevrat.com"]
+
+
+
+
 
 
 
