@@ -395,7 +395,7 @@ apk-dl.com##.file-list.content-child
 apk-dl.com##.content-child:nth-of-type(4)
 apk-dl.com##.section.desc
 apk-dl.com##.section.info
-apk-dl.com###contents > .container > .cluster-heading > .single-title-link
+apk-dl.com###contents > .container > .cluster-heading
 
 lenta.ru##.b-video-box__frame
 
