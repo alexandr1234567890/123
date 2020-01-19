@@ -396,6 +396,11 @@ apk-dl.com##.content-child:nth-of-type(4)
 apk-dl.com##.section.desc
 apk-dl.com##.section.info
 apk-dl.com###contents > .container > .cluster-heading
+apk-dl.com##.content-child:nth-of-type(3)
+apk-dl.com##.content-child:nth-of-type(5)
+apk-dl.com##.developer
+apk-dl.com##.category
+apk-dl.com##.rating
 
 lenta.ru##.b-video-box__frame
 
