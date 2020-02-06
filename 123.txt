@@ -484,7 +484,7 @@ apkpure.ai##a[href="/apk-downloader"]
 apkpure.ai##.search-dl > dd > p:nth-of-type(2)
 apkpure.ai##.search-dl > dd > p:nth-of-type(3) > .more-down
 apkpure.ai##.showmore_trigger
-
+apkpure.ai##.ny-down
 
 
 
