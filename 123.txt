@@ -455,7 +455,35 @@ yandex.ru##.tags
 zen.yandex.ru##.article-render_new-layout.article-render > .article-render__block_embed.article-render__block
 www.google.ru##g-section-with-header
 www.google.ru###bres
-
+www.google.ru##.card-section
+www.google.ru###extrares
+apkpure.ai##.footer
+apkpure.ai##.nav_menu-item:nth-of-type(2)
+apkpure.ai##.nav_menu-item:nth-of-type(3)
+apkpure.ai##.nav_menu-item:nth-of-type(4)
+apkpure.ai##.nav_menu-item:nth-of-type(5)
+apkpure.ai##.right
+apkpure.ai##.search-results
+apkpure.ai##.top-list
+apkpure.ai##.banner
+apkpure.ai##.title
+apkpure.ai##.details-rating
+apkpure.ai##.stars
+apkpure.ai##canvas
+apkpure.ai##.zoom
+apkpure.ai##.details
+apkpure.ai##.version-ul > li:nth-of-type(4)
+apkpure.ai##.version-ul > li:nth-of-type(1)
+apkpure.ai##.version-ul > li:nth-of-type(6)
+apkpure.ai###describe
+apkpure.ai###comments
+apkpure.ai###morebtn
+apkpure.ai##.category-template
+apkpure.ai##.loadmore
+apkpure.ai##a[href="/apk-downloader"]
+apkpure.ai##.search-dl > dd > p:nth-of-type(2)
+apkpure.ai##.search-dl > dd > p:nth-of-type(3) > .more-down
+apkpure.ai##.showmore_trigger
 
 
 
