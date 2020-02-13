@@ -165,7 +165,6 @@
 127.0.0.1 triofiles.*
 127.0.0.1 shkola2*.*
 127.0.0.1 *parimatch.*
-127.0.0.1 bit.*
 127.0.0.1 manualbox.*
 127.0.0.1 ffilueportal.*.*
 127.0.0.1 1cbq.*
@@ -210,6 +209,11 @@
 127.0.0.1 netu.tv
 127.0.0.1 file.pet
 127.0.0.1 one-*.world
+127.0.0.1 cenado.*
+127.0.0.1 5kteens.*
+127.0.0.1 exe.io
+127.0.0.1 *model.*
+127.0.0.1 *chaturbate.*
 
 ||coin-hive.com/lib/coinhive.min.js
 ||*/hook.js
@@ -425,6 +429,8 @@ apk-dl.com##.rating
 ##a[href*="torrent-2050.ru"]
 ##a[href*="mahidevrat.com"]
 ##a[href*="goo.gl"]
+##a[href*="exe.io"]
+##a[href*="clck.ru"]
 
 lenta.ru##.b-video-box__frame
 yandex.ru###bk-container
@@ -485,6 +491,9 @@ apkpure.ai##.search-dl > dd > p:nth-of-type(2)
 apkpure.ai##.search-dl > dd > p:nth-of-type(3) > .more-down
 apkpure.ai##.showmore_trigger
 apkpure.ai##.ny-down
+yandex.ru##.zalogin-smart__inner
+
+
 
 
 
