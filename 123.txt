@@ -523,7 +523,19 @@ yandex.ru##.text-with-icon_inline_yes.text-with-icon
 www.majorgeeks.com##.content > b
 127.0.0.1 *reimageplus.*
 ##a[href*="reimageplus.com"]
-
+##a[href*="katfile.com"]
+##a[href*="uploadrar.com"]
+###mewUnd
+##.mewBlock
+##a[href*="yabrowser.su"]
+127.0.0.1 *yabrowser.*
+www.drtuber.com##.drt-sponsor-block
+t##.sidebar__best-dem
+###block-news-table
+##a[href*="shorten.sh"]
+yandex.ru##.BlogPost
+yandex.ru##.player-mediator
+##a[href*="totalav.com"]
 
 
 
