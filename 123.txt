@@ -281,6 +281,7 @@ www.pornwhite.com###after-adv
 ##.banner-wrapper
 ###advertising
 ###after-adv
+ru.xhamster.desi##.age-protect
 
 www.youtube.com###search-secondary-col-contents
 www.youtube.com##.search-refinements
@@ -372,7 +373,6 @@ apkpure.com###comment
 apkpure.com##.bread-crumbs.title
 apkpure.com##.ver-title > .tit
 apkpure.com##.left > .ad-box-auto
-apkpure.com##.box:nth-of-type(2)
 apkpure.com##.box:nth-of-type(3)
 apkpure.com##.box:nth-of-type(4)
 apkpure.com##.box:nth-of-type(5)
@@ -386,6 +386,15 @@ apkpure.com##.stars
 apkpure.com##dd > p:nth-of-type(2)
 apkpure.com##.more-down
 apkpure.com##.index-so-box.box
+apkpure.com##.additional
+apkpure.com##.describe
+apkpure.com##.aegon-link
+apkpure.com##.tag
+apkpure.com##.popsafe-open.safe
+apkpure.com##.rating-info
+apkpure.com##img[src="https://static.apkpure.com/www/static/imgs/logo_new.png"]
+apkpure.com##.details-how > a[href="/ru/instagram/com.instagram.android/versions"]
+apkpure.com##.details-author
 
 apkfind.com##.mdl-mega-footer
 apkfind.com##.mdl-layout__header-row
@@ -536,6 +545,8 @@ t##.sidebar__best-dem
 yandex.ru##.BlogPost
 yandex.ru##.player-mediator
 ##a[href*="totalav.com"]
+127.0.0.1 *your-dream-girls-here2.*
+##a[href*="adultx.club"]
 
 
 
