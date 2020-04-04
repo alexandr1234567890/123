@@ -508,7 +508,7 @@ yandex.ru##.content__right_cols_12.content__right > .serp-list
 yandex.ru##.ugc_js_inited.i-bem.ugc_player_default.ugc
 www.google.ru###promos
 ##.rekomendacii
-##a[href*="bubblevard.com"]
+##a[href*="bubblevard."]
 127.0.0.1 *wowlucky.*
 127.0.0.1 *steamplanet.*
 ||st.overclockers.ru/images/feeding.jpg$image
@@ -523,30 +523,59 @@ account.mail.ru##.fast-auth
 127.0.0.1 *grindr.*
 127.0.0.1 *yourbrowser.*
 127.0.0.1 *webbrowser.*
-##a[href*="webbrowser.club"]
-##a[href*="tekaners.com"]
+##a[href*="webbrowser."]
+##a[href*="tekaners."]
 yandex.ru##.text-with-icon_inline_yes.text-with-icon
-##a[href*="genelevius.com"]
+##a[href*="genelevius."]
 127.0.0.1 *successfulslot.*
 127.0.0.1 *bcvc.*
 www.majorgeeks.com##.content > b
 127.0.0.1 *reimageplus.*
-##a[href*="reimageplus.com"]
-##a[href*="katfile.com"]
-##a[href*="uploadrar.com"]
+##a[href*="reimageplus."]
+##a[href*="katfile."]
+##a[href*="uploadrar."]
 ###mewUnd
 ##.mewBlock
-##a[href*="yabrowser.su"]
+##a[href*="yabrowser."]
 127.0.0.1 *yabrowser.*
 www.drtuber.com##.drt-sponsor-block
 t##.sidebar__best-dem
 ###block-news-table
-##a[href*="shorten.sh"]
+##a[href*="shorten."]
 yandex.ru##.BlogPost
 yandex.ru##.player-mediator
-##a[href*="totalav.com"]
+##a[href*="totalav."]
 127.0.0.1 *your-dream-girls-here2.*
-##a[href*="adultx.club"]
+##a[href*="adultx."]
+127.0.0.1 *4cams.*
+127.0.0.1 *hexat.*
+127.0.0.1 *blognive.*
+oxy.st##.adv-wrap
+127.0.0.1 *chievemino.*
+yandex.ru##.cmnt-raised-message
+yandex.ru##.VideoViewer-ViewerComments
+yandex.ru##.Viewer-Buttons
+bobs-tube.com##.sponsored_top
+yandex.ru##.serp-item-actions
+##a[href*="tmearn."]
+##a[href*="cutpaid."]
+##a[href*="chan."]
+##a[href*="jbcam."]
+##a[href*="xbase."]
+##a[href*="sekretcam."]
+127.0.0.1 *best-dating-clubs.*
+127.0.0.1 *jolly.me
+127.0.0.1 *www.asddates.*
+127.0.0.1 *imgdew.pw
+127.0.0.1 *meendo.*
+##a[href*="shrinkme."]
+##a[href*="xtop."]
+##a[href*="ioav."]
+##a[href*="topwap."]
+127.0.0.1 *tytdosyg.*
+127.0.0.1 *sexfamily.*
+##a[href*="sexfamily."]
+127.0.0.1 *navsegda.*
 
 
 
