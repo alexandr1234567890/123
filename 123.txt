@@ -557,7 +557,7 @@ youla.ru##.product_item--promoted
 127.0.0.1 *yadistr.*
 127.0.0.1 *sex-and-flirt.*
 ##.tag-link-wrap
-
+e.mail.ru##.advert-column_native-scroll.advert-column
 
 
 
