@@ -442,36 +442,7 @@ apk-dl.com##.rating
 ##a[href*="clck.ru"]
 
 lenta.ru##.b-video-box__frame
-yandex.ru###bk-container
-yandex.ru##.direct_js_inited
-yandex.ru##.notifier__box
-yandex.ru##.yaplus
-yandex.ru##.header-favorites-button
-yandex.ru##.safety-filter__icon
-yandex.ru##.serp-footer__family-mode
-yandex.ru##.footer__settings
-yandex.ru##.serp-footer__feedback
-yandex.ru##.serp-footer__help
-yandex.ru##.head-promo-plus
-yandex.ru##.home-link_intense-blue_yes
-www.google.ru###abar_button_opt
-cloud.mail.ru##.b-portal-menu-promo
-cloud.mail.ru##.b-upload-promo
 ||www.extremetube.com/nb-back$image
-yandex.ru##.ImagesViewerApp-DirectStripeContainer
-yandex.ru##.distr-default-search-header
-yandex.ru##.i-bem.related
-yandex.ru##.serp-footer__main
-yandex.ru##.composite_bottom-margin_none
-yandex.ru##.Composite
-yandex.ru##.composite_separated_no
-yandex.ru## .serp-item__social-stats
-yandex.ru##.tags
-zen.yandex.ru##.article-render_new-layout.article-render > .article-render__block_embed.article-render__block
-www.google.ru##g-section-with-header
-www.google.ru###bres
-www.google.ru##.card-section
-www.google.ru###extrares
 apkpure.ai##.footer
 apkpure.ai##.nav_menu-item:nth-of-type(2)
 apkpure.ai##.nav_menu-item:nth-of-type(3)
@@ -500,13 +471,6 @@ apkpure.ai##.search-dl > dd > p:nth-of-type(2)
 apkpure.ai##.search-dl > dd > p:nth-of-type(3) > .more-down
 apkpure.ai##.showmore_trigger
 apkpure.ai##.ny-down
-yandex.ru##.zalogin-smart__inner
-yandex.ru##.prevention__message
-yandex.ru##.popup2
-yandex.ru##.extended-text__previous
-yandex.ru##.content__right_cols_12.content__right > .serp-list
-yandex.ru##.ugc_js_inited.i-bem.ugc_player_default.ugc
-www.google.ru###promos
 ##.rekomendacii
 ##a[href*="bubblevard."]
 127.0.0.1 *wowlucky.*
@@ -517,15 +481,12 @@ www.google.ru###promos
 127.0.0.1 *russiandolls.*
 127.0.0.1 *mirtesen.*
 127.0.0.1 *ruappcontest.*
-account.mail.ru##.qrauth__compact-view > div
-account.mail.ru##.fast-auth
 ##.frisbuy-gallery
 127.0.0.1 *grindr.*
 127.0.0.1 *yourbrowser.*
 127.0.0.1 *webbrowser.*
 ##a[href*="webbrowser."]
 ##a[href*="tekaners."]
-yandex.ru##.text-with-icon_inline_yes.text-with-icon
 ##a[href*="genelevius."]
 127.0.0.1 *successfulslot.*
 127.0.0.1 *bcvc.*
@@ -542,8 +503,6 @@ www.drtuber.com##.drt-sponsor-block
 t##.sidebar__best-dem
 ###block-news-table
 ##a[href*="shorten."]
-yandex.ru##.BlogPost
-yandex.ru##.player-mediator
 ##a[href*="totalav."]
 127.0.0.1 *your-dream-girls-here2.*
 ##a[href*="adultx."]
@@ -552,11 +511,7 @@ yandex.ru##.player-mediator
 127.0.0.1 *blognive.*
 oxy.st##.adv-wrap
 127.0.0.1 *chievemino.*
-yandex.ru##.cmnt-raised-message
-yandex.ru##.VideoViewer-ViewerComments
-yandex.ru##.Viewer-Buttons
 bobs-tube.com##.sponsored_top
-yandex.ru##.serp-item-actions
 ##a[href*="tmearn."]
 ##a[href*="cutpaid."]
 ##a[href*="chan."]
@@ -576,6 +531,33 @@ yandex.ru##.serp-item-actions
 127.0.0.1 *sexfamily.*
 ##a[href*="sexfamily."]
 127.0.0.1 *navsegda.*
+##a[href*="browser-update."]
+127.0.0.1 *browser-update.*
+127.0.0.1 *datinglocator*.*
+127.0.0.1 *comewithyou.*
+##a[href*="papatyrodum."]
+127.0.0.1 *papatyrodum.*
+127.0.0.1 *periscop*.*
+127.0.0.1 *nude-*.*
+127.0.0.1 *onlyfans.*
+127.0.0.1 *bongacams*.*
+127.0.0.1 *locatemylife*.*
+##a[href*="mamydirect."]
+##cloudflare-app
+127.0.0.1 *tgraph.*
+##.banners
+##.tags
+smoner.com##body > div:nth-of-type(3)
+127.0.0.1 *telki.*
+127.0.0.1 *1x-bet*.*
+##center > a[href^="/turbo"]
+youla.ru##.product_item--promoted
+###tagcanvas
+##a[href*="webutation."]
+127.0.0.1 *yadistr.*
+127.0.0.1 *sex-and-flirt.*
+##.tag-link-wrap
+
 
 
 
