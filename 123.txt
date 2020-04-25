@@ -395,6 +395,9 @@ apkpure.com##.rating-info
 apkpure.com##img[src="https://static.apkpure.com/www/static/imgs/logo_new.png"]
 apkpure.com##.details-how > a[href="/ru/instagram/com.instagram.android/versions"]
 apkpure.com##.details-author
+apkpure.com##.dl-ref
+apkpure.com##.down-variant
+apkpure.com##a[href="/ru/how-to-install-apk.html"]
 
 apkfind.com##.mdl-mega-footer
 apkfind.com##.mdl-layout__header-row
@@ -417,32 +420,6 @@ apk-dl.com##.developer
 apk-dl.com##.category
 apk-dl.com##.rating
 
-! Удаляем со страницы элементы, ссылающиеся на ЭТИ сайты ----------------------------------
-
-##a[href*="eagleplatform.com"]
-##a[href*="ati.jptrmn.com"]
-##a[href*="parandaya.com"]
-##a[href*="1k3.net"]
-##a[href*="farharborius.com"]
-##a[href*="xhamsterlive.com"]
-##a[href*="download.cdn.yandex.net"]
-##a[href*="ya-distrib.ru"]
-##a[href*="tttttt.me"]
-##a[href*="quaruzon.com"]
-##a[href*="haritaful.com"]
-##a[href*="porandeya.com"]
-##a[href*="bit.ly"]
-##a[href*="fegortius.com"]
-##a[href*="iphos.ru"]
-##a[href*="torrent-2051.ru"]
-##a[href*="torrent-2050.ru"]
-##a[href*="mahidevrat.com"]
-##a[href*="goo.gl"]
-##a[href*="exe.io"]
-##a[href*="clck.ru"]
-
-lenta.ru##.b-video-box__frame
-||www.extremetube.com/nb-back$image
 apkpure.ai##.footer
 apkpure.ai##.nav_menu-item:nth-of-type(2)
 apkpure.ai##.nav_menu-item:nth-of-type(3)
@@ -471,6 +448,33 @@ apkpure.ai##.search-dl > dd > p:nth-of-type(2)
 apkpure.ai##.search-dl > dd > p:nth-of-type(3) > .more-down
 apkpure.ai##.showmore_trigger
 apkpure.ai##.ny-down
+
+! Удаляем со страницы элементы, ссылающиеся на ЭТИ сайты ----------------------------------
+
+##a[href*="eagleplatform.com"]
+##a[href*="ati.jptrmn.com"]
+##a[href*="parandaya.com"]
+##a[href*="1k3.net"]
+##a[href*="farharborius.com"]
+##a[href*="xhamsterlive.com"]
+##a[href*="download.cdn.yandex.net"]
+##a[href*="ya-distrib.ru"]
+##a[href*="tttttt.me"]
+##a[href*="quaruzon.com"]
+##a[href*="haritaful.com"]
+##a[href*="porandeya.com"]
+##a[href*="bit.ly"]
+##a[href*="fegortius.com"]
+##a[href*="iphos.ru"]
+##a[href*="torrent-2051.ru"]
+##a[href*="torrent-2050.ru"]
+##a[href*="mahidevrat.com"]
+##a[href*="goo.gl"]
+##a[href*="exe.io"]
+##a[href*="clck.ru"]
+
+lenta.ru##.b-video-box__frame
+||www.extremetube.com/nb-back$image
 ##.rekomendacii
 ##a[href*="bubblevard."]
 127.0.0.1 *wowlucky.*
@@ -558,6 +562,13 @@ youla.ru##.product_item--promoted
 127.0.0.1 *sex-and-flirt.*
 ##.tag-link-wrap
 e.mail.ru##.advert-column_native-scroll.advert-column
+##.dyltv-container
+oxy.st###tekst-3
+##a[href*="outputlead."]
+old.fishki.net##.related-posts-wrap
+old.fishki.net##.side-right
+127.0.0.1 *meendoru.*
+
 
 
 
