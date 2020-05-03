@@ -568,6 +568,44 @@ oxy.st###tekst-3
 old.fishki.net##.related-posts-wrap
 old.fishki.net##.side-right
 127.0.0.1 *meendoru.*
+zen.yandex.ru##.article-ad-right__content
+lenta.ru##.b-topic-sidebar
+127.0.0.1 *moiprogrammy.*
+127.0.0.1 *win10programs.*
+##a[href*="huilkom."]
+##a[href*="onlinestars."]
+##a[href*="telamoncleaner."]
+##a[href*="kropic."]
+127.0.0.1 *kropic.*
+old.fishki.net##.clearfix.container-slider-top.container
+##a[href*="smotri.mail."]
+youngis.space##.sim_ss_tr_5
+youngis.space##.file_show > div:nth-of-type(1)
+youngis.space##.hoverZoomLink
+youngis.space##.file_show > div:nth-of-type(2)
+youngis.space##form
+youngis.space##.new_index_2
+youngis.space##.sim_ss_tr
+||youngis.space/css/img/update.png$image
+||sexkiss.tech/css/img/update.png$image
+||sexkiss.tech/files/*.mp4$media
+||sexkiss.tech/files/*.*$media
+sexkiss.tech##table
+sexkiss.tech##.file_show
+sexkiss.tech##.new_index_2
+sexkiss.tech##form
+sexkiss.tech##a[href^="/show.php"] > .files_in_list_it_3
+sexkiss.tech##.files_in_list_it_7
+##a[href*="sextub."]
+www.tube-bunny.com##.wrap-visions-1m
+www.tube-bunny.com##.article1 > .container-fluid > .less-gutter.row > .col-md-3
+www.tube-bunny.com##.under-video-vision
+www.tube-bunny.com##.video.home-bottom.visions
+www.tube-bunny.com##.vision
+www.tube-bunny.com##.article2:nth-of-type(2)
+www.tube-bunny.com##.vision-on-player-inside
+##a[href*="clantervarius."]
+
 
 
 
