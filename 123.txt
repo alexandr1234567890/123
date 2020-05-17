@@ -160,7 +160,6 @@
 127.0.0.1 ya-distrib.*
 127.0.0.1 plarium.*
 127.0.0.1 compute.amazonaws.*
-127.0.0.1 uploadrar.*
 127.0.0.1 *book.xyz
 127.0.0.1 triofiles.*
 127.0.0.1 shkola2*.*
@@ -282,6 +281,10 @@ www.pornwhite.com###after-adv
 ###advertising
 ###after-adv
 ru.xhamster.desi##.age-protect
+www.bravotube.net##.inplb
+www.bravotube.net###bravoplayer_fluid_context_menu
+www.pornicom.com###pre-ad
+
 
 www.youtube.com###search-secondary-col-contents
 www.youtube.com##.search-refinements
@@ -448,6 +451,9 @@ apkpure.ai##.search-dl > dd > p:nth-of-type(2)
 apkpure.ai##.search-dl > dd > p:nth-of-type(3) > .more-down
 apkpure.ai##.showmore_trigger
 apkpure.ai##.ny-down
+apkpure.com##.right
+apkpure.com##.details-how
+||yaksgames.com/promotion/apkpuredown$subdocument
 
 ! Удаляем со страницы элементы, ссылающиеся на ЭТИ сайты ----------------------------------
 
@@ -514,6 +520,9 @@ t##.sidebar__best-dem
 127.0.0.1 *hexat.*
 127.0.0.1 *blognive.*
 oxy.st##.adv-wrap
+oxy.st##p
+oxy.st###tekst-3
+oxy.st###abuse
 127.0.0.1 *chievemino.*
 bobs-tube.com##.sponsored_top
 ##a[href*="tmearn."]
@@ -563,7 +572,6 @@ youla.ru##.product_item--promoted
 ##.tag-link-wrap
 e.mail.ru##.advert-column_native-scroll.advert-column
 ##.dyltv-container
-oxy.st###tekst-3
 ##a[href*="outputlead."]
 old.fishki.net##.related-posts-wrap
 old.fishki.net##.side-right
@@ -586,7 +594,10 @@ youngis.space##.file_show > div:nth-of-type(2)
 youngis.space##form
 youngis.space##.new_index_2
 youngis.space##.sim_ss_tr
+youngis.space##.index_chat_post_7
 ||youngis.space/css/img/update.png$image
+||youngis.space/css/img/online.gif$image
+||youngis.space/css/img/offline.gif$image
 ||sexkiss.tech/css/img/update.png$image
 ||sexkiss.tech/files/*.mp4$media
 ||sexkiss.tech/files/*.*$media
@@ -596,6 +607,10 @@ sexkiss.tech##.new_index_2
 sexkiss.tech##form
 sexkiss.tech##a[href^="/show.php"] > .files_in_list_it_3
 sexkiss.tech##.files_in_list_it_7
+sexkiss.tech##.hoverZoomLink.file_show_5
+||sexkiss.tech/css/img/offline.gif$image
+||sexkiss.tech/css/img/online.gif$image
+sexkiss.tech##.index_chat_post_7
 ##a[href*="sextub."]
 www.tube-bunny.com##.wrap-visions-1m
 www.tube-bunny.com##.article1 > .container-fluid > .less-gutter.row > .col-md-3
@@ -606,7 +621,48 @@ www.tube-bunny.com##.article2:nth-of-type(2)
 www.tube-bunny.com##.vision-on-player-inside
 ##a[href*="clantervarius."]
 
-
+##.right_blk
+##a[href*="faptop."]
+##a[href*="h9m."]
+##a[href*="pornotop."]
+##a[href*="xxxlog."]
+##a[href*="yotop."]
+##a[href*="mstcs."]
+##a[href*="keotop."]
+##a[href*="statok."]
+##a[href*="webts."]
+##a[href*="stats24."]
+##a[href*="katstat."]
+##a[href*="sekstop."]
+##a[href*="firetop."]
+##a[href*="bystat."]
+##a[href*="adultop."]
+##a[href*="gegtop."]
+##a[href*="catop."]
+e.mail.ru##tr:nth-of-type(3) > td > table > tbody > tr > td > table > tbody > tr > td
+##a[href*="imgoutlet."]
+127.0.0.1 *ohnrp.*
+cloud.mail.ru##.b-panel__wrapper
+127.0.0.1 *slimsk.*
+127.0.0.1 *sabs-news.*
+##a[href*="file-up."]
+||*/banner/$image
+##a[href*="goporno."]
+127.0.0.1 *the31news.*
+##a[href*="myserf."]
+127.0.0.1 *myserf.*
+127.0.0.1 *loverfoyou.*
+127.0.0.1 *urlz.*
+127.0.0.1 *your-dating-here*.*
+127.0.0.1 *esmo.*
+127.0.0.1 *fuck.*
+##a[href*="brevandolius."]
+##a[href*="erotic"]
+##a[href*="universal-bypass."]
+127.0.0.1 *universal-bypass.*
+127.0.0.1 *zlink2.*
+127.0.0.1 *search-wizard.*
+127.0.0.1 *amateur.*
 
 
 
