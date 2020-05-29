@@ -620,7 +620,6 @@ www.tube-bunny.com##.vision
 www.tube-bunny.com##.article2:nth-of-type(2)
 www.tube-bunny.com##.vision-on-player-inside
 ##a[href*="clantervarius."]
-
 ##.right_blk
 ##a[href*="faptop."]
 ##a[href*="h9m."]
@@ -663,6 +662,17 @@ cloud.mail.ru##.b-panel__wrapper
 127.0.0.1 *zlink2.*
 127.0.0.1 *search-wizard.*
 127.0.0.1 *amateur.*
+||fooktube.com/wp-content/uploads/*.jpg$image
+zen.yandex.ru##.article-right-suggested-publications-wrapper
+##a[href*="yandeks"]
+##a[href*="periscop"]
+##a[href*="/turbo/"]
+127.0.0.1 *typeform.*
+127.0.0.1 *wodemo*
+##a[href*="wodemo"]
+##a[href*="face-push.com/torrent"]
+##a[href*="free_turboline"]
+e.mail.ru##.promo-block-letter
 
 
 
