@@ -673,7 +673,19 @@ zen.yandex.ru##.article-right-suggested-publications-wrapper
 ##a[href*="face-push.com/torrent"]
 ##a[href*="free_turboline"]
 e.mail.ru##.promo-block-letter
+yandex.ru##.direct
 
+pritchi.ru###sidebar-right
+pritchi.ru##.bg-yellow.bordered.page-global-area
+pritchi.ru##.site-footer
+pritchi.ru##.discussion.discussion-area
+pritchi.ru##.parable.article-area > .meta
+pritchi.ru##.summary
+pritchi.ru###note
+pritchi.ru##.breadcrumbs
+pritchi.ru##.header-content
+pritchi.ru##.g-middle > .g-hidden-print
+pritchi.ru##.page-global-area:nth-of-type(5)
 
 
 
