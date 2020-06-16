@@ -674,7 +674,37 @@ zen.yandex.ru##.article-right-suggested-publications-wrapper
 ##a[href*="free_turboline"]
 e.mail.ru##.promo-block-letter
 yandex.ru##.direct
-
+||vp.rambler.ru/player/*/iframe.html$subdocument
+##a[href*="gestyy."]
+russia.tv##.mini-player
+##.top-banner-container
+e.mail.ru###octavius-notify-unsubscribe-after-delete
+127.0.0.1 *freedating*
+##a[href*="r.mail.ru/redir"]
+127.0.0.1 *viiotp*
+lenta.ru##.b-topic-addition.b-topic-longgrid
+lenta.ru###root > span
+##a[href*="roulette"]
+127.0.0.1 *play.pulpower.*
+e.mail.ru###theme-currency-notify
+cloud.mail.ru##.b-tooltip_tariff-promo
+127.0.0.1 *tilda*
+||money.yandex.ru/quickpay/shop-widget$subdocument
+yandex.ru###bk-container
+yandex.ru##.sticky_js_inited.sticky_visible
+127.0.0.1 *pushwelcome*
+##a[href*="click."]
+yandex.ru##.distr-default-search-header_js_inited
+##a[href*="bookmaker"]
+127.0.0.1 *bookmaker*
+##a[href*="xguqeh."]
+127.0.0.1 *triumphantplace*
+##a[href*="rek1."]
+##.wpn-ok-btn
+##.wpn-block-btn
+||*/live/embed/mini$subdocument
+##a[href*="toloka.yandex.ru/"]
+##a[href*="rifflingo"]
 
 
 
