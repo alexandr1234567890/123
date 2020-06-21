@@ -469,7 +469,6 @@ apkpure.com##.details-how
 ##a[href*="quaruzon.com"]
 ##a[href*="haritaful.com"]
 ##a[href*="porandeya.com"]
-##a[href*="bit.ly"]
 ##a[href*="fegortius.com"]
 ##a[href*="iphos.ru"]
 ##a[href*="torrent-2051.ru"]
@@ -705,6 +704,10 @@ yandex.ru##.distr-default-search-header_js_inited
 ||*/live/embed/mini$subdocument
 ##a[href*="toloka.yandex.ru/"]
 ##a[href*="rifflingo"]
+##.privacy
+##.drt-spot-visible.drt-spot-box
+
+
 
 
 
