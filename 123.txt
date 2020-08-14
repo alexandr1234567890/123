@@ -706,7 +706,40 @@ yandex.ru##.distr-default-search-header_js_inited
 ##a[href*="rifflingo"]
 ##.privacy
 ##.drt-spot-visible.drt-spot-box
-
+onvi.club##.wp-block-columns:nth-of-type(4)
+##a[href*="ufiler-pro."]
+127.0.0.1 *sealoid*
+##.squarebanner
+127.0.0.1 *jailbait*
+127.0.0.1 *waphall*
+fantasti.cc##.right_column
+www.youporn.com##.four-column
+##.ec-promo
+127.0.0.1 *waplist*
+yandex.ru##.zalogin-smart
+127.0.0.1 *convertrz-search*
+turbobit5.net##.payment-block
+127.0.0.1 *monotyper*
+127.0.0.1 *imig.*
+##a[href*="imig."]
+e.mail.ru###octavius-tooltip-kitty
+##a[href*="/banner/"]
+yandex.ru##.incut_inserted_yes.incut_js_inited.i-bem.incut_position_page-fixed.incut_type_direct.incut
+||mp3ton.info/templates/mp3ton/dleimages/no_image.jpg$image
+##a[href*="galdarael"]
+127.0.0.1 *breakingnews*
+127.0.0.1 *searchconvertor*
+127.0.0.1 *vid-search*
+127.0.0.1 *nssuccess*
+||wapmob.net$image
+||joytop.ru$image
+||sexstat.ru$image
+||tabok.ru$image
+||toporn.su$image
+||uzsayt.ru$image
+127.0.0.1 *unicom24*
+127.0.0.1 *tiktok*
+##a[href*="tiktok"]
 
 
 
