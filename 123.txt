@@ -692,7 +692,6 @@ cloud.mail.ru##.b-tooltip_tariff-promo
 yandex.ru###bk-container
 yandex.ru##.sticky_js_inited.sticky_visible
 127.0.0.1 *pushwelcome*
-##a[href*="click."]
 yandex.ru##.distr-default-search-header_js_inited
 ##a[href*="bookmaker"]
 127.0.0.1 *bookmaker*
@@ -740,7 +739,14 @@ yandex.ru##.incut_inserted_yes.incut_js_inited.i-bem.incut_position_page-fixed.i
 127.0.0.1 *unicom24*
 127.0.0.1 *tiktok*
 ##a[href*="tiktok"]
-
+127.0.0.1 *danesbees*
+www.sexvid.porn##.spots_field
+apkpure.com##.tempWrap > ul
+apkpure.com###slide-wrap
+##a[href*="cloud.mail.na.to"]
+e.mail.ru##.renovator_2pane.renovator_visible.renovator
+127.0.0.1 *bestpdfsearch*
+sexkiss.tech##.new_index_4
 
 
 
