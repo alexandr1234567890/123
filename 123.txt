@@ -470,7 +470,6 @@ apkpure.com##.details-how
 ##a[href*="haritaful.com"]
 ##a[href*="porandeya.com"]
 ##a[href*="fegortius.com"]
-##a[href*="iphos.ru"]
 ##a[href*="torrent-2051.ru"]
 ##a[href*="torrent-2050.ru"]
 ##a[href*="mahidevrat.com"]
@@ -747,7 +746,23 @@ apkpure.com###slide-wrap
 e.mail.ru##.renovator_2pane.renovator_visible.renovator
 127.0.0.1 *bestpdfsearch*
 sexkiss.tech##.new_index_4
-
+127.0.0.1 *onlinestars*
+127.0.0.1 *radio-searches*
+127.0.0.1 *ogorodniki*
+127.0.0.1 *anyconvertersearch*
+127.0.0.1 *superchat*
+127.0.0.1 *forumlovers*
+##a[href*="forumlovers"]
+##.ng-isolate-scope
+mail.ru##.grid__rcol_aside-atlas
+127.0.0.1 *mypdf-search*
+##.showYdModal.modalYdDownload
+127.0.0.1 *offer*
+yandex.ru##.verified-list
+127.0.0.1 *topstreamssearch*
+127.0.0.1 *businesslink*
+yandex.ru##.related_js_inited.i-bem.related
+yandex.ru##.related__hidden
 
 
 
