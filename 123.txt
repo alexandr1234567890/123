@@ -723,7 +723,6 @@ e.mail.ru###octavius-tooltip-kitty
 ##a[href*="/banner/"]
 yandex.ru##.incut_inserted_yes.incut_js_inited.i-bem.incut_position_page-fixed.incut_type_direct.incut
 ||mp3ton.info/templates/mp3ton/dleimages/no_image.jpg$image
-##a[href*="galdarael"]
 127.0.0.1 *breakingnews*
 127.0.0.1 *searchconvertor*
 127.0.0.1 *vid-search*
@@ -787,7 +786,11 @@ www.pornlib.com##.ad-url
 ##a[href*="xqiz"]
 account.mail.ru##.fast-auth
 www.youtube.com##a[href^="//support.google.com/youtube/"]
-
+127.0.0.1 *casualdating*
+127.0.0.1 *telegra.ph*
+##a[href*="telegra.ph"]
+127.0.0.1 *.aino.*
+##a[href*="#public"]
 
 
 
