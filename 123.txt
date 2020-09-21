@@ -766,7 +766,6 @@ tv-soyuz.ru###slidebox
 tv-soyuz.ru##.current.blocker.jquery-modal
 aliexpress.ru###trial-review
 127.0.0.1 *detaingler*
-127.0.0.1 *search*
 127.0.0.1 *bet-1x*
 yandex.ru##.misspell_bottom_yes.misspell
 yandex.ru##.serp-adv__found
