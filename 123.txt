@@ -247,9 +247,6 @@ vk.com###actualize_box
 ||vk.com/widget_community.php$subdocument
 ||vk.com/images/upload.gif$image
 
-
-! Убираю рекламу перед видео ----------------------------------
-
 ##div[id*=age-verification-wrapper]
 ##div[id*=age-verification-container]
 */full_baraban*.webm
@@ -329,7 +326,6 @@ ru.aliexpress.com###girdle-banner-info
 ru.aliexpress.com##.ui-newuser-coupon-tips
 ru.aliexpress.com###j-price-extra-wrap
 ru.aliexpress.com##.store-header-bg
-##a[href*="campaign.aliexpress.com"]
 trade.aliexpress.com###J_xiaomi_dialog
 trade.aliexpress.com##a[href="//sale.aliexpress.com/BRAND_FEST_SHEIN.htm"]
 *alicdn.com/*секс*
@@ -584,30 +580,6 @@ lenta.ru##.b-topic-sidebar
 127.0.0.1 *kropic.*
 old.fishki.net##.clearfix.container-slider-top.container
 ##a[href*="smotri.mail."]
-youngis.space##.sim_ss_tr_5
-youngis.space##.file_show > div:nth-of-type(1)
-youngis.space##.hoverZoomLink
-youngis.space##.file_show > div:nth-of-type(2)
-youngis.space##form
-youngis.space##.new_index_2
-youngis.space##.sim_ss_tr
-youngis.space##.index_chat_post_7
-||youngis.space/css/img/update.png$image
-||youngis.space/css/img/online.gif$image
-||youngis.space/css/img/offline.gif$image
-||sexkiss.tech/css/img/update.png$image
-||sexkiss.tech/files/*.mp4$media
-||sexkiss.tech/files/*.*$media
-sexkiss.tech##table
-sexkiss.tech##.file_show
-sexkiss.tech##.new_index_2
-sexkiss.tech##form
-sexkiss.tech##a[href^="/show.php"] > .files_in_list_it_3
-sexkiss.tech##.files_in_list_it_7
-sexkiss.tech##.hoverZoomLink.file_show_5
-||sexkiss.tech/css/img/offline.gif$image
-||sexkiss.tech/css/img/online.gif$image
-sexkiss.tech##.index_chat_post_7
 ##a[href*="sextub."]
 www.tube-bunny.com##.wrap-visions-1m
 www.tube-bunny.com##.article1 > .container-fluid > .less-gutter.row > .col-md-3
@@ -657,10 +629,10 @@ cloud.mail.ru##.b-panel__wrapper
 ##a[href*="universal-bypass."]
 127.0.0.1 *universal-bypass.*
 127.0.0.1 *zlink2.*
-127.0.0.1 *search-wizard.*
 127.0.0.1 *amateur.*
 ||fooktube.com/wp-content/uploads/*.jpg$image
 zen.yandex.ru##.article-right-suggested-publications-wrapper
+##a[href*="campaign.aliexpress.com"]
 ##a[href*="yandeks"]
 ##a[href*="periscop"]
 ##a[href*="/turbo/"]
@@ -713,7 +685,6 @@ www.youporn.com##.four-column
 ##.ec-promo
 127.0.0.1 *waplist*
 yandex.ru##.zalogin-smart
-127.0.0.1 *convertrz-search*
 turbobit5.net##.payment-block
 127.0.0.1 *monotyper*
 127.0.0.1 *imig.*
@@ -723,8 +694,6 @@ e.mail.ru###octavius-tooltip-kitty
 yandex.ru##.incut_inserted_yes.incut_js_inited.i-bem.incut_position_page-fixed.incut_type_direct.incut
 ||mp3ton.info/templates/mp3ton/dleimages/no_image.jpg$image
 127.0.0.1 *breakingnews*
-127.0.0.1 *searchconvertor*
-127.0.0.1 *vid-search*
 127.0.0.1 *nssuccess*
 ||wapmob.net$image
 ||joytop.ru$image
@@ -741,22 +710,16 @@ apkpure.com##.tempWrap > ul
 apkpure.com###slide-wrap
 ##a[href*="cloud.mail.na.to"]
 e.mail.ru##.renovator_2pane.renovator_visible.renovator
-127.0.0.1 *bestpdfsearch*
-sexkiss.tech##.new_index_4
 127.0.0.1 *onlinestars*
-127.0.0.1 *radio-searches*
 127.0.0.1 *ogorodniki*
-127.0.0.1 *anyconvertersearch*
 127.0.0.1 *superchat*
 127.0.0.1 *forumlovers*
 ##a[href*="forumlovers"]
 ##.ng-isolate-scope
 mail.ru##.grid__rcol_aside-atlas
-127.0.0.1 *mypdf-search*
 ##.showYdModal.modalYdDownload
 127.0.0.1 *offer*
 yandex.ru##.verified-list
-127.0.0.1 *topstreamssearch*
 127.0.0.1 *businesslink*
 yandex.ru##.related_js_inited.i-bem.related
 yandex.ru##.related__hidden
@@ -789,6 +752,8 @@ www.youtube.com##a[href^="//support.google.com/youtube/"]
 ##a[href*="telegra.ph"]
 127.0.0.1 *.aino.*
 ##a[href*="#public"]
+||proxy.imgsmail.ru/$image
+
 
 
 
