@@ -718,7 +718,6 @@ e.mail.ru##.renovator_2pane.renovator_visible.renovator
 ##.ng-isolate-scope
 mail.ru##.grid__rcol_aside-atlas
 ##.showYdModal.modalYdDownload
-127.0.0.1 *offer*
 yandex.ru##.verified-list
 127.0.0.1 *businesslink*
 yandex.ru##.related_js_inited.i-bem.related
@@ -753,6 +752,40 @@ www.youtube.com##a[href^="//support.google.com/youtube/"]
 127.0.0.1 *.aino.*
 ##a[href*="#public"]
 ||proxy.imgsmail.ru/$image
+oxy.st##.showYdModal.modalYdDownload > div > div > div:nth-of-type(2)
+oxy.st##small
+||user-life.com/templates/Duplex/images/img/*.jpg$image
+yandex.ru##.serp-user__login-info
+youla.ru##.product_item--promoted.product_item
+127.0.0.1 *.pennis*
+127.0.0.1 *frogsview*
+127.0.0.1 *bet1*
+127.0.0.1 *nitenauth*
+127.0.0.1 *games.com*
+127.0.0.1 *freshpost*
+127.0.0.1 *ourbochak*
+127.0.0.1 *mulemax*
+127.0.0.1 *lotoru*
+127.0.0.1 *riobet*
+127.0.0.1 *columbus*
+127.0.0.1 *-azino*
+127.0.0.1 *booi*
+127.0.0.1 *1xslot*
+127.0.0.1 *frank-*
+127.0.0.1 *-fresh*
+127.0.0.1 *cassino*
+127.0.0.1 *1-xslot*
+127.0.0.1 *vavada*
+127.0.0.1 *ntiguansen*
+127.0.0.1 *-admiral*
+127.0.0.1 *-hiwager*
+127.0.0.1 *-frank*
+127.0.0.1 *-rv*
+127.0.0.1 *clicks*
+127.0.0.1 *-zet*
+127.0.0.1 *azino*
+127.0.0.1 *first-*
+127.0.0.1 *-aplay*
 
 
 
