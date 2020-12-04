@@ -715,7 +715,6 @@ e.mail.ru##.renovator_2pane.renovator_visible.renovator
 127.0.0.1 *superchat*
 127.0.0.1 *forumlovers*
 ##a[href*="forumlovers"]
-##.ng-isolate-scope
 mail.ru##.grid__rcol_aside-atlas
 ##.showYdModal.modalYdDownload
 yandex.ru##.verified-list
@@ -786,7 +785,14 @@ youla.ru##.product_item--promoted.product_item
 127.0.0.1 *azino*
 127.0.0.1 *first-*
 127.0.0.1 *-aplay*
-
+w1.musify.club##.album-img
+||zoomdecorate.rambler.ru/*$image
+zen.yandex.ru##._size_big.feed__item-wrap
+downloadbrowsernow.com##.content
+downloadbrowsernow.com##.header
+www.softlabirint.com##.leftside
+www.softlabirint.com##.rightside
+##a[href*="bit.ly"]
 
 
 
