@@ -779,7 +779,6 @@ youla.ru##.product_item--promoted.product_item
 127.0.0.1 *-admiral*
 127.0.0.1 *-hiwager*
 127.0.0.1 *-frank*
-127.0.0.1 *-rv*
 127.0.0.1 *clicks*
 127.0.0.1 *-zet*
 127.0.0.1 *azino*
