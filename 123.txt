@@ -674,7 +674,6 @@ yandex.ru##.distr-default-search-header_js_inited
 ##a[href*="rifflingo"]
 ##.privacy
 ##.drt-spot-visible.drt-spot-box
-onvi.club##.wp-block-columns:nth-of-type(4)
 ##a[href*="ufiler-pro."]
 127.0.0.1 *sealoid*
 ##.squarebanner
@@ -751,6 +750,7 @@ www.youtube.com##a[href^="//support.google.com/youtube/"]
 127.0.0.1 *.aino.*
 ##a[href*="#public"]
 ||proxy.imgsmail.ru/$image
+
 oxy.st##.showYdModal.modalYdDownload > div > div > div:nth-of-type(2)
 oxy.st##small
 ||user-life.com/templates/Duplex/images/img/*.jpg$image
@@ -792,6 +792,27 @@ downloadbrowsernow.com##.header
 www.softlabirint.com##.leftside
 www.softlabirint.com##.rightside
 ##a[href*="bit.ly"]
+127.0.0.1 *topanime*
+127.0.0.1 *adultchat*
+##a[href*="dmtech"]
+##a[href*="aneporn"]
+forum.ru-board.com##.post > .sing
+##a[href*="sexh."]
+##a[href*="s-e-x."]
+www.cyberforum.ru##.shade
+127.0.0.1 *check-your-dating*
+127.0.0.1 *lead1*
+w1.musify.club##.st-browser__page
+ru.xhamster4.com##.preloader-inner
+lk.mts.ru##.banner
+127.0.0.1 *tokyodoll*
+##a[href*="tokyodoll"]
+##a[href*="cutiegarden"]
+##a[href*="cutie.garden"]
+boxkino.ru##img[src="/uploads/files/yandexbrowser.png"]
+boxkino.ru##img[src="/uploads/files/mediaget2.png"]
+overclockers.ru##.huge.loading.spinner.icon
+tv-soyuz.ru##.magazine
 
 
 
