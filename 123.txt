@@ -813,7 +813,22 @@ boxkino.ru##img[src="/uploads/files/yandexbrowser.png"]
 boxkino.ru##img[src="/uploads/files/mediaget2.png"]
 overclockers.ru##.huge.loading.spinner.icon
 tv-soyuz.ru##.magazine
-
+##a[href*="trichanlinks"]
+127.0.0.1 *trichanlinks*
+##a[href*="mobiexxx"]
+127.0.0.1 *mobiexxx*
+##a[href*="failcloud24"]
+127.0.0.1 *failcloud24*
+##a[href*="failzoma"]
+127.0.0.1 *failzoma*
+w1.musify.club##.st-browser__footer-right
+4pda.ru##.signature
+overclockers.ru##.over-hiddenlink-html > strong
+dwdisc.com##.b-rec
+dwdisc.com##.js-dwn-tg
+dwdisc.com##.b-download__help-link_mode_visible
+dwdisc.com##.b-MORDOR99RP1
+dwdisc.com##.b-download__info
 
 
 
