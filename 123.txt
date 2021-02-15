@@ -758,7 +758,6 @@ yandex.ru##.serp-user__login-info
 youla.ru##.product_item--promoted.product_item
 127.0.0.1 *.pennis*
 127.0.0.1 *frogsview*
-127.0.0.1 *bet1*
 127.0.0.1 *nitenauth*
 127.0.0.1 *games.com*
 127.0.0.1 *freshpost*
