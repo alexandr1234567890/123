@@ -730,7 +730,6 @@ yandex.ru##.misspell_bottom_yes.misspell
 yandex.ru##.serp-adv__found
 yandex.ru##.composite_separated_no.composite_gap_xs.composite
 yandex.ru##.related__above_appear_yes.related__above_left-column.supply__baobab_js_inited.i-bem.supply__baobab.related__above
-yandex.ru##.link_js_inited.i-bem.link_theme_ghost.link
 yandex.ru##.serp-list_right_yes.serp-list
 127.0.0.1 *forkplastic*
 127.0.0.1 *cutiegarden*
