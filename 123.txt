@@ -828,6 +828,10 @@ dwdisc.com##.js-dwn-tg
 dwdisc.com##.b-download__help-link_mode_visible
 dwdisc.com##.b-MORDOR99RP1
 dwdisc.com##.b-download__info
-
+##a[href*="ameporn"]
+127.0.0.1 *ameporn*
+turbobbit.com##.action-block > div > .btn-red
+www.rbc.ru##.live-tv
+turbobbit.com###download-top-note
 
 
