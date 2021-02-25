@@ -832,5 +832,15 @@ dwdisc.com##.b-download__info
 turbobbit.com##.action-block > div > .btn-red
 www.rbc.ru##.live-tv
 turbobbit.com###download-top-note
-
+www.y2mate.com##.extension-header
+www.y2mate.com##.footer
+www.y2mate.com##.p-r-md.p-l-md.m-t.text-center.homepage-grid.row-padded.row
+www.y2mate.com##.featured.p-r-md.p-l-md.text-center.homepage-grid.row-bordered.row-padded.row
+www.y2mate.com##.p-r-md.p-l-md.text-center.homepage-grid.row-bordered.row-padded.row
+www.y2mate.com##.p-r-md.p-l-md.row-centered.row-bordered.row-padded.row
+www.y2mate.com##.label-info.label
+www.y2mate.com##.text-center > .active
+www.y2mate.com##.hero-homepage.hero > div:nth-of-type(2)
+www.y2mate.com##.hero-header
+www.y2mate.com##.navbar
 
