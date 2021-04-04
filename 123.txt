@@ -843,4 +843,16 @@ www.y2mate.com##.text-center > .active
 www.y2mate.com##.hero-homepage.hero > div:nth-of-type(2)
 www.y2mate.com##.hero-header
 www.y2mate.com##.navbar
+||*/yandexmypresent.png$image
+zen.yandex.ru##._with-chat
+##a[href*="/ero/"]
+getvideo.org##.blog-masthead
+getvideo.org##.button-full-download.btn-lg.btn-primary.btn
+getvideo.org###url
+||getvideo.org/style/close-icon.png$image
+getvideo.org##.blog-title
+##a[href*="q32.pw"]
+##a[href*="urlz.fr"]
+##a[href*="is.gd"]
+zen.yandex.ru##.article-right-ad-block__ad-content
 
