@@ -569,7 +569,6 @@ e.mail.ru##.advert-column_native-scroll.advert-column
 old.fishki.net##.related-posts-wrap
 old.fishki.net##.side-right
 127.0.0.1 *meendoru.*
-zen.yandex.ru##.article-ad-right__content
 lenta.ru##.b-topic-sidebar
 127.0.0.1 *moiprogrammy.*
 127.0.0.1 *win10programs.*
@@ -631,7 +630,6 @@ cloud.mail.ru##.b-panel__wrapper
 127.0.0.1 *zlink2.*
 127.0.0.1 *amateur.*
 ||fooktube.com/wp-content/uploads/*.jpg$image
-zen.yandex.ru##.article-right-suggested-publications-wrapper
 ##a[href*="campaign.aliexpress.com"]
 ##a[href*="yandeks"]
 ##a[href*="periscop"]
@@ -784,7 +782,6 @@ youla.ru##.product_item--promoted.product_item
 127.0.0.1 *-aplay*
 w1.musify.club##.album-img
 ||zoomdecorate.rambler.ru/*$image
-zen.yandex.ru##._size_big.feed__item-wrap
 downloadbrowsernow.com##.content
 downloadbrowsernow.com##.header
 www.softlabirint.com##.leftside
@@ -844,7 +841,6 @@ www.y2mate.com##.hero-homepage.hero > div:nth-of-type(2)
 www.y2mate.com##.hero-header
 www.y2mate.com##.navbar
 ||*/yandexmypresent.png$image
-zen.yandex.ru##._with-chat
 ##a[href*="/ero/"]
 getvideo.org##.blog-masthead
 getvideo.org##.button-full-download.btn-lg.btn-primary.btn
@@ -854,6 +850,5 @@ getvideo.org##.blog-title
 ##a[href*="q32.pw"]
 ##a[href*="urlz.fr"]
 ##a[href*="is.gd"]
-zen.yandex.ru##.article-right-ad-block__ad-content
 searchcdn.ru##.a_content
 lifehacker.ru##.new_afp-iib__iframe
