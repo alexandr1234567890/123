@@ -855,4 +855,5 @@ getvideo.org##.blog-title
 ##a[href*="urlz.fr"]
 ##a[href*="is.gd"]
 zen.yandex.ru##.article-right-ad-block__ad-content
-
+searchcdn.ru##.a_content
+lifehacker.ru##.new_afp-iib__iframe
