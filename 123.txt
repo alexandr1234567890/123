@@ -786,7 +786,6 @@ downloadbrowsernow.com##.content
 downloadbrowsernow.com##.header
 www.softlabirint.com##.leftside
 www.softlabirint.com##.rightside
-##a[href*="bit.ly"]
 127.0.0.1 *topanime*
 127.0.0.1 *adultchat*
 ##a[href*="dmtech"]
@@ -866,3 +865,4 @@ download.oxy.st###cookies
 light.mail.ru##.items_mr_css_attr
 ||torrent-soft.net/uploads/downs.png$image
 zen.yandex.ru##.article-right-ad-block__ad-content
+
