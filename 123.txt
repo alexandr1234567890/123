@@ -746,8 +746,6 @@ www.youtube.com##a[href^="//support.google.com/youtube/"]
 ##a[href*="telegra.ph"]
 127.0.0.1 *.aino.*
 ##a[href*="#public"]
-||proxy.imgsmail.ru/$image
-
 oxy.st##.showYdModal.modalYdDownload > div > div > div:nth-of-type(2)
 oxy.st##small
 ||user-life.com/templates/Duplex/images/img/*.jpg$image
@@ -867,4 +865,6 @@ light.mail.ru##.items_mr_css_attr
 zen.yandex.ru##.article-right-ad-block__ad-content
 cloud.mail.ru###topBanner
 e.mail.ru##.mailru-visibility-check
+||r.mail.ru^
+e.mail.ru###app-canvas > div > div.application-mail > div.application-mail__overlay > div > div.application-mail__layout.application-mail__layout_main > span > div:nth-child(3)
 
