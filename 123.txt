@@ -737,8 +737,6 @@ www.pornlib.com##.ad-url
 127.0.0.1 *tik-tok*
 127.0.0.1 *sextgem*
 127.0.0.1 *wantiguely*
-127.0.0.1 *xqiz*
-##a[href*="xqiz"]
 account.mail.ru##.fast-auth
 www.youtube.com##a[href^="//support.google.com/youtube/"]
 127.0.0.1 *casualdating*
@@ -878,4 +876,4 @@ e.mail.ru##.portal-menu-logo
 127.0.0.1 *sexincity*
 e.mail.ru##.promo-block-letter-wrapper
 e.mail.ru##.ph-marusia
-
+game-edition.ru##.moderatorbar
