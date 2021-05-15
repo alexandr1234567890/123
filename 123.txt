@@ -867,4 +867,15 @@ cloud.mail.ru###topBanner
 e.mail.ru##.mailru-visibility-check
 ||r.mail.ru^
 e.mail.ru###app-canvas > div > div.application-mail > div.application-mail__overlay > div > div.application-mail__layout.application-mail__layout_main > span > div:nth-child(3)
+e.mail.ru###css-bundle
+e.mail.ru##.thread__kaspersky
+e.mail.ru##.portal-menu-logo
+##a[href*="flingswipe"]
+127.0.0.1 *flingswipe*
+##a[href*="bbwait"]
+127.0.0.1 *bbwait*
+##a[href*="sexincity"]
+127.0.0.1 *sexincity*
+e.mail.ru##.promo-block-letter-wrapper
+e.mail.ru##.ph-marusia
 
