@@ -876,7 +876,6 @@ e.mail.ru##.portal-menu-logo
 e.mail.ru##.promo-block-letter-wrapper
 e.mail.ru##.ph-marusia
 game-edition.ru##.moderatorbar
-
 trade.aliexpress.ru##.alime-avatar
 ru.savefrom.net##.h10__install_btn_box
 ru.savefrom.net##.open-link-form-all-block
@@ -896,16 +895,8 @@ tofight.ru###cf-bg
 ##.spanlink
 127.0.0.1 *filedigger.net*
 ##a[href*="filedigger.net"]
-
-! 20.05.2021, 12:22:17 https://trade.aliexpress.ru/ordertrash/orderTrash.htm?spm=a2g0s.9042311.0.0.264433edAl1mmc
 trade.aliexpress.ru##.alime-question-list
-
-! 20.05.2021, 12:22:28 https://trade.aliexpress.ru/ordertrash/orderTrash.htm?spm=a2g0s.9042311.0.0.264433edAl1mmc
 trade.aliexpress.ru##.alime-strong-consult
-
-! 20.05.2021, 12:22:40 https://trade.aliexpress.ru/ordertrash/orderTrash.htm?spm=a2g0s.9042311.0.0.264433edAl1mmc
 trade.aliexpress.ru##.alime-strong-header
-
-! 20.05.2021, 16:14:42 https://otzovik.com/reviews/mini-kondicioner_arctic_air/
 otzovik.com##.ypluss16_age
 
