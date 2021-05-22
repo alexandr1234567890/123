@@ -210,7 +210,6 @@
 127.0.0.1 cenado.*
 127.0.0.1 5kteens.*
 127.0.0.1 exe.io
-127.0.0.1 *model.*
 127.0.0.1 *chaturbate.*
 
 ||coin-hive.com/lib/coinhive.min.js
@@ -877,3 +876,36 @@ e.mail.ru##.portal-menu-logo
 e.mail.ru##.promo-block-letter-wrapper
 e.mail.ru##.ph-marusia
 game-edition.ru##.moderatorbar
+
+trade.aliexpress.ru##.alime-avatar
+ru.savefrom.net##.h10__install_btn_box
+ru.savefrom.net##.open-link-form-all-block
+ru.savefrom.net##.exitTraffic3_0-wait-block
+ru.savefrom.net##.search-panel__mobile__header
+ru.savefrom.net##.footer_v2
+ru.savefrom.net##.clip
+ru.savefrom.net##.thumb-box
+ru.savefrom.net##.content_box__premium
+ru.savefrom.net##.h10_screenshot-box
+ru.savefrom.net##.content_box__text_1 > p:nth-of-type(1)
+ru.savefrom.net##.h10__mq_text
+ru.savefrom.net##.sf-helper
+ru.savefrom.net##.site-info-tabs
+ru.savefrom.net##.header
+tofight.ru###cf-bg
+##.spanlink
+127.0.0.1 *filedigger.net*
+##a[href*="filedigger.net"]
+
+! 20.05.2021, 12:22:17 https://trade.aliexpress.ru/ordertrash/orderTrash.htm?spm=a2g0s.9042311.0.0.264433edAl1mmc
+trade.aliexpress.ru##.alime-question-list
+
+! 20.05.2021, 12:22:28 https://trade.aliexpress.ru/ordertrash/orderTrash.htm?spm=a2g0s.9042311.0.0.264433edAl1mmc
+trade.aliexpress.ru##.alime-strong-consult
+
+! 20.05.2021, 12:22:40 https://trade.aliexpress.ru/ordertrash/orderTrash.htm?spm=a2g0s.9042311.0.0.264433edAl1mmc
+trade.aliexpress.ru##.alime-strong-header
+
+! 20.05.2021, 16:14:42 https://otzovik.com/reviews/mini-kondicioner_arctic_air/
+otzovik.com##.ypluss16_age
+
