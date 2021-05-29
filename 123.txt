@@ -841,7 +841,6 @@ getvideo.org##.button-full-download.btn-lg.btn-primary.btn
 getvideo.org###url
 ||getvideo.org/style/close-icon.png$image
 getvideo.org##.blog-title
-##a[href*="q32.pw"]
 ##a[href*="urlz.fr"]
 ##a[href*="is.gd"]
 searchcdn.ru##.a_content
@@ -899,4 +898,9 @@ trade.aliexpress.ru##.alime-question-list
 trade.aliexpress.ru##.alime-strong-consult
 trade.aliexpress.ru##.alime-strong-header
 otzovik.com##.ypluss16_age
+##a[href*="searchcdn.ru"]
+old.fishki.net##.allow-rate.stats-likes-wrap
+4pda.to##.signature
+q32.pw###bottom
+
 
