@@ -902,5 +902,49 @@ otzovik.com##.ypluss16_age
 old.fishki.net##.allow-rate.stats-likes-wrap
 4pda.to##.signature
 q32.pw###bottom
+catcut.net##div:nth-of-type(3)
+catcut.net##body > div:nth-of-type(2)
+catcut.net##div:nth-of-type(1) > div > span:nth-of-type(2)
+catcut.net##div:nth-of-type(1) > div
+
+turbohit.net##.large.button-ok
+turbohit.net###formula
+turbohit.net###window-title
+turbohit.net##.footer
+turbohit.net##p:nth-of-type(3)
+turbohit.net##.top-text:nth-of-type(2)
+turbohit.net##.top-text
+turbohit.net##p:nth-of-type(1)
+turbohit.net##.main-menu
+turbohit.net##.user-menu
+turbohit.net##.btn-red
+turbohit.net##a[href="/turbo"]
+turbohit.net##a[href^="https://turbo.to/turbo"]
+turbohit.net###download-top-note
+turbohit.net##.payment-block
+turbohit.net###premium-download-info
+
+turbabit.com##.large.button-ok
+turbabit.com###formula
+turbabit.com###window-title
+turbabit.com##.footer
+turbabit.com##p:nth-of-type(3)
+turbabit.com##.top-text:nth-of-type(2)
+turbabit.com##.top-text
+turbabit.com##p:nth-of-type(1)
+turbabit.com##.main-menu
+turbabit.com##.user-menu
+turbabit.com##.btn-red
+turbabit.com##a[href="/turbo"]
+turbabit.com##a[href^="https://turbo.to/turbo"]
+turbabit.com###download-top-note
+turbabit.com##.payment-block
+turbabit.com###premium-download-info
+
+mywape.com##.footer
+mywape.com##.shares
+www.xvideos.com##.video-title
+subscribe.ru##a[href^="https://turb.cc/turbo"]
+
 
 
