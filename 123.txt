@@ -775,7 +775,6 @@ youla.ru##.product_item--promoted.product_item
 127.0.0.1 *azino*
 127.0.0.1 *first-*
 127.0.0.1 *-aplay*
-w1.musify.club##.album-img
 ||zoomdecorate.rambler.ru/*$image
 downloadbrowsernow.com##.content
 downloadbrowsernow.com##.header
@@ -791,7 +790,6 @@ forum.ru-board.com##.post > .sing
 www.cyberforum.ru##.shade
 127.0.0.1 *check-your-dating*
 127.0.0.1 *lead1*
-w1.musify.club##.st-browser__page
 ru.xhamster4.com##.preloader-inner
 lk.mts.ru##.banner
 127.0.0.1 *tokyodoll*
@@ -810,7 +808,6 @@ tv-soyuz.ru##.magazine
 127.0.0.1 *failcloud24*
 ##a[href*="failzoma"]
 127.0.0.1 *failzoma*
-w1.musify.club##.st-browser__footer-right
 4pda.ru##.signature
 overclockers.ru##.over-hiddenlink-html > strong
 dwdisc.com##.b-rec
@@ -923,6 +920,7 @@ turbohit.net##a[href^="https://turbo.to/turbo"]
 turbohit.net###download-top-note
 turbohit.net##.payment-block
 turbohit.net###premium-download-info
+turbohit.net###adfrc_download_wrapper
 
 turbabit.com##.large.button-ok
 turbabit.com###formula
@@ -940,11 +938,36 @@ turbabit.com##a[href^="https://turbo.to/turbo"]
 turbabit.com###download-top-note
 turbabit.com##.payment-block
 turbabit.com###premium-download-info
+turbabit.com###adfrc_download_wrapper
+
+trubobit.com##.large.button-ok
+trubobit.com###formula
+trubobit.com###window-title
+trubobit.com##.footer
+trubobit.com##p:nth-of-type(3)
+trubobit.com##.top-text:nth-of-type(2)
+trubobit.com##.top-text
+trubobit.com##p:nth-of-type(1)
+trubobit.com##.main-menu
+trubobit.com##.user-menu
+trubobit.com##.btn-red
+trubobit.com##a[href="/turbo"]
+trubobit.com##a[href^="https://turbo.to/turbo"]
+trubobit.com###download-top-note
+trubobit.com##.payment-block
+trubobit.com###premium-download-info
+trubobit.com###adfrc_download_wrapper
 
 mywape.com##.footer
 mywape.com##.shares
 www.xvideos.com##.video-title
-subscribe.ru##a[href^="https://turb.cc/turbo"]
+musiclovers.top##.dcont
+musiclovers.top##.dtop
+##a[href^="https://turb.cc/turbo"]
+www.y2mate.com###share-place-download
+
+
+
 
 
 
