@@ -562,7 +562,6 @@ youla.ru##.product_item--promoted
 127.0.0.1 *yadistr.*
 127.0.0.1 *sex-and-flirt.*
 ##.tag-link-wrap
-e.mail.ru##.advert-column_native-scroll.advert-column
 ##.dyltv-container
 ##a[href*="outputlead."]
 old.fishki.net##.related-posts-wrap
@@ -605,7 +604,6 @@ www.tube-bunny.com##.vision-on-player-inside
 ##a[href*="adultop."]
 ##a[href*="gegtop."]
 ##a[href*="catop."]
-e.mail.ru##tr:nth-of-type(3) > td > table > tbody > tr > td > table > tbody > tr > td
 ##a[href*="imgoutlet."]
 127.0.0.1 *ohnrp.*
 cloud.mail.ru##.b-panel__wrapper
@@ -638,12 +636,10 @@ cloud.mail.ru##.b-panel__wrapper
 ##a[href*="wodemo"]
 ##a[href*="face-push.com/torrent"]
 ##a[href*="free_turboline"]
-e.mail.ru##.promo-block-letter
 yandex.ru##.direct
 ##a[href*="gestyy."]
 russia.tv##.mini-player
 ##.top-banner-container
-e.mail.ru###octavius-notify-unsubscribe-after-delete
 127.0.0.1 *freedating*
 ##a[href*="r.mail.ru/redir"]
 127.0.0.1 *viiotp*
@@ -651,7 +647,6 @@ lenta.ru##.b-topic-addition.b-topic-longgrid
 lenta.ru###root > span
 ##a[href*="roulette"]
 127.0.0.1 *play.pulpower.*
-e.mail.ru###theme-currency-notify
 cloud.mail.ru##.b-tooltip_tariff-promo
 127.0.0.1 *tilda*
 ||money.yandex.ru/quickpay/shop-widget$subdocument
@@ -685,7 +680,6 @@ turbobit5.net##.payment-block
 127.0.0.1 *monotyper*
 127.0.0.1 *imig.*
 ##a[href*="imig."]
-e.mail.ru###octavius-tooltip-kitty
 ##a[href*="/banner/"]
 yandex.ru##.incut_inserted_yes.incut_js_inited.i-bem.incut_position_page-fixed.incut_type_direct.incut
 ||mp3ton.info/templates/mp3ton/dleimages/no_image.jpg$image
@@ -705,7 +699,6 @@ www.sexvid.porn##.spots_field
 apkpure.com##.tempWrap > ul
 apkpure.com###slide-wrap
 ##a[href*="cloud.mail.na.to"]
-e.mail.ru##.renovator_2pane.renovator_visible.renovator
 127.0.0.1 *onlinestars*
 127.0.0.1 *ogorodniki*
 127.0.0.1 *superchat*
@@ -857,20 +850,13 @@ light.mail.ru##.items_mr_css_attr
 ||torrent-soft.net/uploads/downs.png$image
 zen.yandex.ru##.article-right-ad-block__ad-content
 cloud.mail.ru###topBanner
-e.mail.ru##.mailru-visibility-check
 ||r.mail.ru^
-e.mail.ru###app-canvas > div > div.application-mail > div.application-mail__overlay > div > div.application-mail__layout.application-mail__layout_main > span > div:nth-child(3)
-e.mail.ru###css-bundle
-e.mail.ru##.thread__kaspersky
-e.mail.ru##.portal-menu-logo
 ##a[href*="flingswipe"]
 127.0.0.1 *flingswipe*
 ##a[href*="bbwait"]
 127.0.0.1 *bbwait*
 ##a[href*="sexincity"]
 127.0.0.1 *sexincity*
-e.mail.ru##.promo-block-letter-wrapper
-e.mail.ru##.ph-marusia
 game-edition.ru##.moderatorbar
 trade.aliexpress.ru##.alime-avatar
 ru.savefrom.net##.h10__install_btn_box
@@ -965,6 +951,40 @@ musiclovers.top##.dcont
 musiclovers.top##.dtop
 ##a[href^="https://turb.cc/turbo"]
 www.y2mate.com###share-place-download
+musify.club##.st-browser__page
+musify.club##.st-browser__footer-right
+ccly.xyz##iframe
+nsportal.ru###home
+nsportal.ru###feat
+nsportal.ru##h3
+nsportal.ru##footer
+infourok.ru##.school-prep
+infourok.ru##.footer
+uchitelya.com##.pading
+uchitelya.com##.st-browser__page
+uchitelya.com##footer
+ppt-online.org##a[href="//ppt-online.org/yb.php"]
+yasearch-cdn.ru##.a_wrapper
+zen.yandex.ru##.desktop-channel-3-layout__hero
+zen.yandex.ru###article__right
+zen.yandex.ru##.article__content_limited
+lenta.ru##.telegram-day
+
+e.mail.ru##.advert-column_native-scroll.advert-column
+e.mail.ru##tr:nth-of-type(3) > td > table > tbody > tr > td > table > tbody > tr > td
+e.mail.ru##.promo-block-letter
+e.mail.ru###octavius-notify-unsubscribe-after-delete
+e.mail.ru###theme-currency-notify
+e.mail.ru###octavius-tooltip-kitty
+e.mail.ru##.renovator_2pane.renovator_visible.renovator
+e.mail.ru##.mailru-visibility-check
+e.mail.ru###app-canvas > div > div.application-mail > div.application-mail__overlay > div > div.application-mail__layout.application-mail__layout_main > span > div:nth-child(3)e.mail.ru###css-bundle
+e.mail.ru##.thread__kaspersky
+e.mail.ru##.portal-menu-logo
+e.mail.ru##.promo-block-letter-wrapper
+e.mail.ru##.ph-marusia
+e.mail.ru##.attach-list__container
+
 
 
 
