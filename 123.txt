@@ -970,21 +970,6 @@ zen.yandex.ru###article__right
 zen.yandex.ru##.article__content_limited
 lenta.ru##.telegram-day
 
-e.mail.ru##.advert-column_native-scroll.advert-column
-e.mail.ru##tr:nth-of-type(3) > td > table > tbody > tr > td > table > tbody > tr > td
-e.mail.ru##.promo-block-letter
-e.mail.ru###octavius-notify-unsubscribe-after-delete
-e.mail.ru###theme-currency-notify
-e.mail.ru###octavius-tooltip-kitty
-e.mail.ru##.renovator_2pane.renovator_visible.renovator
-e.mail.ru##.mailru-visibility-check
-e.mail.ru###app-canvas > div > div.application-mail > div.application-mail__overlay > div > div.application-mail__layout.application-mail__layout_main > span > div:nth-child(3)e.mail.ru###css-bundle
-e.mail.ru##.thread__kaspersky
-e.mail.ru##.portal-menu-logo
-e.mail.ru##.promo-block-letter-wrapper
-e.mail.ru##.ph-marusia
-e.mail.ru##.attach-list__container
-
 
 
 
