@@ -969,7 +969,32 @@ zen.yandex.ru##.desktop-channel-3-layout__hero
 zen.yandex.ru###article__right
 zen.yandex.ru##.article__content_limited
 lenta.ru##.telegram-day
-
+www.citilink.ru##.BannersSlider
+##a[href^="aftermon.info"]
+127.0.0.1 *aftermon.info*
+##a[href^="1admav"]
+127.0.0.1 *1admav*
+##a[href^="pleadedsomewhat"]
+127.0.0.1 *pleadedsomewhat*
+##a[href^="vulcan"]
+127.0.0.1 *vulcan*
+##a[href^="whenwem"]
+127.0.0.1 *whenwem*
+##a[href^="paidonline"]
+127.0.0.1 *paidonline*
+##a[href^="crypto"]
+127.0.0.1 *crypto*
+##a[href^="ndraisineff"]
+127.0.0.1 *ndraisineff*
+##a[href^="edicouldbr"]
+127.0.0.1 *edicouldbr*
+127.0.0.1 *whitebit*
+##a[href^="whitebit"]
+127.0.0.1 *megase*
+##a[href^="megase"]
+127.0.0.1 *savasav*
+##a[href^="savasav"]
+e.mail.ru###app-canvas > div > div.application-mail > div.application-mail__overlay > div > div.application-mail__layout.application-mail__layout_main > span > div:nth-child(3)
 
 
 
