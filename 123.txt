@@ -168,7 +168,6 @@
 127.0.0.1 1cbq.*
 127.0.0.1 smski.*
 127.0.0.1 mylove.*
-127.0.0.1 love.*
 127.0.0.1 cryptobrowser.*
 127.0.0.1 allcoins.*
 127.0.0.1 worldoftanks.*
@@ -995,6 +994,31 @@ www.citilink.ru##.BannersSlider
 127.0.0.1 *savasav*
 ##a[href^="savasav"]
 e.mail.ru###app-canvas > div > div.application-mail > div.application-mail__overlay > div > div.application-mail__layout.application-mail__layout_main > span > div:nth-child(3)
+127.0.0.1 *soverthlaest*
+##a[href^="soverthlaest"]
+127.0.0.1 *onetwothreex*
+##a[href^="onetwothreex"]
+127.0.0.1 *sendyou123*
+##a[href^="sendyou123"]
+127.0.0.1 *ryaouposit*
+##a[href^="ryaouposit"]
+127.0.0.1 *sushiexpress*
+##a[href^="sushiexpress"]
+127.0.0.1 *superblackfriday*
+##a[href^="superblackfriday"]
+127.0.0.1 *ovhom*
+##a[href^="ovhom"]
+127.0.0.1 *fewmonthst*
+##a[href^="fewmonthst"]
+yandex.ru##.popup2_visible_yes
+download.oxy.st###tlg_download
+lenta.ru##.scroll-to-site__stick
+lenta.ru##.telegram-bad
+it-tehnik.ru##.live-comments
+youla.ru###banner-vk
+lenta.ru##.b-video-box
+e.mail.ru###css-bundle
+
 
 
 
