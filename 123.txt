@@ -647,7 +647,6 @@ lenta.ru###root > span
 ##a[href*="roulette"]
 127.0.0.1 *play.pulpower.*
 cloud.mail.ru##.b-tooltip_tariff-promo
-127.0.0.1 *tilda*
 ||money.yandex.ru/quickpay/shop-widget$subdocument
 yandex.ru###bk-container
 yandex.ru##.sticky_js_inited.sticky_visible
@@ -846,7 +845,6 @@ mp3snow.com##.foot > .copyright
 mp3snow.com##.header
 download.oxy.st###cookies
 light.mail.ru##.items_mr_css_attr
-||torrent-soft.net/uploads/downs.png$image
 zen.yandex.ru##.article-right-ad-block__ad-content
 cloud.mail.ru###topBanner
 ||r.mail.ru^
@@ -1018,6 +1016,10 @@ it-tehnik.ru##.live-comments
 youla.ru###banner-vk
 lenta.ru##.b-video-box
 e.mail.ru###css-bundle
+||torrent-soft.net/uploads/downs.png$image
+e.mail.ru##.thread__kaspersky
+
+
 
 
 
