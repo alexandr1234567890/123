@@ -963,6 +963,16 @@ e.mail.ru###css-bundle
 e.mail.ru##.thread__kaspersky
 zen.yandex.ru###yabro-strip-element
 sorus.ucoz.ru##.signatureView
+##a[href^="kyefakwa"]
+127.0.0.1 *kyefakwa*
+##a[href="https://kyefakwa.com/4-rvcxv-g1i-egup-b8x"]
+##img[src="/ya2.png"]
+##img[src="/slide/downloatzd/"]
+##.cookie-agreement-wrapper
+##.pushSubscribe
+www.apkmirror.com##.downloadCountdown
+www.apkmirror.com##.gooWidget
+##a[href^="/engine/go.php"]
 
 
 
