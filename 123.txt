@@ -172,7 +172,6 @@
 127.0.0.1 allcoins.*
 127.0.0.1 worldoftanks.*
 127.0.0.1 bnsjb1ab1e.*
-127.0.0.1 brave.*
 127.0.0.1 moocauby.*
 127.0.0.1 666game.*
 127.0.0.1 pinterest.*
@@ -277,8 +276,6 @@ www.pornwhite.com###after-adv
 ru.xhamster.desi##.age-protect
 www.bravotube.net##.inplb
 www.bravotube.net###bravoplayer_fluid_context_menu
-www.pornicom.com###pre-ad
-
 
 www.youtube.com###search-secondary-col-contents
 www.youtube.com##.search-refinements
@@ -609,7 +606,6 @@ cloud.mail.ru##.b-panel__wrapper
 127.0.0.1 *slimsk.*
 127.0.0.1 *sabs-news.*
 ##a[href*="file-up."]
-||*/banner/$image
 ##a[href*="goporno."]
 127.0.0.1 *the31news.*
 ##a[href*="myserf."]
@@ -787,8 +783,6 @@ lk.mts.ru##.banner
 ##a[href*="tokyodoll"]
 ##a[href*="cutiegarden"]
 ##a[href*="cutie.garden"]
-boxkino.ru##img[src="/uploads/files/yandexbrowser.png"]
-boxkino.ru##img[src="/uploads/files/mediaget2.png"]
 overclockers.ru##.huge.loading.spinner.icon
 tv-soyuz.ru##.magazine
 ##a[href*="trichanlinks"]
@@ -822,7 +816,6 @@ www.y2mate.com##.text-center > .active
 www.y2mate.com##.hero-homepage.hero > div:nth-of-type(2)
 www.y2mate.com##.hero-header
 www.y2mate.com##.navbar
-||*/yandexmypresent.png$image
 ##a[href*="/ero/"]
 getvideo.org##.blog-masthead
 getvideo.org##.button-full-download.btn-lg.btn-primary.btn
@@ -956,10 +949,8 @@ download.oxy.st###tlg_download
 lenta.ru##.scroll-to-site__stick
 lenta.ru##.telegram-bad
 it-tehnik.ru##.live-comments
-youla.ru###banner-vk
 lenta.ru##.b-video-box
 e.mail.ru###css-bundle
-||torrent-soft.net/uploads/downs.png$image
 e.mail.ru##.thread__kaspersky
 zen.yandex.ru###yabro-strip-element
 sorus.ucoz.ru##.signatureView
@@ -973,6 +964,24 @@ sorus.ucoz.ru##.signatureView
 www.apkmirror.com##.downloadCountdown
 www.apkmirror.com##.gooWidget
 ##a[href^="/engine/go.php"]
+##a[href="https://kyefakwa.com/2-fx8q1-g1i-ceca-e8x"]
+##a[href="https://myrotations.ru/v881.html"]
+###adfrc_download_wrapper
+old.fishki.net##.b-close-post-list
+old.fishki.net##.b-close-window_title
+old.fishki.net##.bclose-hog-image
+*yabaner$image
+*dsbaner$image
+*orange_17_EN$image
+*banner*/*$image
+*/yandexmypresent$image
+##.push-actions.b-form-actions
+##img[src="/25ad25/btn.png"]
+##a[href="https://u-rl.ru/MDL4o"]
+##.material-rating
+##.social-link
+
+
 
 
 
