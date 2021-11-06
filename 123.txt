@@ -658,7 +658,6 @@ yandex.ru##.distr-default-search-header_js_inited
 ||*/live/embed/mini$subdocument
 ##a[href*="toloka.yandex.ru/"]
 ##a[href*="rifflingo"]
-##.privacy
 ##.drt-spot-visible.drt-spot-box
 ##a[href*="ufiler-pro."]
 127.0.0.1 *sealoid*
@@ -875,10 +874,6 @@ otzovik.com##.ypluss16_age
 old.fishki.net##.allow-rate.stats-likes-wrap
 4pda.to##.signature
 q32.pw###bottom
-catcut.net##div:nth-of-type(3)
-catcut.net##body > div:nth-of-type(2)
-catcut.net##div:nth-of-type(1) > div > span:nth-of-type(2)
-catcut.net##div:nth-of-type(1) > div
 www.xvideos.com##.video-title
 musiclovers.top##.dcont
 musiclovers.top##.dtop
