@@ -980,6 +980,28 @@ old.fishki.net##.bclose-hog-image
 ##a[href="https://u-rl.ru/MDL4o"]
 ##.material-rating
 ##.social-link
+###snw9813h12k
+##.social
+*utorrent-ms$image
+*yabra$image
+##.b-socials-subscribe
+##a[href^="http://sub2.admitlead.ru/sb/clk/"]
+##a[href="https://goo.su/6Ja9"]
+##.social-links
+||vp.rambler.ru/player/$subdocument
+##a[href="startandus3it1x"]
+127.0.0.1 *startandus3it1x*
+##.footer__social
+##.down-mg
+127.0.0.1 *webcam18*
+##a[href="webcam18"]
+127.0.0.1 *webcams18*
+##a[href="webcams18"]
+127.0.0.1 *18-cams*
+##a[href="18-cams"]
+127.0.0.1 *vidlox.me*
+##a[href="vidlox.me"]
+
 
 
 
