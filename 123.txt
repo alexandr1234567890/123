@@ -444,9 +444,6 @@ apkpure.ai##.ny-down
 apkpure.com##.right
 apkpure.com##.details-how
 ||yaksgames.com/promotion/apkpuredown$subdocument
-
-! Удаляем со страницы элементы, ссылающиеся на ЭТИ сайты ----------------------------------
-
 ##a[href*="eagleplatform.com"]
 ##a[href*="ati.jptrmn.com"]
 ##a[href*="parandaya.com"]
@@ -466,8 +463,7 @@ apkpure.com##.details-how
 ##a[href*="goo.gl"]
 ##a[href*="exe.io"]
 ##a[href*="clck.ru"]
-
-lenta.ru##.b-video-box__frame
+##.b-video-box__frame
 ||www.extremetube.com/nb-back$image
 ##.rekomendacii
 ##a[href*="bubblevard."]
@@ -551,7 +547,6 @@ bobs-tube.com##.sponsored_top
 smoner.com##body > div:nth-of-type(3)
 127.0.0.1 *telki.*
 127.0.0.1 *1x-bet*.*
-##center > a[href^="/turbo"]
 youla.ru##.product_item--promoted
 ###tagcanvas
 ##a[href*="webutation."]
@@ -669,7 +664,6 @@ www.youporn.com##.four-column
 ##.ec-promo
 127.0.0.1 *waplist*
 yandex.ru##.zalogin-smart
-turbobit5.net##.payment-block
 127.0.0.1 *monotyper*
 127.0.0.1 *imig.*
 ##a[href*="imig."]
@@ -697,15 +691,12 @@ apkpure.com###slide-wrap
 127.0.0.1 *superchat*
 127.0.0.1 *forumlovers*
 ##a[href*="forumlovers"]
-mail.ru##.grid__rcol_aside-atlas
 ##.showYdModal.modalYdDownload
 yandex.ru##.verified-list
 127.0.0.1 *businesslink*
 yandex.ru##.related_js_inited.i-bem.related
 yandex.ru##.related__hidden
 127.0.0.1 *wapdale*
-tv-soyuz.ru###slidebox
-tv-soyuz.ru##.current.blocker.jquery-modal
 aliexpress.ru###trial-review
 127.0.0.1 *detaingler*
 127.0.0.1 *bet-1x*
@@ -723,7 +714,6 @@ www.pornlib.com##.ad-url
 127.0.0.1 *sextgem*
 127.0.0.1 *wantiguely*
 account.mail.ru##.fast-auth
-www.youtube.com##a[href^="//support.google.com/youtube/"]
 127.0.0.1 *casualdating*
 127.0.0.1 *telegra.ph*
 ##a[href*="telegra.ph"]
@@ -777,13 +767,12 @@ www.cyberforum.ru##.shade
 127.0.0.1 *check-your-dating*
 127.0.0.1 *lead1*
 ru.xhamster4.com##.preloader-inner
-lk.mts.ru##.banner
+##.banner
 127.0.0.1 *tokyodoll*
 ##a[href*="tokyodoll"]
 ##a[href*="cutiegarden"]
 ##a[href*="cutie.garden"]
 overclockers.ru##.huge.loading.spinner.icon
-tv-soyuz.ru##.magazine
 ##a[href*="trichanlinks"]
 127.0.0.1 *trichanlinks*
 ##a[href*="mobiexxx"]
@@ -801,9 +790,7 @@ dwdisc.com##.b-MORDOR99RP1
 dwdisc.com##.b-download__info
 ##a[href*="ameporn"]
 127.0.0.1 *ameporn*
-turbobbit.com##.action-block > div > .btn-red
-www.rbc.ru##.live-tv
-turbobbit.com###download-top-note
+##.live-tv
 www.y2mate.com##.extension-header
 www.y2mate.com##.footer
 www.y2mate.com##.p-r-md.p-l-md.m-t.text-center.homepage-grid.row-padded.row
@@ -825,20 +812,10 @@ getvideo.org##.blog-title
 ##a[href*="is.gd"]
 searchcdn.ru##.a_content
 lifehacker.ru##.new_afp-iib__iframe
-mp3snow.com##.btr-320
-mp3snow.com##.btr-256
-mp3snow.com##.btr-192
-mp3snow.com##.btr-64
-mp3snow.com##.btr-32
-mp3snow.com##.dmca-notice
-mp3snow.com##.share
-mp3snow.com##.foot > .menu
-mp3snow.com##.foot > .copyright
-mp3snow.com##.header
-download.oxy.st###cookies
+###cookies
 light.mail.ru##.items_mr_css_attr
 zen.yandex.ru##.article-right-ad-block__ad-content
-cloud.mail.ru###topBanner
+###topBanner
 ||r.mail.ru^
 ##a[href*="flingswipe"]
 127.0.0.1 *flingswipe*
@@ -848,20 +825,6 @@ cloud.mail.ru###topBanner
 127.0.0.1 *sexincity*
 game-edition.ru##.moderatorbar
 trade.aliexpress.ru##.alime-avatar
-ru.savefrom.net##.h10__install_btn_box
-ru.savefrom.net##.open-link-form-all-block
-ru.savefrom.net##.exitTraffic3_0-wait-block
-ru.savefrom.net##.search-panel__mobile__header
-ru.savefrom.net##.footer_v2
-ru.savefrom.net##.clip
-ru.savefrom.net##.thumb-box
-ru.savefrom.net##.content_box__premium
-ru.savefrom.net##.h10_screenshot-box
-ru.savefrom.net##.content_box__text_1 > p:nth-of-type(1)
-ru.savefrom.net##.h10__mq_text
-ru.savefrom.net##.sf-helper
-ru.savefrom.net##.site-info-tabs
-ru.savefrom.net##.header
 tofight.ru###cf-bg
 ##.spanlink
 127.0.0.1 *filedigger.net*
@@ -877,7 +840,6 @@ q32.pw###bottom
 www.xvideos.com##.video-title
 musiclovers.top##.dcont
 musiclovers.top##.dtop
-##a[href^="https://turb.cc/turbo"]
 www.y2mate.com###share-place-download
 musify.club##.st-browser__page
 musify.club##.st-browser__footer-right
@@ -891,54 +853,55 @@ infourok.ru##.footer
 uchitelya.com##.pading
 uchitelya.com##.st-browser__page
 uchitelya.com##footer
-ppt-online.org##a[href="//ppt-online.org/yb.php"]
+##a[href="//ppt-online.org/yb.php"]
 yasearch-cdn.ru##.a_wrapper
 zen.yandex.ru##.desktop-channel-3-layout__hero
 zen.yandex.ru###article__right
 zen.yandex.ru##.article__content_limited
-lenta.ru##.telegram-day
-www.citilink.ru##.BannersSlider
-##a[href^="aftermon.info"]
+##.telegram-day
+##.BannersSlider
+##a[href*="aftermon.info"]
 127.0.0.1 *aftermon.info*
-##a[href^="1admav"]
+##a[href*="1admav"]
 127.0.0.1 *1admav*
-##a[href^="pleadedsomewhat"]
+##a[href*="pleadedsomewhat"]
 127.0.0.1 *pleadedsomewhat*
-##a[href^="vulcan"]
+##a[href*="vulcan"]
 127.0.0.1 *vulcan*
-##a[href^="whenwem"]
+##a[href*="whenwem"]
 127.0.0.1 *whenwem*
-##a[href^="paidonline"]
+##a[href*="paidonline"]
 127.0.0.1 *paidonline*
-##a[href^="crypto"]
+##a[href*="crypto"]
 127.0.0.1 *crypto*
-##a[href^="ndraisineff"]
+##a[href*="ndraisineff"]
 127.0.0.1 *ndraisineff*
-##a[href^="edicouldbr"]
+##a[href*="edicouldbr"]
 127.0.0.1 *edicouldbr*
 127.0.0.1 *whitebit*
-##a[href^="whitebit"]
+##a[href*="whitebit"]
 127.0.0.1 *megase*
-##a[href^="megase"]
+##a[href*="megase"]
 127.0.0.1 *savasav*
-##a[href^="savasav"]
+##a[href*="savasav"]
 e.mail.ru###app-canvas > div > div.application-mail > div.application-mail__overlay > div > div.application-mail__layout.application-mail__layout_main > span > div:nth-child(3)
+mail.ru##.grid__rcol_aside-atlas
 127.0.0.1 *soverthlaest*
-##a[href^="soverthlaest"]
+##a[href*="soverthlaest"]
 127.0.0.1 *onetwothreex*
-##a[href^="onetwothreex"]
+##a[href*="onetwothreex"]
 127.0.0.1 *sendyou123*
-##a[href^="sendyou123"]
+##a[href*="sendyou123"]
 127.0.0.1 *ryaouposit*
-##a[href^="ryaouposit"]
+##a[href*="ryaouposit"]
 127.0.0.1 *sushiexpress*
-##a[href^="sushiexpress"]
+##a[href*="sushiexpress"]
 127.0.0.1 *superblackfriday*
-##a[href^="superblackfriday"]
+##a[href*="superblackfriday"]
 127.0.0.1 *ovhom*
-##a[href^="ovhom"]
+##a[href*="ovhom"]
 127.0.0.1 *fewmonthst*
-##a[href^="fewmonthst"]
+##a[href*="fewmonthst"]
 yandex.ru##.popup2_visible_yes
 download.oxy.st###tlg_download
 lenta.ru##.scroll-to-site__stick
@@ -947,9 +910,9 @@ it-tehnik.ru##.live-comments
 lenta.ru##.b-video-box
 e.mail.ru###css-bundle
 e.mail.ru##.thread__kaspersky
-zen.yandex.ru###yabro-strip-element
+###yabro-strip-element
 sorus.ucoz.ru##.signatureView
-##a[href^="kyefakwa"]
+##a[href*="kyefakwa"]
 127.0.0.1 *kyefakwa*
 ##a[href="https://kyefakwa.com/4-rvcxv-g1i-egup-b8x"]
 ##img[src="/ya2.png"]
@@ -958,7 +921,6 @@ sorus.ucoz.ru##.signatureView
 ##.pushSubscribe
 www.apkmirror.com##.downloadCountdown
 www.apkmirror.com##.gooWidget
-##a[href^="/engine/go.php"]
 ##a[href="https://kyefakwa.com/2-fx8q1-g1i-ceca-e8x"]
 ##a[href="https://myrotations.ru/v881.html"]
 ###adfrc_download_wrapper
@@ -980,7 +942,6 @@ old.fishki.net##.bclose-hog-image
 *utorrent-ms$image
 *yabra$image
 ##.b-socials-subscribe
-##a[href^="http://sub2.admitlead.ru/sb/clk/"]
 ##a[href="https://goo.su/6Ja9"]
 ##.social-links
 ||vp.rambler.ru/player/$subdocument
@@ -996,6 +957,21 @@ old.fishki.net##.bclose-hog-image
 ##a[href="18-cams"]
 127.0.0.1 *vidlox.me*
 ##a[href="vidlox.me"]
+127.0.0.1 *fasterdownlox*
+##a[href="fasterdownlox"]
+###imgAddDirectLink
+127.0.0.1 *effectivecpmgate*
+##a[href="effectivecpmgate"]
+*Sertif_partner.gif$image
+127.0.0.1 *exmo.me*
+##a[href="exmo.me"]
+127.0.0.1 *wulkan*
+##a[href="wulkan"]
+##.sharing
+###social
+##.viqeo-slot > div > iframe
+##.share
+
 
 
 
