@@ -488,7 +488,6 @@ www.majorgeeks.com##.content > b
 127.0.0.1 *reimageplus.*
 ##a[href*="reimageplus."]
 ##a[href*="katfile."]
-##a[href*="uploadrar."]
 ###mewUnd
 ##.mewBlock
 ##a[href*="yabrowser."]
@@ -971,6 +970,8 @@ old.fishki.net##.bclose-hog-image
 ###social
 ##.viqeo-slot > div > iframe
 ##.share
+lrepacks.net##iframe
+
 
 
 
