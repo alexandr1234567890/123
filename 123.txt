@@ -519,7 +519,6 @@ bobs-tube.com##.sponsored_top
 127.0.0.1 *www.asddates.*
 127.0.0.1 *imgdew.pw
 127.0.0.1 *meendo.*
-##a[href*="shrinkme."]
 ##a[href*="xtop."]
 ##a[href*="ioav."]
 ##a[href*="topwap."]
@@ -971,6 +970,10 @@ old.fishki.net##.bclose-hog-image
 ##.viqeo-slot > div > iframe
 ##.share
 lrepacks.net##iframe
+127.0.0.1 *bet365*
+##a[href="bet365"]
+
+
 
 
 
