@@ -832,7 +832,6 @@ trade.aliexpress.ru##.alime-strong-consult
 trade.aliexpress.ru##.alime-strong-header
 otzovik.com##.ypluss16_age
 ##a[href*="searchcdn.ru"]
-old.fishki.net##.allow-rate.stats-likes-wrap
 4pda.to##.signature
 q32.pw###bottom
 www.xvideos.com##.video-title
@@ -934,18 +933,13 @@ old.fishki.net##.bclose-hog-image
 ##img[src="/25ad25/btn.png"]
 ##a[href="https://u-rl.ru/MDL4o"]
 ##.material-rating
-##.social-link
 ###snw9813h12k
-##.social
 *utorrent-ms$image
 *yabra$image
-##.b-socials-subscribe
 ##a[href="https://goo.su/6Ja9"]
-##.social-links
 ||vp.rambler.ru/player/$subdocument
 ##a[href="startandus3it1x"]
 127.0.0.1 *startandus3it1x*
-##.footer__social
 ##.down-mg
 127.0.0.1 *webcam18*
 ##a[href="webcam18"]
@@ -965,13 +959,50 @@ old.fishki.net##.bclose-hog-image
 ##a[href="exmo.me"]
 127.0.0.1 *wulkan*
 ##a[href="wulkan"]
-##.sharing
-###social
 ##.viqeo-slot > div > iframe
-##.share
 lrepacks.net##iframe
 127.0.0.1 *bet365*
 ##a[href="bet365"]
+##.pulse
+127.0.0.1 *offers*
+##a[href="offers"]
+127.0.0.1 *udmivk*
+##a[href="udmivk"]
+127.0.0.1 *smartdating*
+##a[href="smartdating"]
+##.donate
+###tlg_download
+##.material-tag
+127.0.0.1 *1xbet*
+##a[href="1xbet"]
+127.0.0.1 *lavishnessrealistic*
+##a[href="lavishnessrealistic"]
+127.0.0.1 *name-app*
+##a[href="name-app"]
+###block-promo
+##a[href="#block-promo"]
+##.btn-installpack-wrapper
+*/spasibo.$image
+*/zx_new_gate_ru$image
+##a[href^="/turbo"]
+###fast-download
+*/VAREZbook/images/jet.$image
+##.auth-login_auth-login-popup
+##.post_tag
+##.tagcloud
+*/templates/kic/images/*.png$image
+##.box_relative
+###scroll-up
+##.mngez-premium-download
+###go-top
+##a[href="avtomaty-online"]
+127.0.0.1 *avtomaty-online.best*
+##a[href="play-fortuna"]
+127.0.0.1 *play-fortuna*
+leitup.com##.btn-primary.btn
+uploadrar.com##.btn-lg.btn-info.btn
+*/images/dlo.png$image
+##.prem
 
 
 
