@@ -257,25 +257,10 @@ vk.com###actualize_box
 ##.banner-popup
 ##.drt-spot-frame
 ##.drt-spot-visible.drt-spot-box
-www.sheshaft.com##.inner_ad
 ##.drt-spot-visible.no-buttons.drt-spot-box
-||www.xozilla.com/player/html.php$subdocument
-www.keezmovies.com###vjs-inplayer-overlay
-www.foteens.com##.invideo
-tgurl.tv##.overlay-content
-fantasti.cc##.pl_1
-www.gotporn.com##.analytics-push.play-text-btn.play-btn
-www.fetishshrine.com###end-play
-xcum.com##.bnnrs-player
-www.submityourflicks.com##.overlay-banner
-www.submityourflicks.com##.overlay-ggf
-www.pornwhite.com###after-adv
 ##.banner-wrapper
 ###advertising
 ###after-adv
-ru.xhamster.desi##.age-protect
-www.bravotube.net##.inplb
-www.bravotube.net###bravoplayer_fluid_context_menu
 
 www.youtube.com###search-secondary-col-contents
 www.youtube.com##.search-refinements
@@ -391,6 +376,8 @@ apkpure.com##.details-author
 apkpure.com##.dl-ref
 apkpure.com##.down-variant
 apkpure.com##a[href="/ru/how-to-install-apk.html"]
+apkpure.com##.tempWrap > ul
+apkpure.com###slide-wrap
 
 apkfind.com##.mdl-mega-footer
 apkfind.com##.mdl-layout__header-row
@@ -443,7 +430,29 @@ apkpure.ai##.showmore_trigger
 apkpure.ai##.ny-down
 apkpure.com##.right
 apkpure.com##.details-how
-||yaksgames.com/promotion/apkpuredown$subdocument
+
+www.apkmirror.com##.downloadCountdown
+www.apkmirror.com##.gooWidget
+
+www.y2mate.com##.extension-header
+www.y2mate.com##.footer
+www.y2mate.com##.p-r-md.p-l-md.m-t.text-center.homepage-grid.row-padded.row
+www.y2mate.com##.featured.p-r-md.p-l-md.text-center.homepage-grid.row-bordered.row-padded.row
+www.y2mate.com##.p-r-md.p-l-md.text-center.homepage-grid.row-bordered.row-padded.row
+www.y2mate.com##.p-r-md.p-l-md.row-centered.row-bordered.row-padded.row
+www.y2mate.com##.label-info.label
+www.y2mate.com##.text-center > .active
+www.y2mate.com##.hero-homepage.hero > div:nth-of-type(2)
+www.y2mate.com##.hero-header
+www.y2mate.com##.navbar
+www.y2mate.com###share-place-download
+
+getvideo.org##.blog-masthead
+getvideo.org##.button-full-download.btn-lg.btn-primary.btn
+getvideo.org###url
+||getvideo.org/style/close-icon.png$image
+getvideo.org##.blog-title
+
 ##a[href*="eagleplatform.com"]
 ##a[href*="ati.jptrmn.com"]
 ##a[href*="parandaya.com"]
@@ -464,12 +473,10 @@ apkpure.com##.details-how
 ##a[href*="exe.io"]
 ##a[href*="clck.ru"]
 ##.b-video-box__frame
-||www.extremetube.com/nb-back$image
 ##.rekomendacii
 ##a[href*="bubblevard."]
 127.0.0.1 *wowlucky.*
 127.0.0.1 *steamplanet.*
-||st.overclockers.ru/images/feeding.jpg$image
 127.0.0.1 *club.video
 127.0.0.1 *bootysh.*
 127.0.0.1 *russiandolls.*
@@ -484,7 +491,6 @@ apkpure.com##.details-how
 ##a[href*="genelevius."]
 127.0.0.1 *successfulslot.*
 127.0.0.1 *bcvc.*
-www.majorgeeks.com##.content > b
 127.0.0.1 *reimageplus.*
 ##a[href*="reimageplus."]
 ##a[href*="katfile."]
@@ -492,8 +498,7 @@ www.majorgeeks.com##.content > b
 ##.mewBlock
 ##a[href*="yabrowser."]
 127.0.0.1 *yabrowser.*
-www.drtuber.com##.drt-sponsor-block
-t##.sidebar__best-dem
+##.sidebar__best-dem
 ###block-news-table
 ##a[href*="shorten."]
 ##a[href*="totalav."]
@@ -502,12 +507,7 @@ t##.sidebar__best-dem
 127.0.0.1 *4cams.*
 127.0.0.1 *hexat.*
 127.0.0.1 *blognive.*
-oxy.st##.adv-wrap
-oxy.st##p
-oxy.st###tekst-3
-oxy.st###abuse
 127.0.0.1 *chievemino.*
-bobs-tube.com##.sponsored_top
 ##a[href*="tmearn."]
 ##a[href*="cutpaid."]
 ##a[href*="chan."]
@@ -542,10 +542,8 @@ bobs-tube.com##.sponsored_top
 127.0.0.1 *tgraph.*
 ##.banners
 ##.tags
-smoner.com##body > div:nth-of-type(3)
 127.0.0.1 *telki.*
 127.0.0.1 *1x-bet*.*
-youla.ru##.product_item--promoted
 ###tagcanvas
 ##a[href*="webutation."]
 127.0.0.1 *yadistr.*
@@ -553,10 +551,7 @@ youla.ru##.product_item--promoted
 ##.tag-link-wrap
 ##.dyltv-container
 ##a[href*="outputlead."]
-old.fishki.net##.related-posts-wrap
-old.fishki.net##.side-right
 127.0.0.1 *meendoru.*
-lenta.ru##.b-topic-sidebar
 127.0.0.1 *moiprogrammy.*
 127.0.0.1 *win10programs.*
 ##a[href*="huilkom."]
@@ -564,16 +559,8 @@ lenta.ru##.b-topic-sidebar
 ##a[href*="telamoncleaner."]
 ##a[href*="kropic."]
 127.0.0.1 *kropic.*
-old.fishki.net##.clearfix.container-slider-top.container
 ##a[href*="smotri.mail."]
 ##a[href*="sextub."]
-www.tube-bunny.com##.wrap-visions-1m
-www.tube-bunny.com##.article1 > .container-fluid > .less-gutter.row > .col-md-3
-www.tube-bunny.com##.under-video-vision
-www.tube-bunny.com##.video.home-bottom.visions
-www.tube-bunny.com##.vision
-www.tube-bunny.com##.article2:nth-of-type(2)
-www.tube-bunny.com##.vision-on-player-inside
 ##a[href*="clantervarius."]
 ##.right_blk
 ##a[href*="faptop."]
@@ -595,7 +582,6 @@ www.tube-bunny.com##.vision-on-player-inside
 ##a[href*="catop."]
 ##a[href*="imgoutlet."]
 127.0.0.1 *ohnrp.*
-cloud.mail.ru##.b-panel__wrapper
 127.0.0.1 *slimsk.*
 127.0.0.1 *sabs-news.*
 ##a[href*="file-up."]
@@ -614,7 +600,6 @@ cloud.mail.ru##.b-panel__wrapper
 127.0.0.1 *universal-bypass.*
 127.0.0.1 *zlink2.*
 127.0.0.1 *amateur.*
-||fooktube.com/wp-content/uploads/*.jpg$image
 ##a[href*="campaign.aliexpress.com"]
 ##a[href*="yandeks"]
 ##a[href*="periscop"]
@@ -624,23 +609,14 @@ cloud.mail.ru##.b-panel__wrapper
 ##a[href*="wodemo"]
 ##a[href*="face-push.com/torrent"]
 ##a[href*="free_turboline"]
-yandex.ru##.direct
 ##a[href*="gestyy."]
-russia.tv##.mini-player
 ##.top-banner-container
 127.0.0.1 *freedating*
 ##a[href*="r.mail.ru/redir"]
 127.0.0.1 *viiotp*
-lenta.ru##.b-topic-addition.b-topic-longgrid
-lenta.ru###root > span
 ##a[href*="roulette"]
 127.0.0.1 *play.pulpower.*
-cloud.mail.ru##.b-tooltip_tariff-promo
-||money.yandex.ru/quickpay/shop-widget$subdocument
-yandex.ru###bk-container
-yandex.ru##.sticky_js_inited.sticky_visible
 127.0.0.1 *pushwelcome*
-yandex.ru##.distr-default-search-header_js_inited
 ##a[href*="bookmaker"]
 127.0.0.1 *bookmaker*
 ##a[href*="xguqeh."]
@@ -657,32 +633,18 @@ yandex.ru##.distr-default-search-header_js_inited
 ##.squarebanner
 127.0.0.1 *jailbait*
 127.0.0.1 *waphall*
-fantasti.cc##.right_column
-www.youporn.com##.four-column
 ##.ec-promo
 127.0.0.1 *waplist*
-yandex.ru##.zalogin-smart
 127.0.0.1 *monotyper*
 127.0.0.1 *imig.*
 ##a[href*="imig."]
 ##a[href*="/banner/"]
-yandex.ru##.incut_inserted_yes.incut_js_inited.i-bem.incut_position_page-fixed.incut_type_direct.incut
-||mp3ton.info/templates/mp3ton/dleimages/no_image.jpg$image
 127.0.0.1 *breakingnews*
 127.0.0.1 *nssuccess*
-||wapmob.net$image
-||joytop.ru$image
-||sexstat.ru$image
-||tabok.ru$image
-||toporn.su$image
-||uzsayt.ru$image
 127.0.0.1 *unicom24*
 127.0.0.1 *tiktok*
 ##a[href*="tiktok"]
 127.0.0.1 *danesbees*
-www.sexvid.porn##.spots_field
-apkpure.com##.tempWrap > ul
-apkpure.com###slide-wrap
 ##a[href*="cloud.mail.na.to"]
 127.0.0.1 *onlinestars*
 127.0.0.1 *ogorodniki*
@@ -690,38 +652,21 @@ apkpure.com###slide-wrap
 127.0.0.1 *forumlovers*
 ##a[href*="forumlovers"]
 ##.showYdModal.modalYdDownload
-yandex.ru##.verified-list
 127.0.0.1 *businesslink*
-yandex.ru##.related_js_inited.i-bem.related
-yandex.ru##.related__hidden
 127.0.0.1 *wapdale*
-aliexpress.ru###trial-review
 127.0.0.1 *detaingler*
 127.0.0.1 *bet-1x*
-yandex.ru##.misspell_bottom_yes.misspell
-yandex.ru##.serp-adv__found
-yandex.ru##.composite_separated_no.composite_gap_xs.composite
-yandex.ru##.related__above_appear_yes.related__above_left-column.supply__baobab_js_inited.i-bem.supply__baobab.related__above
-yandex.ru##.serp-list_right_yes.serp-list
 127.0.0.1 *forkplastic*
 127.0.0.1 *cutiegarden*
-account.mail.ru##.qrauth-vars
-www.pornlib.com##.ad-url
 127.0.0.1 *tiktok*
 127.0.0.1 *tik-tok*
 127.0.0.1 *sextgem*
 127.0.0.1 *wantiguely*
-account.mail.ru##.fast-auth
 127.0.0.1 *casualdating*
 127.0.0.1 *telegra.ph*
 ##a[href*="telegra.ph"]
 127.0.0.1 *.aino.*
 ##a[href*="#public"]
-oxy.st##.showYdModal.modalYdDownload > div > div > div:nth-of-type(2)
-oxy.st##small
-||user-life.com/templates/Duplex/images/img/*.jpg$image
-yandex.ru##.serp-user__login-info
-youla.ru##.product_item--promoted.product_item
 127.0.0.1 *.pennis*
 127.0.0.1 *frogsview*
 127.0.0.1 *nitenauth*
@@ -749,28 +694,19 @@ youla.ru##.product_item--promoted.product_item
 127.0.0.1 *azino*
 127.0.0.1 *first-*
 127.0.0.1 *-aplay*
-||zoomdecorate.rambler.ru/*$image
-downloadbrowsernow.com##.content
-downloadbrowsernow.com##.header
-www.softlabirint.com##.leftside
-www.softlabirint.com##.rightside
 127.0.0.1 *topanime*
 127.0.0.1 *adultchat*
 ##a[href*="dmtech"]
 ##a[href*="aneporn"]
-forum.ru-board.com##.post > .sing
 ##a[href*="sexh."]
 ##a[href*="s-e-x."]
-www.cyberforum.ru##.shade
 127.0.0.1 *check-your-dating*
 127.0.0.1 *lead1*
-ru.xhamster4.com##.preloader-inner
 ##.banner
 127.0.0.1 *tokyodoll*
 ##a[href*="tokyodoll"]
 ##a[href*="cutiegarden"]
 ##a[href*="cutie.garden"]
-overclockers.ru##.huge.loading.spinner.icon
 ##a[href*="trichanlinks"]
 127.0.0.1 *trichanlinks*
 ##a[href*="mobiexxx"]
@@ -779,82 +715,25 @@ overclockers.ru##.huge.loading.spinner.icon
 127.0.0.1 *failcloud24*
 ##a[href*="failzoma"]
 127.0.0.1 *failzoma*
-4pda.ru##.signature
-overclockers.ru##.over-hiddenlink-html > strong
-dwdisc.com##.b-rec
-dwdisc.com##.js-dwn-tg
-dwdisc.com##.b-download__help-link_mode_visible
-dwdisc.com##.b-MORDOR99RP1
-dwdisc.com##.b-download__info
 ##a[href*="ameporn"]
 127.0.0.1 *ameporn*
 ##.live-tv
-www.y2mate.com##.extension-header
-www.y2mate.com##.footer
-www.y2mate.com##.p-r-md.p-l-md.m-t.text-center.homepage-grid.row-padded.row
-www.y2mate.com##.featured.p-r-md.p-l-md.text-center.homepage-grid.row-bordered.row-padded.row
-www.y2mate.com##.p-r-md.p-l-md.text-center.homepage-grid.row-bordered.row-padded.row
-www.y2mate.com##.p-r-md.p-l-md.row-centered.row-bordered.row-padded.row
-www.y2mate.com##.label-info.label
-www.y2mate.com##.text-center > .active
-www.y2mate.com##.hero-homepage.hero > div:nth-of-type(2)
-www.y2mate.com##.hero-header
-www.y2mate.com##.navbar
 ##a[href*="/ero/"]
-getvideo.org##.blog-masthead
-getvideo.org##.button-full-download.btn-lg.btn-primary.btn
-getvideo.org###url
-||getvideo.org/style/close-icon.png$image
-getvideo.org##.blog-title
 ##a[href*="urlz.fr"]
 ##a[href*="is.gd"]
-searchcdn.ru##.a_content
-lifehacker.ru##.new_afp-iib__iframe
 ###cookies
-light.mail.ru##.items_mr_css_attr
-zen.yandex.ru##.article-right-ad-block__ad-content
 ###topBanner
-||r.mail.ru^
 ##a[href*="flingswipe"]
 127.0.0.1 *flingswipe*
 ##a[href*="bbwait"]
 127.0.0.1 *bbwait*
 ##a[href*="sexincity"]
 127.0.0.1 *sexincity*
-game-edition.ru##.moderatorbar
-trade.aliexpress.ru##.alime-avatar
-tofight.ru###cf-bg
 ##.spanlink
 127.0.0.1 *filedigger.net*
 ##a[href*="filedigger.net"]
-trade.aliexpress.ru##.alime-question-list
-trade.aliexpress.ru##.alime-strong-consult
-trade.aliexpress.ru##.alime-strong-header
-otzovik.com##.ypluss16_age
 ##a[href*="searchcdn.ru"]
-4pda.to##.signature
-q32.pw###bottom
-www.xvideos.com##.video-title
-musiclovers.top##.dcont
-musiclovers.top##.dtop
-www.y2mate.com###share-place-download
-musify.club##.st-browser__page
-musify.club##.st-browser__footer-right
-ccly.xyz##iframe
-nsportal.ru###home
-nsportal.ru###feat
-nsportal.ru##h3
-nsportal.ru##footer
-infourok.ru##.school-prep
-infourok.ru##.footer
-uchitelya.com##.pading
-uchitelya.com##.st-browser__page
-uchitelya.com##footer
 ##a[href="//ppt-online.org/yb.php"]
-yasearch-cdn.ru##.a_wrapper
-zen.yandex.ru##.desktop-channel-3-layout__hero
-zen.yandex.ru###article__right
-zen.yandex.ru##.article__content_limited
 ##.telegram-day
 ##.BannersSlider
 ##a[href*="aftermon.info"]
@@ -881,8 +760,6 @@ zen.yandex.ru##.article__content_limited
 ##a[href*="megase"]
 127.0.0.1 *savasav*
 ##a[href*="savasav"]
-e.mail.ru###app-canvas > div > div.application-mail > div.application-mail__overlay > div > div.application-mail__layout.application-mail__layout_main > span > div:nth-child(3)
-mail.ru##.grid__rcol_aside-atlas
 127.0.0.1 *soverthlaest*
 ##a[href*="soverthlaest"]
 127.0.0.1 *onetwothreex*
@@ -899,31 +776,14 @@ mail.ru##.grid__rcol_aside-atlas
 ##a[href*="ovhom"]
 127.0.0.1 *fewmonthst*
 ##a[href*="fewmonthst"]
-yandex.ru##.popup2_visible_yes
-download.oxy.st###tlg_download
-lenta.ru##.scroll-to-site__stick
-lenta.ru##.telegram-bad
-it-tehnik.ru##.live-comments
-lenta.ru##.b-video-box
-e.mail.ru###css-bundle
-e.mail.ru##.thread__kaspersky
 ###yabro-strip-element
-sorus.ucoz.ru##.signatureView
 ##a[href*="kyefakwa"]
 127.0.0.1 *kyefakwa*
-##a[href="https://kyefakwa.com/4-rvcxv-g1i-egup-b8x"]
 ##img[src="/ya2.png"]
 ##img[src="/slide/downloatzd/"]
 ##.cookie-agreement-wrapper
 ##.pushSubscribe
-www.apkmirror.com##.downloadCountdown
-www.apkmirror.com##.gooWidget
-##a[href="https://kyefakwa.com/2-fx8q1-g1i-ceca-e8x"]
-##a[href="https://myrotations.ru/v881.html"]
 ###adfrc_download_wrapper
-old.fishki.net##.b-close-post-list
-old.fishki.net##.b-close-window_title
-old.fishki.net##.bclose-hog-image
 *yabaner$image
 *dsbaner$image
 *orange_17_EN$image
@@ -937,7 +797,6 @@ old.fishki.net##.bclose-hog-image
 *utorrent-ms$image
 *yabra$image
 ##a[href="https://goo.su/6Ja9"]
-||vp.rambler.ru/player/$subdocument
 ##a[href="startandus3it1x"]
 127.0.0.1 *startandus3it1x*
 ##.down-mg
@@ -960,7 +819,6 @@ old.fishki.net##.bclose-hog-image
 127.0.0.1 *wulkan*
 ##a[href="wulkan"]
 ##.viqeo-slot > div > iframe
-lrepacks.net##iframe
 127.0.0.1 *bet365*
 ##a[href="bet365"]
 ##.pulse
@@ -999,10 +857,12 @@ lrepacks.net##iframe
 127.0.0.1 *avtomaty-online.best*
 ##a[href="play-fortuna"]
 127.0.0.1 *play-fortuna*
-leitup.com##.btn-primary.btn
-uploadrar.com##.btn-lg.btn-info.btn
 */images/dlo.png$image
 ##.prem
+127.0.0.1 *bybit*
+##a[href="bybit"]
+
+
 
 
 
