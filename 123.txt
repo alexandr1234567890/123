@@ -67,7 +67,7 @@
 127.0.0.1 softbesplatno.*
 127.0.0.1 solidayw.*
 127.0.0.1 static.olymptrade.*
-127.0.0.1 turbobooks.*
+127.0.0.1 *turbobooks.*
 127.0.0.1 ultra-bonus.*
 127.0.0.1 utarget.ru
 127.0.0.1 vacaneedasap.*
@@ -861,6 +861,21 @@ getvideo.org##.blog-title
 ##.prem
 127.0.0.1 *bybit*
 ##a[href="bybit"]
+###ya_partner
+127.0.0.1 *-sloty*
+##a[href="-sloty"]
+##.generate-back-to-top
+##.m-fixed-panel_transparent
+###topcontrol
+##.button_color_dark.button
+127.0.0.1 *wasadirec*
+##a[href="wasadirec"]
+127.0.0.1 *yourfreefiledownloader*
+##a[href="yourfreefiledownloader"]
+127.0.0.1 *azurefd*
+##a[href="azurefd"]
+127.0.0.1 *casversus*
+##a[href="casversus"]
 
 
 
