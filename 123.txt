@@ -720,7 +720,6 @@ getvideo.org##.blog-title
 ##.live-tv
 ##a[href*="/ero/"]
 ##a[href*="urlz.fr"]
-##a[href*="is.gd"]
 ###cookies
 ###topBanner
 ##a[href*="flingswipe"]
@@ -876,6 +875,30 @@ getvideo.org##.blog-title
 ##a[href="azurefd"]
 127.0.0.1 *casversus*
 ##a[href="casversus"]
+##.ru1tgo1
+##.ru1tgo2
+127.0.0.1 *downloadoperagx*
+##a[href="downloadoperagx"]
+||vp.rambler.ru/player
+##.btn-lg.btn-info.btn
+127.0.0.1 *-vulkan*
+##a[href="-vulkan"]
+127.0.0.1 *wulcan*
+##a[href="wulcan"]
+127.0.0.1 *-wylk*
+##a[href="-wylk"]
+*/img/adguard*$image
+##a[href="gcouncerne"]
+127.0.0.1 *gcouncerne*
+*/ads-banner$image
+##.b-close-window
+127.0.0.1 *great-vpn*
+##a[href="great-vpn"]
+##.purchaseNoWaiting
+##.st-browser__page
+##a[href="admiralbet"]
+127.0.0.1 *admiralbet*
+
 
 
 
