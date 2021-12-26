@@ -230,6 +230,58 @@ www.y2mate.com##.hero-header
 www.y2mate.com##.navbar
 www.y2mate.com###share-place-download
 
+music.yandex.ru##.deco-tooltip_to-right.popup_visible.popup_fade.local-theme-black.d-tooltip_min-width.deco-pane-popup.popup.deco-tooltip.d-tooltip
+music.yandex.ru##.notify_shown.deco-tooltip_notify.notify__message
+
+||xray.mail.ru^
+@@||e.mail.ru^$generichide
+||r.mradx.net/*?link1=$subdocument
+e.mail.ru###app-canvas div.layout__overflow-container div.slot > :not(img) > :not(img)
+e.mail.ru##.application > div.notify-stack_fixed
+||an.yandex.ru^
+||mail.ru/manifest.json
+e.mail.ru##.js-banner-wrapper-container > div.trg-b-container
+e.mail.ru##.js-banner-wrapper-container > div.trg-b-img-wrap
+cloud.mail.ru##.bnrCloudAtom
+
+127.0.0.1 *great-vpn.*
+##a[href*="great-vpn."]
+*_yabaner.png$image
+*_dsbaner.png$image
+##img[src="/pic/yabra.png"]
+##a[href*="adguardInstaller.exe"]
+##.st-browser__page
+##.st-browser__footer-right
+##img[src="/img/yad1.png"]
+aliexpress.ru##.Product_LoyaltyBanner__container__1qoe8
+##a[href^="https://telamoncleaner.ru/tracker/"]
+##a[href="https://goo.su/6Ja9"]
+##a[href*="-inciter-magazine-"]
+##a[href*="-mayfair-lingerie-"]
+##a[href*="-sokrovische-nadii-treasure-of-nadia-"]
+##a[href*="-playboys-"]
+##a[href*="-playboy-"]
+##a[href*="-fhm-sweden-"]
+##a[href*="yabrowser.su"]
+##a[href^="https://zutcreet.com/api/redirect"]
+##a[href^="https://telamon.app/tracker/"]
+##a[href="https://u-rl.ru/MDL4o"]
+##a[href="https://u-rl.ru/tZ3Uc"]
+##a[href^="https://download.cdn.yandex.net/yandex-tag/weboffer/YandexPackLoader.exe"]
+##a[href="https://rotatemysoft.ru/v816.html"]
+##a[href^="https://adg.offeroad.ru/r/"]
+##a[href*="v1.gtorrent.xyz/ya/"]
+###tlg_download
+##a[href^="http://sub2.admitlead.ru/sb/clk/"]
+##.fleft.btn-installpack-wrapper
+##iframe[src^="//dsp-rambler.ru/imp"]
+##a[href*="penthouse"]
+##a[href*="/eroigri/"]
+##a[href*="/ero/"]
+##.adsbygoogle
+##.expop
+
+
 
 
 
