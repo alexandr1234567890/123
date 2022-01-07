@@ -80,6 +80,7 @@ www.youtube.com###contents > .ytd-browse-secondary-contents-renderer.style-scope
 www.youtube.com##.ytd-browse-secondary-contents-renderer.style-scope:nth-of-type(2)
 www.youtube.com##.miniplayer
 
+aliexpress.ru##.Product_LoyaltyBanner__container__1qoe8
 ru.aliexpress.com###girdle-banner-info
 ru.aliexpress.com##.ui-newuser-coupon-tips
 ru.aliexpress.com###j-price-extra-wrap
@@ -229,31 +230,29 @@ www.y2mate.com##.hero-homepage.hero > div:nth-of-type(2)
 www.y2mate.com##.hero-header
 www.y2mate.com##.navbar
 www.y2mate.com###share-place-download
+www.y2mate.com##.mgbox
 
 music.yandex.ru##.deco-tooltip_to-right.popup_visible.popup_fade.local-theme-black.d-tooltip_min-width.deco-pane-popup.popup.deco-tooltip.d-tooltip
 music.yandex.ru##.notify_shown.deco-tooltip_notify.notify__message
+yandex.ru##.distr-popup__content.popup2__content
+||an.yandex.ru^
+zen.yandex.ru###article__right
 
 ||xray.mail.ru^
 @@||e.mail.ru^$generichide
 ||r.mradx.net/*?link1=$subdocument
 e.mail.ru###app-canvas div.layout__overflow-container div.slot > :not(img) > :not(img)
 e.mail.ru##.application > div.notify-stack_fixed
-||an.yandex.ru^
 ||mail.ru/manifest.json
 e.mail.ru##.js-banner-wrapper-container > div.trg-b-container
 e.mail.ru##.js-banner-wrapper-container > div.trg-b-img-wrap
 cloud.mail.ru##.bnrCloudAtom
 
-127.0.0.1 *great-vpn.*
+youla.ru##.product_item--ad-native
+youla.ru##.mailru-visibility-check
+
 ##a[href*="great-vpn."]
-*_yabaner.png$image
-*_dsbaner.png$image
-##img[src="/pic/yabra.png"]
 ##a[href*="adguardInstaller.exe"]
-##.st-browser__page
-##.st-browser__footer-right
-##img[src="/img/yad1.png"]
-aliexpress.ru##.Product_LoyaltyBanner__container__1qoe8
 ##a[href^="https://telamoncleaner.ru/tracker/"]
 ##a[href="https://goo.su/6Ja9"]
 ##a[href*="-inciter-magazine-"]
@@ -271,15 +270,53 @@ aliexpress.ru##.Product_LoyaltyBanner__container__1qoe8
 ##a[href="https://rotatemysoft.ru/v816.html"]
 ##a[href^="https://adg.offeroad.ru/r/"]
 ##a[href*="v1.gtorrent.xyz/ya/"]
-###tlg_download
 ##a[href^="http://sub2.admitlead.ru/sb/clk/"]
-##.fleft.btn-installpack-wrapper
-##iframe[src^="//dsp-rambler.ru/imp"]
+##a[href^="https://dsp-rambler.ru/click"]
 ##a[href*="penthouse"]
 ##a[href*="/eroigri/"]
 ##a[href*="/ero/"]
+##a[href^="https://ra.majorgeeks.com/www/delivery/click.php"]
+##a[href^="https://go.click2bit.net/r/"]
+##a[href^="/engine/go.php"]
+##a[href*="_source=banner"]
+
+127.0.0.1 *great-vpn.*
+
+##iframe[src^="//img01.ssp.rambler.ru/file.jsp?url"]
+##iframe[src^="//am15.net/ssp/banner?upst"]
+##iframe[src^="//dsp-rambler.ru/imp"]
+##iframe[src^="//ad.a-ads.com/"]
+
+##img[src="/pic/yabra.png"]
+##img[src="/img/yad1.png"]
+
+images/jet_yandex.jpg$image
+
+*_yabaner.png$image
+*_dsbaner.png$image
+
+##.fleft.btn-installpack-wrapper
+##.st-browser__page
+##.st-browser__footer-right
+##.navigation-banner
+##.header-banner
+##.Cookie
+##.material-tag
 ##.adsbygoogle
 ##.expop
+##.js-banner.banner
+##.banner
+##.BannersSlider
+##.ypluss16_age
+##.widget_tag_cloud
+
+###tlg_download
+###qwerty_wrap
+###yabro-strip-element
+###spn-popover-container
+
+||compactembed.ml/$subdocument
+
 
 
 
