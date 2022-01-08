@@ -251,6 +251,8 @@ cloud.mail.ru##.bnrCloudAtom
 mail.ru##.toolbar__inner
 otvet.mail.ru##.i-font-md.i-link-no-deco.i-relative.i-block.toolbar
 otvet.mail.ru##.trg-b-wrap
+||ad.mail.ru/adf/$subdocument
+
 
 youla.ru##.product_item--ad-native
 youla.ru##.mailru-visibility-check
@@ -290,6 +292,8 @@ youla.ru##.mailru-visibility-check
 ##iframe[src^="//am15.net/ssp/banner?upst"]
 ##iframe[src^="//dsp-rambler.ru/imp"]
 ##iframe[src^="//ad.a-ads.com/"]
+##iframe[src^="//ad.mail.ru/adf/"]
+
 
 ##img[src="/pic/yabra.png"]
 ##img[src="/img/yad1.png"]
@@ -322,6 +326,7 @@ images/jet_yandex.jpg$image
 
 ||compactembed.ml/$subdocument
 ||googleads.g.doubleclick.net/pagead/ads$subdocument
+
 
 
 
