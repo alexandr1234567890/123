@@ -79,6 +79,7 @@ www.youtube.com###title.ytd-shelf-renderer.style-scope
 www.youtube.com###contents > .ytd-browse-secondary-contents-renderer.style-scope
 www.youtube.com##.ytd-browse-secondary-contents-renderer.style-scope:nth-of-type(2)
 www.youtube.com##.miniplayer
+www.youtube.com###contentWrapper > .ytd-popup-container.style-scope
 
 aliexpress.ru##.Product_LoyaltyBanner__container__1qoe8
 ru.aliexpress.com###girdle-banner-info
@@ -247,6 +248,9 @@ e.mail.ru##.application > div.notify-stack_fixed
 e.mail.ru##.js-banner-wrapper-container > div.trg-b-container
 e.mail.ru##.js-banner-wrapper-container > div.trg-b-img-wrap
 cloud.mail.ru##.bnrCloudAtom
+mail.ru##.toolbar__inner
+otvet.mail.ru##.i-font-md.i-link-no-deco.i-relative.i-block.toolbar
+otvet.mail.ru##.trg-b-wrap
 
 youla.ru##.product_item--ad-native
 youla.ru##.mailru-visibility-check
@@ -309,6 +313,7 @@ images/jet_yandex.jpg$image
 ##.BannersSlider
 ##.ypluss16_age
 ##.widget_tag_cloud
+##.DA-BLOCK
 
 ###tlg_download
 ###qwerty_wrap
@@ -316,6 +321,9 @@ images/jet_yandex.jpg$image
 ###spn-popover-container
 
 ||compactembed.ml/$subdocument
+||googleads.g.doubleclick.net/pagead/ads$subdocument
+
+
 
 
 
