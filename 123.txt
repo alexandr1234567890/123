@@ -238,6 +238,7 @@ music.yandex.ru##.notify_shown.deco-tooltip_notify.notify__message
 yandex.ru##.distr-popup__content.popup2__content
 ||an.yandex.ru^
 zen.yandex.ru###article__right
+disk.yandex.ru##.Subscription-Onboarding-Root
 
 ||xray.mail.ru^
 @@||e.mail.ru^$generichide
@@ -252,10 +253,13 @@ mail.ru##.toolbar__inner
 otvet.mail.ru##.i-font-md.i-link-no-deco.i-relative.i-block.toolbar
 otvet.mail.ru##.trg-b-wrap
 ||ad.mail.ru/adf/$subdocument
+e.mail.ru##.promo-block-letter
+e.mail.ru##.thread__kaspersky
 
 
 youla.ru##.product_item--ad-native
 youla.ru##.mailru-visibility-check
+youla.ru##.sc-kudhcb
 
 ##a[href*="great-vpn."]
 ##a[href*="adguardInstaller.exe"]
@@ -285,14 +289,19 @@ youla.ru##.mailru-visibility-check
 ##a[href^="https://go.click2bit.net/r/"]
 ##a[href^="/engine/go.php"]
 ##a[href*="_source=banner"]
+##a[href^="https://browser.yandex.ru/?from=banner"]
+##a[href^="/download/Reklama.html"]
+##a[href*="https://is.gd/"]
 
 127.0.0.1 *great-vpn.*
+127.0.0.1 *moiprogrammy.com*
 
 ##iframe[src^="//img01.ssp.rambler.ru/file.jsp?url"]
 ##iframe[src^="//am15.net/ssp/banner?upst"]
 ##iframe[src^="//dsp-rambler.ru/imp"]
 ##iframe[src^="//ad.a-ads.com/"]
 ##iframe[src^="//ad.mail.ru/adf/"]
+##iframe[src^="https://interstitial-07.com/?l"]
 
 
 ##img[src="/pic/yabra.png"]
@@ -318,6 +327,9 @@ images/jet_yandex.jpg$image
 ##.ypluss16_age
 ##.widget_tag_cloud
 ##.DA-BLOCK
+##.orfo-notice
+##.ac-lre-wrapper
+##._winline
 
 ###tlg_download
 ###qwerty_wrap
@@ -326,6 +338,15 @@ images/jet_yandex.jpg$image
 
 ||compactembed.ml/$subdocument
 ||googleads.g.doubleclick.net/pagead/ads$subdocument
+
+||nertablisst.com^$third-party
+||hooligapps.com^$third-party
+||slavesenviablegrammar.com^$third-party
+||syndication.realsrv.com^$third-party
+
+##div#banner_ad
+##div#note-0
+##div#orquidea-slideup
 
 
 
