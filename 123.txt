@@ -40,47 +40,6 @@ vk.com###actualize_box
 ||vk.com/widget_community.php$subdocument
 ||vk.com/images/upload.gif$image
 
-www.youtube.com###search-secondary-col-contents
-www.youtube.com##.search-refinements
-www.youtube.com###upload-btn
-www.youtube.com##.ytp-pause-overlay
-www.youtube.com##.ytp-endscreen-content
-www.youtube.com##.ytp-chrome-top-buttons
-www.youtube.com##.ytp-title-text
-www.youtube.com##.ytp-title-channel
-www.youtube.com##.ytp-ce-element
-www.youtube.com##.ytp-ce-covering-overlay
-www.youtube.com##.watch-view-count
-www.youtube.com##.mealbar-promo-renderer.yt-dialog > .yt-dialog-base
-www.youtube.com##.ytp-scroll-min.ytp-pause-overlay
-www.youtube.com##.ytp-ad-survey-questions
-##.__BC_Table
-www.youtube.com###trending-guide-item
-www.youtube.com##.standalone-collection-badge-renderer-text > .spf-link.yt-uix-sessionlink
-www.youtube.com##.epic-nav-item-heading
-www.youtube.com##.ytd-video-primary-info-renderer.style-scope.super-title > .yt-formatted-string.style-scope.yt-simple-endpoint
-||www.youtube.com/live_chat_replay$subdocument
-||www.youtube.com/live_chat$subdocument
-www.youtube.com###chatframe
-www.youtube.com###chat
-www.youtube.com###comments
-www.youtube.com###list-container
-www.youtube.com##.ytd-guide-renderer.style-scope:nth-of-type(3)
-www.youtube.com###section-items
-www.youtube.com###header-entry
-www.youtube.com###sections > .ytd-guide-renderer.style-scope:nth-of-type(1)
-www.youtube.com##.ytd-guide-renderer.style-scope:nth-of-type(4)
-www.youtube.com###footer
-www.youtube.com##.style-default.ytd-masthead.style-scope:nth-of-type(2)
-www.youtube.com###buttons > .style-default.ytd-masthead.style-scope:nth-of-type(1)
-www.youtube.com##.notification-button-style-type-conversation-default.ytd-masthead.style-scope
-www.youtube.com###channel.ytd-grid-channel-renderer.style-scope
-www.youtube.com###title.ytd-shelf-renderer.style-scope
-www.youtube.com###contents > .ytd-browse-secondary-contents-renderer.style-scope
-www.youtube.com##.ytd-browse-secondary-contents-renderer.style-scope:nth-of-type(2)
-www.youtube.com##.miniplayer
-www.youtube.com###contentWrapper > .ytd-popup-container.style-scope
-
 aliexpress.ru##.Product_LoyaltyBanner__container__1qoe8
 ru.aliexpress.com###girdle-banner-info
 ru.aliexpress.com##.ui-newuser-coupon-tips
@@ -249,6 +208,10 @@ e.mail.ru##.application > div.notify-stack_fixed
 e.mail.ru##.js-banner-wrapper-container > div.trg-b-container
 e.mail.ru##.js-banner-wrapper-container > div.trg-b-img-wrap
 cloud.mail.ru##.bnrCloudAtom
+cloud.mail.ru##.trg-b-banner-block.trg-b-wrap
+cloud.mail.ru##.w-public__content > .b-layout > .b-layout__col_2_2.b-layout__col
+cloud.mail.ru##.DisableButton__disable--TIUTA
+cloud.mail.ru##.trg-b-all-in-link
 mail.ru##.toolbar__inner
 otvet.mail.ru##.i-font-md.i-link-no-deco.i-relative.i-block.toolbar
 otvet.mail.ru##.trg-b-wrap
@@ -256,6 +219,45 @@ otvet.mail.ru##.trg-b-wrap
 e.mail.ru##.promo-block-letter
 e.mail.ru##.thread__kaspersky
 
+www.youtube.com###search-secondary-col-contents
+www.youtube.com##.search-refinements
+www.youtube.com###upload-btn
+www.youtube.com##.ytp-pause-overlay
+www.youtube.com##.ytp-endscreen-content
+www.youtube.com##.ytp-chrome-top-buttons
+www.youtube.com##.ytp-title-text
+www.youtube.com##.ytp-title-channel
+www.youtube.com##.ytp-ce-element
+www.youtube.com##.ytp-ce-covering-overlay
+www.youtube.com##.watch-view-count
+www.youtube.com##.mealbar-promo-renderer.yt-dialog > .yt-dialog-base
+www.youtube.com##.ytp-scroll-min.ytp-pause-overlay
+www.youtube.com##.ytp-ad-survey-questions
+##.__BC_Table
+www.youtube.com###trending-guide-item
+www.youtube.com##.standalone-collection-badge-renderer-text > .spf-link.yt-uix-sessionlink
+www.youtube.com##.epic-nav-item-heading
+www.youtube.com##.ytd-video-primary-info-renderer.style-scope.super-title > .yt-formatted-string.style-scope.yt-simple-endpoint
+||www.youtube.com/live_chat_replay$subdocument
+||www.youtube.com/live_chat$subdocument
+www.youtube.com###chatframe
+www.youtube.com###chat
+www.youtube.com###comments
+www.youtube.com###list-container
+www.youtube.com##.ytd-guide-renderer.style-scope:nth-of-type(3)
+www.youtube.com###section-items
+www.youtube.com###header-entry
+www.youtube.com###sections > .ytd-guide-renderer.style-scope:nth-of-type(1)
+www.youtube.com##.ytd-guide-renderer.style-scope:nth-of-type(4)
+www.youtube.com###footer
+www.youtube.com##.style-default.ytd-masthead.style-scope:nth-of-type(2)
+www.youtube.com###buttons > .style-default.ytd-masthead.style-scope:nth-of-type(1)
+www.youtube.com##.notification-button-style-type-conversation-default.ytd-masthead.style-scope
+www.youtube.com###channel.ytd-grid-channel-renderer.style-scope
+www.youtube.com###title.ytd-shelf-renderer.style-scope
+www.youtube.com###contents > .ytd-browse-secondary-contents-renderer.style-scope
+www.youtube.com##.ytd-browse-secondary-contents-renderer.style-scope:nth-of-type(2)
+www.youtube.com##.miniplayer
 
 youla.ru##.product_item--ad-native
 youla.ru##.mailru-visibility-check
@@ -285,6 +287,9 @@ youla.ru##.sc-kudhcb
 ##a[href*="penthouse"]
 ##a[href*="/eroigri/"]
 ##a[href*="/ero/"]
+##a[href*="-barely-legal-"]
+##a[href*="-lascivia-magazine-"]
+##a[href*="-bez-odezhdy-"]
 ##a[href^="https://ra.majorgeeks.com/www/delivery/click.php"]
 ##a[href^="https://go.click2bit.net/r/"]
 ##a[href^="/engine/go.php"]
@@ -292,9 +297,19 @@ youla.ru##.sc-kudhcb
 ##a[href^="https://browser.yandex.ru/?from=banner"]
 ##a[href^="/download/Reklama.html"]
 ##a[href*="https://is.gd/"]
+##a[href*="https://cwpbam.mfcewkrob.com/"]
+##a[href*="https://syndication.exoclick.com/"]
+##a[href*="https://news.2xclick.ru/"]
+##a[href*="https://sblftg.com/"]
+##a[href*="xml.realtime-bid.com"]
+##a[href*="dgelnham.com"]
+##a[href^="https://turb.cc/turbo"]
+
 
 127.0.0.1 *great-vpn.*
 127.0.0.1 *moiprogrammy.com*
+127.0.0.1 *theonlygames.com*
+127.0.0.1 *loverforu.com*
 
 ##iframe[src^="//img01.ssp.rambler.ru/file.jsp?url"]
 ##iframe[src^="//am15.net/ssp/banner?upst"]
@@ -302,12 +317,15 @@ youla.ru##.sc-kudhcb
 ##iframe[src^="//ad.a-ads.com/"]
 ##iframe[src^="//ad.mail.ru/adf/"]
 ##iframe[src^="https://interstitial-07.com/?l"]
+##iframe[src^="https://player.twitch.tv?autoplay="]
 
 
 ##img[src="/pic/yabra.png"]
 ##img[src="/img/yad1.png"]
 
 images/jet_yandex.jpg$image
+/ads-banner.gif$image
+/Zastavka-online-video-cutter.com_.mp4$media
 
 *_yabaner.png$image
 *_dsbaner.png$image
@@ -330,11 +348,22 @@ images/jet_yandex.jpg$image
 ##.orfo-notice
 ##.ac-lre-wrapper
 ##._winline
+##.afp-iib__iframe
+##.afp-iib__inner-container
+##.banner-preload.slide-banner
+##.adlk-time
+##.trg-visibility-check
+##.MIXADVERT_NET
+##.adpartner-box
+##.adsbyyottos
+##.pip-mat-inner
+
 
 ###tlg_download
 ###qwerty_wrap
 ###yabro-strip-element
 ###spn-popover-container
+###viSpot
 
 ||compactembed.ml/$subdocument
 ||googleads.g.doubleclick.net/pagead/ads$subdocument
@@ -343,10 +372,21 @@ images/jet_yandex.jpg$image
 ||hooligapps.com^$third-party
 ||slavesenviablegrammar.com^$third-party
 ||syndication.realsrv.com^$third-party
+||ationalhe.com^$third-party
+||tsyndicate.com^$third-party
+||theonlygames.com^$third-party
+||dgelnham.com^$third-party
+||formanen.com^$third-party
+||formanents.com^$third-party
+||tsshruggle.com^$third-party
+||forgotteddi.com^$third-party
+||sivian-ebe.com^$third-party
+||xml.realtime-bid.com^$third-party
 
 ##div#banner_ad
 ##div#note-0
 ##div#orquidea-slideup
+
 
 
 
