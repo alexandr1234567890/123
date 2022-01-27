@@ -199,25 +199,7 @@ yandex.ru##.distr-popup__content.popup2__content
 zen.yandex.ru###article__right
 disk.yandex.ru##.Subscription-Onboarding-Root
 
-||xray.mail.ru^
-@@||e.mail.ru^$generichide
-||r.mradx.net/*?link1=$subdocument
-e.mail.ru###app-canvas div.layout__overflow-container div.slot > :not(img) > :not(img)
-e.mail.ru##.application > div.notify-stack_fixed
-||mail.ru/manifest.json
-e.mail.ru##.js-banner-wrapper-container > div.trg-b-container
-e.mail.ru##.js-banner-wrapper-container > div.trg-b-img-wrap
-cloud.mail.ru##.bnrCloudAtom
-cloud.mail.ru##.trg-b-banner-block.trg-b-wrap
-cloud.mail.ru##.w-public__content > .b-layout > .b-layout__col_2_2.b-layout__col
-cloud.mail.ru##.DisableButton__disable--TIUTA
-cloud.mail.ru##.trg-b-all-in-link
-mail.ru##.toolbar__inner
-otvet.mail.ru##.i-font-md.i-link-no-deco.i-relative.i-block.toolbar
-otvet.mail.ru##.trg-b-wrap
-||ad.mail.ru/adf/$subdocument
-e.mail.ru##.promo-block-letter
-e.mail.ru##.thread__kaspersky
+
 
 www.youtube.com###search-secondary-col-contents
 www.youtube.com##.search-refinements
