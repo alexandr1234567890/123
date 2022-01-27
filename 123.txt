@@ -221,7 +221,11 @@ otvet.mail.ru##.trg-b-wrap
 e.mail.ru##.promo-block-letter
 e.mail.ru##.thread__kaspersky
 e.mail.ru###preload_banner_1
+||rs.mail.ru^$domain=~account.mail.ru
+||trk.mail.ru^$image
+||top-fwz1.mail.ru^
 
+/px.js?ch=
 
 www.youtube.com###search-secondary-col-contents
 www.youtube.com##.search-refinements
