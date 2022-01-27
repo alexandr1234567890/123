@@ -199,6 +199,8 @@ yandex.ru##.distr-popup__content.popup2__content
 zen.yandex.ru###article__right
 disk.yandex.ru##.Subscription-Onboarding-Root
 
+drive.google.com##.a-la-B-x
+
 ||xray.mail.ru^
 @@||e.mail.ru^$generichide
 ||r.mradx.net/*?link1=$subdocument
@@ -218,6 +220,10 @@ otvet.mail.ru##.trg-b-wrap
 ||ad.mail.ru/adf/$subdocument
 e.mail.ru##.promo-block-letter
 e.mail.ru##.thread__kaspersky
+e.mail.ru###preload_banner_1
+||rs.mail.ru^$domain=~account.mail.ru
+||trk.mail.ru^$image
+||top-fwz1.mail.ru^
 
 www.youtube.com###search-secondary-col-contents
 www.youtube.com##.search-refinements
@@ -305,7 +311,6 @@ youla.ru##.sc-kudhcb
 ##a[href*="dgelnham.com"]
 ##a[href^="https://turb.cc/turbo"]
 
-
 127.0.0.1 *great-vpn.*
 127.0.0.1 *moiprogrammy.com*
 127.0.0.1 *theonlygames.com*
@@ -326,6 +331,8 @@ youla.ru##.sc-kudhcb
 images/jet_yandex.jpg$image
 /ads-banner.gif$image
 /Zastavka-online-video-cutter.com_.mp4$media
+
+/px.js?ch=
 
 *_yabaner.png$image
 *_dsbaner.png$image
@@ -357,6 +364,10 @@ images/jet_yandex.jpg$image
 ##.adpartner-box
 ##.adsbyyottos
 ##.pip-mat-inner
+##.videoslider
+##.trg-b-item__banner
+##.banner-2
+##.adtester-container
 
 
 ###tlg_download
@@ -364,28 +375,24 @@ images/jet_yandex.jpg$image
 ###yabro-strip-element
 ###spn-popover-container
 ###viSpot
+###vi-smartbanner
+###vi-smartbanner-unit
+###cookie-pop
+###privacypolicy
 
 ||compactembed.ml/$subdocument
 ||googleads.g.doubleclick.net/pagead/ads$subdocument
 
-||nertablisst.com^$third-party
-||hooligapps.com^$third-party
-||slavesenviablegrammar.com^$third-party
 ||syndication.realsrv.com^$third-party
-||ationalhe.com^$third-party
 ||tsyndicate.com^$third-party
 ||theonlygames.com^$third-party
-||dgelnham.com^$third-party
-||formanen.com^$third-party
-||formanents.com^$third-party
-||tsshruggle.com^$third-party
-||forgotteddi.com^$third-party
-||sivian-ebe.com^$third-party
 ||xml.realtime-bid.com^$third-party
 
 ##div#banner_ad
 ##div#note-0
 ##div#orquidea-slideup
+
+
 
 
 
