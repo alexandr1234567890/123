@@ -330,8 +330,6 @@ images/jet_yandex.jpg$image
 /ads-banner.gif$image
 /Zastavka-online-video-cutter.com_.mp4$media
 
-/px.js?ch=
-
 *_yabaner.png$image
 *_dsbaner.png$image
 
