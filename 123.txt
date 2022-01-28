@@ -40,13 +40,6 @@ vk.com###actualize_box
 ||vk.com/widget_community.php$subdocument
 ||vk.com/images/upload.gif$image
 
-aliexpress.ru##.Product_LoyaltyBanner__container__1qoe8
-ru.aliexpress.com###girdle-banner-info
-ru.aliexpress.com##.ui-newuser-coupon-tips
-ru.aliexpress.com###j-price-extra-wrap
-ru.aliexpress.com##.store-header-bg
-trade.aliexpress.com###J_xiaomi_dialog
-trade.aliexpress.com##a[href="//sale.aliexpress.com/BRAND_FEST_SHEIN.htm"]
 *alicdn.com/*секс*
 *alicdn.com/*пикантн*
 *alicdn.com/*adult*
@@ -225,8 +218,6 @@ e.mail.ru###preload_banner_1
 ||trk.mail.ru^$image
 ||top-fwz1.mail.ru^
 
-/px.js?ch=
-
 www.youtube.com###search-secondary-col-contents
 www.youtube.com##.search-refinements
 www.youtube.com###upload-btn
@@ -326,11 +317,11 @@ youla.ru##.sc-kudhcb
 ##iframe[src^="https://interstitial-07.com/?l"]
 ##iframe[src^="https://player.twitch.tv?autoplay="]
 
-
 ##img[src="/pic/yabra.png"]
 ##img[src="/img/yad1.png"]
 
 images/jet_yandex.jpg$image
+
 /ads-banner.gif$image
 /Zastavka-online-video-cutter.com_.mp4$media
 
@@ -369,7 +360,6 @@ images/jet_yandex.jpg$image
 ##.banner-2
 ##.adtester-container
 
-
 ###tlg_download
 ###qwerty_wrap
 ###yabro-strip-element
@@ -379,6 +369,7 @@ images/jet_yandex.jpg$image
 ###vi-smartbanner-unit
 ###cookie-pop
 ###privacypolicy
+###onetrust-banner-sdk
 
 ||compactembed.ml/$subdocument
 ||googleads.g.doubleclick.net/pagead/ads$subdocument
