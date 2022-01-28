@@ -116,6 +116,8 @@ apkpure.com##a[href="/ru/how-to-install-apk.html"]
 apkpure.com##.tempWrap > ul
 apkpure.com###slide-wrap
 apkpure.com##.ad-box-auto > div
+apkpure.com##.right
+apkpure.com##.details-how
 
 apkfind.com##.mdl-mega-footer
 apkfind.com##.mdl-layout__header-row
@@ -166,8 +168,6 @@ apkpure.ai##.search-dl > dd > p:nth-of-type(2)
 apkpure.ai##.search-dl > dd > p:nth-of-type(3) > .more-down
 apkpure.ai##.showmore_trigger
 apkpure.ai##.ny-down
-apkpure.com##.right
-apkpure.com##.details-how
 
 www.apkmirror.com##.downloadCountdown
 www.apkmirror.com##.gooWidget
@@ -360,6 +360,7 @@ images/jet_yandex.jpg$image
 ##.trg-b-item__banner
 ##.banner-2
 ##.adtester-container
+##.OldBrowser
 
 ###tlg_download
 ###qwerty_wrap
