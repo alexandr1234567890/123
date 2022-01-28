@@ -115,6 +115,7 @@ apkpure.com##.down-variant
 apkpure.com##a[href="/ru/how-to-install-apk.html"]
 apkpure.com##.tempWrap > ul
 apkpure.com###slide-wrap
+apkpure.com##.ad-box-auto > div
 
 apkfind.com##.mdl-mega-footer
 apkfind.com##.mdl-layout__header-row
