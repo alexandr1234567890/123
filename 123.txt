@@ -9,17 +9,6 @@
 ! Description: This LVU filter
 !-------------------------------------------------------------------------------
 ! Third Party blocking ---------------------------------------------------------
-ovego.tv##table:nth-of-type(2) > tbody > tr > td > table > tbody > tr > td:nth-of-type(1)
-ovego.tv##table:nth-of-type(2) > tbody > tr > td > table > tbody > tr > td:nth-of-type(3)
-ovego.tv##.eBlock > tbody > tr:nth-of-type(2)
-ovego.tv##td:nth-of-type(2) > table > tbody > tr > td > table:nth-of-type(3)
-ovego.tv###postFormContent
-ovego.tv##td:nth-of-type(2) > table:nth-of-type(3)
-ovego.tv##body > table > tbody > tr > td:nth-of-type(2) > table:nth-of-type(1)
-ovego.tv##td > table > tbody > tr > td:nth-of-type(2) > table > tbody > tr > td > table:nth-of-type(1)
-ovego.tv##td > hr
-ovego.tv##.eTitle
-
 ok.ru##.__step-question
 ok.ru##.__promo.u-menu_a
 ok.ru##.__shared.h-mod.feed
@@ -68,109 +57,6 @@ getvideo.org##.button-full-download.btn-lg.btn-primary.btn
 getvideo.org###url
 ||getvideo.org/style/close-icon.png$image
 getvideo.org##.blog-title
-
-apkpure.com##.left:nth-of-type(4)
-apkpure.com##.left:nth-of-type(6)
-apkpure.com##.right:nth-of-type(7)
-apkpure.com##.right:nth-of-type(5)
-apkpure.com##.footer
-apkpure.com##.right:nth-of-type(2) > .box:nth-of-type(2)
-apkpure.com##.index_r_hot
-apkpure.com##.index_banner
-apkpure.com##.nav_menu
-apkpure.com##.index-so-box.box > .title
-apkpure.com##.search-tabs
-apkpure.com##.right > div:nth-of-type(2)
-apkpure.com##.social-network
-apkpure.com##.facebook-like
-apkpure.com##.cmt-container
-apkpure.com###comment
-apkpure.com##.bread-crumbs.title
-apkpure.com##.ver-title > .tit
-apkpure.com##.left > .ad-box-auto
-apkpure.com##.box:nth-of-type(3)
-apkpure.com##.box:nth-of-type(4)
-apkpure.com##.box:nth-of-type(5)
-apkpure.com##.box:nth-of-type(6)
-apkpure.com##.box:nth-of-type(7)
-apkpure.com##.box:nth-of-type(8)
-apkpure.com##.box:nth-of-type(9)
-apkpure.com##.box:nth-of-type(10)
-apkpure.com##.more
-apkpure.com##.stars
-apkpure.com##dd > p:nth-of-type(2)
-apkpure.com##.more-down
-apkpure.com##.index-so-box.box
-apkpure.com##.additional
-apkpure.com##.describe
-apkpure.com##.aegon-link
-apkpure.com##.tag
-apkpure.com##.popsafe-open.safe
-apkpure.com##.rating-info
-apkpure.com##img[src="https://static.apkpure.com/www/static/imgs/logo_new.png"]
-apkpure.com##.details-how > a[href="/ru/instagram/com.instagram.android/versions"]
-apkpure.com##.details-author
-apkpure.com##.dl-ref
-apkpure.com##.down-variant
-apkpure.com##a[href="/ru/how-to-install-apk.html"]
-apkpure.com##.tempWrap > ul
-apkpure.com###slide-wrap
-apkpure.com##.ad-box-auto > div
-apkpure.com##.right
-apkpure.com##.details-how
-
-apkfind.com##.mdl-mega-footer
-apkfind.com##.mdl-layout__header-row
-apk-dl.com##.is-casting-shadow.mdl-layout__header
-apk-dl.com##.mdl-mega-footer
-apk-dl.com##.mdl-shadow--4dp.mdl-button--fab.mdl-js-ripple-effect.mdl-js-button.mdl-button.hero__fab.js_scroll
-apk-dl.com##.flat.breadcrumb > span > span
-apk-dl.com##.similar:nth-of-type(2)
-apk-dl.com##.similar:nth-of-type(3)
-apk-dl.com##.developer-apps
-apk-dl.com###disqus_thread
-apk-dl.com##.file-list.content-child
-apk-dl.com##.content-child:nth-of-type(4)
-apk-dl.com##.section.desc
-apk-dl.com##.section.info
-apk-dl.com###contents > .container > .cluster-heading
-apk-dl.com##.content-child:nth-of-type(3)
-apk-dl.com##.content-child:nth-of-type(5)
-apk-dl.com##.developer
-apk-dl.com##.category
-apk-dl.com##.rating
-
-apkpure.ai##.footer
-apkpure.ai##.nav_menu-item:nth-of-type(2)
-apkpure.ai##.nav_menu-item:nth-of-type(3)
-apkpure.ai##.nav_menu-item:nth-of-type(4)
-apkpure.ai##.nav_menu-item:nth-of-type(5)
-apkpure.ai##.right
-apkpure.ai##.search-results
-apkpure.ai##.top-list
-apkpure.ai##.banner
-apkpure.ai##.title
-apkpure.ai##.details-rating
-apkpure.ai##.stars
-apkpure.ai##canvas
-apkpure.ai##.zoom
-apkpure.ai##.details
-apkpure.ai##.version-ul > li:nth-of-type(4)
-apkpure.ai##.version-ul > li:nth-of-type(1)
-apkpure.ai##.version-ul > li:nth-of-type(6)
-apkpure.ai###describe
-apkpure.ai###comments
-apkpure.ai###morebtn
-apkpure.ai##.category-template
-apkpure.ai##.loadmore
-apkpure.ai##a[href="/apk-downloader"]
-apkpure.ai##.search-dl > dd > p:nth-of-type(2)
-apkpure.ai##.search-dl > dd > p:nth-of-type(3) > .more-down
-apkpure.ai##.showmore_trigger
-apkpure.ai##.ny-down
-
-www.apkmirror.com##.downloadCountdown
-www.apkmirror.com##.gooWidget
 
 www.y2mate.com##.extension-header
 www.y2mate.com##.footer
