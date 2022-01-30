@@ -72,39 +72,6 @@ www.y2mate.com##.navbar
 www.y2mate.com###share-place-download
 www.y2mate.com##.mgbox
 
-music.yandex.ru##.deco-tooltip_to-right.popup_visible.popup_fade.local-theme-black.d-tooltip_min-width.deco-pane-popup.popup.deco-tooltip.d-tooltip
-music.yandex.ru##.notify_shown.deco-tooltip_notify.notify__message
-yandex.ru##.distr-popup__content.popup2__content
-||an.yandex.ru^
-zen.yandex.ru###article__right
-disk.yandex.ru##.Subscription-Onboarding-Root
-
-drive.google.com##.a-la-B-x
-
-||xray.mail.ru^
-@@||e.mail.ru^$generichide
-||r.mradx.net/*?link1=$subdocument
-e.mail.ru###app-canvas div.layout__overflow-container div.slot > :not(img) > :not(img)
-e.mail.ru##.application > div.notify-stack_fixed
-||mail.ru/manifest.json
-e.mail.ru##.js-banner-wrapper-container > div.trg-b-container
-e.mail.ru##.js-banner-wrapper-container > div.trg-b-img-wrap
-cloud.mail.ru##.bnrCloudAtom
-cloud.mail.ru##.trg-b-banner-block.trg-b-wrap
-cloud.mail.ru##.w-public__content > .b-layout > .b-layout__col_2_2.b-layout__col
-cloud.mail.ru##.DisableButton__disable--TIUTA
-cloud.mail.ru##.trg-b-all-in-link
-mail.ru##.toolbar__inner
-otvet.mail.ru##.i-font-md.i-link-no-deco.i-relative.i-block.toolbar
-otvet.mail.ru##.trg-b-wrap
-||ad.mail.ru/adf/$subdocument
-e.mail.ru##.promo-block-letter
-e.mail.ru##.thread__kaspersky
-e.mail.ru###preload_banner_1
-||rs.mail.ru^$domain=~account.mail.ru
-||trk.mail.ru^$image
-||top-fwz1.mail.ru^
-
 www.youtube.com###search-secondary-col-contents
 www.youtube.com##.search-refinements
 www.youtube.com###upload-btn
@@ -203,6 +170,7 @@ youla.ru##.sc-kudhcb
 ##iframe[src^="//ad.mail.ru/adf/"]
 ##iframe[src^="https://interstitial-07.com/?l"]
 ##iframe[src^="https://player.twitch.tv?autoplay="]
+##iframe[id^="google_ads_iframe"]
 
 ##img[src="/pic/yabra.png"]
 ##img[src="/img/yad1.png"]
@@ -247,6 +215,8 @@ images/jet_yandex.jpg$image
 ##.banner-2
 ##.adtester-container
 ##.OldBrowser
+##.js-consent-banner
+##.videoslider
 
 ###tlg_download
 ###qwerty_wrap
@@ -258,6 +228,7 @@ images/jet_yandex.jpg$image
 ###cookie-pop
 ###privacypolicy
 ###onetrust-banner-sdk
+###yandex-ad
 
 ||compactembed.ml/$subdocument
 ||googleads.g.doubleclick.net/pagead/ads$subdocument
@@ -266,6 +237,8 @@ images/jet_yandex.jpg$image
 ||tsyndicate.com^$third-party
 ||theonlygames.com^$third-party
 ||xml.realtime-bid.com^$third-party
+
+||an.yandex.ru^
 
 ##div#banner_ad
 ##div#note-0
