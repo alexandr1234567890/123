@@ -111,6 +111,7 @@ www.youtube.com###title.ytd-shelf-renderer.style-scope
 www.youtube.com###contents > .ytd-browse-secondary-contents-renderer.style-scope
 www.youtube.com##.ytd-browse-secondary-contents-renderer.style-scope:nth-of-type(2)
 www.youtube.com##.miniplayer
+www.youtube.com###sponsor-button
 
 youla.ru##.product_item--ad-native
 youla.ru##.mailru-visibility-check
