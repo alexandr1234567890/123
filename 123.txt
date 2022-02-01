@@ -217,6 +217,10 @@ images/jet_yandex.jpg$image
 ##.OldBrowser
 ##.js-consent-banner
 ##.videoslider
+##.mox
+##.viqeo-flyWidget
+##.mailru-visibility-check
+##.article__item_slot
 
 ###tlg_download
 ###qwerty_wrap
@@ -239,10 +243,15 @@ images/jet_yandex.jpg$image
 ||xml.realtime-bid.com^$third-party
 
 ||an.yandex.ru^
+||bs.yandex.ru^
+||ms.yandex^
 
 ##div#banner_ad
 ##div#note-0
 ##div#orquidea-slideup
+##div[id^="yandex_rtb"]
+##div[id^="adfox_"]
+##div[id^="yandex_ad"]
 
 
 
