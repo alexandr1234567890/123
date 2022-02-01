@@ -9,26 +9,6 @@
 ! Description: This LVU filter
 !-------------------------------------------------------------------------------
 ! Third Party blocking ---------------------------------------------------------
-ok.ru##.__step-question
-ok.ru##.__promo.u-menu_a
-ok.ru##.__shared.h-mod.feed
-ok.ru##.gift-to-friend
-ok.ru##.h-mod.__no-ava.feed
-ok.ru##.h-mod.__no-ava.feed
-ok.ru##.media-block
-ok.ru##.h-mod.feed
-ok.ru##.media-link_a
-ok.ru###hook_Block_FriendshipRequestsListBlock
-ok.ru###FriendStreamContent
-ok.ru###online-fr_block
-ok.ru##.covers_control_cnt_w
-ok.ru##.h-mod.portlet
-
-vk.com###friends_possible_block
-vk.com###actualize_box
-||vk.com/widget_community.php$subdocument
-||vk.com/images/upload.gif$image
-
 *alicdn.com/*секс*
 *alicdn.com/*пикантн*
 *alicdn.com/*adult*
