@@ -394,6 +394,8 @@ images/jet_yandex.jpg$image
 ##div[id^="adfox_"]
 ##div[id^="yandex_ad"]
 
+127.0.0.1 *123.ru*
+
 
 
 
