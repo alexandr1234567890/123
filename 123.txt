@@ -253,10 +253,6 @@ www.youtube.com##.ytd-browse-secondary-contents-renderer.style-scope:nth-of-type
 www.youtube.com##.miniplayer
 www.youtube.com###sponsor-button
 
-youla.ru##.product_item--ad-native
-youla.ru##.mailru-visibility-check
-youla.ru##.sc-kudhcb
-
 ##a[href*="great-vpn."]
 ##a[href*="adguardInstaller.exe"]
 ##a[href^="https://telamoncleaner.ru/tracker/"]
@@ -298,11 +294,6 @@ youla.ru##.sc-kudhcb
 ##a[href*="xml.realtime-bid.com"]
 ##a[href*="dgelnham.com"]
 ##a[href^="https://turb.cc/turbo"]
-
-127.0.0.1 *great-vpn.*
-127.0.0.1 *moiprogrammy.com*
-127.0.0.1 *theonlygames.com*
-127.0.0.1 *loverforu.com*
 
 ##iframe[src^="//img01.ssp.rambler.ru/file.jsp?url"]
 ##iframe[src^="//am15.net/ssp/banner?upst"]
@@ -393,6 +384,12 @@ images/jet_yandex.jpg$image
 ##div[id^="yandex_rtb"]
 ##div[id^="adfox_"]
 ##div[id^="yandex_ad"]
+
+127.0.0.1 *great-vpn.*
+127.0.0.1 *moiprogrammy.com*
+127.0.0.1 *theonlygames.com*
+127.0.0.1 *loverforu.com*
+127.0.0.1 *123.ru*
 
 
 
