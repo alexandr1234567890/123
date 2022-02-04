@@ -390,7 +390,7 @@ images/jet_yandex.jpg$image
 127.0.0.1 *theonlygames.com*
 127.0.0.1 *loverforu.com*
 127.0.0.1 *123.ru*
-
+123.ru
 
 
 
