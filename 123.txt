@@ -45,6 +45,7 @@ pritchi.ru##li:nth-of-type(5) > .js-fancybox-form
 pritchi.ru##a[href="/top_1"]
 pritchi.ru##a[href="/all_2"]
 pritchi.ru##.current
+pritchi.ru###parable-thumbnail
 
 ! Для дочи --------------------------------------------
 
@@ -306,6 +307,7 @@ www.youtube.com###sponsor-button
 
 ##img[src="/pic/yabra.png"]
 ##img[src="/img/yad1.png"]
+##img[src="/xep_ego_znaet.png"]
 
 images/jet_yandex.jpg$image
 
@@ -365,6 +367,7 @@ images/jet_yandex.jpg$image
 ###privacypolicy
 ###onetrust-banner-sdk
 ###yandex-ad
+###cookie_wrapper
 
 ||compactembed.ml/$subdocument
 ||googleads.g.doubleclick.net/pagead/ads$subdocument
@@ -389,6 +392,14 @@ great-vpn.
 moiprogrammy.
 theonlygames.
 loverforu.
+zunsoach.
+roofprison.
+lnhdlukiketg.
+niceanimegames.
+
+! ---------------------------------------------------------
+
+
 
 
 
