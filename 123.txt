@@ -316,6 +316,7 @@ images/jet_yandex.jpg$image
 
 *_yabaner.png$image
 *_dsbaner.png$image
+*yadownload.png$image
 
 ##.fleft.btn-installpack-wrapper
 ##.st-browser__page
@@ -355,6 +356,8 @@ images/jet_yandex.jpg$image
 ##.viqeo-flyWidget
 ##.mailru-visibility-check
 ##.article__item_slot
+##.ydist-popup__content
+##.tags
 
 ###tlg_download
 ###qwerty_wrap
@@ -368,6 +371,9 @@ images/jet_yandex.jpg$image
 ###onetrust-banner-sdk
 ###yandex-ad
 ###cookie_wrapper
+###cookiePolicy
+###clearfy-cookie
+###cookiebar
 
 ||compactembed.ml/$subdocument
 ||googleads.g.doubleclick.net/pagead/ads$subdocument
@@ -398,6 +404,7 @@ lnhdlukiketg.
 niceanimegames.
 
 ! ---------------------------------------------------------
+
 
 
 
