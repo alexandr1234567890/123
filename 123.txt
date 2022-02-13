@@ -184,6 +184,7 @@ www.apkmirror.com##.gooWidget
 *alicdn.com/*-anal-*
 *alicdn.com/*sex*
 *alicdn.com/*vibrator*
+trade.aliexpress.com###J_xiaomi_dialog
 
 getvideo.org###windows-app-promo-max-resolution
 getvideo.org##.windows-app-promo
@@ -311,9 +312,8 @@ www.youtube.com###sponsor-button
 
 images/jet_yandex.jpg$image
 
-/ads-banner.gif$image
 /Zastavka-online-video-cutter.com_.mp4$media
-
+/ads-banner.gif$image
 *_yabaner.png$image
 *_dsbaner.png$image
 *yadownload.png$image
@@ -323,7 +323,6 @@ images/jet_yandex.jpg$image
 ##.st-browser__footer-right
 ##.navigation-banner
 ##.header-banner
-##.Cookie
 ##.material-tag
 ##.adsbygoogle
 ##.expop
@@ -358,8 +357,8 @@ images/jet_yandex.jpg$image
 ##.article__item_slot
 ##.ydist-popup__content
 ##.tags
-##.b-cookie
 ##.nl-tag
+##.promo-banner
 
 ###tlg_download
 ###qwerty_wrap
@@ -368,14 +367,9 @@ images/jet_yandex.jpg$image
 ###viSpot
 ###vi-smartbanner
 ###vi-smartbanner-unit
-###cookie-pop
 ###privacypolicy
 ###onetrust-banner-sdk
 ###yandex-ad
-###cookie_wrapper
-###cookiePolicy
-###clearfy-cookie
-###cookiebar
 
 ||compactembed.ml/$subdocument
 ||googleads.g.doubleclick.net/pagead/ads$subdocument
@@ -405,11 +399,10 @@ roofprison.
 lnhdlukiketg.
 niceanimegames.
 
-yandex.ru##.popup2_visible_yes.popup2_direction_bottom-right.popup2_js_inited.i-bem.i-dbn-cookie.distr-popup_animation_fall-show-bounce.distr-popup_motley_dark-blue.distr-popup_type_extensions-landing.distr-popup_layout_flat.distr-popup_location_right-bottom.distr-popup.popup2_view_classic.popup2_theme_clear.popup2_target_position.popup2
-yandex.ru##.i-bem.desktop-card.i-zalogin-cookie.zalogin-smart
-yandex.ru##.serp-user_with-login-popup_yes.popup2_visible_yes.popup2_direction_bottom-right._popup2-destructor.popup2_js_inited.i-bem.serp-user__promo-popup.serp-user.i-zalogin-cookie.promo-popup_social_yes.promo-popup_type_promo.promo-popup_shadow_yes
-
 ! ---------------------------------------------------------
+
+
+
 
 
 
