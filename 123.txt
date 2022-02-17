@@ -371,6 +371,10 @@ images/jet_yandex.jpg$image
 ###onetrust-banner-sdk
 ###yandex-ad
 
+yandex.ru##.serp-user_with-login-popup_yes.popup2_visible_yes.popup2_direction_bottom-right._popup2-destructor.popup2_js_inited.i-bem.serp-user__promo-popup.serp-user.i-zalogin-cookie.promo-popup_social_yes
+yandex.ru##.popup2_visible_yes.popup2_direction_bottom-right.popup2_js_inited.i-bem.i-dbn-cookie.distr-popup_animation_fall-show-bounce.distr-popup_motley_dark-blue.distr-popup_type_extensions-landing.distr-popup_layout_flat.distr-popup_location_right-bottom
+yandex.ru##.i-bem.desktop-card.i-zalogin-cookie.zalogin-smart
+
 ||compactembed.ml/$subdocument
 ||googleads.g.doubleclick.net/pagead/ads$subdocument
 
@@ -398,8 +402,6 @@ zunsoach.
 roofprison.
 lnhdlukiketg.
 niceanimegames.
-
-! ---------------------------------------------------------
 
 
 
