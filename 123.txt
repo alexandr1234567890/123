@@ -185,6 +185,7 @@ www.apkmirror.com##.gooWidget
 *alicdn.com/*sex*
 *alicdn.com/*vibrator*
 trade.aliexpress.com###J_xiaomi_dialog
+trade.aliexpress.ru###J_xiaomi_dialog
 
 getvideo.org###windows-app-promo-max-resolution
 getvideo.org##.windows-app-promo
@@ -311,12 +312,16 @@ www.youtube.com###sponsor-button
 ##img[src="/xep_ego_znaet.png"]
 
 images/jet_yandex.jpg$image
+img/yandex.png$image
 
 /Zastavka-online-video-cutter.com_.mp4$media
 /ads-banner.gif$image
 *_yabaner.png$image
 *_dsbaner.png$image
 *yadownload.png$image
+like.gif$image
+
+e.mail.ru##.thread__kaspersky
 
 ##.fleft.btn-installpack-wrapper
 ##.st-browser__page
@@ -359,6 +364,8 @@ images/jet_yandex.jpg$image
 ##.tags
 ##.nl-tag
 ##.promo-banner
+##.post-tags
+##.article__tag
 
 ###tlg_download
 ###qwerty_wrap
@@ -368,12 +375,10 @@ images/jet_yandex.jpg$image
 ###vi-smartbanner
 ###vi-smartbanner-unit
 ###privacypolicy
-###onetrust-banner-sdk
 ###yandex-ad
 
-yandex.ru##.serp-user_with-login-popup_yes.popup2_visible_yes.popup2_direction_bottom-right._popup2-destructor.popup2_js_inited.i-bem.serp-user__promo-popup.serp-user.i-zalogin-cookie.promo-popup_social_yes
-yandex.ru##.popup2_visible_yes.popup2_direction_bottom-right.popup2_js_inited.i-bem.i-dbn-cookie.distr-popup_animation_fall-show-bounce.distr-popup_motley_dark-blue.distr-popup_type_extensions-landing.distr-popup_layout_flat.distr-popup_location_right-bottom
 yandex.ru##.i-bem.desktop-card.i-zalogin-cookie.zalogin-smart
+translate.yandex.ru###themePromo
 
 ||compactembed.ml/$subdocument
 ||googleads.g.doubleclick.net/pagead/ads$subdocument
@@ -402,6 +407,11 @@ zunsoach.
 roofprison.
 lnhdlukiketg.
 niceanimegames.
+
+! ---------------------------------------------------------
+
+
+
 
 
 
