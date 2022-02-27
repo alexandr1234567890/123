@@ -377,9 +377,6 @@ e.mail.ru##.thread__kaspersky
 ###privacypolicy
 ###yandex-ad
 
-yandex.ru##.i-bem.desktop-card.i-zalogin-cookie.zalogin-smart
-translate.yandex.ru###themePromo
-
 ||compactembed.ml/$subdocument
 ||googleads.g.doubleclick.net/pagead/ads$subdocument
 
@@ -391,6 +388,11 @@ translate.yandex.ru###themePromo
 ||an.yandex.ru^
 ||bs.yandex.ru^
 ||ms.yandex^
+
+yandex.ru##.i-bem.i-zalogin-cookie.zalogin-smart
+yandex.ru##.popup2_visible_yes.popup2_direction_bottom-right.popup2_js_inited.i-bem.card__colorize.i-dbn-cookie.distr-popup_animation_slide-show.distr-popup_shadow_yes.distr-popup_motley_grey.distr-popup_type_landing.distr-popup_layout_simple.distr-popup_location_right-bottom.distr-popup.popup2_view_classic.popup2_theme_clear.popup2_target_position.popup2
+yandex.ru##.i-bem.desktop-card.i-zalogin-cookie.zalogin-smart
+translate.yandex.ru###themePromo
 
 ##div#banner_ad
 ##div#note-0
@@ -409,6 +411,7 @@ lnhdlukiketg.
 niceanimegames.
 
 ! ---------------------------------------------------------
+
 
 
 
