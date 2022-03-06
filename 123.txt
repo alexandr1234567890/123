@@ -255,6 +255,7 @@ www.youtube.com###contents > .ytd-browse-secondary-contents-renderer.style-scope
 www.youtube.com##.ytd-browse-secondary-contents-renderer.style-scope:nth-of-type(2)
 www.youtube.com##.miniplayer
 www.youtube.com###sponsor-button
+www.youtube.com###contentWrapper > .ytd-popup-container.style-scope
 
 ##a[href*="great-vpn."]
 ##a[href*="adguardInstaller.exe"]
@@ -393,6 +394,9 @@ yandex.ru##.i-bem.i-zalogin-cookie.zalogin-smart
 yandex.ru##.popup2_visible_yes.popup2_direction_bottom-right.popup2_js_inited.i-bem.card__colorize.i-dbn-cookie.distr-popup_animation_slide-show.distr-popup_shadow_yes.distr-popup_motley_grey.distr-popup_type_landing.distr-popup_layout_simple.distr-popup_location_right-bottom.distr-popup.popup2_view_classic.popup2_theme_clear.popup2_target_position.popup2
 yandex.ru##.i-bem.desktop-card.i-zalogin-cookie.zalogin-smart
 translate.yandex.ru###themePromo
+yandex.ru##.distr-popup__content.popup2__content
+yandex.ru##.serp-user_with-login-popup_yes.popup2_visible_yes.popup2_direction_bottom-right._popup2-destructor.popup2_js_inited.i-bem.serp-user__promo-popup.serp-user.i-zalogin-cookie.promo-popup_social_yes.promo-popup_tail_disable.promo-popup_type_promo.promo-popup_shadow_yes.promo-popup_theme_ffffff.promo-popup.popup2_view_classic.popup2_hiding_yes.popup2_theme_clear.popup2_target_anchor.popup2
+
 
 ##div#banner_ad
 ##div#note-0
