@@ -308,6 +308,9 @@ www.youtube.com###contentWrapper > .ytd-popup-container.style-scope
 ##iframe[src^="https://player.twitch.tv?autoplay="]
 ##iframe[id^="google_ads_iframe"]
 
+uploadrar.com##.mngez-premium-download
+uploadrar.com##.btn-lg.btn-info.btn
+
 ##img[src="/pic/yabra.png"]
 ##img[src="/img/yad1.png"]
 ##img[src="/xep_ego_znaet.png"]
@@ -323,6 +326,11 @@ img/yandex.png$image
 like.gif$image
 
 e.mail.ru##.thread__kaspersky
+e.mail.ru##.portal-menu-logo__logo__img
+otvet.mail.ru##.nt--item_floating.nt--item
+cloud.mail.ru###topBanner
+cloud.mail.ru###react-widgets
+cloud.mail.ru##.tooltipDiskOContent
 
 ##.fleft.btn-installpack-wrapper
 ##.st-browser__page
@@ -396,7 +404,6 @@ yandex.ru##.i-bem.desktop-card.i-zalogin-cookie.zalogin-smart
 translate.yandex.ru###themePromo
 yandex.ru##.distr-popup__content.popup2__content
 yandex.ru##.serp-user_with-login-popup_yes.popup2_visible_yes.popup2_direction_bottom-right._popup2-destructor.popup2_js_inited.i-bem.serp-user__promo-popup.serp-user.i-zalogin-cookie.promo-popup_social_yes.promo-popup_tail_disable.promo-popup_type_promo.promo-popup_shadow_yes.promo-popup_theme_ffffff.promo-popup.popup2_view_classic.popup2_hiding_yes.popup2_theme_clear.popup2_target_anchor.popup2
-
 
 ##div#banner_ad
 ##div#note-0
