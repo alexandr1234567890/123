@@ -255,7 +255,6 @@ www.youtube.com###contents > .ytd-browse-secondary-contents-renderer.style-scope
 www.youtube.com##.ytd-browse-secondary-contents-renderer.style-scope:nth-of-type(2)
 www.youtube.com##.miniplayer
 www.youtube.com###sponsor-button
-www.youtube.com###contentWrapper > .ytd-popup-container.style-scope
 
 ##a[href*="great-vpn."]
 ##a[href*="adguardInstaller.exe"]
