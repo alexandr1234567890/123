@@ -269,6 +269,8 @@ cloud.mail.ru##.tooltipDiskOContent
 ##.promo-banner
 ##.post-tags
 ##.article__tag
+##.field-name-field-news-tags
+##.tagcloud
 
 ###tlg_download
 ###qwerty_wrap
@@ -305,6 +307,8 @@ yandex.ru##.serp-user_with-login-popup_yes.popup2_visible_yes.popup2_direction_b
 ##div[id^="yandex_rtb"]
 ##div[id^="adfox_"]
 ##div[id^="yandex_ad"]
+
+forum.ru-board.com##.tb > tbody > tr > td > table > tbody > tr:nth-of-type(1) > .tpc > .post > .sing > tbody > tr > td
 
 great-vpn.
 moiprogrammy.
