@@ -192,6 +192,7 @@ www.youtube.com###sponsor-button
 ##a[href*="xml.realtime-bid.com"]
 ##a[href*="dgelnham.com"]
 ##a[href^="https://turb.cc/turbo"]
+##a[href*="photo-xxx"]
 
 ##iframe[src^="//img01.ssp.rambler.ru/file.jsp?url"]
 ##iframe[src^="//am15.net/ssp/banner?upst"]
@@ -327,8 +328,10 @@ roofprison.
 lnhdlukiketg.
 niceanimegames.
 apk-dl.com
+dressupmix.com
 
 ! ---------------------------------------------------------
+
 
 
 
