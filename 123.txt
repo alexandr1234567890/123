@@ -202,6 +202,7 @@ www.youtube.com###sponsor-button
 ##iframe[src^="https://interstitial-07.com/?l"]
 ##iframe[src^="https://player.twitch.tv?autoplay="]
 ##iframe[id^="google_ads_iframe"]
+##iframe[src^="https://frontend.vh.yandex.ru/player/"]
 
 uploadrar.com##.mngez-premium-download
 uploadrar.com##.btn-lg.btn-info.btn
@@ -210,6 +211,7 @@ uploadrar.com##.btn-lg.btn-info.btn
 ##img[src="/img/yad1.png"]
 ##img[src="/xep_ego_znaet.png"]
 ##img[src="/ya2.png"]
+##img[src="/images/dlo.png"]
 
 images/jet_yandex.jpg$image
 img/yandex.png$image
@@ -220,6 +222,7 @@ img/yandex.png$image
 *_dsbaner.png$image
 *yadownload.png$image
 like.gif$image
+/yaba.webp$image
 
 e.mail.ru##.thread__kaspersky
 e.mail.ru##.portal-menu-logo__logo__img
@@ -228,6 +231,9 @@ cloud.mail.ru###topBanner
 cloud.mail.ru###react-widgets
 cloud.mail.ru##.tooltipDiskOContent
 e.mail.ru##.ph-project-promo-container
+e.mail.ru###octavius-notify-unsubscribe-after-delete
+e.mail.ru##.layout__column_right
+e.mail.ru##.promo-block-letter
 
 ##.fleft.btn-installpack-wrapper
 ##.st-browser__page
@@ -272,12 +278,14 @@ e.mail.ru##.ph-project-promo-container
 ##.promo-banner
 ##.post-tags
 ##.article__tag
+##.article__tags
 ##.field-name-field-news-tags
 ##.tagcloud
 ##.tag_clouds
 ##.post_tags
 ##.article-tags
 ##.dle_b_yandex2
+##.tags-wrapper
 
 ###tlg_download
 ###qwerty_wrap
@@ -298,7 +306,6 @@ e.mail.ru##.ph-project-promo-container
 ||theonlygames.com^$third-party
 ||xml.realtime-bid.com^$third-party
 
-
 ||an.yandex.ru^
 ||bs.yandex.ru^
 ||ms.yandex^
@@ -318,6 +325,7 @@ yandex.ru##.serp-user_with-login-popup_yes.popup2_visible_yes.popup2_direction_b
 ##div[id^="yandex_ad"]
 
 forum.ru-board.com##.tb > tbody > tr > td > table > tbody > tr:nth-of-type(1) > .tpc > .post > .sing > tbody > tr > td
+sportmail.ru##.button_color_dark.button
 
 great-vpn.
 moiprogrammy.
@@ -327,8 +335,16 @@ zunsoach.
 roofprison.
 lnhdlukiketg.
 niceanimegames.
-apk-dl.com
-dressupmix.com
+apk-dl.
+dressupmix.
+cantfindanything.
+downredirect.
+fefashionis.
+saumeechoa.
+forget-404s.
+alternatesearches.
+research-alternates.
+naigristoa.
 
 ! ---------------------------------------------------------
 
