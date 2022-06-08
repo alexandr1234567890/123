@@ -47,8 +47,6 @@ pritchi.ru##a[href="/all_2"]
 pritchi.ru##.current
 pritchi.ru###parable-thumbnail
 
-!--------------------------------------------
-
 ovego.tv##table:nth-of-type(2) > tbody > tr > td > table > tbody > tr > td:nth-of-type(1)
 ovego.tv##table:nth-of-type(2) > tbody > tr > td > table > tbody > tr > td:nth-of-type(3)
 ovego.tv##.eBlock > tbody > tr:nth-of-type(2)
@@ -77,8 +75,6 @@ apkpure.com##a[href*="orgasm"]
 apkpure.com##a[href*="adults-18"]
 apkpure.com##a[href*="plus18"]
 
-! ---------------------------------------------------------
-
 *alicdn.com/*секс*
 *alicdn.com/*пикантн*
 *alicdn.com/*adult*
@@ -95,6 +91,7 @@ apkpure.com##a[href*="plus18"]
 *alicdn.com/*vibrator*
 trade.aliexpress.com###J_xiaomi_dialog
 trade.aliexpress.ru###J_xiaomi_dialog
+aliexpress.ru##a[href*="brandday"]
 
 getvideo.org###windows-app-promo-max-resolution
 getvideo.org##.windows-app-promo
@@ -203,6 +200,7 @@ www.youtube.com###sponsor-button
 ##iframe[src^="https://player.twitch.tv?autoplay="]
 ##iframe[id^="google_ads_iframe"]
 ##iframe[src^="https://frontend.vh.yandex.ru/player/"]
+##iframe[src^="https://ad.mail.ru/adf/"]
 
 uploadrar.com##.mngez-premium-download
 uploadrar.com##.btn-lg.btn-info.btn
@@ -215,6 +213,7 @@ uploadrar.com##.btn-lg.btn-info.btn
 
 images/jet_yandex.jpg$image
 img/yandex.png$image
+images/jet.png$image
 
 /Zastavka-online-video-cutter.com_.mp4$media
 /ads-banner.gif$image
@@ -227,6 +226,9 @@ like.gif$image
 e.mail.ru##.thread__kaspersky
 e.mail.ru##.portal-menu-logo__logo__img
 otvet.mail.ru##.nt--item_floating.nt--item
+otvet.mail.ru##.trg-b-banner
+otvet.mail.ru##.trg-b-banner-block
+otvet.mail.ru##.mailru-visibility-check
 cloud.mail.ru###topBanner
 cloud.mail.ru###react-widgets
 cloud.mail.ru##.tooltipDiskOContent
@@ -286,6 +288,14 @@ e.mail.ru##.promo-block-letter
 ##.article-tags
 ##.dle_b_yandex2
 ##.tags-wrapper
+##.pushSubscribe
+##.post-tags-block
+##.kitt-cookie-warning
+##.b-tag
+##.cookie-container
+##.cookies__panel
+##.tags-links
+##.tags-list
 
 ###tlg_download
 ###qwerty_wrap
@@ -296,10 +306,16 @@ e.mail.ru##.promo-block-letter
 ###vi-smartbanner-unit
 ###privacypolicy
 ###yandex-ad
+###page_bottom_banners_root
+###cookie-bar
+###socials_block-wrapper
+###policy-info
 
 ||compactembed.ml/$subdocument
 ||googleads.g.doubleclick.net/pagead/ads$subdocument
 ||yoomoney.ru/quickpay/shop-widget$subdocument
+
+||ad.mail.ru/adf/
 
 ||syndication.realsrv.com^$third-party
 ||tsyndicate.com^$third-party
@@ -316,6 +332,7 @@ yandex.ru##.i-bem.desktop-card.i-zalogin-cookie.zalogin-smart
 translate.yandex.ru###themePromo
 yandex.ru##.distr-popup__content.popup2__content
 yandex.ru##.serp-user_with-login-popup_yes.popup2_visible_yes.popup2_direction_bottom-right._popup2-destructor.popup2_js_inited.i-bem.serp-user__promo-popup.serp-user.i-zalogin-cookie.promo-popup_social_yes.promo-popup_tail_disable.promo-popup_type_promo.promo-popup_shadow_yes.promo-popup_theme_ffffff.promo-popup.popup2_view_classic.popup2_hiding_yes.popup2_theme_clear.popup2_target_anchor.popup2
+yandex.ru##.incut_inserted_yes
 
 ##div#banner_ad
 ##div#note-0
@@ -345,8 +362,8 @@ forget-404s.
 alternatesearches.
 research-alternates.
 naigristoa.
-
-! ---------------------------------------------------------
+dgfejaiiideddhjbeacc.
+deshaici.
 
 
 
