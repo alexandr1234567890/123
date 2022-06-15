@@ -91,21 +91,8 @@ apkpure.com##a[href*="plus18"]
 *alicdn.com/*vibrator*
 trade.aliexpress.com###J_xiaomi_dialog
 trade.aliexpress.ru###J_xiaomi_dialog
+www.aliexpress.com###J_xiaomi_dialog
 aliexpress.ru##a[href*="brandday"]
-
-getvideo.org###windows-app-promo-max-resolution
-getvideo.org##.windows-app-promo
-getvideo.org##a[href="#webm"]
-getvideo.org##.mc-comments
-getvideo.org##.vk-widget-faq.row
-getvideo.org##.social-footer.row
-mp3.getvideo.org###vk_comments
-mp3.getvideo.org##.footer-contacts
-getvideo.org##.blog-masthead
-getvideo.org##.button-full-download.btn-lg.btn-primary.btn
-getvideo.org###url
-||getvideo.org/style/close-icon.png$image
-getvideo.org##.blog-title
 
 www.youtube.com###search-secondary-col-contents
 www.youtube.com##.search-refinements
@@ -190,6 +177,7 @@ www.youtube.com###sponsor-button
 ##a[href*="dgelnham.com"]
 ##a[href^="https://turb.cc/turbo"]
 ##a[href*="photo-xxx"]
+##a[href*="=banner_top"]
 
 ##iframe[src^="//img01.ssp.rambler.ru/file.jsp?url"]
 ##iframe[src^="//am15.net/ssp/banner?upst"]
@@ -296,6 +284,9 @@ e.mail.ru##.promo-block-letter
 ##.cookies__panel
 ##.tags-links
 ##.tags-list
+##.VideoViewer-Tags
+##.cookie-bar
+##.tags
 
 ###tlg_download
 ###qwerty_wrap
@@ -310,6 +301,8 @@ e.mail.ru##.promo-block-letter
 ###cookie-bar
 ###socials_block-wrapper
 ###policy-info
+###cookie-consent
+###cookiePolicy
 
 ||compactembed.ml/$subdocument
 ||googleads.g.doubleclick.net/pagead/ads$subdocument
@@ -344,6 +337,15 @@ yandex.ru##.incut_inserted_yes
 forum.ru-board.com##.tb > tbody > tr > td > table > tbody > tr:nth-of-type(1) > .tpc > .post > .sing > tbody > tr > td
 sportmail.ru##.button_color_dark.button
 
+||getvideo.id/play.png$image
+getvideo.id##a[href="https://googledino.com/"]
+getvideo.id##.container:nth-of-type(4) > .row > .col-md-12
+getvideo.id##.ya-share2_inited.ya-share2
+getvideo.id##.blog-masthead
+getvideo.id##.hidden-xs.row
+getvideo.id###videoform
+getvideo.id##.col-md-10 > p
+
 great-vpn.
 moiprogrammy.
 theonlygames.
@@ -364,6 +366,9 @@ research-alternates.
 naigristoa.
 dgfejaiiideddhjbeacc.
 deshaici.
+trafredirtds.
+
+
 
 
 
