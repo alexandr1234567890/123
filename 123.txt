@@ -10,8 +10,6 @@
 !-------------------------------------------------------------------------------
 ! Third Party blocking ---------------------------------------------------------
 
-!--------------------------------------------
-
 pritchi.ru###sidebar-right
 pritchi.ru##.bg-yellow.bordered.page-global-area
 pritchi.ru##.site-footer
@@ -46,6 +44,12 @@ pritchi.ru##a[href="/top_1"]
 pritchi.ru##a[href="/all_2"]
 pritchi.ru##.current
 pritchi.ru###parable-thumbnail
+
+i.maxthon.com##.body-wrap
+i.maxthon.com###logo
+i.maxthon.com###search-settings-btn
+i.maxthon.com##.search-hot
+i.maxthon.com###search-engine-arrow
 
 ovego.tv##table:nth-of-type(2) > tbody > tr > td > table > tbody > tr > td:nth-of-type(1)
 ovego.tv##table:nth-of-type(2) > tbody > tr > td > table > tbody > tr > td:nth-of-type(3)
@@ -89,10 +93,9 @@ apkpure.com##a[href*="plus18"]
 *alicdn.com/*-anal-*
 *alicdn.com/*sex*
 *alicdn.com/*vibrator*
-trade.aliexpress.com###J_xiaomi_dialog
-trade.aliexpress.ru###J_xiaomi_dialog
-www.aliexpress.com###J_xiaomi_dialog
-aliexpress.ru##a[href*="brandday"]
+###J_xiaomi_dialog
+##a[href*="brandday"]
+##a[href*="https://promotion.aliexpress.ru/wow/gcp/aer/channel"]
 
 www.youtube.com###search-secondary-col-contents
 www.youtube.com##.search-refinements
@@ -178,6 +181,7 @@ www.youtube.com###sponsor-button
 ##a[href^="https://turb.cc/turbo"]
 ##a[href*="photo-xxx"]
 ##a[href*="=banner_top"]
+##a[href^="https://elgrur.com"]
 
 ##iframe[src^="//img01.ssp.rambler.ru/file.jsp?url"]
 ##iframe[src^="//am15.net/ssp/banner?upst"]
@@ -224,6 +228,7 @@ e.mail.ru##.ph-project-promo-container
 e.mail.ru###octavius-notify-unsubscribe-after-delete
 e.mail.ru##.layout__column_right
 e.mail.ru##.promo-block-letter
+e.mail.ru###octavius-notify-quota-info
 
 ##.fleft.btn-installpack-wrapper
 ##.st-browser__page
@@ -287,6 +292,8 @@ e.mail.ru##.promo-block-letter
 ##.VideoViewer-Tags
 ##.cookie-bar
 ##.tags
+##.cookie-policy
+##.cookies-banner
 
 ###tlg_download
 ###qwerty_wrap
@@ -303,6 +310,8 @@ e.mail.ru##.promo-block-letter
 ###policy-info
 ###cookie-consent
 ###cookiePolicy
+###cookie-dlg
+###cookie-pop
 
 ||compactembed.ml/$subdocument
 ||googleads.g.doubleclick.net/pagead/ads$subdocument
@@ -326,6 +335,7 @@ translate.yandex.ru###themePromo
 yandex.ru##.distr-popup__content.popup2__content
 yandex.ru##.serp-user_with-login-popup_yes.popup2_visible_yes.popup2_direction_bottom-right._popup2-destructor.popup2_js_inited.i-bem.serp-user__promo-popup.serp-user.i-zalogin-cookie.promo-popup_social_yes.promo-popup_tail_disable.promo-popup_type_promo.promo-popup_shadow_yes.promo-popup_theme_ffffff.promo-popup.popup2_view_classic.popup2_hiding_yes.popup2_theme_clear.popup2_target_anchor.popup2
 yandex.ru##.incut_inserted_yes
+yandex.ru##.Warning_type_roskomnadzor
 
 ##div#banner_ad
 ##div#note-0
@@ -367,6 +377,7 @@ naigristoa.
 dgfejaiiideddhjbeacc.
 deshaici.
 trafredirtds.
+
 
 
 
