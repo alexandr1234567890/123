@@ -349,7 +349,6 @@ yandex.ru##.Warning_type_roskomnadzor
 forum.ru-board.com##.tb > tbody > tr > td > table > tbody > tr:nth-of-type(1) > .tpc > .post > .sing > tbody > tr > td
 sportmail.ru##.button_color_dark.button
 
-
 ||getvideo.id/play.png$image
 getvideo.id##a[href="https://googledino.com/"]
 getvideo.id##.container:nth-of-type(4) > .row > .col-md-12
