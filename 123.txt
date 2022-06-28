@@ -98,8 +98,8 @@ apkpure.com##a[href*="plus18"]
 *alicdn.com/*sex*
 *alicdn.com/*vibrator*
 ###J_xiaomi_dialog
-##a[href*="brandday"]
-##a[href*="https://promotion.aliexpress.ru/wow/gcp/aer/channel"]
+##a[href*="https://campaign.aliexpress.com"]
+
 
 
 www.youtube.com###search-secondary-col-contents
@@ -291,6 +291,7 @@ e.mail.ru##.portal-menu-logo__vk
 ##.cookie-policy
 ##.cookies-banner
 ##.app-promo-banner
+##.banners_content
 
 
 ###tlg_download
@@ -310,6 +311,10 @@ e.mail.ru##.portal-menu-logo__vk
 ###cookiePolicy
 ###cookie-dlg
 ###cookie-pop
+###cookie-law-info-bar
+###cookie-notice
+###cookie_wrapper
+###gdpr-cookie-notice
 
 
 ||compactembed.ml/$subdocument
@@ -349,6 +354,7 @@ yandex.ru##.Warning_type_roskomnadzor
 forum.ru-board.com##.tb > tbody > tr > td > table > tbody > tr:nth-of-type(1) > .tpc > .post > .sing > tbody > tr > td
 sportmail.ru##.button_color_dark.button
 
+
 ||getvideo.id/play.png$image
 getvideo.id##a[href="https://googledino.com/"]
 getvideo.id##.container:nth-of-type(4) > .row > .col-md-12
@@ -385,6 +391,9 @@ naigristoa.
 dgfejaiiideddhjbeacc.
 deshaici.
 trafredirtds.
+alt-look.
+
+
 
 
 
