@@ -365,11 +365,6 @@ getvideo.id###videoform
 getvideo.id##.col-md-10 > p
 
 
-lenta.ru##.scroll-to-site__stick
-lenta.ru##.scroll-to-site__title
-lenta.ru##.scroll-to-site__img
-
-
 great-vpn.
 moiprogrammy.
 theonlygames.
