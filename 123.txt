@@ -46,13 +46,6 @@ pritchi.ru##.current
 pritchi.ru###parable-thumbnail
 
 
-i.maxthon.com##.body-wrap
-i.maxthon.com###logo
-i.maxthon.com###search-settings-btn
-i.maxthon.com##.search-hot
-i.maxthon.com###search-engine-arrow
-
-
 ovego.tv##table:nth-of-type(2) > tbody > tr > td > table > tbody > tr > td:nth-of-type(1)
 ovego.tv##table:nth-of-type(2) > tbody > tr > td > table > tbody > tr > td:nth-of-type(3)
 ovego.tv##.eBlock > tbody > tr:nth-of-type(2)
@@ -101,7 +94,6 @@ apkpure.com##a[href*="plus18"]
 ##a[href*="https://campaign.aliexpress.com"]
 
 
-
 www.youtube.com###search-secondary-col-contents
 www.youtube.com##.search-refinements
 www.youtube.com###upload-btn
@@ -144,7 +136,6 @@ www.youtube.com##.miniplayer
 www.youtube.com###sponsor-button
 
 
-##a[href*="great-vpn."]
 ##a[href*="adguardInstaller.exe"]
 ##a[href^="https://telamoncleaner.ru/tracker/"]
 ##a[href="https://goo.su/6Ja9"]
@@ -154,7 +145,6 @@ www.youtube.com###sponsor-button
 ##a[href*="-playboys-"]
 ##a[href*="-playboy-"]
 ##a[href*="-fhm-sweden-"]
-##a[href*="yabrowser.su"]
 ##a[href^="https://zutcreet.com/api/redirect"]
 ##a[href^="https://telamon.app/tracker/"]
 ##a[href="https://u-rl.ru/MDL4o"]
@@ -177,17 +167,14 @@ www.youtube.com###sponsor-button
 ##a[href*="_source=banner"]
 ##a[href^="https://browser.yandex.ru/?from=banner"]
 ##a[href^="/download/Reklama.html"]
-##a[href*="https://is.gd/"]
 ##a[href*="https://cwpbam.mfcewkrob.com/"]
 ##a[href*="https://syndication.exoclick.com/"]
 ##a[href*="https://news.2xclick.ru/"]
 ##a[href*="https://sblftg.com/"]
 ##a[href*="xml.realtime-bid.com"]
-##a[href*="dgelnham.com"]
 ##a[href^="https://turb.cc/turbo"]
 ##a[href*="photo-xxx"]
 ##a[href*="=banner_top"]
-##a[href^="https://elgrur.com"]
 
 
 ##iframe[src^="//img01.ssp.rambler.ru/file.jsp?url"]
@@ -292,6 +279,9 @@ e.mail.ru##.portal-menu-logo__vk
 ##.cookies-banner
 ##.app-promo-banner
 ##.banners_content
+##.cookie
+##.cookie-offer
+##.cookie-consent
 
 
 ###tlg_download
@@ -315,6 +305,8 @@ e.mail.ru##.portal-menu-logo__vk
 ###cookie-notice
 ###cookie_wrapper
 ###gdpr-cookie-notice
+###nca-cookiesaccept-line
+###clearfy-cookie
 
 
 ||compactembed.ml/$subdocument
@@ -332,7 +324,8 @@ e.mail.ru##.portal-menu-logo__vk
 ||bs.yandex.ru^
 ||ms.yandex^
 
-
+yandex.ru##.misspell
+yandex.ru##.serp-adv__found
 yandex.ru##.i-bem.i-zalogin-cookie.zalogin-smart
 yandex.ru##.popup2_visible_yes.popup2_direction_bottom-right.popup2_js_inited.i-bem.card__colorize.i-dbn-cookie.distr-popup_animation_slide-show.distr-popup_shadow_yes.distr-popup_motley_grey.distr-popup_type_landing.distr-popup_layout_simple.distr-popup_location_right-bottom.distr-popup.popup2_view_classic.popup2_theme_clear.popup2_target_position.popup2
 yandex.ru##.i-bem.desktop-card.i-zalogin-cookie.zalogin-smart
@@ -341,6 +334,7 @@ yandex.ru##.distr-popup__content.popup2__content
 yandex.ru##.serp-user_with-login-popup_yes.popup2_visible_yes.popup2_direction_bottom-right._popup2-destructor.popup2_js_inited.i-bem.serp-user__promo-popup.serp-user.i-zalogin-cookie.promo-popup_social_yes.promo-popup_tail_disable.promo-popup_type_promo.promo-popup_shadow_yes.promo-popup_theme_ffffff.promo-popup.popup2_view_classic.popup2_hiding_yes.popup2_theme_clear.popup2_target_anchor.popup2
 yandex.ru##.incut_inserted_yes
 yandex.ru##.Warning_type_roskomnadzor
+yandex.ru##.ImagesViewerApp-FooterContent
 
 
 ##div#banner_ad
@@ -353,6 +347,7 @@ yandex.ru##.Warning_type_roskomnadzor
 
 forum.ru-board.com##.tb > tbody > tr > td > table > tbody > tr:nth-of-type(1) > .tpc > .post > .sing > tbody > tr > td
 sportmail.ru##.button_color_dark.button
+lenta.ru##.scroll-to-site__logo
 
 
 ||getvideo.id/play.png$image
@@ -387,6 +382,14 @@ dgfejaiiideddhjbeacc.
 deshaici.
 trafredirtds.
 alt-look.
+hsgdyq.
+elgrur.
+is.gd
+great-vpn.
+yabrowser.su
+dgelnham.com
+geithar.
+
 
 
 
