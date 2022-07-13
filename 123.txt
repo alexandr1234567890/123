@@ -134,6 +134,7 @@ www.youtube.com###contents > .ytd-browse-secondary-contents-renderer.style-scope
 www.youtube.com##.ytd-browse-secondary-contents-renderer.style-scope:nth-of-type(2)
 www.youtube.com##.miniplayer
 www.youtube.com###sponsor-button
+www.youtube.com###removed_ess
 
 
 ##a[href*="adguardInstaller.exe"]
@@ -350,14 +351,19 @@ sportmail.ru##.button_color_dark.button
 lenta.ru##.scroll-to-site__logo
 
 
-||getvideo.id/play.png$image
-getvideo.id##a[href="https://googledino.com/"]
-getvideo.id##.container:nth-of-type(4) > .row > .col-md-12
-getvideo.id##.ya-share2_inited.ya-share2
-getvideo.id##.blog-masthead
-getvideo.id##.hidden-xs.row
-getvideo.id###videoform
-getvideo.id##.col-md-10 > p
+yt-download.org##.bit64
+yt-download.org##.bit192
+yt-download.org##.bit256
+yt-download.org##.bit320
+yt-download.org##.v144p
+yt-download.org##.v240p
+yt-download.org##.v480p
+yt-download.org##.v1080p60
+yt-download.org##.v1440p60
+yt-download.org##.v720p60
+yt-download.org##.v1080p
+yt-download.org##.v720p
+yt-download.org##.v720p50
 
 
 great-vpn.
@@ -389,6 +395,7 @@ great-vpn.
 yabrowser.su
 dgelnham.com
 geithar.
+winluckychance.
 
 
 
