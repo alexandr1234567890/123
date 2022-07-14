@@ -91,7 +91,6 @@ apkpure.com##a[href*="plus18"]
 *alicdn.com/*sex*
 *alicdn.com/*vibrator*
 ###J_xiaomi_dialog
-##a[href*="https://campaign.aliexpress.com"]
 
 
 www.youtube.com###search-secondary-col-contents
@@ -176,6 +175,7 @@ www.youtube.com###removed_ess
 ##a[href^="https://turb.cc/turbo"]
 ##a[href*="photo-xxx"]
 ##a[href*="=banner_top"]
+##a[href*="=topbanner"]
 
 
 ##iframe[src^="//img01.ssp.rambler.ru/file.jsp?url"]
