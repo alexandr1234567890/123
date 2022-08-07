@@ -91,6 +91,7 @@ apkpure.com##a[href*="plus18"]
 *alicdn.com/*sex*
 *alicdn.com/*vibrator*
 ###J_xiaomi_dialog
+shoppingcart.aliexpress.ru##.PrivacyPolicyBanner_PrivacyPolicyBanner__wrapper__5dnwg
 
 
 www.youtube.com###search-secondary-col-contents
@@ -176,6 +177,8 @@ www.youtube.com###removed_ess
 ##a[href*="photo-xxx"]
 ##a[href*="=banner_top"]
 ##a[href*="=topbanner"]
+##a[href*="https://u-rl.ru/uJFQR"]
+##a[href*="www.binance.com"]
 
 
 ##iframe[src^="//img01.ssp.rambler.ru/file.jsp?url"]
@@ -224,6 +227,7 @@ otvet.mail.ru##.mailru-visibility-check
 cloud.mail.ru###topBanner
 cloud.mail.ru###react-widgets
 cloud.mail.ru##.tooltipDiskOContent
+otvet.mail.ru##.banner-anonymous-email
 e.mail.ru##.ph-project-promo-container
 e.mail.ru###octavius-notify-unsubscribe-after-delete
 e.mail.ru##.layout__column_right
@@ -283,6 +287,9 @@ e.mail.ru##.portal-menu-logo__vk
 ##.cookie
 ##.cookie-offer
 ##.cookie-consent
+##.gpm-cookie-accepted
+##.cc-window
+##.cookie-agree
 
 
 ###tlg_download
@@ -308,6 +315,7 @@ e.mail.ru##.portal-menu-logo__vk
 ###gdpr-cookie-notice
 ###nca-cookiesaccept-line
 ###clearfy-cookie
+###cookies
 
 
 ||compactembed.ml/$subdocument
@@ -364,6 +372,7 @@ yt-download.org##.v720p60
 yt-download.org##.v1080p
 yt-download.org##.v720p
 yt-download.org##.v720p50
+yt-download.org##.v1080p50
 
 
 great-vpn.
@@ -396,6 +405,9 @@ yabrowser.su
 dgelnham.com
 geithar.
 winluckychance.
+fultraightdec.
+www.binance.
+
 
 
 
