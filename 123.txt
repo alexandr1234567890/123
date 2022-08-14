@@ -92,6 +92,7 @@ apkpure.com##a[href*="plus18"]
 *alicdn.com/*vibrator*
 ###J_xiaomi_dialog
 shoppingcart.aliexpress.ru##.PrivacyPolicyBanner_PrivacyPolicyBanner__wrapper__5dnwg
+aliexpress.ru##.PrivacyPolicyBanner_PrivacyPolicyBanner__wrapper__5dnwg
 
 
 www.youtube.com###search-secondary-col-contents
@@ -217,9 +218,7 @@ images/jet.png$image
 like.gif$image
 /yaba.webp$image
 
-
 e.mail.ru##.thread__kaspersky
-e.mail.ru##.portal-menu-logo__logo__img
 otvet.mail.ru##.nt--item_floating.nt--item
 otvet.mail.ru##.trg-b-banner
 otvet.mail.ru##.trg-b-banner-block
@@ -228,14 +227,11 @@ cloud.mail.ru###topBanner
 cloud.mail.ru###react-widgets
 cloud.mail.ru##.tooltipDiskOContent
 otvet.mail.ru##.banner-anonymous-email
-e.mail.ru##.ph-project-promo-container
 e.mail.ru###octavius-notify-unsubscribe-after-delete
-e.mail.ru##.layout__column_right
 e.mail.ru##.promo-block-letter
 e.mail.ru###octavius-notify-quota-info
-e.mail.ru##.portal-menu-logo__vk
 ||ad.mail.ru/adf/
-
+e.mail.ru##.ph-project-promo-container
 
 ##.fleft.btn-installpack-wrapper
 ##.st-browser__page
@@ -407,6 +403,7 @@ geithar.
 winluckychance.
 fultraightdec.
 www.binance.
+
 
 
 
