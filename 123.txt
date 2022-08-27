@@ -93,6 +93,7 @@ apkpure.com##a[href*="plus18"]
 ###J_xiaomi_dialog
 shoppingcart.aliexpress.ru##.PrivacyPolicyBanner_PrivacyPolicyBanner__wrapper__5dnwg
 aliexpress.ru##.PrivacyPolicyBanner_PrivacyPolicyBanner__wrapper__5dnwg
+aliexpress.ru##.TopBanner-styles_bannerLink__1na4w
 
 
 www.youtube.com###search-secondary-col-contents
@@ -180,6 +181,9 @@ www.youtube.com###removed_ess
 ##a[href*="=topbanner"]
 ##a[href*="https://u-rl.ru/uJFQR"]
 ##a[href*="www.binance.com"]
+##a[href*="premiumredir.ru"]
+##a[href*="=banner"]
+##a[href*="/ybrowser/download"]
 
 
 ##iframe[src^="//img01.ssp.rambler.ru/file.jsp?url"]
@@ -217,6 +221,8 @@ images/jet.png$image
 *yadownload.png$image
 like.gif$image
 /yaba.webp$image
+_ya_small.png$image
+_yandex_hor.png$image
 
 e.mail.ru##.thread__kaspersky
 otvet.mail.ru##.nt--item_floating.nt--item
@@ -286,6 +292,10 @@ e.mail.ru##.ph-project-promo-container
 ##.gpm-cookie-accepted
 ##.cc-window
 ##.cookie-agree
+##.agreement-cookie
+##.notice--cookie
+##.dle_b_psbnr
+##.smi24__informer
 
 
 ###tlg_download
@@ -312,6 +322,8 @@ e.mail.ru##.ph-project-promo-container
 ###nca-cookiesaccept-line
 ###clearfy-cookie
 ###cookies
+###aws_cookie
+###cookie_popup
 
 
 ||compactembed.ml/$subdocument
@@ -340,6 +352,11 @@ yandex.ru##.serp-user_with-login-popup_yes.popup2_visible_yes.popup2_direction_b
 yandex.ru##.incut_inserted_yes
 yandex.ru##.Warning_type_roskomnadzor
 yandex.ru##.ImagesViewerApp-FooterContent
+yandex.ru##.DistrPopup_location_right-bottom.DistrPopup_visible.DistrPopup_animation_fall-show-bounce.DistrPopup_layout_flat.DistrPopup_motley_dark-blue.DistrPopup
+yandex.ru##.DistrPopup_hideOnPopups.DistrPopup_visible.DistrPopup_animation_bounce.DistrPopup_layout_simple.DistrPopup_motley_dark-grey.DistrPopup_hasShadow.DistrPopup
+yandex.ru##.OrganicReviews.VanillaReact
+yandex.ru##.popup2_visible_yes.popup2_direction_bottom-right.popup2_js_inited.i-bem.serp-user__promo-popup.popup2_view_classic.popup2_hiding_yes.popup2_autoclosable_yes.popup2_target_anchor.popup2_theme_normal.popup2
+yandex.ru##.i-bem.serp.main__distr-popup
 
 
 ##div#banner_ad
@@ -353,7 +370,8 @@ yandex.ru##.ImagesViewerApp-FooterContent
 forum.ru-board.com##.tb > tbody > tr > td > table > tbody > tr:nth-of-type(1) > .tpc > .post > .sing > tbody > tr > td
 sportmail.ru##.button_color_dark.button
 lenta.ru##.scroll-to-site__logo
-
+kuban.rbc.ru##.push-allow
+by.tsargrad.tv##.sticky-bottom
 
 yt-download.org##.bit64
 yt-download.org##.bit192
@@ -369,6 +387,7 @@ yt-download.org##.v1080p
 yt-download.org##.v720p
 yt-download.org##.v720p50
 yt-download.org##.v1080p50
+yt-download.org##.btn-sm.btn-error.btn.rounded-2xl
 
 
 great-vpn.
@@ -403,6 +422,7 @@ geithar.
 winluckychance.
 fultraightdec.
 www.binance.
+
 
 
 
