@@ -96,49 +96,6 @@ aliexpress.ru##.PrivacyPolicyBanner_PrivacyPolicyBanner__wrapper__5dnwg
 aliexpress.ru##.TopBanner-styles_bannerLink__1na4w
 
 
-www.youtube.com###search-secondary-col-contents
-www.youtube.com##.search-refinements
-www.youtube.com###upload-btn
-www.youtube.com##.ytp-pause-overlay
-www.youtube.com##.ytp-endscreen-content
-www.youtube.com##.ytp-chrome-top-buttons
-www.youtube.com##.ytp-title-text
-www.youtube.com##.ytp-title-channel
-www.youtube.com##.ytp-ce-element
-www.youtube.com##.ytp-ce-covering-overlay
-www.youtube.com##.watch-view-count
-www.youtube.com##.mealbar-promo-renderer.yt-dialog > .yt-dialog-base
-www.youtube.com##.ytp-scroll-min.ytp-pause-overlay
-www.youtube.com##.ytp-ad-survey-questions
-##.__BC_Table
-www.youtube.com###trending-guide-item
-www.youtube.com##.standalone-collection-badge-renderer-text > .spf-link.yt-uix-sessionlink
-www.youtube.com##.epic-nav-item-heading
-www.youtube.com##.ytd-video-primary-info-renderer.style-scope.super-title > .yt-formatted-string.style-scope.yt-simple-endpoint
-||www.youtube.com/live_chat_replay$subdocument
-||www.youtube.com/live_chat$subdocument
-www.youtube.com###chatframe
-www.youtube.com###chat
-www.youtube.com###comments
-www.youtube.com###list-container
-www.youtube.com##.ytd-guide-renderer.style-scope:nth-of-type(3)
-www.youtube.com###section-items
-www.youtube.com###header-entry
-www.youtube.com###sections > .ytd-guide-renderer.style-scope:nth-of-type(1)
-www.youtube.com##.ytd-guide-renderer.style-scope:nth-of-type(4)
-www.youtube.com###footer
-www.youtube.com##.style-default.ytd-masthead.style-scope:nth-of-type(2)
-www.youtube.com###buttons > .style-default.ytd-masthead.style-scope:nth-of-type(1)
-www.youtube.com##.notification-button-style-type-conversation-default.ytd-masthead.style-scope
-www.youtube.com###channel.ytd-grid-channel-renderer.style-scope
-www.youtube.com###title.ytd-shelf-renderer.style-scope
-www.youtube.com###contents > .ytd-browse-secondary-contents-renderer.style-scope
-www.youtube.com##.ytd-browse-secondary-contents-renderer.style-scope:nth-of-type(2)
-www.youtube.com##.miniplayer
-www.youtube.com###sponsor-button
-www.youtube.com###removed_ess
-
-
 ##a[href*="adguardInstaller.exe"]
 ##a[href^="https://telamoncleaner.ru/tracker/"]
 ##a[href="https://goo.su/6Ja9"]
@@ -422,6 +379,7 @@ geithar.
 winluckychance.
 fultraightdec.
 www.binance.
+
 
 
 
