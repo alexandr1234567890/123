@@ -330,22 +330,6 @@ lenta.ru##.scroll-to-site__logo
 kuban.rbc.ru##.push-allow
 by.tsargrad.tv##.sticky-bottom
 
-yt-download.org##.bit64
-yt-download.org##.bit192
-yt-download.org##.bit256
-yt-download.org##.bit320
-yt-download.org##.v144p
-yt-download.org##.v240p
-yt-download.org##.v480p
-yt-download.org##.v1080p60
-yt-download.org##.v1440p60
-yt-download.org##.v720p60
-yt-download.org##.v1080p
-yt-download.org##.v720p
-yt-download.org##.v720p50
-yt-download.org##.v1080p50
-yt-download.org##.btn-sm.btn-error.btn.rounded-2xl
-
 
 great-vpn.
 moiprogrammy.
@@ -379,6 +363,8 @@ geithar.
 winluckychance.
 fultraightdec.
 www.binance.
+
+
 
 
 
