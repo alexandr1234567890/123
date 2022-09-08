@@ -96,6 +96,8 @@ aliexpress.ru##.PrivacyPolicyBanner_PrivacyPolicyBanner__wrapper__5dnwg
 aliexpress.ru##.TopBanner-styles_bannerLink__1na4w
 
 
+
+##a[href*="yourbrowser"]
 ##a[href*="adguardInstaller.exe"]
 ##a[href^="https://telamoncleaner.ru/tracker/"]
 ##a[href="https://goo.su/6Ja9"]
@@ -141,6 +143,9 @@ aliexpress.ru##.TopBanner-styles_bannerLink__1na4w
 ##a[href*="premiumredir.ru"]
 ##a[href*="=banner"]
 ##a[href*="/ybrowser/download"]
+##a[href*="gtorrent.xyz/ya/"]
+##a[href*="https://ya-distrib.ru"]
+
 
 
 ##iframe[src^="//img01.ssp.rambler.ru/file.jsp?url"]
@@ -164,6 +169,7 @@ uploadrar.com##.btn-lg.btn-info.btn
 ##img[src="/xep_ego_znaet.png"]
 ##img[src="/ya2.png"]
 ##img[src="/images/dlo.png"]
+##img[src="/images/svg/mr/billing/yoomoney.svg"]
 
 
 images/jet_yandex.jpg$image
@@ -354,7 +360,6 @@ deshaici.
 trafredirtds.
 alt-look.
 hsgdyq.
-elgrur.
 is.gd
 great-vpn.
 yabrowser.su
@@ -363,6 +368,7 @@ geithar.
 winluckychance.
 fultraightdec.
 www.binance.
+youjustwonprize.
 
 
 
