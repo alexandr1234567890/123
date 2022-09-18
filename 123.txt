@@ -147,7 +147,6 @@ aliexpress.ru##.TopBanner-styles_bannerLink__1na4w
 ##a[href*="https://ya-distrib.ru"]
 
 
-
 ##iframe[src^="//img01.ssp.rambler.ru/file.jsp?url"]
 ##iframe[src^="//am15.net/ssp/banner?upst"]
 ##iframe[src^="//dsp-rambler.ru/imp"]
@@ -172,11 +171,6 @@ uploadrar.com##.btn-lg.btn-info.btn
 ##img[src="/images/svg/mr/billing/yoomoney.svg"]
 
 
-images/jet_yandex.jpg$image
-img/yandex.png$image
-images/jet.png$image
-
-
 /Zastavka-online-video-cutter.com_.mp4$media
 /ads-banner.gif$image
 *_yabaner.png$image
@@ -186,6 +180,17 @@ like.gif$image
 /yaba.webp$image
 _ya_small.png$image
 _yandex_hor.png$image
+images/jet_yandex.jpg$image
+img/yandex.png$image
+images/jet.png$image
+/ya_bot.png$image
+/ya_top.png$image
+/ya-ban.webp$image
+
+getvideo.id##a[href="https://googledino.com/"]
+getvideo.id##.ya-share2_inited.ya-share2
+||getvideo.id/play.png$image
+
 
 e.mail.ru##.thread__kaspersky
 otvet.mail.ru##.nt--item_floating.nt--item
@@ -259,6 +264,7 @@ e.mail.ru##.ph-project-promo-container
 ##.notice--cookie
 ##.dle_b_psbnr
 ##.smi24__informer
+##.mp-promo-block
 
 
 ###tlg_download
@@ -287,6 +293,7 @@ e.mail.ru##.ph-project-promo-container
 ###cookies
 ###aws_cookie
 ###cookie_popup
+###cookiePopup
 
 
 ||compactembed.ml/$subdocument
@@ -320,6 +327,7 @@ yandex.ru##.DistrPopup_hideOnPopups.DistrPopup_visible.DistrPopup_animation_boun
 yandex.ru##.OrganicReviews.VanillaReact
 yandex.ru##.popup2_visible_yes.popup2_direction_bottom-right.popup2_js_inited.i-bem.serp-user__promo-popup.popup2_view_classic.popup2_hiding_yes.popup2_autoclosable_yes.popup2_target_anchor.popup2_theme_normal.popup2
 yandex.ru##.i-bem.serp.main__distr-popup
+yandex.ru##.DistrPopup-Content
 
 
 ##div#banner_ad
@@ -335,6 +343,7 @@ sportmail.ru##.button_color_dark.button
 lenta.ru##.scroll-to-site__logo
 kuban.rbc.ru##.push-allow
 by.tsargrad.tv##.sticky-bottom
+dfiles.eu##.right.content
 
 
 great-vpn.
@@ -369,6 +378,8 @@ winluckychance.
 fultraightdec.
 www.binance.
 youjustwonprize.
+netflixsubscribe.
+
 
 
 
