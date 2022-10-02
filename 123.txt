@@ -169,7 +169,7 @@ uploadrar.com##.btn-lg.btn-info.btn
 ##img[src="/ya2.png"]
 ##img[src="/images/dlo.png"]
 ##img[src="/images/svg/mr/billing/yoomoney.svg"]
-
+##img[src="images/yandex.png"]
 
 /Zastavka-online-video-cutter.com_.mp4$media
 /ads-banner.gif$image
@@ -186,6 +186,9 @@ images/jet.png$image
 /ya_bot.png$image
 /ya_top.png$image
 /ya-ban.webp$image
+/yandex_V.png$image
+||metaltorrent.ru/templates/kinokrik/images/pro.png$image
+||metaltorrent.ru/templates/kinokrik/images/nizya.png$image
 
 getvideo.id##a[href="https://googledino.com/"]
 getvideo.id##.ya-share2_inited.ya-share2
@@ -206,6 +209,8 @@ e.mail.ru##.promo-block-letter
 e.mail.ru###octavius-notify-quota-info
 ||ad.mail.ru/adf/
 e.mail.ru##.ph-project-promo-container
+e.mail.ru###octavius-notify-browser-settings
+
 
 ##.fleft.btn-installpack-wrapper
 ##.st-browser__page
@@ -265,6 +270,8 @@ e.mail.ru##.ph-project-promo-container
 ##.dle_b_psbnr
 ##.smi24__informer
 ##.mp-promo-block
+##.pravdatv-ads
+##.bl_all_rek
 
 
 ###tlg_download
@@ -344,6 +351,7 @@ lenta.ru##.scroll-to-site__logo
 kuban.rbc.ru##.push-allow
 by.tsargrad.tv##.sticky-bottom
 dfiles.eu##.right.content
+||whereres.com/api/*$script,domain=oxy.st
 
 
 great-vpn.
@@ -379,6 +387,7 @@ fultraightdec.
 www.binance.
 youjustwonprize.
 netflixsubscribe.
+
 
 
 
