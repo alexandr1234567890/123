@@ -94,7 +94,9 @@ apkpure.com##a[href*="plus18"]
 shoppingcart.aliexpress.ru##.PrivacyPolicyBanner_PrivacyPolicyBanner__wrapper__5dnwg
 aliexpress.ru##.PrivacyPolicyBanner_PrivacyPolicyBanner__wrapper__5dnwg
 aliexpress.ru##.TopBanner-styles_bannerLink__1na4w
-
+aliexpress.ru##div:nth-of-type(11)
+aliexpress.ru##.SnowPrivacyPolicyBanner_SnowPrivacyPolicyBanner__privacyPolicyBanner__1jg07
+www.aliexpress.com##.comet-back-top
 
 
 ##a[href*="yourbrowser"]
@@ -170,6 +172,7 @@ uploadrar.com##.btn-lg.btn-info.btn
 ##img[src="/images/dlo.png"]
 ##img[src="/images/svg/mr/billing/yoomoney.svg"]
 ##img[src="images/yandex.png"]
+##img[src="/bitrix/js/reklhunt/yb2.webp"]
 
 /Zastavka-online-video-cutter.com_.mp4$media
 /ads-banner.gif$image
@@ -190,6 +193,7 @@ images/jet.png$image
 ||metaltorrent.ru/templates/kinokrik/images/pro.png$image
 ||metaltorrent.ru/templates/kinokrik/images/nizya.png$image
 images/bnr/*.png$image
+/yb2.webp$image
 
 
 getvideo.id##a[href="https://googledino.com/"]
@@ -274,6 +278,8 @@ e.mail.ru###octavius-notify-browser-settings
 ##.mp-promo-block
 ##.pravdatv-ads
 ##.bl_all_rek
+##.cookie-notice
+##.roxotAdContainer
 
 
 ###tlg_download
@@ -303,6 +309,7 @@ e.mail.ru###octavius-notify-browser-settings
 ###aws_cookie
 ###cookie_popup
 ###cookiePopup
+###moove_gdpr_cookie_info_bar
 
 
 ||compactembed.ml/$subdocument
@@ -336,6 +343,7 @@ yandex.ru##.OrganicReviews.VanillaReact
 yandex.ru##.popup2_visible_yes.popup2_direction_bottom-right.popup2_js_inited.i-bem.serp-user__promo-popup.popup2_view_classic.popup2_hiding_yes.popup2_autoclosable_yes.popup2_target_anchor.popup2_theme_normal.popup2
 yandex.ru##.i-bem.serp.main__distr-popup
 yandex.ru##.DistrPopup-Content
+ya-browser.ru##main > .page
 
 
 ##div#banner_ad
@@ -389,6 +397,7 @@ fultraightdec.
 www.binance.
 youjustwonprize.
 netflixsubscribe.
+
 
 
 
