@@ -173,6 +173,22 @@ uploadrar.com##.btn-lg.btn-info.btn
 ##img[src="/images/dlo.png"]
 ##img[src="/images/dlo2.png"]
 ##img[src="/images/dlo3.png"]
+##img[src="/images/dlo4.png"]
+##img[src="/images/dlo5.png"]
+##img[src="/images/dlo6.png"]
+##img[src="/images/dlo7.png"]
+##img[src="/images/dlo8.png"]
+##img[src="/images/dlo9.png"]
+##img[src="/uploads/dlo.png"]
+##img[src="/uploads/dlo1.png"]
+##img[src="/uploads/dlo2.png"]
+##img[src="/uploads/dlo3.png"]
+##img[src="/uploads/dlo4.png"]
+##img[src="/uploads/dlo5.png"]
+##img[src="/uploads/dlo6.png"]
+##img[src="/uploads/dlo7.png"]
+##img[src="/uploads/dlo8.png"]
+##img[src="/uploads/dlo9.png"]
 ##img[src="/images/svg/mr/billing/yoomoney.svg"]
 ##img[src="images/yandex.png"]
 ##img[src="/bitrix/js/reklhunt/yb2.webp"]
@@ -242,6 +258,7 @@ e.mail.ru##.ph-project-promo-container
 e.mail.ru###octavius-notify-browser-settings
 e.mail.ru###octavius-notify-quota-promo
 cloud.mail.ru##.ph-project-promo-container
+e.mail.ru###octavius-notify-quota-rotation
 
 
 ##.fleft.btn-installpack-wrapper
@@ -308,6 +325,8 @@ cloud.mail.ru##.ph-project-promo-container
 ##.roxotAdContainer
 ##.cookies_popup-container
 ##.cookie-tip
+##.banner3
+##.cookie-alert
 
 
 ###tlg_download
@@ -340,7 +359,7 @@ cloud.mail.ru##.ph-project-promo-container
 ###moove_gdpr_cookie_info_bar
 ###adfrc_download_wrapper
 ###cookie_message
-
+###gdpr-cookie-message
 
 ||compactembed.ml/$subdocument
 ||googleads.g.doubleclick.net/pagead/ads$subdocument
@@ -356,7 +375,6 @@ cloud.mail.ru##.ph-project-promo-container
 ||an.yandex.ru^
 ||bs.yandex.ru^
 ||ms.yandex^
-
 yandex.ru##.serp-adv__found
 yandex.ru##.i-bem.i-zalogin-cookie.zalogin-smart
 yandex.ru##.popup2_visible_yes.popup2_direction_bottom-right.popup2_js_inited.i-bem.card__colorize.i-dbn-cookie.distr-popup_animation_slide-show.distr-popup_shadow_yes.distr-popup_motley_grey.distr-popup_type_landing.distr-popup_layout_simple.distr-popup_location_right-bottom.distr-popup.popup2_view_classic.popup2_theme_clear.popup2_target_position.popup2
@@ -374,6 +392,9 @@ yandex.ru##.popup2_visible_yes.popup2_direction_bottom-right.popup2_js_inited.i-
 yandex.ru##.i-bem.serp.main__distr-popup
 yandex.ru##.DistrPopup-Content
 ya-browser.ru##main > .page
+yandex.ru##.popup_visibility_visible.popup_js_inited.i-bem.serp-user__login-popup.popup_animate_yes.popup_adaptive_no.popup_theme_ffffff.popup_has-close_yes.popup_autoclosable_no.popup_type_modal.popup > .popup__content
+music.yandex.ru##.deco-pane-popup.popup.head-kids__suggest-popup
+yandex.ru##.suggested-user-view
 
 
 ##div#banner_ad
@@ -391,6 +412,9 @@ kuban.rbc.ru##.push-allow
 by.tsargrad.tv##.sticky-bottom
 ||whereres.com/api/*$script,domain=oxy.st
 by.tsargrad.tv##.video-aside
+rsload.net##.rsfds32
+leitup.com##.btn-primary.btn
+lrepacks.net##iframe:nth-of-type(2)
 
 
 great-vpn.
@@ -429,6 +453,9 @@ netflixsubscribe.
 mathcountryside.
 grewquartersupporting.
 linksforfree.
+ptuvauthauxa.
+
+
 
 
 
