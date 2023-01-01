@@ -148,6 +148,7 @@ www.aliexpress.com##.comet-back-top
 ##a[href*="gtorrent.xyz/ya/"]
 ##a[href*="https://ya-distrib.ru"]
 ##a[href*="/adServe/banners"]
+##a[href^="/turbo"]
 
 
 ##iframe[src^="//img01.ssp.rambler.ru/file.jsp?url"]
@@ -192,6 +193,7 @@ uploadrar.com##.btn-lg.btn-info.btn
 ##img[src="/images/svg/mr/billing/yoomoney.svg"]
 ##img[src="images/yandex.png"]
 ##img[src="/bitrix/js/reklhunt/yb2.webp"]
+##img[src="/kto_ego_znaet.png"]
 
 
 yt1s.com##.center.ftco-section:nth-of-type(2)
@@ -259,6 +261,7 @@ e.mail.ru###octavius-notify-browser-settings
 e.mail.ru###octavius-notify-quota-promo
 cloud.mail.ru##.ph-project-promo-container
 e.mail.ru###octavius-notify-quota-rotation
+otvet.mail.ru##.trg-b-wrap
 
 
 ##.fleft.btn-installpack-wrapper
@@ -327,6 +330,7 @@ e.mail.ru###octavius-notify-quota-rotation
 ##.cookie-tip
 ##.banner3
 ##.cookie-alert
+##.mts-floor-aida__block
 
 
 ###tlg_download
@@ -360,6 +364,9 @@ e.mail.ru###octavius-notify-quota-rotation
 ###adfrc_download_wrapper
 ###cookie_message
 ###gdpr-cookie-message
+###onetrust-banner-sdk
+###js-gdpr-consent-banner
+
 
 ||compactembed.ml/$subdocument
 ||googleads.g.doubleclick.net/pagead/ads$subdocument
@@ -403,6 +410,47 @@ yandex.ru##.suggested-user-view
 ##div[id^="yandex_rtb"]
 ##div[id^="adfox_"]
 ##div[id^="yandex_ad"]
+
+
+oxy.st##.text-block
+oxy.st##small
+oxy.st##hr
+oxy.st##.header-top-area
+oxy.st###mainmenu
+download.oxy.st##h1
+
+
+up-load.io##.btn-sm.btn-primary.btn:nth-of-type(2)
+up-load.io##.container-fluid
+up-load.io##.footer-sub
+up-load.io##footer
+up-load.io##center > li:nth-of-type(4)
+up-load.io##.navbar-fixed-top.navbar-inverse.navbar
+up-load.io##form > div > li:nth-of-type(1)
+up-load.io##div > li:nth-of-type(2)
+up-load.io##center > li:nth-of-type(3)
+up-load.io##center > li:nth-of-type(2)
+up-load.io##.pt20.col-md-12 > center > li:nth-of-type(1)
+up-load.io##ol > li
+up-load.io##center > center > li
+up-load.io##.pt30.download_page.container > li > strong
+up-load.io##.share
+up-load.io##.col-md-8 > li:nth-of-type(1)
+up-load.io##.buyPremium.alert-success.alert
+up-load.io##.col-md-12:nth-of-type(1) > center
+up-load.io##.report > a[href^="https://up-load.io/"]
+
+
+infourok.ru##.payment-choice-wrapper
+infourok.ru##.club-modal__radio-group
+infourok.ru##.club-modal__tooltip-wrapper
+infourok.ru##.club-modal__title
+infourok.ru##.club-modal__info
+infourok.ru##.widget-sber__middle-container--not-indented.widget-sber__middle-container > .balanceModal__afterPayment
+infourok.ru##.club-modal__return
+infourok.ru###download-option-support-tooltip
+infourok.ru##.download-option__link
+infourok.ru##.slow-download-card__title
 
 
 forum.ru-board.com##.tb > tbody > tr > td > table > tbody > tr:nth-of-type(1) > .tpc > .post > .sing > tbody > tr > td
@@ -454,6 +502,9 @@ mathcountryside.
 grewquartersupporting.
 linksforfree.
 ptuvauthauxa.
+gamegoltd.
+holdsoutset.
+
 
 
 
