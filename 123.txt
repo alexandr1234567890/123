@@ -149,6 +149,10 @@ www.aliexpress.com##.comet-back-top
 ##a[href*="https://ya-distrib.ru"]
 ##a[href*="/adServe/banners"]
 ##a[href^="/turbo"]
+##a[href="https://nonameno.com/rrr/yandex"]
+##a[href="/yandeks-brauzer/"]
+##a[href="//ppt-online.org/yb.php"]
+##a[href="http://www.cdmail.ru/ya_browser.htm"]
 
 
 ##iframe[src^="//img01.ssp.rambler.ru/file.jsp?url"]
@@ -194,6 +198,8 @@ uploadrar.com##.btn-lg.btn-info.btn
 ##img[src="images/yandex.png"]
 ##img[src="/bitrix/js/reklhunt/yb2.webp"]
 ##img[src="/kto_ego_znaet.png"]
+##img[src="/mgg2.png"]
+##img[src="/knopki/yasssssaa.jpg"]
 
 
 yt1s.com##.center.ftco-section:nth-of-type(2)
@@ -331,6 +337,13 @@ otvet.mail.ru##.trg-b-wrap
 ##.banner3
 ##.cookie-alert
 ##.mts-floor-aida__block
+##.float_banner
+##.cookies-warning
+##.page-up
+##.-inner-info-fix.video-inner-top
+##.social-onboarding
+##.go-up
+##.go-down
 
 
 ###tlg_download
@@ -366,6 +379,9 @@ otvet.mail.ru##.trg-b-wrap
 ###gdpr-cookie-message
 ###onetrust-banner-sdk
 ###js-gdpr-consent-banner
+###yac
+###cookienotif
+###cookie_alert
 
 
 ||compactembed.ml/$subdocument
@@ -402,6 +418,8 @@ ya-browser.ru##main > .page
 yandex.ru##.popup_visibility_visible.popup_js_inited.i-bem.serp-user__login-popup.popup_animate_yes.popup_adaptive_no.popup_theme_ffffff.popup_has-close_yes.popup_autoclosable_no.popup_type_modal.popup > .popup__content
 music.yandex.ru##.deco-pane-popup.popup.head-kids__suggest-popup
 yandex.ru##.suggested-user-view
+yandex.ru##.misspell__message_t-mod_anti-mirror
+yandex.ru##.SerpFooter-Carriage
 
 
 ##div#banner_ad
@@ -418,27 +436,7 @@ oxy.st##hr
 oxy.st##.header-top-area
 oxy.st###mainmenu
 download.oxy.st##h1
-
-
-up-load.io##.btn-sm.btn-primary.btn:nth-of-type(2)
-up-load.io##.container-fluid
-up-load.io##.footer-sub
-up-load.io##footer
-up-load.io##center > li:nth-of-type(4)
-up-load.io##.navbar-fixed-top.navbar-inverse.navbar
-up-load.io##form > div > li:nth-of-type(1)
-up-load.io##div > li:nth-of-type(2)
-up-load.io##center > li:nth-of-type(3)
-up-load.io##center > li:nth-of-type(2)
-up-load.io##.pt20.col-md-12 > center > li:nth-of-type(1)
-up-load.io##ol > li
-up-load.io##center > center > li
-up-load.io##.pt30.download_page.container > li > strong
-up-load.io##.share
-up-load.io##.col-md-8 > li:nth-of-type(1)
-up-load.io##.buyPremium.alert-success.alert
-up-load.io##.col-md-12:nth-of-type(1) > center
-up-load.io##.report > a[href^="https://up-load.io/"]
+oxy.st##.navigation-bar
 
 
 infourok.ru##.payment-choice-wrapper
@@ -463,6 +461,15 @@ by.tsargrad.tv##.video-aside
 rsload.net##.rsfds32
 leitup.com##.btn-primary.btn
 lrepacks.net##iframe:nth-of-type(2)
+livejournal.com##.b-discoverytimes-container
+www.softslot.com##.multi_s
+soft.sibnet.ru##.data_linktg
+
+
+www.youtube.com##.ytd-segmented-like-dislike-button-renderer
+www.youtube.com###dislike-button
+www.youtube.com###like-button
+www.youtube.com###vote-count-middle
 
 
 great-vpn.
@@ -504,6 +511,7 @@ linksforfree.
 ptuvauthauxa.
 gamegoltd.
 holdsoutset.
+
 
 
 
