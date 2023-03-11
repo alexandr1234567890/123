@@ -233,6 +233,9 @@ images/bnr/*.png$image
 /yb2.webp$image
 /warm-up-banner.jpg$image
 /marketing*.png$image
+/yandex_topikuhta.png$image
+/yondeksis_topersik.png$image
+/yb2.png$image
 
 
 getvideo.at##.section
@@ -344,6 +347,10 @@ otvet.mail.ru##.trg-b-wrap
 ##.social-onboarding
 ##.go-up
 ##.go-down
+##.cookies
+##.c-cookie-panel
+##.cc_banner
+##.Cookie
 
 
 ###tlg_download
@@ -382,6 +389,7 @@ otvet.mail.ru##.trg-b-wrap
 ###yac
 ###cookienotif
 ###cookie_alert
+###article_courses_banner
 
 
 ||compactembed.ml/$subdocument
@@ -420,6 +428,7 @@ music.yandex.ru##.deco-pane-popup.popup.head-kids__suggest-popup
 yandex.ru##.suggested-user-view
 yandex.ru##.misspell__message_t-mod_anti-mirror
 yandex.ru##.SerpFooter-Carriage
+yandex.ru##.rating-ten
 
 
 ##div#banner_ad
@@ -464,6 +473,8 @@ lrepacks.net##iframe:nth-of-type(2)
 livejournal.com##.b-discoverytimes-container
 www.softslot.com##.multi_s
 soft.sibnet.ru##.data_linktg
+nsportal.ru###downloadLink
+uchitelya.com##footer
 
 
 www.youtube.com##.ytd-segmented-like-dislike-button-renderer
@@ -511,6 +522,9 @@ linksforfree.
 ptuvauthauxa.
 gamegoltd.
 holdsoutset.
+gonebyalongt.
+winbonusclick.
+
 
 
 
