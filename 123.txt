@@ -153,6 +153,7 @@ www.aliexpress.com##.comet-back-top
 ##a[href="/yandeks-brauzer/"]
 ##a[href="//ppt-online.org/yb.php"]
 ##a[href="http://www.cdmail.ru/ya_browser.htm"]
+##a[href="YandexPackLoader"]
 
 
 ##iframe[src^="//img01.ssp.rambler.ru/file.jsp?url"]
@@ -200,6 +201,7 @@ uploadrar.com##.btn-lg.btn-info.btn
 ##img[src="/kto_ego_znaet.png"]
 ##img[src="/mgg2.png"]
 ##img[src="/knopki/yasssssaa.jpg"]
+##img[src="/images/light_banner_728х90.png"]
 
 
 yt1s.com##.center.ftco-section:nth-of-type(2)
@@ -271,6 +273,7 @@ e.mail.ru###octavius-notify-quota-promo
 cloud.mail.ru##.ph-project-promo-container
 e.mail.ru###octavius-notify-quota-rotation
 otvet.mail.ru##.trg-b-wrap
+e.mail.ru##.application-mail__progress
 
 
 ##.fleft.btn-installpack-wrapper
@@ -351,6 +354,11 @@ otvet.mail.ru##.trg-b-wrap
 ##.c-cookie-panel
 ##.cc_banner
 ##.Cookie
+##.w-head-banner
+##.banner-1
+##.CookieNotify
+##.cookie-banner__wrapper
+##.ban-centr
 
 
 ###tlg_download
@@ -390,11 +398,13 @@ otvet.mail.ru##.trg-b-wrap
 ###cookienotif
 ###cookie_alert
 ###article_courses_banner
+###cookie_note
 
 
 ||compactembed.ml/$subdocument
 ||googleads.g.doubleclick.net/pagead/ads$subdocument
 ||yoomoney.ru/quickpay/shop-widget$subdocument
+||adsit.ai/display/index.php$subdocument
 
 
 ||syndication.realsrv.com^$third-party
@@ -439,15 +449,6 @@ yandex.ru##.rating-ten
 ##div[id^="yandex_ad"]
 
 
-oxy.st##.text-block
-oxy.st##small
-oxy.st##hr
-oxy.st##.header-top-area
-oxy.st###mainmenu
-download.oxy.st##h1
-oxy.st##.navigation-bar
-
-
 infourok.ru##.payment-choice-wrapper
 infourok.ru##.club-modal__radio-group
 infourok.ru##.club-modal__tooltip-wrapper
@@ -475,6 +476,13 @@ www.softslot.com##.multi_s
 soft.sibnet.ru##.data_linktg
 nsportal.ru###downloadLink
 uchitelya.com##footer
+katfile.com##.premium
+politros.com##.scroll-progress
+torrent-soft.pro##.pa-window__body_step-1
+torrent-soft.pro##.pa-window__logo
+torrent-soft.pro##.pa-window__rekl-tr
+politexpert.net##.progress-bar
+www.mvideo.ru##mvid-cookie-notification
 
 
 www.youtube.com##.ytd-segmented-like-dislike-button-renderer
@@ -524,6 +532,17 @@ gamegoltd.
 holdsoutset.
 gonebyalongt.
 winbonusclick.
+
+
+
+
+
+
+
+
+
+
+
 
 
 
