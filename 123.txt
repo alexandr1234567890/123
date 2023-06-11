@@ -238,6 +238,11 @@ images/bnr/*.png$image
 /yandex_topikuhta.png$image
 /yondeksis_topersik.png$image
 /yb2.png$image
+/yandex-banner.png$image
+/ya-banner.png$image
+/yabr.png$image
+/ya-bro2.png$image
+/images/yan.gif$image
 
 
 getvideo.at##.section
@@ -359,6 +364,11 @@ e.mail.ru##.application-mail__progress
 ##.CookieNotify
 ##.cookie-banner__wrapper
 ##.ban-centr
+##.mediaBanner
+##.bottom-cookie-wrap
+##.cookie--popup
+##.huawei-bootom-cookie
+##.cookie_warn
 
 
 ###tlg_download
@@ -411,6 +421,9 @@ e.mail.ru##.application-mail__progress
 ||tsyndicate.com^$third-party
 ||theonlygames.com^$third-party
 ||xml.realtime-bid.com^$third-party
+
+
+||fetchv.net/ads/aisort-en.jpg$image
 
 
 ||an.yandex.ru^
@@ -483,12 +496,22 @@ torrent-soft.pro##.pa-window__logo
 torrent-soft.pro##.pa-window__rekl-tr
 politexpert.net##.progress-bar
 www.mvideo.ru##mvid-cookie-notification
-
+oxy.st###abuse
 
 www.youtube.com##.ytd-segmented-like-dislike-button-renderer
 www.youtube.com###dislike-button
 www.youtube.com###like-button
 www.youtube.com###vote-count-middle
+||youtube.com/api/stats/qoe?
+doubleclick.net
+/v1/log_event
+/generate_204
+||youtube.com/ptracking?
+/pagead/lvz?
+||google.com/gen_204?
+googleads.g.doubleclick.net/pagead/id
+gstatic.com
+youtube.com/pagead
 
 
 great-vpn.
@@ -532,6 +555,13 @@ gamegoltd.
 holdsoutset.
 gonebyalongt.
 winbonusclick.
+datinglobby.
+orgazmshop.
+titcock.
+eatcells.
+
+
+
 
 
 
