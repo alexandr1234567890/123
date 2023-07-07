@@ -452,6 +452,7 @@ yandex.ru##.suggested-user-view
 yandex.ru##.misspell__message_t-mod_anti-mirror
 yandex.ru##.SerpFooter-Carriage
 yandex.ru##.rating-ten
+yandex.ru##.AliceFabContainer
 
 
 ##div#banner_ad
@@ -510,7 +511,6 @@ doubleclick.net
 /pagead/lvz?
 ||google.com/gen_204?
 googleads.g.doubleclick.net/pagead/id
-gstatic.com
 youtube.com/pagead
 
 
@@ -558,7 +558,11 @@ winbonusclick.
 datinglobby.
 orgazmshop.
 titcock.
-eatcells.
+welcomingcasklive.
+
+
+
+
 
 
 
