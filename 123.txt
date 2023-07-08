@@ -35,6 +35,21 @@ millionstatusov.ru##.panel-default.panel.cont_row:nth-of-type(4)
 millionstatusov.ru###page-title > .panel-body
 millionstatusov.ru###page-title
 
+parables.ru##.topbar
+parables.ru##.lg-mnu-sec2
+parables.ru##.breadcrumb
+parables.ru##.blog-detail-inf
+parables.ru##.ya-share2
+parables.ru##.pst-shr-tgs
+parables.ru##.cmts-wrp
+parables.ru###golosovanie
+parables.ru##.btm-br
+parables.ru##.wdgt-bx:nth-of-type(1)
+parables.ru##.wdgt-bx:nth-of-type(3) > ol
+parables.ru##.wdgt-bx:nth-of-type(3) > h5
+parables.ru##.wdgt-bx:nth-of-type(3)
+parables.ru##.wdgt-bx:nth-of-type(4)
+
 ovego.tv##table:nth-of-type(2) > tbody > tr > td > table > tbody > tr > td:nth-of-type(1)
 ovego.tv##table:nth-of-type(2) > tbody > tr > td > table > tbody > tr > td:nth-of-type(3)
 ovego.tv##.eBlock > tbody > tr:nth-of-type(2)
@@ -553,6 +568,9 @@ datinglobby.
 orgazmshop.
 titcock.
 welcomingcasklive.
+
+
+
 
 
 
