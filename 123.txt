@@ -10,6 +10,31 @@
 !-------------------------------------------------------------------------------
 ! Third Party blocking ---------------------------------------------------------
 
+millionstatusov.ru###top-menu
+millionstatusov.ru###page-right
+millionstatusov.ru###page-menu
+millionstatusov.ru##.top-text
+millionstatusov.ru##.panel-default.panel:nth-of-type(2) > .panel-body
+millionstatusov.ru##.cont-top
+millionstatusov.ru##.panel-default.panel:nth-of-type(2)
+millionstatusov.ru##.cont_info
+millionstatusov.ru##.likes
+millionstatusov.ru##.bottom
+millionstatusov.ru##.cont_foto
+millionstatusov.ru###page-shares
+millionstatusov.ru##.panel-heading
+millionstatusov.ru###page-footer
+millionstatusov.ru###go_top
+||millionstatusov.ru/pic/go-top.png$image
+millionstatusov.ru##.panel-default.panel.cont_row:nth-of-type(12) > .panel-body
+millionstatusov.ru##.panel-default.panel.cont_row:nth-of-type(12)
+millionstatusov.ru##.panel-default.panel.cont_row:nth-of-type(10)
+millionstatusov.ru##.cont_video
+millionstatusov.ru##.panel-default.panel.cont_row:nth-of-type(8)
+millionstatusov.ru##.panel-default.panel.cont_row:nth-of-type(4)
+millionstatusov.ru###page-title > .panel-body
+millionstatusov.ru###page-title
+
 ovego.tv##table:nth-of-type(2) > tbody > tr > td > table > tbody > tr > td:nth-of-type(1)
 ovego.tv##table:nth-of-type(2) > tbody > tr > td > table > tbody > tr > td:nth-of-type(3)
 ovego.tv##.eBlock > tbody > tr:nth-of-type(2)
@@ -528,6 +553,10 @@ datinglobby.
 orgazmshop.
 titcock.
 welcomingcasklive.
+
+
+
+
 
 
 
