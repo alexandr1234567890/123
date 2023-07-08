@@ -279,6 +279,7 @@ cloud.mail.ru##.ph-project-promo-container
 e.mail.ru###octavius-notify-quota-rotation
 otvet.mail.ru##.trg-b-wrap
 e.mail.ru##.application-mail__progress
+otvet.mail.ru##.adv-slot-wrapper
 
 
 ##.fleft.btn-installpack-wrapper
@@ -453,6 +454,10 @@ yandex.ru##.misspell__message_t-mod_anti-mirror
 yandex.ru##.SerpFooter-Carriage
 yandex.ru##.rating-ten
 yandex.ru##.AliceFabContainer
+yandex.ru##.DistrSplashscreen-ActionButton.Button2_type_link.Button2_view_action.Button2_size_l.Button2
+yandex.ru##.DistrSplashscreen-Title
+yandex.ru##.DistrSplashscreen-Text
+yandex.ru##.DistrSplashscreen-AgeLabel
 
 
 ##div#banner_ad
@@ -559,6 +564,7 @@ datinglobby.
 orgazmshop.
 titcock.
 welcomingcasklive.
+
 
 
 
