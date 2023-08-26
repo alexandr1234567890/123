@@ -158,6 +158,7 @@ www.aliexpress.com##.comet-back-top
 ##a[href="//ppt-online.org/yb.php"]
 ##a[href="http://www.cdmail.ru/ya_browser.htm"]
 ##a[href="YandexPackLoader"]
+##a[href="https://gridsiali.com/4-pezhh-c8r-ehd1-i16v"]
 
 
 ##iframe[src^="//img01.ssp.rambler.ru/file.jsp?url"]
@@ -249,20 +250,6 @@ images/bnr/*.png$image
 /images/yan.gif$image
 
 
-getvideo.at##.section
-getvideo.at###info-block
-getvideo.at##.breadcrumb
-getvideo.at##body > hr
-getvideo.at##.container > hr
-getvideo.at###donate-button
-getvideo.at###form-search-video > .input-group
-getvideo.at###form-search-video > .control-label
-getvideo.at###logo-container
-getvideo.at###main-navbar
-getvideo.at##.navbar-default.navbar
-getvideo.at##.hidden-xs.text-center
-
-
 e.mail.ru##.thread__kaspersky
 otvet.mail.ru##.nt--item_floating.nt--item
 otvet.mail.ru##.trg-b-banner
@@ -284,6 +271,10 @@ e.mail.ru###octavius-notify-quota-rotation
 otvet.mail.ru##.trg-b-wrap
 e.mail.ru##.application-mail__progress
 otvet.mail.ru##.adv-slot-wrapper
+e.mail.ru##.ph-notify
+my.mail.ru##.ph-notify
+otvet.mail.ru##.ph-notify
+otvet.mail.ru##.i-font-md.i-link-no-deco.i-relative.i-block.toolbar
 
 
 ##.fleft.btn-installpack-wrapper
@@ -374,6 +365,9 @@ otvet.mail.ru##.adv-slot-wrapper
 ##.cookie--popup
 ##.huawei-bootom-cookie
 ##.cookie_warn
+##.cookies-informer
+##.b-cookie-popup
+##.push-allow__block
 
 
 ###tlg_download
@@ -414,6 +408,7 @@ otvet.mail.ru##.adv-slot-wrapper
 ###cookie_alert
 ###article_courses_banner
 ###cookie_note
+###cookie_accept_msg_block
 
 
 ||compactembed.ml/$subdocument
@@ -462,6 +457,7 @@ yandex.ru##.DistrSplashscreen-ActionButton.Button2_type_link.Button2_view_action
 yandex.ru##.DistrSplashscreen-Title
 yandex.ru##.DistrSplashscreen-Text
 yandex.ru##.DistrSplashscreen-AgeLabel
+dzen.ru##.card-image-compact-view__image-wrapper
 
 
 ##div#banner_ad
@@ -568,6 +564,7 @@ datinglobby.
 orgazmshop.
 titcock.
 welcomingcasklive.
+
 
 
 
