@@ -274,6 +274,7 @@ otvet.mail.ru##.adv-slot-wrapper
 e.mail.ru##.ph-notify
 my.mail.ru##.ph-notify
 otvet.mail.ru##.ph-notify
+cloud.mail.ru##.ph-notify
 otvet.mail.ru##.i-font-md.i-link-no-deco.i-relative.i-block.toolbar
 
 
@@ -316,58 +317,32 @@ otvet.mail.ru##.i-font-md.i-link-no-deco.i-relative.i-block.toolbar
 ##.promo-banner
 ##.dle_b_yandex2
 ##.pushSubscribe
-##.kitt-cookie-warning
-##.cookie-container
-##.cookies__panel
-##.cookie-bar
-##.cookie-policy
-##.cookies-banner
 ##.app-promo-banner
 ##.banners_content
-##.cookie
-##.cookie-offer
-##.cookie-consent
-##.gpm-cookie-accepted
-##.cc-window
-##.cookie-agree
-##.agreement-cookie
-##.notice--cookie
 ##.dle_b_psbnr
 ##.smi24__informer
 ##.mp-promo-block
 ##.pravdatv-ads
 ##.bl_all_rek
-##.cookie-notice
 ##.roxotAdContainer
-##.cookies_popup-container
-##.cookie-tip
 ##.banner3
-##.cookie-alert
 ##.mts-floor-aida__block
 ##.float_banner
-##.cookies-warning
 ##.page-up
 ##.-inner-info-fix.video-inner-top
 ##.social-onboarding
 ##.go-up
 ##.go-down
-##.cookies
-##.c-cookie-panel
 ##.cc_banner
-##.Cookie
 ##.w-head-banner
 ##.banner-1
-##.CookieNotify
-##.cookie-banner__wrapper
 ##.ban-centr
 ##.mediaBanner
-##.bottom-cookie-wrap
-##.cookie--popup
-##.huawei-bootom-cookie
-##.cookie_warn
-##.cookies-informer
-##.b-cookie-popup
 ##.push-allow__block
+##.tm-scroll-top
+
+
+##sendsay-subscription-dialog
 
 
 ###tlg_download
@@ -380,35 +355,13 @@ otvet.mail.ru##.i-font-md.i-link-no-deco.i-relative.i-block.toolbar
 ###privacypolicy
 ###yandex-ad
 ###page_bottom_banners_root
-###cookie-bar
 ###socials_block-wrapper
 ###policy-info
-###cookie-consent
-###cookiePolicy
-###cookie-dlg
-###cookie-pop
-###cookie-law-info-bar
-###cookie-notice
-###cookie_wrapper
-###gdpr-cookie-notice
-###nca-cookiesaccept-line
-###clearfy-cookie
-###cookies
-###aws_cookie
-###cookie_popup
-###cookiePopup
-###moove_gdpr_cookie_info_bar
 ###adfrc_download_wrapper
-###cookie_message
-###gdpr-cookie-message
 ###onetrust-banner-sdk
 ###js-gdpr-consent-banner
 ###yac
-###cookienotif
-###cookie_alert
 ###article_courses_banner
-###cookie_note
-###cookie_accept_msg_block
 
 
 ||compactembed.ml/$subdocument
@@ -458,6 +411,12 @@ yandex.ru##.DistrSplashscreen-Title
 yandex.ru##.DistrSplashscreen-Text
 yandex.ru##.DistrSplashscreen-AgeLabel
 dzen.ru##.card-image-compact-view__image-wrapper
+dzen.ru###article__right
+dzen.ru###article__left
+||avatars.mds.yandex.net/get-market-adv/*/1000x56$image
+yandex.ru###ImagesViewer-SidebarAdv
+dzen.ru##.article__right.publication-columns-layout__right
+dzen.ru##.undefined.publication-columns-layout__right
 
 
 ##div#banner_ad
@@ -501,8 +460,12 @@ torrent-soft.pro##.pa-window__body_step-1
 torrent-soft.pro##.pa-window__logo
 torrent-soft.pro##.pa-window__rekl-tr
 politexpert.net##.progress-bar
-www.mvideo.ru##mvid-cookie-notification
 oxy.st###abuse
+youla.ru##.ph-notify
+www.avito.ru##.gallery-block-contactBarContainer-jtPAg
+www.pravmir.ru###hh_fond_cause_widget-3
+www.pravmir.ru###hh_donate_button_widget_2-2
+
 
 www.youtube.com##.ytd-segmented-like-dislike-button-renderer
 www.youtube.com###dislike-button
@@ -517,6 +480,7 @@ doubleclick.net
 ||google.com/gen_204?
 googleads.g.doubleclick.net/pagead/id
 youtube.com/pagead
+www.youtube.com###chat
 
 
 great-vpn.
@@ -564,6 +528,7 @@ datinglobby.
 orgazmshop.
 titcock.
 welcomingcasklive.
+tiktok.
 
 
 
