@@ -98,7 +98,6 @@ apkpure.com##a[href*="plus18"]
 shoppingcart.aliexpress.ru##.PrivacyPolicyBanner_PrivacyPolicyBanner__wrapper__5dnwg
 aliexpress.ru##.PrivacyPolicyBanner_PrivacyPolicyBanner__wrapper__5dnwg
 aliexpress.ru##.TopBanner-styles_bannerLink__1na4w
-aliexpress.ru##div:nth-of-type(11)
 aliexpress.ru##.SnowPrivacyPolicyBanner_SnowPrivacyPolicyBanner__privacyPolicyBanner__1jg07
 www.aliexpress.com##.comet-back-top
 
