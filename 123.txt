@@ -34,7 +34,6 @@ millionstatusov.ru##.panel-default.panel.cont_row:nth-of-type(8)
 millionstatusov.ru##.panel-default.panel.cont_row:nth-of-type(4)
 millionstatusov.ru###page-title > .panel-body
 millionstatusov.ru###page-title
-
 parables.ru##.topbar
 parables.ru##.lg-mnu-sec2
 parables.ru##.breadcrumb
@@ -49,7 +48,6 @@ parables.ru##.wdgt-bx:nth-of-type(3) > ol
 parables.ru##.wdgt-bx:nth-of-type(3) > h5
 parables.ru##.wdgt-bx:nth-of-type(3)
 parables.ru##.wdgt-bx:nth-of-type(4)
-
 ovego.tv##table:nth-of-type(2) > tbody > tr > td > table > tbody > tr > td:nth-of-type(1)
 ovego.tv##table:nth-of-type(2) > tbody > tr > td > table > tbody > tr > td:nth-of-type(3)
 ovego.tv##.eBlock > tbody > tr:nth-of-type(2)
@@ -62,8 +60,6 @@ ovego.tv##td > hr
 ovego.tv##.eTitle
 ovego.tv##.mgbox
 ovego.tv###vid_vpaut_div
-
-
 apkpure.com##a[href*="sex"]
 apkpure.com##a[href*="kisskiss"]
 apkpure.com##a[href*="porn"]
@@ -78,8 +74,6 @@ apkpure.com##a[href*="nude"]
 apkpure.com##a[href*="orgasm"]
 apkpure.com##a[href*="adults-18"]
 apkpure.com##a[href*="plus18"]
-
-
 *alicdn.com/*секс*
 *alicdn.com/*пикантн*
 *alicdn.com/*adult*
@@ -100,8 +94,6 @@ aliexpress.ru##.PrivacyPolicyBanner_PrivacyPolicyBanner__wrapper__5dnwg
 aliexpress.ru##.TopBanner-styles_bannerLink__1na4w
 aliexpress.ru##.SnowPrivacyPolicyBanner_SnowPrivacyPolicyBanner__privacyPolicyBanner__1jg07
 www.aliexpress.com##.comet-back-top
-
-
 ##a[href*="yourbrowser"]
 ##a[href*="adguardInstaller.exe"]
 ##a[href^="https://telamoncleaner.ru/tracker/"]
@@ -158,8 +150,6 @@ www.aliexpress.com##.comet-back-top
 ##a[href="http://www.cdmail.ru/ya_browser.htm"]
 ##a[href="YandexPackLoader"]
 ##a[href="https://gridsiali.com/4-pezhh-c8r-ehd1-i16v"]
-
-
 ##iframe[src^="//img01.ssp.rambler.ru/file.jsp?url"]
 ##iframe[src^="//am15.net/ssp/banner?upst"]
 ##iframe[src^="//dsp-rambler.ru/imp"]
@@ -170,12 +160,8 @@ www.aliexpress.com##.comet-back-top
 ##iframe[id^="google_ads_iframe"]
 ##iframe[src^="https://frontend.vh.yandex.ru/player/"]
 ##iframe[src^="https://ad.mail.ru/adf/"]
-
-
 uploadrar.com##.mngez-premium-download
 uploadrar.com##.btn-lg.btn-info.btn
-
-
 ##img[src="/pic/yabra.png"]
 ##img[src="/img/yad1.png"]
 ##img[src="/xep_ego_znaet.png"]
@@ -206,8 +192,6 @@ uploadrar.com##.btn-lg.btn-info.btn
 ##img[src="/mgg2.png"]
 ##img[src="/knopki/yasssssaa.jpg"]
 ##img[src="/images/light_banner_728х90.png"]
-
-
 yt1s.com##.center.ftco-section:nth-of-type(2)
 yt1s.com##.center.ftco-section:nth-of-type(3)
 yt1s.com##.center.ftco-section:nth-of-type(4)
@@ -215,8 +199,6 @@ yt1s.com##footer
 yt1s.com##header
 yt1s.com###convert > .title
 yt1s.com###convert > p
-
-
 /Zastavka-online-video-cutter.com_.mp4$media
 /ads-banner.gif$image
 *_yabaner.png$image
@@ -247,8 +229,6 @@ images/bnr/*.png$image
 /yabr.png$image
 /ya-bro2.png$image
 /images/yan.gif$image
-
-
 e.mail.ru##.thread__kaspersky
 otvet.mail.ru##.nt--item_floating.nt--item
 otvet.mail.ru##.trg-b-banner
@@ -274,9 +254,8 @@ e.mail.ru##.ph-notify
 my.mail.ru##.ph-notify
 otvet.mail.ru##.ph-notify
 cloud.mail.ru##.ph-notify
+x.calendar.mail.ru##.ph-notify
 otvet.mail.ru##.i-font-md.i-link-no-deco.i-relative.i-block.toolbar
-
-
 ##.fleft.btn-installpack-wrapper
 ##.st-browser__page
 ##.st-browser__footer-right
@@ -339,11 +318,7 @@ otvet.mail.ru##.i-font-md.i-link-no-deco.i-relative.i-block.toolbar
 ##.mediaBanner
 ##.push-allow__block
 ##.tm-scroll-top
-
-
 ##sendsay-subscription-dialog
-
-
 ###tlg_download
 ###qwerty_wrap
 ###yabro-strip-element
@@ -361,23 +336,16 @@ otvet.mail.ru##.i-font-md.i-link-no-deco.i-relative.i-block.toolbar
 ###js-gdpr-consent-banner
 ###yac
 ###article_courses_banner
-
-
+###feed-to-top
 ||compactembed.ml/$subdocument
 ||googleads.g.doubleclick.net/pagead/ads$subdocument
 ||yoomoney.ru/quickpay/shop-widget$subdocument
 ||adsit.ai/display/index.php$subdocument
-
-
 ||syndication.realsrv.com^$third-party
 ||tsyndicate.com^$third-party
 ||theonlygames.com^$third-party
 ||xml.realtime-bid.com^$third-party
-
-
 ||fetchv.net/ads/aisort-en.jpg$image
-
-
 ||an.yandex.ru^
 ||bs.yandex.ru^
 ||ms.yandex^
@@ -416,16 +384,13 @@ dzen.ru###article__left
 yandex.ru###ImagesViewer-SidebarAdv
 dzen.ru##.article__right.publication-columns-layout__right
 dzen.ru##.undefined.publication-columns-layout__right
-
-
+yandex.ru##.MastHead
 ##div#banner_ad
 ##div#note-0
 ##div#orquidea-slideup
 ##div[id^="yandex_rtb"]
 ##div[id^="adfox_"]
 ##div[id^="yandex_ad"]
-
-
 infourok.ru##.payment-choice-wrapper
 infourok.ru##.club-modal__radio-group
 infourok.ru##.club-modal__tooltip-wrapper
@@ -436,8 +401,6 @@ infourok.ru##.club-modal__return
 infourok.ru###download-option-support-tooltip
 infourok.ru##.download-option__link
 infourok.ru##.slow-download-card__title
-
-
 forum.ru-board.com##.tb > tbody > tr > td > table > tbody > tr:nth-of-type(1) > .tpc > .post > .sing > tbody > tr > td
 sportmail.ru##.button_color_dark.button
 lenta.ru##.scroll-to-site__logo
@@ -464,8 +427,7 @@ youla.ru##.ph-notify
 www.avito.ru##.gallery-block-contactBarContainer-jtPAg
 www.pravmir.ru###hh_fond_cause_widget-3
 www.pravmir.ru###hh_donate_button_widget_2-2
-
-
+poweruser.guru###footer
 www.youtube.com##.ytd-segmented-like-dislike-button-renderer
 www.youtube.com###dislike-button
 www.youtube.com###like-button
@@ -480,8 +442,6 @@ doubleclick.net
 googleads.g.doubleclick.net/pagead/id
 youtube.com/pagead
 www.youtube.com###chat
-
-
 great-vpn.
 moiprogrammy.
 theonlygames.
@@ -528,6 +488,27 @@ orgazmshop.
 titcock.
 welcomingcasklive.
 tiktok.
+##.backtotop
+overclockers.ru##.right-content-wrap
+##.info-panel-cookie
+www.ebay.com##.srp-save-search__tooltip--shown.srp-save-search__tooltip
+###cookie_wrapper
+##.u-scrollButtons
+##.s3-cookie-message
+www.tweaktown.com###popular-now
+tv-soyuz.ru###slidebox
+tv-soyuz.ru##.header__donate
+tv-soyuz.ru##.donation
+www.avito.ru##.items-extraImage-xlzct
+##.the-cookie
+###laravel-cookies-consent
+yandex.ru##.AdvRsyaCrossPage
+news-front.su###buttonup
+www.white-windows.ru##.warning--active.warning
+yandex.ru##.AdvRsyaSearchColumn
+aif.ru##.topline.fixed_menu
+www.rbc.ru##.popmechanic-js-wrapper
+||yastatic.net/s3/home/alice_popup/promo_gpt6.png$image
 
 
 
