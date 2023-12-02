@@ -509,6 +509,14 @@ yandex.ru##.AdvRsyaSearchColumn
 aif.ru##.topline.fixed_menu
 www.rbc.ru##.popmechanic-js-wrapper
 ||yastatic.net/s3/home/alice_popup/promo_gpt6.png$image
+dzen.ru##.card-layer-channel-footer-view
+||ug.tsargrad.tv/img/bg-*.png$image
+yandex.ru##.VideoSnippetBadges-ButtonOnboarding.Tooltip_theme_promo.Tooltip_view_default.Tooltip_size_s.Tooltip_visible.Tooltip.Popup2_view_default.Popup2_target_anchor.Popup2_visible.Popup2
+e.mail.ru##.vkuiButton
+www.rbc.ru###popmechanic-snippet
+e.mail.ru##.js-promo-id_widget-header
+e.mail.ru##.ph-logo__img
+www.youtube.com##.YtSegmentedLikeDislikeButtonViewModelSegmentedButtonsWrapper
 
 
 
