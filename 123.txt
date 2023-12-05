@@ -520,7 +520,7 @@ www.youtube.com##.YtSegmentedLikeDislikeButtonViewModelSegmentedButtonsWrapper
 www.rbc.ru##.simple-promo-card
 e.mail.ru##.js-promo-id_widget-header
 e.mail.ru##.ph-logo__img
-
+e.mail.ru##.sidebar__bottom-menu > .react-async
 
 
 
