@@ -521,6 +521,10 @@ www.rbc.ru##.simple-promo-card
 e.mail.ru##.js-promo-id_widget-header
 e.mail.ru##.ph-logo__img
 e.mail.ru##.sidebar__bottom-menu > .react-async
+market.yandex.ru###banner-streamer
+pikabu.ru##.popup
+ok.ru##.auth-login_auth-login-banner
+yandex.ru##.HeaderDecoration
 
 
 
