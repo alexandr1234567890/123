@@ -525,6 +525,11 @@ market.yandex.ru###banner-streamer
 pikabu.ru##.popup
 ok.ru##.auth-login_auth-login-banner
 yandex.ru##.HeaderDecoration
+e.mail.ru##.js-promo-id_widget-notes-header
+||edumsg.org/assets/img/partners/promo/*.png$image
+www.mk.ru##.wraper__suggest
+e.mail.ru##.letter-meta-container
+www.softportal.com##a[href*="tiktok"]
 
 
 
