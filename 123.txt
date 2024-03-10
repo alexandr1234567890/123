@@ -530,6 +530,28 @@ e.mail.ru##.js-promo-id_widget-notes-header
 www.mk.ru##.wraper__suggest
 e.mail.ru##.letter-meta-container
 www.softportal.com##a[href*="tiktok"]
+##.b-accept-cookie
+www.rbc.ru##.promo-card
+marload.site
+e.mail.ru###octavius-tooltip-save-notes
+e.mail.ru##.js-promo-id_octavius-tooltip-save-notes
+e.mail.ru##.ready.letter__marusia-rl
+cloud.mail.ru##.ErrorPage__downloadAppContainer--3up_L
+##a[href*="https://veritiesgarlejobade.com/"]
+##a[href*="https://brevandolius.com/"]
+e.mail.ru##.octopus__icon_qr-code
+ug.tsargrad.tv##.video-aside
+otvet.mail.ru##.ph-project-promo-container
+youla.ru##.bsMeTJ
+||calcus.ru/images/banners/*$image
+forum.ixbt.com###privacy_alert
+forum.ixbt.com##.right.column
+##.grecaptcha-badge
+###js-cookie-id-block
+infotechnica.ru##.vmmddiddfh
+e.mail.ru##.ph-mw-button
+e.mail.ru###octavius-tooltip-letter-share
+
 
 
 
