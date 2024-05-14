@@ -377,13 +377,8 @@ yandex.ru##.DistrSplashscreen-ActionButton.Button2_type_link.Button2_view_action
 yandex.ru##.DistrSplashscreen-Title
 yandex.ru##.DistrSplashscreen-Text
 yandex.ru##.DistrSplashscreen-AgeLabel
-dzen.ru##.card-image-compact-view__image-wrapper
-dzen.ru###article__right
-dzen.ru###article__left
 ||avatars.mds.yandex.net/get-market-adv/*/1000x56$image
 yandex.ru###ImagesViewer-SidebarAdv
-dzen.ru##.article__right.publication-columns-layout__right
-dzen.ru##.undefined.publication-columns-layout__right
 yandex.ru##.MastHead
 ##div#banner_ad
 ##div#note-0
@@ -509,7 +504,6 @@ yandex.ru##.AdvRsyaSearchColumn
 aif.ru##.topline.fixed_menu
 www.rbc.ru##.popmechanic-js-wrapper
 ||yastatic.net/s3/home/alice_popup/promo_gpt6.png$image
-dzen.ru##.card-layer-channel-footer-view
 ||ug.tsargrad.tv/img/bg-*.png$image
 yandex.ru##.VideoSnippetBadges-ButtonOnboarding.Tooltip_theme_promo.Tooltip_view_default.Tooltip_size_s.Tooltip_visible.Tooltip.Popup2_view_default.Popup2_target_anchor.Popup2_visible.Popup2
 www.rbc.ru###popmechanic-snippet
@@ -551,6 +545,33 @@ forum.ixbt.com##.right.column
 infotechnica.ru##.vmmddiddfh
 e.mail.ru##.ph-mw-button
 e.mail.ru###octavius-tooltip-letter-share
+##.notify-layer--cookie
+www.avito.ru##.location-topBanner-Hyxba
+||www.softportal.com/dogs_puper.png$image
+sportmail.ru##.js-notification__more.notify
+##.cookies
+##.coockie_warning
+www.avito.ru##.top-banner-root-nYP0D
+rutube.ru##.wdp-carousel-promo-module__wrapper
+e.mail.ru##.balloon-anchor
+rutube.ru###raichuPauseRecs
+||spyglass.reklon.net/*$subdocument
+gymn3sar.gosuslugi.ru##.gw-analytics-agreement
+##.cookie-small-panel
+##.rule-cookie
+amoredate.club
+
+
+! Пытаюсь бороться с рекламой на dzen.ru
+
+dzen.ru##.card-layer-channel-footer-view
+dzen.ru##.article__right.publication-columns-layout__right
+dzen.ru##.undefined.publication-columns-layout__right
+dzen.ru##.card-image-compact-view__image-wrapper
+dzen.ru###article__right
+dzen.ru###article__left
+dzen.ru##.floor-card-u5LREVaIRw8I0gVH0rKh8zg-d5
+
 
 
 
