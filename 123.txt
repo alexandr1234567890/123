@@ -34,6 +34,7 @@ millionstatusov.ru##.panel-default.panel.cont_row:nth-of-type(8)
 millionstatusov.ru##.panel-default.panel.cont_row:nth-of-type(4)
 millionstatusov.ru###page-title > .panel-body
 millionstatusov.ru###page-title
+
 parables.ru##.topbar
 parables.ru##.lg-mnu-sec2
 parables.ru##.breadcrumb
@@ -48,6 +49,7 @@ parables.ru##.wdgt-bx:nth-of-type(3) > ol
 parables.ru##.wdgt-bx:nth-of-type(3) > h5
 parables.ru##.wdgt-bx:nth-of-type(3)
 parables.ru##.wdgt-bx:nth-of-type(4)
+
 ovego.tv##table:nth-of-type(2) > tbody > tr > td > table > tbody > tr > td:nth-of-type(1)
 ovego.tv##table:nth-of-type(2) > tbody > tr > td > table > tbody > tr > td:nth-of-type(3)
 ovego.tv##.eBlock > tbody > tr:nth-of-type(2)
@@ -60,6 +62,7 @@ ovego.tv##td > hr
 ovego.tv##.eTitle
 ovego.tv##.mgbox
 ovego.tv###vid_vpaut_div
+
 apkpure.com##a[href*="sex"]
 apkpure.com##a[href*="kisskiss"]
 apkpure.com##a[href*="porn"]
@@ -74,6 +77,18 @@ apkpure.com##a[href*="nude"]
 apkpure.com##a[href*="orgasm"]
 apkpure.com##a[href*="adults-18"]
 apkpure.com##a[href*="plus18"]
+
+infourok.ru##.payment-choice-wrapper
+infourok.ru##.club-modal__radio-group
+infourok.ru##.club-modal__tooltip-wrapper
+infourok.ru##.club-modal__title
+infourok.ru##.club-modal__info
+infourok.ru##.widget-sber__middle-container--not-indented.widget-sber__middle-container > .balanceModal__afterPayment
+infourok.ru##.club-modal__return
+infourok.ru###download-option-support-tooltip
+infourok.ru##.download-option__link
+infourok.ru##.slow-download-card__title
+
 *alicdn.com/*секс*
 *alicdn.com/*пикантн*
 *alicdn.com/*adult*
@@ -88,6 +103,7 @@ apkpure.com##a[href*="plus18"]
 *alicdn.com/*-anal-*
 *alicdn.com/*sex*
 *alicdn.com/*vibrator*
+
 ###J_xiaomi_dialog
 shoppingcart.aliexpress.ru##.PrivacyPolicyBanner_PrivacyPolicyBanner__wrapper__5dnwg
 aliexpress.ru##.PrivacyPolicyBanner_PrivacyPolicyBanner__wrapper__5dnwg
@@ -350,12 +366,8 @@ otvet.mail.ru##.i-font-md.i-link-no-deco.i-relative.i-block.toolbar
 ||bs.yandex.ru^
 ||ms.yandex^
 yandex.ru##.serp-adv__found
-yandex.ru##.i-bem.i-zalogin-cookie.zalogin-smart
-yandex.ru##.popup2_visible_yes.popup2_direction_bottom-right.popup2_js_inited.i-bem.card__colorize.i-dbn-cookie.distr-popup_animation_slide-show.distr-popup_shadow_yes.distr-popup_motley_grey.distr-popup_type_landing.distr-popup_layout_simple.distr-popup_location_right-bottom.distr-popup.popup2_view_classic.popup2_theme_clear.popup2_target_position.popup2
-yandex.ru##.i-bem.desktop-card.i-zalogin-cookie.zalogin-smart
 translate.yandex.ru###themePromo
 yandex.ru##.distr-popup__content.popup2__content
-yandex.ru##.serp-user_with-login-popup_yes.popup2_visible_yes.popup2_direction_bottom-right._popup2-destructor.popup2_js_inited.i-bem.serp-user__promo-popup.serp-user.i-zalogin-cookie.promo-popup_social_yes.promo-popup_tail_disable.promo-popup_type_promo.promo-popup_shadow_yes.promo-popup_theme_ffffff.promo-popup.popup2_view_classic.popup2_hiding_yes.popup2_theme_clear.popup2_target_anchor.popup2
 yandex.ru##.incut_inserted_yes
 yandex.ru##.Warning_type_roskomnadzor
 yandex.ru##.ImagesViewerApp-FooterContent
@@ -386,16 +398,6 @@ yandex.ru##.MastHead
 ##div[id^="yandex_rtb"]
 ##div[id^="adfox_"]
 ##div[id^="yandex_ad"]
-infourok.ru##.payment-choice-wrapper
-infourok.ru##.club-modal__radio-group
-infourok.ru##.club-modal__tooltip-wrapper
-infourok.ru##.club-modal__title
-infourok.ru##.club-modal__info
-infourok.ru##.widget-sber__middle-container--not-indented.widget-sber__middle-container > .balanceModal__afterPayment
-infourok.ru##.club-modal__return
-infourok.ru###download-option-support-tooltip
-infourok.ru##.download-option__link
-infourok.ru##.slow-download-card__title
 forum.ru-board.com##.tb > tbody > tr > td > table > tbody > tr:nth-of-type(1) > .tpc > .post > .sing > tbody > tr > td
 sportmail.ru##.button_color_dark.button
 lenta.ru##.scroll-to-site__logo
@@ -485,18 +487,13 @@ welcomingcasklive.
 tiktok.
 ##.backtotop
 overclockers.ru##.right-content-wrap
-##.info-panel-cookie
 www.ebay.com##.srp-save-search__tooltip--shown.srp-save-search__tooltip
-###cookie_wrapper
 ##.u-scrollButtons
-##.s3-cookie-message
 www.tweaktown.com###popular-now
 tv-soyuz.ru###slidebox
 tv-soyuz.ru##.header__donate
 tv-soyuz.ru##.donation
 www.avito.ru##.items-extraImage-xlzct
-##.the-cookie
-###laravel-cookies-consent
 yandex.ru##.AdvRsyaCrossPage
 news-front.su###buttonup
 www.white-windows.ru##.warning--active.warning
@@ -524,7 +521,6 @@ e.mail.ru##.js-promo-id_widget-notes-header
 www.mk.ru##.wraper__suggest
 e.mail.ru##.letter-meta-container
 www.softportal.com##a[href*="tiktok"]
-##.b-accept-cookie
 www.rbc.ru##.promo-card
 marload.site
 e.mail.ru###octavius-tooltip-save-notes
@@ -541,36 +537,32 @@ youla.ru##.bsMeTJ
 forum.ixbt.com###privacy_alert
 forum.ixbt.com##.right.column
 ##.grecaptcha-badge
-###js-cookie-id-block
 infotechnica.ru##.vmmddiddfh
 e.mail.ru##.ph-mw-button
 e.mail.ru###octavius-tooltip-letter-share
-##.notify-layer--cookie
 www.avito.ru##.location-topBanner-Hyxba
 ||www.softportal.com/dogs_puper.png$image
 sportmail.ru##.js-notification__more.notify
-##.cookies
-##.coockie_warning
 www.avito.ru##.top-banner-root-nYP0D
 rutube.ru##.wdp-carousel-promo-module__wrapper
 e.mail.ru##.balloon-anchor
 rutube.ru###raichuPauseRecs
 ||spyglass.reklon.net/*$subdocument
 gymn3sar.gosuslugi.ru##.gw-analytics-agreement
-##.cookie-small-panel
-##.rule-cookie
 amoredate.club
+rasp.yandex.ru##.SearchSegments__banner.TravelHotelsBanner
+search-speed-browsing.com
+predanie.ru##.buorg-pad
+###react-portal-popup-banners-container
+vuzopedia.ru###nulol
+vuzopedia.ru###vsplyvokno
+##.js-go-to-top
+###back-to-top
+###topcontrol
+uploady.io##.table-success.text-center
+##.bokbann
+tofight.ru###big-bg
 
-
-! Пытаюсь бороться с рекламой на dzen.ru
-
-dzen.ru##.card-layer-channel-footer-view
-dzen.ru##.article__right.publication-columns-layout__right
-dzen.ru##.undefined.publication-columns-layout__right
-dzen.ru##.card-image-compact-view__image-wrapper
-dzen.ru###article__right
-dzen.ru###article__left
-dzen.ru##.floor-card-u5LREVaIRw8I0gVH0rKh8zg-d5
 
 
 
