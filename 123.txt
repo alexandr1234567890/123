@@ -562,6 +562,14 @@ vuzopedia.ru###vsplyvokno
 uploady.io##.table-success.text-center
 ##.bokbann
 tofight.ru###big-bg
+||counter.yadro.ru/hit$image
+||top-fwz1.mail.ru/counter$image
+market.yandex.ru##.naSP2
+yandex.ru##.JustifierRowLayout-Incut
+dzen.ru##.action-island__appear-2L
+e.mail.ru##.octopus__subtitle
+
+
 
 
 
