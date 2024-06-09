@@ -524,6 +524,9 @@ tiktok.com
 ##.up-button
 ##[href^="https://metrika.yandex.ru/stat/"]
 ##.scrollToTop
+##.scroll-top
+##.uscl-up-arrow
+##.top-scroll
 
 
 
