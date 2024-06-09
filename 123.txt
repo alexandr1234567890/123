@@ -521,6 +521,11 @@ e.mail.ru##.octopus__subtitle
 ##a[href="/tag/tiktok"]
 ||yandex.ru/sprav/widget/rating-badge/*$subdocument
 tiktok.com
+##.up-button
+##[href^="https://metrika.yandex.ru/stat/"]
+##.scrollToTop
+
+
 
 
 
