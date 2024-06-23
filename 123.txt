@@ -322,18 +322,14 @@ otvet.mail.ru##.i-font-md.i-link-no-deco.i-relative.i-block.toolbar
 ##.banner3
 ##.mts-floor-aida__block
 ##.float_banner
-##.page-up
 ##.-inner-info-fix.video-inner-top
 ##.social-onboarding
-##.go-up
-##.go-down
 ##.cc_banner
 ##.w-head-banner
 ##.banner-1
 ##.ban-centr
 ##.mediaBanner
 ##.push-allow__block
-##.tm-scroll-top
 ##sendsay-subscription-dialog
 ###tlg_download
 ###qwerty_wrap
@@ -438,10 +434,8 @@ www.youtube.com###vote-count-middle
 googleads.g.doubleclick.net/pagead/id
 youtube.com/pagead
 www.youtube.com###chat
-##.backtotop
 overclockers.ru##.right-content-wrap
 www.ebay.com##.srp-save-search__tooltip--shown.srp-save-search__tooltip
-##.u-scrollButtons
 www.tweaktown.com###popular-now
 tv-soyuz.ru###slidebox
 tv-soyuz.ru##.header__donate
@@ -458,9 +452,6 @@ www.rbc.ru##.popmechanic-js-wrapper
 yandex.ru##.VideoSnippetBadges-ButtonOnboarding.Tooltip_theme_promo.Tooltip_view_default.Tooltip_size_s.Tooltip_visible.Tooltip.Popup2_view_default.Popup2_target_anchor.Popup2_visible.Popup2
 www.rbc.ru###popmechanic-snippet
 www.youtube.com##.YtSegmentedLikeDislikeButtonViewModelSegmentedButtonsWrapper
-###popup-privacy-policy
-##.ui-lib-button-like
-##.ui-lib-button-dislike
 www.rbc.ru##.simple-promo-card
 e.mail.ru##.js-promo-id_widget-header
 e.mail.ru##.ph-logo__img
@@ -506,9 +497,6 @@ predanie.ru##.buorg-pad
 ###react-portal-popup-banners-container
 vuzopedia.ru###nulol
 vuzopedia.ru###vsplyvokno
-##.js-go-to-top
-###back-to-top
-###topcontrol
 uploady.io##.table-success.text-center
 ##.bokbann
 tofight.ru###big-bg
@@ -521,12 +509,15 @@ e.mail.ru##.octopus__subtitle
 ##a[href="/tag/tiktok"]
 ||yandex.ru/sprav/widget/rating-badge/*$subdocument
 tiktok.com
-##.up-button
 ##[href^="https://metrika.yandex.ru/stat/"]
-##.scrollToTop
-##.scroll-top
-##.uscl-up-arrow
-##.top-scroll
+cyberleninka.ru##.bibloid_serp
+##a[href="http://creativecommons.org/licenses/by/4.0/"] > [src]
+ug.tsargrad.tv##.js-footer-toggle.footer-toggle
+||counter.yadro.ru//logo;*$image
+##[href="//www.liveinternet.ru/click"]
+
+
+
 
 
 
