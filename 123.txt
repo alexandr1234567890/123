@@ -515,6 +515,32 @@ cyberleninka.ru##.bibloid_serp
 ug.tsargrad.tv##.js-footer-toggle.footer-toggle
 ||counter.yadro.ru//logo;*$image
 ##[href="//www.liveinternet.ru/click"]
+ichgcp.net###catfishWrap
+aif.ru##.more_btn_outer
+##.c-banner-card
+landing-hg-bdda.com
+wextap.com
+cpatracking.ru
+e.mail.ru##.vkuiSnackbar__snackbar.vkuiSnackbar--layout-vertical.vkuiSnackbar__body
+##.banner-stretch
+aliexpress.ru##.ModuleBanner_ModuleBanner__outer-wrapper__100x6
+www.youtube.com##.ytd-download-button-renderer
+www.youtube.com##.yt-spec-button-view-model
+www.youtube.com##.YtwTimedAnimationButtonRendererHost
+www.youtube.com###subscribe-button-shape
+##[href^="https://yandex.ru/video/_crpd/"]
+hotgame18.ru
+market.yandex.ru##.main > noindex
+youla.ru###app > div:nth-of-type(4)
+y2mate.nu###i
+##[href="https://goo.su/7gjYzL"]
+y2mate.is###divThumbnail
+snapsave.io##[src="https://i.ytimg.com/vi/QoYqB7_xAP4/0.jpg"]
+www.yt1s.com##.thumb-img
+##.fh5---banner---container
+yandex.ru##.DirectFeature
+
+
 
 
 
