@@ -539,6 +539,11 @@ snapsave.io##[src="https://i.ytimg.com/vi/QoYqB7_xAP4/0.jpg"]
 www.yt1s.com##.thumb-img
 ##.fh5---banner---container
 yandex.ru##.DirectFeature
+e.mail.ru##.notify-stack
+yandex.ru##a[href*="images/_crpd/"]
+www.youtube.com###mealbar-promo-renderer
+
+
 
 
 
