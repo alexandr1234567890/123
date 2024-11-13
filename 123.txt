@@ -542,6 +542,54 @@ yandex.ru##.DirectFeature
 e.mail.ru##.notify-stack
 yandex.ru##a[href*="images/_crpd/"]
 www.youtube.com###mealbar-promo-renderer
+dzen.ru##.content--article-action-island-desktop__container-12
+www.youtube.com###clarify-box
+ogosoft.ucoz.ru##[href^="https://bundle-offer.click/"]
+yandex.ru##.MessageBox-Content
+cloud.mail.ru##.AsidePromoModal__root--2qgpn
+freesoft.ru##.yandex_pack > div > div.row
+www.youtube.com##.status-banner
+dzen.ru##.content--article-action-island-desktop__wHbKUrhogmPTr-12
+dzen.ru##.content--trap-popup__popup-3i
+dzen.ru##.content--action-island__content-tA
+www.youtube.com##.miniplayer
+rsload.net##.prfl
+rsload.net##.tgwrap
+rsload.net##[href="https://rsload.net/soft/windows/"] > .marker
+www.yt1s.com##div.center.ftco-section:nth-of-type(5)
+krasnodar.uteka.ru##.app-discount-mini-banner
+www.thebreastonline.com###onetrust-consent-sdk
+www.annalsofoncology.org###onetrust-consent-sdk
+||softtorrent.ru/download32.png$image
+yandex.ru##.FuturisOnboardingPopup.Popup2_target_anchor.Popup2_view_default.Popup2_visible.Popup2
+.casino
+chrome-stats.com##.img-fluid
+yt5s.biz###download-app
+www.youtube.com##.ytp-button.ytp-size-button
+www.youtube.com##.ytp-button.ytp-miniplayer-button
+www.youtube.com##.ytp-button.ytp-next-button
+geonode.com##.salesFixedBanner
+www.phag-rostov.ru##div.chat-bot__message--bot.chat-bot__message:nth-of-type(2)
+www.phag-rostov.ru##.chat-bot-widget__text
+calcus.ru##.offers-frow
+www.youtube.com##.ytp-button.ytp-chapter-title
+||downloaderto.com/images/banner*.jpg$image
+downloaderto.com##.download-note
+presaver.com##.list__item-pvw.list__item
+presaver.com##.cstm-ttl
+||comments.app/embed/view$subdocument
+presaver.com##.footer
+presaver.com##.dsc__txt
+presaver.com##.result__share
+presaver.com##.result__info-cntr
+presaver.com##.hdl__tit
+presaver.com##.logo__link
+presaver.com##.mb-6
+||presaver.com/images/logo.svg?v2$image
+presaver.com##.main > div:nth-of-type(2)
+||presaver.com/images/clear_input.svg$image
+presaver.com##.ht-a.header
+presaver.com##.insert__form.form
 
 
 
