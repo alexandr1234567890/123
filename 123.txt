@@ -590,6 +590,45 @@ presaver.com##.main > div:nth-of-type(2)
 ||presaver.com/images/clear_input.svg$image
 presaver.com##.ht-a.header
 presaver.com##.insert__form.form
+work.220youtube.ru##.list__item-pvw.list__item
+work.220youtube.ru##.cstm-ttl
+work.220youtube.ru##.footer
+work.220youtube.ru##.dsc__txt
+work.220youtube.ru##.result__share
+work.220youtube.ru##.result__info-cntr
+work.220youtube.ru##.hdl__tit
+work.220youtube.ru##.logo__link
+work.220youtube.ru##.mb-6
+||work.220youtube.ru/images/logo.svg?v2$image
+work.220youtube.ru##.main > div:nth-of-type(2)
+||work.220youtube.ru/images/clear_input.svg$image
+work.220youtube.ru##.ht-a.header
+work.220youtube.ru##.insert__form.form
+paleredflower.com
+forbestbets.com
+www.youtube.com##tp-yt-paper-dialog.ytd-popup-container.style-scope > .ytd-popup-container.style-scope
+beatentransfer.com
+##.product-banner
+yandex.ru##.PopupDesktop-Content
+yandex.ru##.DistributionLinkBro
+123videonew.online##tp-yt-paper-dialog
+123videonew.online##.ytd-in-feed-ad-layout-renderer
+123videonew.online###secondary
+123videonew.online###masthead-container
+123videonew.online###below
+123videonew.online##div.ytp-impression-link-logo
+123videonew.online##div.ytp-impression-link-text
+123videonew.online###__cpsHeader
+insistgoodsrespect.com
+videonew.online###teaser-carousel
+videonew.online##div.ytp-pause-overlay
+videonew.online##div.ytp-chrome-top.ytp-show-cards-title
+videonew.online##div.ytp-related-on-error-overlay.ytp-scroll-min
+www.youtube.com###teaser-carousel
+videonew.online##.YtwSquareImageLayoutViewModelHost
+videonew.online##.yt-spec-button-shape-next--enable-backdrop-filter-experiment.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--filled.yt-spec-button-shape-next
+videonew.online##iframe:nth-of-type(2)
+videonew.online##iframe:nth-of-type(1)
 
 
 
