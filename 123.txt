@@ -613,14 +613,7 @@ yandex.ru##.PopupDesktop-Content
 yandex.ru##.DistributionLinkBro
 www.youtube.com###teaser-carousel
 insistgoodsrespect.com
-123videonew.online##tp-yt-paper-dialog
-123videonew.online##.ytd-in-feed-ad-layout-renderer
-123videonew.online###secondary
-123videonew.online###masthead-container
-123videonew.online###below
-123videonew.online##div.ytp-impression-link-logo
-123videonew.online##div.ytp-impression-link-text
-123videonew.online###__cpsHeader
+
 videonew.online###teaser-carousel
 videonew.online##div.ytp-pause-overlay
 videonew.online##div.ytp-chrome-top.ytp-show-cards-title
@@ -628,6 +621,16 @@ videonew.online##div.ytp-related-on-error-overlay.ytp-scroll-min
 videonew.online##.YtwSquareImageLayoutViewModelHost
 videonew.online##.yt-spec-button-shape-next--enable-backdrop-filter-experiment.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--filled.yt-spec-button-shape-next
 videonew.online##iframe:nth-of-type(2)
+videonew.online##.undefined > yt-button-shape
+videonew.online###flexible-item-buttons > yt-button-view-model.ytd-menu-renderer
+videonew.online##.ytd-watch-metadata.style-scope > .ytd-menu-renderer.style-scope.top-level-buttons
+videonew.online###menu > .ytd-watch-metadata.style-scope
+videonew.online###buttons > ytd-button-renderer.ytd-masthead.style-scope
+videonew.online##div.ytp-impression-link-content
+videonew.online##a.ytp-youtube-button.ytp-button.yt-uix-sessionlink
+
+
+
 
 
 
