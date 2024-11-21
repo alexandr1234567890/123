@@ -612,6 +612,9 @@ beatentransfer.com
 yandex.ru##.PopupDesktop-Content
 yandex.ru##.DistributionLinkBro
 www.youtube.com###teaser-carousel
+www.youtube.com##div.annotation.annotation-type-custom.iv-branding
+www.youtube.com##div.ytp-cards-button-icon
+www.youtube.com##button.ytp-remote-button.ytp-button
 insistgoodsrespect.com
 
 videonew.online###teaser-carousel
@@ -628,6 +631,9 @@ videonew.online###menu > .ytd-watch-metadata.style-scope
 videonew.online###buttons > ytd-button-renderer.ytd-masthead.style-scope
 videonew.online##div.ytp-impression-link-content
 videonew.online##a.ytp-youtube-button.ytp-button.yt-uix-sessionlink
+videonew.online##div.annotation.annotation-type-custom.iv-branding
+videonew.online##tp-yt-iron-dropdown.ytd-popup-container.style-scope
+videonew.online##tp-yt-paper-dialog.ytd-popup-container.style-scope
 
 
 
