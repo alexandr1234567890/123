@@ -609,13 +609,15 @@ forbestbets.com
 www.youtube.com##tp-yt-paper-dialog.ytd-popup-container.style-scope > .ytd-popup-container.style-scope
 beatentransfer.com
 ##.product-banner
+insistgoodsrespect.com
+vk.cc
 yandex.ru##.PopupDesktop-Content
 yandex.ru##.DistributionLinkBro
 www.youtube.com###teaser-carousel
 www.youtube.com##div.annotation.annotation-type-custom.iv-branding
 www.youtube.com##div.ytp-cards-button-icon
 www.youtube.com##button.ytp-remote-button.ytp-button
-insistgoodsrespect.com
+www.youtube.com##div.ytp-endscreen-content
 
 videonew.online###teaser-carousel
 videonew.online##div.ytp-pause-overlay
@@ -635,6 +637,23 @@ videonew.online##tp-yt-iron-dropdown.ytd-popup-container.style-scope
 videonew.online##tp-yt-paper-dialog.ytd-popup-container.style-scope
 videonew.online##td#__cpsHomeLinkColumn
 videonew.online##td#__cpsPermalinkColumn
+videonew.online##div.ytp-info-panel-preview-text
+videonew.online##div.ytp-info-panel-preview
+videonew.online##div.ytp-endscreen-content
+videonew.online###subscribe-button > .ytd-watch-metadata.style-scope
+
+www.converto.io##.bordered.share-block-xl
+www.converto.io##.header
+videonew.online###subscribe-button-shape
+yandex.ru###distr-pcode-container
+www.converto.io##.share-block-xl
+www.converto.io##.footer
+s5.converto.io##.bordered.share-block-xl
+s5.converto.io##.header
+www.converto.io##.about-converto
+www.converto.io##.tos-agree
+
+
 
 
 
