@@ -641,10 +641,36 @@ videonew.online##div.ytp-info-panel-preview-text
 videonew.online##div.ytp-info-panel-preview
 videonew.online##div.ytp-endscreen-content
 videonew.online###subscribe-button > .ytd-watch-metadata.style-scope
-
+videonew.online##div#info.style-scope.yt-player-error-message-renderer
+videonew.online##.page-header-view-model-wiz__page-header-flexible-actions
+videonew.online##ytd-guide-signin-promo-renderer
+videonew.online##ytd-merch-shelf-renderer
+videonew.online###subscribe-button-shape
+videonew.online##.site-wrapper
+videonew.online###captcha-container
+videonew.online##.footer
+videonew.online###chat
+videonew.online##div.ytp-error-content-wrap-subreason
+videonew.online##a.ytp-small-redirect
+www.videonew.online##a.proxyLink:nth-of-type(3)
+www.videonew.online##a.proxyLink:nth-of-type(2)
+www.videonew.online##a.proxyLink:nth-of-type(4)
+www.videonew.online##a.proxyLink:nth-of-type(11)
+www.videonew.online##a.proxyLink:nth-of-type(10)
+www.videonew.online##a.proxyLink:nth-of-type(9)
+www.videonew.online##a.proxyLink:nth-of-type(8)
+www.videonew.online##a.proxyLink:nth-of-type(7)
+www.videonew.online##a.proxyLink:nth-of-type(6)
+www.videonew.online##a.proxyLink:nth-of-type(1)
+www.videonew.online##center:nth-of-type(2)
+www.videonew.online###zapperHostHeader
+www.videonew.online###footer
+www.videonew.online##.js-typeahead-domains.input-lg.form-control
+www.videonew.online##.btn-lg.btn-primary.btn
+www.videonew.online###logoContainer
+                            
 www.converto.io##.bordered.share-block-xl
 www.converto.io##.header
-videonew.online###subscribe-button-shape
 yandex.ru###distr-pcode-container
 www.converto.io##.share-block-xl
 www.converto.io##.footer
@@ -652,6 +678,11 @@ s5.converto.io##.bordered.share-block-xl
 s5.converto.io##.header
 www.converto.io##.about-converto
 www.converto.io##.tos-agree
+www.youtube.com##.ytp-button.ytp-prev-button
+
+
+
+
 
 
 
