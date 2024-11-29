@@ -652,6 +652,12 @@ videonew.online##.footer
 videonew.online###chat
 videonew.online##div.ytp-error-content-wrap-subreason
 videonew.online##a.ytp-small-redirect
+videonew.online##ytd-badge-supported-renderer.ytd-channel-name.style-scope
+videonew.online###voice-search-button
+videonew.online###guide-button
+videonew.online###end > .ytd-masthead.style-scope
+videonew.online###button > .ytd-menu-renderer.style-scope
+
 www.videonew.online##a.proxyLink:nth-of-type(3)
 www.videonew.online##a.proxyLink:nth-of-type(2)
 www.videonew.online##a.proxyLink:nth-of-type(4)
@@ -668,7 +674,7 @@ www.videonew.online###footer
 www.videonew.online##.js-typeahead-domains.input-lg.form-control
 www.videonew.online##.btn-lg.btn-primary.btn
 www.videonew.online###logoContainer
-                            
+
 www.converto.io##.bordered.share-block-xl
 www.converto.io##.header
 yandex.ru###distr-pcode-container
@@ -679,6 +685,10 @@ s5.converto.io##.header
 www.converto.io##.about-converto
 www.converto.io##.tos-agree
 www.youtube.com##.ytp-button.ytp-prev-button
+e.mail.ru##.highlight__percent
+e.mail.ru##.highlight__hoverstar
+
+
 
 
 
