@@ -641,7 +641,6 @@ videonew.online##div.ytp-info-panel-preview
 videonew.online##div.ytp-endscreen-content
 videonew.online###subscribe-button > .ytd-watch-metadata.style-scope
 videonew.online##div#info.style-scope.yt-player-error-message-renderer
-videonew.online##.page-header-view-model-wiz__page-header-flexible-actions
 videonew.online##ytd-guide-signin-promo-renderer
 videonew.online##ytd-merch-shelf-renderer
 videonew.online###subscribe-button-shape
