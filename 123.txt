@@ -525,7 +525,6 @@ e.mail.ru##.vkuiSnackbar__snackbar.vkuiSnackbar--layout-vertical.vkuiSnackbar__b
 ##.banner-stretch
 aliexpress.ru##.ModuleBanner_ModuleBanner__outer-wrapper__100x6
 www.youtube.com##.ytd-download-button-renderer
-www.youtube.com##.yt-spec-button-view-model
 www.youtube.com##.YtwTimedAnimationButtonRendererHost
 www.youtube.com###subscribe-button-shape
 ##[href^="https://yandex.ru/video/_crpd/"]
