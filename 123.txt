@@ -388,6 +388,7 @@ yandex.ru##.DistrSplashscreen-AgeLabel
 ||avatars.mds.yandex.net/get-market-adv/*/1000x56$image
 yandex.ru###ImagesViewer-SidebarAdv
 yandex.ru##.MastHead
+yandex.ru##.Verified-Icon
 ##div#banner_ad
 ##div#note-0
 ##div#orquidea-slideup
@@ -441,25 +442,30 @@ tv-soyuz.ru###slidebox
 tv-soyuz.ru##.header__donate
 tv-soyuz.ru##.donation
 www.avito.ru##.items-extraImage-xlzct
-yandex.ru##.AdvRsyaCrossPage
 news-front.su###buttonup
 www.white-windows.ru##.warning--active.warning
-yandex.ru##.AdvRsyaSearchColumn
 aif.ru##.topline.fixed_menu
 www.rbc.ru##.popmechanic-js-wrapper
 ||yastatic.net/s3/home/alice_popup/promo_gpt6.png$image
 ||ug.tsargrad.tv/img/bg-*.png$image
+yandex.ru##.AdvRsyaCrossPage
+yandex.ru##.AdvRsyaSearchColumn
 yandex.ru##.VideoSnippetBadges-ButtonOnboarding.Tooltip_theme_promo.Tooltip_view_default.Tooltip_size_s.Tooltip_visible.Tooltip.Popup2_view_default.Popup2_target_anchor.Popup2_visible.Popup2
+market.yandex.ru###banner-streamer
+yandex.ru##.HeaderDecoration
+market.yandex.ru##.naSP2
+yandex.ru##.JustifierRowLayout-Incut
+market.yandex.ru##.main > noindex
+yandex.ru##a[href*="images/_crpd/"]
+yandex.ru##.FuturisOnboardingPopup.Popup2_target_anchor.Popup2_view_default.Popup2_visible.Popup2
 www.rbc.ru###popmechanic-snippet
 www.youtube.com##.YtSegmentedLikeDislikeButtonViewModelSegmentedButtonsWrapper
 www.rbc.ru##.simple-promo-card
 e.mail.ru##.js-promo-id_widget-header
 e.mail.ru##.ph-logo__img
 e.mail.ru##.sidebar__bottom-menu > .react-async
-market.yandex.ru###banner-streamer
 pikabu.ru##.popup
 ok.ru##.auth-login_auth-login-banner
-yandex.ru##.HeaderDecoration
 e.mail.ru##.js-promo-id_widget-notes-header
 ||edumsg.org/assets/img/partners/promo/*.png$image
 www.mk.ru##.wraper__suggest
@@ -502,8 +508,6 @@ uploady.io##.table-success.text-center
 tofight.ru###big-bg
 ||counter.yadro.ru/hit$image
 ||top-fwz1.mail.ru/counter$image
-market.yandex.ru##.naSP2
-yandex.ru##.JustifierRowLayout-Incut
 dzen.ru##.action-island__appear-2L
 e.mail.ru##.octopus__subtitle
 ##a[href="/tag/tiktok"]
@@ -529,7 +533,6 @@ www.youtube.com##.YtwTimedAnimationButtonRendererHost
 www.youtube.com###subscribe-button-shape
 ##[href^="https://yandex.ru/video/_crpd/"]
 hotgame18.ru
-market.yandex.ru##.main > noindex
 youla.ru###app > div:nth-of-type(4)
 y2mate.nu###i
 ##[href="https://goo.su/7gjYzL"]
@@ -539,7 +542,6 @@ www.yt1s.com##.thumb-img
 ##.fh5---banner---container
 yandex.ru##.DirectFeature
 e.mail.ru##.notify-stack
-yandex.ru##a[href*="images/_crpd/"]
 www.youtube.com###mealbar-promo-renderer
 dzen.ru##.content--article-action-island-desktop__container-12
 www.youtube.com###clarify-box
@@ -560,7 +562,6 @@ krasnodar.uteka.ru##.app-discount-mini-banner
 www.thebreastonline.com###onetrust-consent-sdk
 www.annalsofoncology.org###onetrust-consent-sdk
 ||softtorrent.ru/download32.png$image
-yandex.ru##.FuturisOnboardingPopup.Popup2_target_anchor.Popup2_view_default.Popup2_visible.Popup2
 .casino
 chrome-stats.com##.img-fluid
 yt5s.biz###download-app
@@ -612,6 +613,7 @@ insistgoodsrespect.com
 vk.cc
 yandex.ru##.PopupDesktop-Content
 yandex.ru##.DistributionLinkBro
+yandex.ru##.RatingOneStar
 www.youtube.com###teaser-carousel
 www.youtube.com##div.annotation.annotation-type-custom.iv-branding
 www.youtube.com##div.ytp-cards-button-icon
@@ -654,6 +656,9 @@ videonew.online##ytd-badge-supported-renderer.ytd-channel-name.style-scope
 videonew.online###voice-search-button
 videonew.online###end > .ytd-masthead.style-scope
 videonew.online###button > .ytd-menu-renderer.style-scope
+videonew.online##.ytd-ad-slot-renderer.style-scope
+videonew.online###masthead-ad
+videonew.online##.ytp-ce-element-show
 
 www.videonew.online##a.proxyLink:nth-of-type(3)
 www.videonew.online##a.proxyLink:nth-of-type(2)
@@ -684,6 +689,20 @@ www.converto.io##.tos-agree
 www.youtube.com##.ytp-button.ytp-prev-button
 e.mail.ru##.highlight__percent
 e.mail.ru##.highlight__hoverstar
+www.youtube.com##.ytd-rich-section-renderer.style-scope > .ytd-statement-banner-renderer.style-scope
+www.youtube.com##div.ytp-paid-content-overlay-text
+www.youtube.com##.ytp-ce-element
+e.mail.ru##.noads-button__button
+e.mail.ru##.ad-feedback
+thewikihow.com###buffering_state.alert-warning.alert
+ytmp3.la###text
+ytmp3.la###logo
+ytmp3.la###header
+ytmp3.la##button:nth-of-type(2)
+ytmp3.la##button:nth-of-type(3)
+ytmp3.la###footer
+
+
 
 
 
