@@ -726,6 +726,21 @@ qna.center##.h5e
 qna.center##.qst_text.row > .col-xs-12
 www.youtube.com##div#info.style-scope.yt-player-error-message-renderer
 
+thewikihow.com##footer
+thewikihow.com##.similar-videos.list
+thewikihow.com##.container > .row > .col-lg-12 > div:nth-of-type(2)
+thewikihow.com###channel_video_views_chart
+thewikihow.com###about > div.row > .col-lg-12
+thewikihow.com##.single-video.row > .col-sm-12.col-xs-12.col-lg-4
+thewikihow.com##.info > .thewikihow-caption-u
+thewikihow.com##.info > div
+thewikihow.com##.info
+thewikihow.com##.mtb-25.row > .col-xs-12
+thewikihow.com##.author
+thewikihow.com##.video-title-wrap
+thewikihow.com##.navbar-container
+thewikihow.com##h1
+
 
 
 
