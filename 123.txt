@@ -722,6 +722,7 @@ qna.center##div.hidden-xs.hidden-sm.col-md-2 > .hidden-sm.hidden-xs
 qna.center##.bold.col-xs-12
 qna.center##div.col-xs-12:nth-of-type(4)
 qna.center##div.row:nth-of-type(6)
+www.youtube.com##div#info.style-scope.yt-player-error-message-renderer
 
 
 
