@@ -702,6 +702,28 @@ ytmp3.la##button:nth-of-type(2)
 ytmp3.la##button:nth-of-type(3)
 ytmp3.la###footer
 
+qna.center##.mb25.input-group > .form-control
+qna.center##.mb25.input-group > .input-group-addon
+qna.center##.mb5.mt5.lh20.black12.pt10
+qna.center##div.mb5.mt5.black12.pt10:nth-of-type(4)
+qna.center##.mb15.col-xs-12
+qna.center##.ya-share2__container_size_m.ya-share2__container
+qna.center##.theme-showcase.container.col-xs-12.col-md-8 > .bold
+qna.center##.navbar-fixed-top.navbar-default.navbar
+qna.center##.hidden-xs.breadcrumb
+qna.center##.panel-body
+qna.center##.panel-default.panel
+qna.center##.pt5.pb5
+qna.center##.mb15.mt5.black12.pt10
+qna.center##.nav-justified.nav-tabs.nav
+qna.center##.bold.center.alert-success.alert
+qna.center##div.mb5.mt5.black12.pt10:nth-of-type(6)
+qna.center##div.hidden-xs.hidden-sm.col-md-2 > .hidden-sm.hidden-xs
+qna.center##.bold.col-xs-12
+qna.center##div.col-xs-12:nth-of-type(4)
+qna.center##div.row:nth-of-type(6)
+
+
 
 
 
