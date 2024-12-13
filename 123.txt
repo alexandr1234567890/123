@@ -740,6 +740,19 @@ thewikihow.com##.author
 thewikihow.com##.video-title-wrap
 thewikihow.com##.navbar-container
 thewikihow.com##h1
+thewikihow.com##.active.btn-default.btn > strong
+www.youtube.com##.ytp-impression-link
+thewikihow.com##.lazy.logo
+thewikihow.com##.title
+thewikihow.com##.grad-top
+thewikihow.com##.video-share-layer-2
+thewikihow.com###player_status > div
+www.youtube.com##.ytp-show-cards-title.ytp-chrome-top
+thewikihow.com##.player-status-bar
+thewikihow.com##button.btn-default.btn:nth-of-type(1)
+qna.center##div.row:nth-of-type(9)
+qna.center##.mt5.mb5.none
+thewikihow.com##button.btn-default.btn > strong
 
 
 
