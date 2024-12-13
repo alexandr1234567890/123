@@ -753,6 +753,8 @@ thewikihow.com##button.btn-default.btn:nth-of-type(1)
 qna.center##div.row:nth-of-type(9)
 qna.center##.mt5.mb5.none
 thewikihow.com##button.btn-default.btn > strong
+! Удаляет рекламу расширения -ВПН для YouTube без ограничений в России. Ускорить ютуб на ПК-
+www.youtube.com##.rstxt-review-bg-animate
 
 
 
