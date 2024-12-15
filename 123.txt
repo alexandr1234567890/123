@@ -755,6 +755,8 @@ qna.center##.mt5.mb5.none
 thewikihow.com##button.btn-default.btn > strong
 ! Удаляет рекламу расширения -ВПН для YouTube без ограничений в России. Ускорить ютуб на ПК-
 www.youtube.com##.rstxt-review-bg-animate
+!
+www.youtube.com##div.ytp-cards-teaser
 
 
 
