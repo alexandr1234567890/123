@@ -757,6 +757,10 @@ thewikihow.com##button.btn-default.btn > strong
 www.youtube.com##.rstxt-review-bg-animate
 !
 www.youtube.com##div.ytp-cards-teaser
+www.youtube.com###alerts > .ytd-browse.style-scope
+www.youtube.com##.ytLikeButtonViewModelHost
+www.youtube.com##.ytDislikeButtonViewModelHost
+www.youtube.com##yt-button-view-model.ytd-menu-renderer
 
 
 
