@@ -140,7 +140,6 @@ www.aliexpress.com##.comet-back-top
 ##a[href^="https://go.click2bit.net/r/"]
 ##a[href^="/engine/go.php"]
 ##a[href*="_source=banner"]
-##a[href^="https://browser.##iframe[src^="https://frontend.vh.yandex.ru/player/"]/?from=banner"]
 ##a[href^="/download/Reklama.html"]
 ##a[href*="https://cwpbam.mfcewkrob.com/"]
 ##a[href*="https://syndication.exoclick.com/"]
