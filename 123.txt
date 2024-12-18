@@ -31512,6 +31512,14 @@ www.youtube.com###alerts > .ytd-browse.style-scope
 www.youtube.com##.ytLikeButtonViewModelHost
 www.youtube.com##.ytDislikeButtonViewModelHost
 www.youtube.com##yt-button-view-model.ytd-menu-renderer
+www.youtube.com##.ytp-pause-overlay
+yandex-video.naydex.net###click_area > div
+www.yt1s.com###cnext
+www.yt1s.com##p:nth-of-type(1)
+qna.center##.input-group-btn
+qna.center##.active
+qna.center##.mt15.progress
+qna.center##.ytv
 
 
 
