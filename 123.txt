@@ -31405,7 +31405,6 @@ www.youtube.com##div.ytp-paid-content-overlay-text
 www.youtube.com##.ytp-ce-element
 e.mail.ru##.noads-button__button
 e.mail.ru##.ad-feedback
-thewikihow.com###buffering_state.alert-warning.alert
 ytmp3.la###text
 ytmp3.la###logo
 ytmp3.la###header
@@ -31413,32 +31412,8 @@ ytmp3.la##button:nth-of-type(2)
 ytmp3.la##button:nth-of-type(3)
 ytmp3.la###footer
 www.youtube.com##div#info.style-scope.yt-player-error-message-renderer
-
-thewikihow.com##footer
-thewikihow.com##.similar-videos.list
-thewikihow.com##.container > .row > .col-lg-12 > div:nth-of-type(2)
-thewikihow.com###channel_video_views_chart
-thewikihow.com###about > div.row > .col-lg-12
-thewikihow.com##.single-video.row > .col-sm-12.col-xs-12.col-lg-4
-thewikihow.com##.info > .thewikihow-caption-u
-thewikihow.com##.info > div
-thewikihow.com##.info
-thewikihow.com##.mtb-25.row > .col-xs-12
-thewikihow.com##.author
-thewikihow.com##.video-title-wrap
-thewikihow.com##.navbar-container
-thewikihow.com##h1
-thewikihow.com##.active.btn-default.btn > strong
 www.youtube.com##.ytp-impression-link
-thewikihow.com##.lazy.logo
-thewikihow.com##.title
-thewikihow.com##.grad-top
-thewikihow.com##.video-share-layer-2
-thewikihow.com###player_status > div
 www.youtube.com##.ytp-show-cards-title.ytp-chrome-top
-thewikihow.com##.player-status-bar
-thewikihow.com##button.btn-default.btn:nth-of-type(1)
-thewikihow.com##button.btn-default.btn > strong
 ! Удаляет рекламу расширения -ВПН для YouTube без ограничений в России. Ускорить ютуб на ПК-
 www.youtube.com##.rstxt-review-bg-animate
 !
