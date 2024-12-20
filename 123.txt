@@ -31412,7 +31412,6 @@ ytmp3.la##button:nth-of-type(2)
 ytmp3.la##button:nth-of-type(3)
 ytmp3.la###footer
 www.youtube.com##div#info.style-scope.yt-player-error-message-renderer
-www.youtube.com##.ytp-impression-link
 www.youtube.com##.ytp-show-cards-title.ytp-chrome-top
 ! Удаляет рекламу расширения -ВПН для YouTube без ограничений в России. Ускорить ютуб на ПК-
 www.youtube.com##.rstxt-review-bg-animate
