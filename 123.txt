@@ -30959,13 +30959,6 @@ uploadrar.com##.btn-lg.btn-info.btn
 ##img[src="/mgg2.png"]
 ##img[src="/knopki/yasssssaa.jpg"]
 ##img[src="/images/light_banner_728х90.png"]
-yt1s.com##.center.ftco-section:nth-of-type(2)
-yt1s.com##.center.ftco-section:nth-of-type(3)
-yt1s.com##.center.ftco-section:nth-of-type(4)
-yt1s.com##footer
-yt1s.com##header
-yt1s.com###convert > .title
-yt1s.com###convert > p
 /Zastavka-online-video-cutter.com_.mp4$media
 /ads-banner.gif$image
 *_yabaner.png$image
@@ -31289,7 +31282,6 @@ y2mate.nu###i
 ##[href="https://goo.su/7gjYzL"]
 y2mate.is###divThumbnail
 snapsave.io##[src="https://i.ytimg.com/vi/QoYqB7_xAP4/0.jpg"]
-www.yt1s.com##.thumb-img
 ##.fh5---banner---container
 yandex.ru##.DirectFeature
 e.mail.ru##.notify-stack
@@ -31308,7 +31300,6 @@ www.youtube.com##.miniplayer
 rsload.net##.prfl
 rsload.net##.tgwrap
 rsload.net##[href="https://rsload.net/soft/windows/"] > .marker
-www.yt1s.com##div.center.ftco-section:nth-of-type(5)
 krasnodar.uteka.ru##.app-discount-mini-banner
 www.thebreastonline.com###onetrust-consent-sdk
 www.annalsofoncology.org###onetrust-consent-sdk
@@ -31423,8 +31414,6 @@ www.youtube.com##.ytDislikeButtonViewModelHost
 www.youtube.com##yt-button-view-model.ytd-menu-renderer
 www.youtube.com##.ytp-pause-overlay
 yandex-video.naydex.net###click_area > div
-www.yt1s.com###cnext
-www.yt1s.com##p:nth-of-type(1)
 yandex.ru##.SplashscreenTopButton_layout_system_top_dark_close-button.SplashscreenTopButton.Distribution-SplashScreenModal.Modal_hasAnimation.Modal_visible.Modal
 9xbuddy.in##.leading-normal.mx-auto.container.hidden
 9xbuddy.in##.mx-auto.container.bg-gray-100
