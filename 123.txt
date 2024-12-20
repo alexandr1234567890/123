@@ -31371,46 +31371,6 @@ www.youtube.com##div.ytp-cards-button-icon
 www.youtube.com##button.ytp-remote-button.ytp-button
 www.youtube.com##div.ytp-endscreen-content
 
-videonew.online###teaser-carousel
-videonew.online##div.ytp-pause-overlay
-videonew.online##div.ytp-chrome-top.ytp-show-cards-title
-videonew.online##div.ytp-related-on-error-overlay.ytp-scroll-min
-videonew.online##.YtwSquareImageLayoutViewModelHost
-videonew.online##iframe:nth-of-type(2)
-videonew.online##.undefined > yt-button-shape
-videonew.online###flexible-item-buttons > yt-button-view-model.ytd-menu-renderer
-videonew.online##.ytd-watch-metadata.style-scope > .ytd-menu-renderer.style-scope.top-level-buttons
-videonew.online###menu > .ytd-watch-metadata.style-scope
-videonew.online###buttons > ytd-button-renderer.ytd-masthead.style-scope
-videonew.online##div.ytp-impression-link-content
-videonew.online##a.ytp-youtube-button.ytp-button.yt-uix-sessionlink
-videonew.online##div.annotation.annotation-type-custom.iv-branding
-videonew.online##tp-yt-iron-dropdown.ytd-popup-container.style-scope
-videonew.online##tp-yt-paper-dialog.ytd-popup-container.style-scope
-videonew.online##td#__cpsHomeLinkColumn
-videonew.online##td#__cpsPermalinkColumn
-videonew.online##div.ytp-info-panel-preview-text
-videonew.online##div.ytp-info-panel-preview
-videonew.online##div.ytp-endscreen-content
-videonew.online###subscribe-button > .ytd-watch-metadata.style-scope
-videonew.online##div#info.style-scope.yt-player-error-message-renderer
-videonew.online##ytd-guide-signin-promo-renderer
-videonew.online##ytd-merch-shelf-renderer
-videonew.online###subscribe-button-shape
-videonew.online##.site-wrapper
-videonew.online###captcha-container
-videonew.online##.footer
-videonew.online###chat
-videonew.online##div.ytp-error-content-wrap-subreason
-videonew.online##a.ytp-small-redirect
-videonew.online##ytd-badge-supported-renderer.ytd-channel-name.style-scope
-videonew.online###voice-search-button
-videonew.online###end > .ytd-masthead.style-scope
-videonew.online###button > .ytd-menu-renderer.style-scope
-videonew.online##.ytd-ad-slot-renderer.style-scope
-videonew.online###masthead-ad
-videonew.online##.ytp-ce-element-show
-
 www.videonew.online##a.proxyLink:nth-of-type(3)
 www.videonew.online##a.proxyLink:nth-of-type(2)
 www.videonew.online##a.proxyLink:nth-of-type(4)
@@ -31452,29 +31412,6 @@ ytmp3.la###header
 ytmp3.la##button:nth-of-type(2)
 ytmp3.la##button:nth-of-type(3)
 ytmp3.la###footer
-
-qna.center##.mb25.input-group > .form-control
-qna.center##.mb25.input-group > .input-group-addon
-qna.center##.mb5.mt5.lh20.black12.pt10
-qna.center##div.mb5.mt5.black12.pt10:nth-of-type(4)
-qna.center##.mb15.col-xs-12
-qna.center##.ya-share2__container_size_m.ya-share2__container
-qna.center##.theme-showcase.container.col-xs-12.col-md-8 > .bold
-qna.center##.navbar-fixed-top.navbar-default.navbar
-qna.center##.hidden-xs.breadcrumb
-qna.center##.panel-body
-qna.center##.panel-default.panel
-qna.center##.pt5.pb5
-qna.center##.mb15.mt5.black12.pt10
-qna.center##.nav-justified.nav-tabs.nav
-qna.center##.bold.center.alert-success.alert
-qna.center##div.mb5.mt5.black12.pt10:nth-of-type(6)
-qna.center##div.hidden-xs.hidden-sm.col-md-2 > .hidden-sm.hidden-xs
-qna.center##.bold.col-xs-12
-qna.center##div.col-xs-12:nth-of-type(4)
-qna.center##div.row:nth-of-type(6)
-qna.center##.h5e
-qna.center##.qst_text.row > .col-xs-12
 www.youtube.com##div#info.style-scope.yt-player-error-message-renderer
 
 thewikihow.com##footer
@@ -31501,8 +31438,6 @@ thewikihow.com###player_status > div
 www.youtube.com##.ytp-show-cards-title.ytp-chrome-top
 thewikihow.com##.player-status-bar
 thewikihow.com##button.btn-default.btn:nth-of-type(1)
-qna.center##div.row:nth-of-type(9)
-qna.center##.mt5.mb5.none
 thewikihow.com##button.btn-default.btn > strong
 ! Удаляет рекламу расширения -ВПН для YouTube без ограничений в России. Ускорить ютуб на ПК-
 www.youtube.com##.rstxt-review-bg-animate
@@ -31516,10 +31451,46 @@ www.youtube.com##.ytp-pause-overlay
 yandex-video.naydex.net###click_area > div
 www.yt1s.com###cnext
 www.yt1s.com##p:nth-of-type(1)
-qna.center##.input-group-btn
-qna.center##.active
-qna.center##.mt15.progress
-qna.center##.ytv
+yandex.ru##.SplashscreenTopButton_layout_system_top_dark_close-button.SplashscreenTopButton.Distribution-SplashScreenModal.Modal_hasAnimation.Modal_visible.Modal
+9xbuddy.in##.leading-normal.mx-auto.container.hidden
+9xbuddy.in##.mx-auto.container.bg-gray-100
+9xbuddy.in##.left-0
+9xbuddy.in##.leading-7.tracking-wide
+9xbuddy.in##.text-gray-600.block
+9xbuddy.in##.leading-normal.shadow.items-center.justify-around.flex
+videonew.online##tp-yt-paper-dialog.ytd-popup-container.style-scope
+videonew.online##tp-yt-iron-dropdown.ytd-popup-container.style-scope
+videonew.online##div.annotation.annotation-type-custom.iv-branding
+videonew.online##td#__cpsHomeLinkColumn
+videonew.online##td#__cpsPermalinkColumn
+videonew.online###subscribe-button > .ytd-watch-metadata.style-scope
+videonew.online##ytd-guide-signin-promo-renderer
+videonew.online##.site-wrapper
+videonew.online###captcha-container
+videonew.online##.footer
+videonew.online###chat
+videonew.online##ytd-merch-shelf-renderer
+videonew.online###end > .ytd-masthead.style-scope
+videonew.online###button > .ytd-menu-renderer.style-scope
+videonew.online###guide-button
+videonew.online###voice-search-button
+videonew.online##ytd-badge-supported-renderer.ytd-channel-name.style-scope
+videonew.online###masthead-ad
+videonew.online##.ytd-ad-slot-renderer.style-scope
+videonew.online##.ytp-ce-element-show
+videonew.online###logo-icon
+videonew.online##h1.ytd-watch-metadata.style-scop
+www.yt1s.com##.relative.search-form
+www.yt1s.com###convert > .title
+www.yt1s.com###convert > p
+www.yt1s.com##.listitem
+www.yt1s.com##div.center.ftco-section:nth-of-type(4)
+www.yt1s.com##div.center.ftco-section:nth-of-type(5)
+www.yt1s.com##footer
+www.yt1s.com##div.center.ftco-section:nth-of-type(3)
+www.yt1s.com##.navbar-nav.nav
+www.yt1s.com##header
+www.yt1s.com###cnext
 
 
 
