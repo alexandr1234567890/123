@@ -706,6 +706,7 @@ e.mail.ru##+js(json-prune, [].*.result.body)
 /2promo.octavius.bundle.js$domain=mail.ru
 ! mail.ru - блокирует рекламу снизу слева (мой)
 e.mail.ru###octavius-notify-third-party-analytics-data > div
+||ads-storage.avito.ru/*$image
 
 
 
