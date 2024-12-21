@@ -644,15 +644,14 @@ ytmp3.la##button:nth-of-type(3)
 ytmp3.la###footer
 www.youtube.com##div#info.style-scope.yt-player-error-message-renderer
 www.youtube.com##.ytp-show-cards-title.ytp-chrome-top
-! Удаляет рекламу расширения -ВПН для YouTube без ограничений в России. Ускорить ютуб на ПК-
-www.youtube.com##.rstxt-review-bg-animate
-!
 www.youtube.com##div.ytp-cards-teaser
 www.youtube.com###alerts > .ytd-browse.style-scope
 www.youtube.com##.ytLikeButtonViewModelHost
 www.youtube.com##.ytDislikeButtonViewModelHost
 www.youtube.com##yt-button-view-model.ytd-menu-renderer
 www.youtube.com##.ytp-pause-overlay
+! Удаляет рекламу расширения -ВПН для YouTube без ограничений в России. Ускорить ютуб на ПК-
+www.youtube.com##.rstxt-review-bg-animate
 yandex-video.naydex.net###click_area > div
 yandex.ru##.SplashscreenTopButton_layout_system_top_dark_close-button.SplashscreenTopButton.Distribution-SplashScreenModal.Modal_hasAnimation.Modal_visible.Modal
 9xbuddy.in##.leading-normal.mx-auto.container.hidden
@@ -700,6 +699,13 @@ market.yandex.ru###\/content\/header\/headerPromo
 yandex.ru##.MMSidebar-Card_bottomAdv.MMSidebar-Card
 yandex.ru##.DirectStripe
 yandex.ru##.AdvMastHead
+dzen.ru##.video-card-ads
+! mail.ru - блокирует рекламу колонку справа (выдрал из https://cdn.jsdelivr.net/gh/dimisa-RUAdList/RUAdListCDN@main/lists/ruadlist.ubo.min.txt)
+e.mail.ru##+js(json-prune, [].*.result.body)
+! mail.ru - блокирует рекламу снизу слева (выдрал из https://cdn.jsdelivr.net/gh/dimisa-RUAdList/RUAdListCDN@main/lists/ruadlist.ubo.min.txt)
+/2promo.octavius.bundle.js$domain=mail.ru
+! mail.ru - блокирует рекламу снизу слева (мой)
+e.mail.ru###octavius-notify-third-party-analytics-data > div
 
 
 
