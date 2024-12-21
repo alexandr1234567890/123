@@ -707,6 +707,8 @@ e.mail.ru##+js(json-prune, [].*.result.body)
 ! mail.ru - блокирует рекламу снизу слева (мой)
 e.mail.ru###octavius-notify-third-party-analytics-data > div
 ||ads-storage.avito.ru/*$image
+ug.tsargrad.tv##.sticky-bottom
+rutube.ru##.notification-container-module__infoNotifications
 
 
 
