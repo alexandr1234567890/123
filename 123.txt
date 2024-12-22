@@ -644,28 +644,6 @@ yandex.ru##.SplashscreenTopButton_layout_system_top_dark_close-button.Splashscre
 9xbuddy.in##.leading-7.tracking-wide
 9xbuddy.in##.text-gray-600.block
 9xbuddy.in##.leading-normal.shadow.items-center.justify-around.flex
-videonew.online##tp-yt-paper-dialog.ytd-popup-container.style-scope
-videonew.online##tp-yt-iron-dropdown.ytd-popup-container.style-scope
-videonew.online##div.annotation.annotation-type-custom.iv-branding
-videonew.online##td#__cpsHomeLinkColumn
-videonew.online##td#__cpsPermalinkColumn
-videonew.online###subscribe-button > .ytd-watch-metadata.style-scope
-videonew.online##ytd-guide-signin-promo-renderer
-videonew.online##.site-wrapper
-videonew.online###captcha-container
-videonew.online##.footer
-videonew.online###chat
-videonew.online##ytd-merch-shelf-renderer
-videonew.online###end > .ytd-masthead.style-scope
-videonew.online###button > .ytd-menu-renderer.style-scope
-videonew.online###guide-button
-videonew.online###voice-search-button
-videonew.online##ytd-badge-supported-renderer.ytd-channel-name.style-scope
-videonew.online###masthead-ad
-videonew.online##.ytd-ad-slot-renderer.style-scope
-videonew.online##.ytp-ce-element-show
-videonew.online###logo-icon
-videonew.online##h1.ytd-watch-metadata.style-scop
 www.yt1s.com##.relative.search-form
 www.yt1s.com###convert > .title
 www.yt1s.com###convert > p
@@ -694,6 +672,11 @@ e.mail.ru###octavius-notify-third-party-analytics-data > div
 ug.tsargrad.tv##.sticky-bottom
 rutube.ru##.notification-container-module__infoNotifications
 cloud.mail.ru##.ph-project-widgets.ph-project
+cloud.mail.ru##.svelte-1mdtsha.balloon-anchor
+cloud.mail.ru##.dimmed.dimmable
+yastatic.net###animation_container
+yandex.ru###search-result-aside
+yandex.ru##.ChristmasTree
 
 
 
