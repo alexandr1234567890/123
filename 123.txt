@@ -626,7 +626,6 @@ ytmp3.la###header
 ytmp3.la##button:nth-of-type(2)
 ytmp3.la##button:nth-of-type(3)
 ytmp3.la###footer
-www.youtube.com##div#info.style-scope.yt-player-error-message-renderer
 www.youtube.com##.ytp-show-cards-title.ytp-chrome-top
 www.youtube.com##div.ytp-cards-teaser
 www.youtube.com###alerts > .ytd-browse.style-scope
