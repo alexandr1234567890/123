@@ -702,6 +702,9 @@ wooe.ru##.js-relap-widget
 www.videolast.online##.js-relap-widget
 www.videonew.online##.js-relap-widget
 ||wooe.ru/zerkalo-Youtube.png$image
+! Убирает ссылки на вход в аккаунт и Подробнее, если требует -Войдите в аккаунт, чтобы подтвердить, что вы не бот-
+www.youtube.com##a.yt-spec-button-shape-next.yt-spec-button-shape-next--filled.yt-spec-button-shape-next--overlay.yt-spec-button-shape-next--size-m
+www.youtube.com##a.yt-simple-endpoint.style-scope.yt-formatted-string
 
 
 
