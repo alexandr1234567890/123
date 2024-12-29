@@ -9,7 +9,6 @@
 ! Description: This LVU filter
 !-------------------------------------------------------------------------------
 ! Third Party blocking ---------------------------------------------------------
-
 millionstatusov.ru###top-menu
 millionstatusov.ru###page-right
 millionstatusov.ru###page-menu
@@ -705,6 +704,12 @@ www.videonew.online##.js-relap-widget
 ! Убирает ссылки на вход в аккаунт и Подробнее, если требует -Войдите в аккаунт, чтобы подтвердить, что вы не бот-
 www.youtube.com##a.yt-spec-button-shape-next.yt-spec-button-shape-next--filled.yt-spec-button-shape-next--overlay.yt-spec-button-shape-next--size-m
 www.youtube.com##a.yt-simple-endpoint.style-scope.yt-formatted-string
+!
+dzen.ru##div.content--cart-part-badges__badgesWrapper-3t
+yandex.*##+js(json-prune, direct rtb seatbid)
+disk.yandex.ru##.top-banner
+dzen.ru##div.desktop2--card-part-actions__actionsWrapper-2U
+##.b-footer__counters
 
 
 
