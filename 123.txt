@@ -602,15 +602,7 @@ www.youtube.com##div.annotation.annotation-type-custom.iv-branding
 www.youtube.com##div.ytp-cards-button-icon
 www.youtube.com##button.ytp-remote-button.ytp-button
 www.youtube.com##div.ytp-endscreen-content
-www.converto.io##.bordered.share-block-xl
-www.converto.io##.header
 yandex.ru###distr-pcode-container
-www.converto.io##.share-block-xl
-www.converto.io##.footer
-s5.converto.io##.bordered.share-block-xl
-s5.converto.io##.header
-www.converto.io##.about-converto
-www.converto.io##.tos-agree
 www.youtube.com##.ytp-button.ytp-prev-button
 e.mail.ru##.highlight__percent
 e.mail.ru##.highlight__hoverstar
