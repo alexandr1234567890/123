@@ -675,23 +675,28 @@ e.mail.ru##.letter-list-item-adv__container:style(height: 0 !important; opacity:
 e.mail.ru##+js(no-setTimeout-if, MIMIC_FORCE)
 !
 paintejuke.com
-videonew.online##tp-yt-paper-dialog.ytd-popup-container.style-scope
-videonew.online##.ytd-ad-slot-renderer.style-scope
 p23hxejm1.com
-wooe.ru##.js-relap-widget
-www.videolast.online##.js-relap-widget
-www.videonew.online##.js-relap-widget
-||wooe.ru/zerkalo-Youtube.png$image
 ! Убирает ссылки на вход в аккаунт и Подробнее, если требует -Войдите в аккаунт, чтобы подтвердить, что вы не бот-
 www.youtube.com##a.yt-spec-button-shape-next.yt-spec-button-shape-next--filled.yt-spec-button-shape-next--overlay.yt-spec-button-shape-next--size-m
 www.youtube.com##a.yt-simple-endpoint.style-scope.yt-formatted-string
 !
 dzen.ru##div.content--cart-part-badges__badgesWrapper-3t
-yandex.*##+js(json-prune, direct rtb seatbid)
 disk.yandex.ru##.top-banner
 dzen.ru##div.desktop2--card-part-actions__actionsWrapper-2U
 ##.b-footer__counters
 zenstat.ru##small > [href="/#price-section"]
+youtube4kdownloader.com###fixed-addon-banner
+youtube4kdownloader.com##.sharethis-sticky-share-buttons
+www.yt1s.com##.success.mesg-convert.form-control
+honestbirds.com
+lmexapvpqbu.life
+fortune-spins.com
+pharteewhi.xyz
+##[src="/files/news/image/offer 240.png"]
+###download-main-info [href^="https://download.cdn.yandex.net/yandex-tag/weboffer/YandexPackLoader.exe"]
+vkvideo.ru##.VideoQuickLogin
+yandex.ru##div.ExternalBadge.VideoOrganic-ThumbBadgeExternal
+##[href^="https://yandex.ru/an/count/"]
 
 
 
