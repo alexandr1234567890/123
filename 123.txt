@@ -9,6 +9,7 @@
 ! Description: This LVU filter
 !-------------------------------------------------------------------------------
 ! Third Party blocking ---------------------------------------------------------
+
 millionstatusov.ru###top-menu
 millionstatusov.ru###page-right
 millionstatusov.ru###page-menu
@@ -682,7 +683,6 @@ www.youtube.com##a.yt-simple-endpoint.style-scope.yt-formatted-string
 !
 dzen.ru##div.content--cart-part-badges__badgesWrapper-3t
 disk.yandex.ru##.top-banner
-dzen.ru##div.desktop2--card-part-actions__actionsWrapper-2U
 ##.b-footer__counters
 zenstat.ru##small > [href="/#price-section"]
 youtube4kdownloader.com###fixed-addon-banner
@@ -697,6 +697,7 @@ pharteewhi.xyz
 vkvideo.ru##.VideoQuickLogin
 yandex.ru##div.ExternalBadge.VideoOrganic-ThumbBadgeExternal
 ##[href^="https://yandex.ru/an/count/"]
+dzen.ru##.dzen-desktop--dzen-wrapper-with-top-content-desktop__bannerContainer-n5
 
 
 
