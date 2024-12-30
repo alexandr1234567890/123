@@ -642,17 +642,6 @@ yandex.ru##.SplashscreenTopButton_layout_system_top_dark_close-button.Splashscre
 9xbuddy.in##.leading-7.tracking-wide
 9xbuddy.in##.text-gray-600.block
 9xbuddy.in##.leading-normal.shadow.items-center.justify-around.flex
-www.yt1s.com##.relative.search-form
-www.yt1s.com###convert > .title
-www.yt1s.com###convert > p
-www.yt1s.com##.listitem
-www.yt1s.com##div.center.ftco-section:nth-of-type(4)
-www.yt1s.com##div.center.ftco-section:nth-of-type(5)
-www.yt1s.com##footer
-www.yt1s.com##div.center.ftco-section:nth-of-type(3)
-www.yt1s.com##.navbar-nav.nav
-www.yt1s.com##header
-www.yt1s.com###cnext
 yandex-video.naydex.net###animation_container
 market.yandex.ru###\/content\/popup
 market.yandex.ru###\/content\/header\/headerPromo
@@ -710,6 +699,7 @@ yandex.*##+js(json-prune, direct rtb seatbid)
 disk.yandex.ru##.top-banner
 dzen.ru##div.desktop2--card-part-actions__actionsWrapper-2U
 ##.b-footer__counters
+zenstat.ru##small > [href="/#price-section"]
 
 
 
