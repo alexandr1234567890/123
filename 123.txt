@@ -698,6 +698,7 @@ vkvideo.ru##.VideoQuickLogin
 yandex.ru##div.ExternalBadge.VideoOrganic-ThumbBadgeExternal
 ##[href^="https://yandex.ru/an/count/"]
 dzen.ru##.dzen-desktop--dzen-wrapper-with-top-content-desktop__bannerContainer-n5
+my.mail.ru##.sp-video__billboard
 
 
 
