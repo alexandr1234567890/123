@@ -699,6 +699,13 @@ yandex.ru##div.ExternalBadge.VideoOrganic-ThumbBadgeExternal
 ##[href^="https://yandex.ru/an/count/"]
 dzen.ru##.dzen-desktop--dzen-wrapper-with-top-content-desktop__bannerContainer-n5
 my.mail.ru##.sp-video__billboard
+rutube.ru##span.wdp-poster-badge-module__poster-badge.wdp-card-video-options-module__ageRating
+||autofill.yandex.ru/suggest$subdocument
+pikabu.ru##.sidebar-block_half.sidebar-block
+pikabu.ru##.profile-info
+www.youtube.com##div.badge.badge-style-type-verified.style-scope.ytd-badge-supported-renderer.style-scope.ytd-badge-supported-renderer
+dzen.ru##.desktop2--corner-banner__root-sT
+dzen.ru##.desktop2--author-title__verifiedIcon-1- > use
 
 
 
