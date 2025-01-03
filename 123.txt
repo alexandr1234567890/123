@@ -705,6 +705,48 @@ pikabu.ru##.profile-info
 www.youtube.com##div.badge.badge-style-type-verified.style-scope.ytd-badge-supported-renderer.style-scope.ytd-badge-supported-renderer
 dzen.ru##.desktop2--corner-banner__root-sT
 dzen.ru##.desktop2--author-title__verifiedIcon-1- > use
+savrandl.com
+ru.savefrom.net##.b-widget-left
+||en.loader.to/images/loader/loader_app.jpg$image
+en.loader.to###safari_addon > [href="https://en.loader.to/1/addon.html"] > .is-rolledUp.js-extension.extension > .extension-header
+en.loader.to##[src="/images/loader/convertr.png"]
+en.loader.to###ds > :nth-of-type(2)
+en.loader.to###ds > :nth-of-type(3)
+en.loader.to###ds > :nth-of-type(4)
+en.loader.to###ds > :nth-of-type(5)
+en.loader.to###ds > :nth-of-type(6)
+en.loader.to###ds > :nth-of-type(7)
+en.loader.to###ds > :nth-of-type(8)
+en.loader.to###ds > :nth-of-type(9)
+en.loader.to##p:nth-of-type(1)
+en.loader.to##p:nth-of-type(2)
+en.loader.to##p:nth-of-type(3)
+en.loader.to##p:nth-of-type(5)
+en.loader.to##h2.my:nth-of-type(2)
+en.loader.to##h2.my:nth-of-type(1)
+en.loader.to##p:nth-of-type(4)
+en.loader.to##h2.my:nth-of-type(3)
+en.loader.to##p:nth-of-type(6)
+en.loader.to##h2.my:nth-of-type(4)
+en.loader.to##p:nth-of-type(7)
+en.loader.to##.center > ul > li
+en.loader.to##p:nth-of-type(8)
+en.loader.to##h2.my:nth-of-type(5)
+en.loader.to##p:nth-of-type(9)
+en.loader.to##li
+en.loader.to##p:nth-of-type(10)
+en.loader.to##h2.my
+en.loader.to##p
+en.loader.to##div.sites
+en.loader.to##.site-footer
+en.loader.to##.navbar
+en.loader.to##h1
+en.loader.to##.uppercase
+en.loader.to##a[href^="https://convertr.org"]
+www.converto.io##.share-block-xl
+s5.converto.io##.share-block-xl
+dzen.ru##.content--article-navigation__wrapper-2_
+dzen.ru##.content--article-navigation-indicator-container__container-2e
 
 
 
