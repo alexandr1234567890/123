@@ -628,7 +628,6 @@ www.youtube.com##.ytp-pause-overlay
 ! Удаляет рекламу расширения -ВПН для YouTube без ограничений в России. Ускорить ютуб на ПК-
 www.youtube.com##.rstxt-review-bg-animate
 yandex-video.naydex.net###click_area > div
-yandex.ru##.SplashscreenTopButton_layout_system_top_dark_close-button.SplashscreenTopButton.Distribution-SplashScreenModal.Modal_hasAnimation.Modal_visible.Modal
 9xbuddy.in##.leading-normal.mx-auto.container.hidden
 9xbuddy.in##.mx-auto.container.bg-gray-100
 9xbuddy.in##.left-0
