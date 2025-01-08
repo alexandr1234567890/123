@@ -676,10 +676,6 @@ e.mail.ru##+js(no-setTimeout-if, MIMIC_FORCE)
 !
 paintejuke.com
 p23hxejm1.com
-! Убирает ссылки на вход в аккаунт и Подробнее, если требует -Войдите в аккаунт, чтобы подтвердить, что вы не бот-
-www.youtube.com##a.yt-spec-button-shape-next.yt-spec-button-shape-next--filled.yt-spec-button-shape-next--overlay.yt-spec-button-shape-next--size-m
-www.youtube.com##a.yt-simple-endpoint.style-scope.yt-formatted-string
-!
 dzen.ru##div.content--cart-part-badges__badgesWrapper-3t
 disk.yandex.ru##.top-banner
 ##.b-footer__counters
@@ -707,46 +703,28 @@ dzen.ru##.desktop2--corner-banner__root-sT
 dzen.ru##.desktop2--author-title__verifiedIcon-1- > use
 savrandl.com
 ru.savefrom.net##.b-widget-left
-||en.loader.to/images/loader/loader_app.jpg$image
-en.loader.to###safari_addon > [href="https://en.loader.to/1/addon.html"] > .is-rolledUp.js-extension.extension > .extension-header
-en.loader.to##[src="/images/loader/convertr.png"]
-en.loader.to###ds > :nth-of-type(2)
-en.loader.to###ds > :nth-of-type(3)
-en.loader.to###ds > :nth-of-type(4)
-en.loader.to###ds > :nth-of-type(5)
-en.loader.to###ds > :nth-of-type(6)
-en.loader.to###ds > :nth-of-type(7)
-en.loader.to###ds > :nth-of-type(8)
-en.loader.to###ds > :nth-of-type(9)
-en.loader.to##p:nth-of-type(1)
-en.loader.to##p:nth-of-type(2)
-en.loader.to##p:nth-of-type(3)
-en.loader.to##p:nth-of-type(5)
-en.loader.to##h2.my:nth-of-type(2)
-en.loader.to##h2.my:nth-of-type(1)
-en.loader.to##p:nth-of-type(4)
-en.loader.to##h2.my:nth-of-type(3)
-en.loader.to##p:nth-of-type(6)
-en.loader.to##h2.my:nth-of-type(4)
-en.loader.to##p:nth-of-type(7)
-en.loader.to##.center > ul > li
-en.loader.to##p:nth-of-type(8)
-en.loader.to##h2.my:nth-of-type(5)
-en.loader.to##p:nth-of-type(9)
-en.loader.to##li
-en.loader.to##p:nth-of-type(10)
-en.loader.to##h2.my
-en.loader.to##p
-en.loader.to##div.sites
-en.loader.to##.site-footer
-en.loader.to##.navbar
-en.loader.to##h1
-en.loader.to##.uppercase
-en.loader.to##a[href^="https://convertr.org"]
 www.converto.io##.share-block-xl
 s5.converto.io##.share-block-xl
-dzen.ru##.content--article-navigation__wrapper-2_
-dzen.ru##.content--article-navigation-indicator-container__container-2e
+rutube.ru##.svg-icon--IconVerified
+rutube.ru##.svg-icon--IconPhoenix
+ug.tsargrad.tv##div.news-item_article.news-item
+regionvoice.ru##body > div:nth-of-type(8)
+regionvoice.ru##div:nth-of-type(6)
+www.youtube.com###sponsor-button
+ru.onlymp3.co##.modal-body > p
+ru.onlymp3.co##.modal-header
+ru.onlymp3.co##.btn-donate.mt-2.btn
+ru.onlymp3.co##.btn2.btn
+ru.onlymp3.co##.btn.conv-more.w-100
+ru.onlymp3.co##.alert
+ru.onlymp3.co##.main-paragraph.text-center.col-md-12
+ru.onlymp3.co##div.row:nth-of-type(2)
+ru.onlymp3.co##.pt-5.row
+ru.onlymp3.co##.site-footer
+ru.onlymp3.co##hr
+ru.onlymp3.co##.py-4.site-navbar > .container
+ru.onlymp3.co##.vidTitle > b
+ru.onlymp3.co###videoTitle > b
 
 
 
