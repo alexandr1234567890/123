@@ -612,12 +612,6 @@ www.youtube.com##div.ytp-paid-content-overlay-text
 www.youtube.com##.ytp-ce-element
 e.mail.ru##.noads-button__button
 e.mail.ru##.ad-feedback
-ytmp3.la###text
-ytmp3.la###logo
-ytmp3.la###header
-ytmp3.la##button:nth-of-type(2)
-ytmp3.la##button:nth-of-type(3)
-ytmp3.la###footer
 www.youtube.com##.ytp-show-cards-title.ytp-chrome-top
 www.youtube.com##div.ytp-cards-teaser
 www.youtube.com###alerts > .ytd-browse.style-scope
@@ -725,6 +719,8 @@ ru.onlymp3.co##hr
 ru.onlymp3.co##.py-4.site-navbar > .container
 ru.onlymp3.co##.vidTitle > b
 ru.onlymp3.co###videoTitle > b
+www.politnavigator.news##.modal-dialog
+my.mail.ru##+js(set-constant, Object.prototype.runMimic, noopFunc)
 
 
 
