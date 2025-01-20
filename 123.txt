@@ -676,7 +676,6 @@ disk.yandex.ru##.top-banner
 zenstat.ru##small > [href="/#price-section"]
 youtube4kdownloader.com###fixed-addon-banner
 youtube4kdownloader.com##.sharethis-sticky-share-buttons
-www.yt1s.com##.success.mesg-convert.form-control
 honestbirds.com
 lmexapvpqbu.life
 fortune-spins.com
@@ -721,6 +720,7 @@ ru.onlymp3.co##.vidTitle > b
 ru.onlymp3.co###videoTitle > b
 www.politnavigator.news##.modal-dialog
 my.mail.ru##+js(set-constant, Object.prototype.runMimic, noopFunc)
+www.yt1s.com###cnext
 
 
 
