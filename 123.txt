@@ -733,11 +733,18 @@ www.youtube.com###ujs-hdr-links-div
 ! Убрал полоски загрузки с недосмотренных видео
 www.youtube.com##ytd-thumbnail-overlay-resume-playback-renderer.ytd-thumbnail.style-scope
 yandex-partner-web.advmusic.com
-! Убрал из ленты поиска -Другие видео, которые посмотрели зрители- и -Видео для вас-
-www.youtube.com##ytd-shelf-renderer.ytd-item-section-renderer.style-scope
 ! Убрал значки загрузок с -https://yandex.ru/video/preview/...- появились после -My (скачать с vkvideo.ru через 9xbuddy.in)- и -My (скачать через 9xbuddy.in)-
 vk.com##body > div:nth-of-type(10)
 vk.com##body > div:nth-of-type(9)
+yandex.ru##.Thumb-Ratio
+300.ya.ru##.thumbs
+300.ya.ru##.logo-link
+300.ya.ru##.input-counter
+video.qna.center##.ya-share2
+video.qna.center##.vipbutton
+video.qna.center##.btn-primary
+||fb-cdn.premier.one/files/premier/*.png$image
+rutube.ru##.wdp-onboardings-inventory-module__popupBody
 
 
 
