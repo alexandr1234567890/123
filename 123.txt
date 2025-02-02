@@ -728,14 +728,11 @@ bjjky.cfd
 www.youtube.com##.ytp-swatch-background-color.ytp-scrubber-button
 tomp3.cc##a.mr-2.btn-blue.btn-primary.btn:nth-of-type(3)
 tomp3.cc##a.mr-2.btn-blue.btn-primary.btn:nth-of-type(2)
-! Убрал полоску -YouTube Links-
+! Убрал полоску вверху -YouTube Links-
 www.youtube.com###ujs-hdr-links-div
 ! Убрал полоски загрузки с недосмотренных видео
 www.youtube.com##ytd-thumbnail-overlay-resume-playback-renderer.ytd-thumbnail.style-scope
 yandex-partner-web.advmusic.com
-! Убрал значки загрузок с -https://yandex.ru/video/preview/...- появились после -My (скачать с vkvideo.ru через 9xbuddy.in)- и -My (скачать через 9xbuddy.in)-
-vk.com##body > div:nth-of-type(10)
-vk.com##body > div:nth-of-type(9)
 yandex.ru##.Thumb-Ratio
 300.ya.ru##.thumbs
 300.ya.ru##.logo-link
@@ -745,6 +742,21 @@ video.qna.center##.vipbutton
 video.qna.center##.btn-primary
 ||fb-cdn.premier.one/files/premier/*.png$image
 rutube.ru##.wdp-onboardings-inventory-module__popupBody
+thewikihow.com##.head-title-bg
+thewikihow.com##.video-title-wrap
+video.qna.center##.adv
+300.ya.ru##.footer
+offmp3.net##.mb-4.mt-2.sm\:block.px-4.py-3.dark\:bg-night-400.max-w-5xl.mx-auto.container.bg-gray-100
+tomp3.cc##.btn-success.btn:nth-of-type(2)
+tomp3.cc##.btn-success.btn:nth-of-type(3)
+www.yt1s.com###loader-wrapper > svg
+||tomp3.cc/statics/image/loading.svg$image
+||pinkamuz.pro/imgs/backgrounds/*.jpg$image
+||zvu4no.org/img/*.jpg$image
+www.youtube.com##.ytp-button.ytp-fullscreen-button
+||prog-top.net/templates/prowindows/images/bg.png$image
+www.youtube.com##.video-ads
+www.youtube.com##.ytp-paid-content-overlay-link
 
 
 
