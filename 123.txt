@@ -757,6 +757,9 @@ www.youtube.com##.ytp-button.ytp-fullscreen-button
 ||prog-top.net/templates/prowindows/images/bg.png$image
 www.youtube.com##.video-ads
 www.youtube.com##.ytp-paid-content-overlay-link
+workers.dev
+www.youtube.com##.ytp-title-fullerscreen-link.yt-uix-sessionlink.ytp-title-link
+kinopoisk.ru
 
 
 
