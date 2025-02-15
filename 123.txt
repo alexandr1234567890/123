@@ -760,6 +760,41 @@ www.youtube.com##.ytp-paid-content-overlay-link
 workers.dev
 www.youtube.com##.ytp-title-fullerscreen-link.yt-uix-sessionlink.ytp-title-link
 kinopoisk.ru
+kion.ru
+wink.ru
+premier.one##.f-show-play
+premier.one##.f-subscribe-button
+www.ivi.ru##.meta__buttons.buttons
+start.ru
+www.ivi.ru##.headerTop__additionalButton
+okko.tv
+##.okko2024Btn
+yandex.ru##a[href^="https://hd.kinopoisk.ru/"]
+yandex.ru##a[href^="https://yabs.yandex.ru/count/"]
+kino.mail.ru##.margin_bottom_40
+kino.mail.ru##.js-module.block_round.block_bg_gray.block_ad-text.block
+kino.mail.ru##.p-commercial
+kino.mail.ru##.adv-marker_hover
+smotrim.ru##.locked-info
+smotrim.ru##.ticker-subscribe
+www.kino-teatr.ru##.button_online_block
+yandex.ru##.EntityCarousel_theme_movies
+##a[href^="https://www.kinopoisk.ru/"]
+mail.yandex.ru##.Theme.Modal_theme_normal.Modal_hasAnimation.Modal_visible.Modal
+www.youtube.com##.ytp-ad-action-interstitial-background-container-unified.ytp-ad-action-interstitial-background-container
+www.youtube.com##.ytp-share-icon
+||*/uploads/ya/*.png$image
+www.youtube.com##.ytp-ad-action-interstitial
+videopad-video-editor.softonic.ru##.rv-di-step__header--full-image.rv-di-step__header
+! Убрал кнопку -Автовоспроизведение выключено-
+www.youtube.com##button.ytp-button:nth-of-type(3)
+##.okko__insert-container
+yandex.ru##.Bno
+||cdn.*kprtners.com/*.mp4$media
+ppembed.com##.spot-box
+iz.ru##.v2-p4s-confirm__container
+dzen.ru##.content--corner-banner__root-l4
+##a[href*="utorrent_installer.exe"]
 
 
 
