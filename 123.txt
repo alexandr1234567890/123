@@ -728,8 +728,6 @@ bjjky.cfd
 www.youtube.com##.ytp-swatch-background-color.ytp-scrubber-button
 tomp3.cc##a.mr-2.btn-blue.btn-primary.btn:nth-of-type(3)
 tomp3.cc##a.mr-2.btn-blue.btn-primary.btn:nth-of-type(2)
-! Убрал полоску вверху -YouTube Links-
-www.youtube.com###ujs-hdr-links-div
 ! Убрал полоски загрузки с недосмотренных видео
 www.youtube.com##ytd-thumbnail-overlay-resume-playback-renderer.ytd-thumbnail.style-scope
 yandex-partner-web.advmusic.com
@@ -795,6 +793,9 @@ ppembed.com##.spot-box
 iz.ru##.v2-p4s-confirm__container
 dzen.ru##.content--corner-banner__root-l4
 ##a[href*="utorrent_installer.exe"]
+dzen.ru##.content--dzen-pro-article-banner__dzenProBanner-3I
+dzen.ru##.video-site--snackbar-v2__isOpening-1o.video-site--snackbar-v2__rootElement-2z
+dzen.ru##.video-site--trap-popup__isShow-2L.trapPopupContainer.video-site--trap-popup__container-3n
 
 
 
