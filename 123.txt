@@ -796,6 +796,20 @@ dzen.ru##.content--corner-banner__root-l4
 dzen.ru##.content--dzen-pro-article-banner__dzenProBanner-3I
 dzen.ru##.video-site--snackbar-v2__isOpening-1o.video-site--snackbar-v2__rootElement-2z
 dzen.ru##.video-site--trap-popup__isShow-2L.trapPopupContainer.video-site--trap-popup__container-3n
+titoralem.com
+www.yt1s.com##.success.mesg-convert.form-control
+||pruner.ru/wp-content/themes/pruner/images/comp.jpg$image
+ug.tsargrad.tv##.btn-yellow-small.header__btn-small
+ru.onlymp3.co##.sharethis-sticky-share-buttons
+plus.yandex.ru
+360.yandex.ru
+music.yandex.ru
+books.yandex.ru
+books.yandex.ru##.plus-button-cls
+books.yandex.ru##.LandingOfferBlock_container__IBis_
+##.InfoSpace_discount
+disk.yandex.ru##.root__bottom-ad
+yandex.ru##.MenuItem_get-premium360
 
 
 
