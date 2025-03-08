@@ -555,35 +555,7 @@ www.phag-rostov.ru##.chat-bot-widget__text
 calcus.ru##.offers-frow
 ||downloaderto.com/images/banner*.jpg$image
 downloaderto.com##.download-note
-presaver.com##.list__item-pvw.list__item
-presaver.com##.cstm-ttl
 ||comments.app/embed/view$subdocument
-presaver.com##.footer
-presaver.com##.dsc__txt
-presaver.com##.result__share
-presaver.com##.result__info-cntr
-presaver.com##.hdl__tit
-presaver.com##.logo__link
-presaver.com##.mb-6
-||presaver.com/images/logo.svg?v2$image
-presaver.com##.main > div:nth-of-type(2)
-||presaver.com/images/clear_input.svg$image
-presaver.com##.ht-a.header
-presaver.com##.insert__form.form
-work.220youtube.ru##.list__item-pvw.list__item
-work.220youtube.ru##.cstm-ttl
-work.220youtube.ru##.footer
-work.220youtube.ru##.dsc__txt
-work.220youtube.ru##.result__share
-work.220youtube.ru##.result__info-cntr
-work.220youtube.ru##.hdl__tit
-work.220youtube.ru##.logo__link
-work.220youtube.ru##.mb-6
-||work.220youtube.ru/images/logo.svg?v2$image
-work.220youtube.ru##.main > div:nth-of-type(2)
-||work.220youtube.ru/images/clear_input.svg$image
-work.220youtube.ru##.ht-a.header
-work.220youtube.ru##.insert__form.form
 paleredflower.com
 forbestbets.com
 www.youtube.com##tp-yt-paper-dialog.ytd-popup-container.style-scope > .ytd-popup-container.style-scope
@@ -617,12 +589,6 @@ www.youtube.com##.ytp-pause-overlay
 ! Удаляет рекламу расширения -ВПН для YouTube без ограничений в России. Ускорить ютуб на ПК-
 www.youtube.com##.rstxt-review-bg-animate
 yandex-video.naydex.net###click_area > div
-9xbuddy.in##.leading-normal.mx-auto.container.hidden
-9xbuddy.in##.mx-auto.container.bg-gray-100
-9xbuddy.in##.left-0
-9xbuddy.in##.leading-7.tracking-wide
-9xbuddy.in##.text-gray-600.block
-9xbuddy.in##.leading-normal.shadow.items-center.justify-around.flex
 yandex-video.naydex.net###animation_container
 market.yandex.ru###\/content\/popup
 market.yandex.ru###\/content\/header\/headerPromo
@@ -669,8 +635,6 @@ dzen.ru##div.content--cart-part-badges__badgesWrapper-3t
 disk.yandex.ru##.top-banner
 ##.b-footer__counters
 zenstat.ru##small > [href="/#price-section"]
-youtube4kdownloader.com###fixed-addon-banner
-youtube4kdownloader.com##.sharethis-sticky-share-buttons
 honestbirds.com
 lmexapvpqbu.life
 fortune-spins.com
@@ -690,37 +654,17 @@ www.youtube.com##div.badge.badge-style-type-verified.style-scope.ytd-badge-suppo
 dzen.ru##.desktop2--corner-banner__root-sT
 dzen.ru##.desktop2--author-title__verifiedIcon-1- > use
 savrandl.com
-ru.savefrom.net##.b-widget-left
-www.converto.io##.share-block-xl
-s5.converto.io##.share-block-xl
 rutube.ru##.svg-icon--IconVerified
 rutube.ru##.svg-icon--IconPhoenix
 ug.tsargrad.tv##div.news-item_article.news-item
 regionvoice.ru##body > div:nth-of-type(8)
 regionvoice.ru##div:nth-of-type(6)
 www.youtube.com###sponsor-button
-ru.onlymp3.co##.modal-body > p
-ru.onlymp3.co##.modal-header
-ru.onlymp3.co##.btn-donate.mt-2.btn
-ru.onlymp3.co##.btn2.btn
-ru.onlymp3.co##.btn.conv-more.w-100
-ru.onlymp3.co##.alert
-ru.onlymp3.co##.main-paragraph.text-center.col-md-12
-ru.onlymp3.co##div.row:nth-of-type(2)
-ru.onlymp3.co##.pt-5.row
-ru.onlymp3.co##.site-footer
-ru.onlymp3.co##hr
-ru.onlymp3.co##.py-4.site-navbar > .container
-ru.onlymp3.co##.vidTitle > b
-ru.onlymp3.co###videoTitle > b
 www.politnavigator.news##.modal-dialog
 my.mail.ru##+js(set-constant, Object.prototype.runMimic, noopFunc)
-www.yt1s.com###cnext
 bjjky.cfd
 ! Убрал из видеоплеера круг на конце полосы загрузки
 www.youtube.com##.ytp-swatch-background-color.ytp-scrubber-button
-tomp3.cc##a.mr-2.btn-blue.btn-primary.btn:nth-of-type(3)
-tomp3.cc##a.mr-2.btn-blue.btn-primary.btn:nth-of-type(2)
 ! Убрал полоски загрузки с недосмотренных видео
 www.youtube.com##ytd-thumbnail-overlay-resume-playback-renderer.ytd-thumbnail.style-scope
 yandex-partner-web.advmusic.com
@@ -728,20 +672,9 @@ yandex.ru##.Thumb-Ratio
 300.ya.ru##.thumbs
 300.ya.ru##.logo-link
 300.ya.ru##.input-counter
-video.qna.center##.ya-share2
-video.qna.center##.vipbutton
-video.qna.center##.btn-primary
 ||fb-cdn.premier.one/files/premier/*.png$image
 rutube.ru##.wdp-onboardings-inventory-module__popupBody
-thewikihow.com##.head-title-bg
-thewikihow.com##.video-title-wrap
-video.qna.center##.adv
 300.ya.ru##.footer
-offmp3.net##.mb-4.mt-2.sm\:block.px-4.py-3.dark\:bg-night-400.max-w-5xl.mx-auto.container.bg-gray-100
-tomp3.cc##.btn-success.btn:nth-of-type(2)
-tomp3.cc##.btn-success.btn:nth-of-type(3)
-www.yt1s.com###loader-wrapper > svg
-||tomp3.cc/statics/image/loading.svg$image
 ||pinkamuz.pro/imgs/backgrounds/*.jpg$image
 ||zvu4no.org/img/*.jpg$image
 ||prog-top.net/templates/prowindows/images/bg.png$image
@@ -788,10 +721,8 @@ dzen.ru##.content--dzen-pro-article-banner__dzenProBanner-3I
 dzen.ru##.video-site--snackbar-v2__isOpening-1o.video-site--snackbar-v2__rootElement-2z
 dzen.ru##.video-site--trap-popup__isShow-2L.trapPopupContainer.video-site--trap-popup__container-3n
 titoralem.com
-www.yt1s.com##.success.mesg-convert.form-control
 ||pruner.ru/wp-content/themes/pruner/images/comp.jpg$image
 ug.tsargrad.tv##.btn-yellow-small.header__btn-small
-ru.onlymp3.co##.sharethis-sticky-share-buttons
 plus.yandex.ru
 360.yandex.ru
 music.yandex.ru
