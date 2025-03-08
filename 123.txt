@@ -549,14 +549,10 @@ www.annalsofoncology.org###onetrust-consent-sdk
 .casino
 chrome-stats.com##.img-fluid
 yt5s.biz###download-app
-www.youtube.com##.ytp-button.ytp-size-button
-www.youtube.com##.ytp-button.ytp-miniplayer-button
-www.youtube.com##.ytp-button.ytp-next-button
 geonode.com##.salesFixedBanner
 www.phag-rostov.ru##div.chat-bot__message--bot.chat-bot__message:nth-of-type(2)
 www.phag-rostov.ru##.chat-bot-widget__text
 calcus.ru##.offers-frow
-www.youtube.com##.ytp-button.ytp-chapter-title
 ||downloaderto.com/images/banner*.jpg$image
 downloaderto.com##.download-note
 presaver.com##.list__item-pvw.list__item
@@ -604,7 +600,6 @@ www.youtube.com##div.ytp-cards-button-icon
 www.youtube.com##button.ytp-remote-button.ytp-button
 www.youtube.com##div.ytp-endscreen-content
 yandex.ru###distr-pcode-container
-www.youtube.com##.ytp-button.ytp-prev-button
 e.mail.ru##.highlight__percent
 e.mail.ru##.highlight__hoverstar
 www.youtube.com##.ytd-rich-section-renderer.style-scope > .ytd-statement-banner-renderer.style-scope
@@ -721,8 +716,6 @@ ru.onlymp3.co###videoTitle > b
 www.politnavigator.news##.modal-dialog
 my.mail.ru##+js(set-constant, Object.prototype.runMimic, noopFunc)
 www.yt1s.com###cnext
-! Убрал из видеоплеера кнопку -Автовоспроизведение выключено-
-www.youtube.com##button.ytp-button:nth-of-type(2)
 bjjky.cfd
 ! Убрал из видеоплеера круг на конце полосы загрузки
 www.youtube.com##.ytp-swatch-background-color.ytp-scrubber-button
@@ -751,7 +744,6 @@ www.yt1s.com###loader-wrapper > svg
 ||tomp3.cc/statics/image/loading.svg$image
 ||pinkamuz.pro/imgs/backgrounds/*.jpg$image
 ||zvu4no.org/img/*.jpg$image
-www.youtube.com##.ytp-button.ytp-fullscreen-button
 ||prog-top.net/templates/prowindows/images/bg.png$image
 www.youtube.com##.video-ads
 www.youtube.com##.ytp-paid-content-overlay-link
@@ -785,7 +777,6 @@ www.youtube.com##.ytp-share-icon
 www.youtube.com##.ytp-ad-action-interstitial
 videopad-video-editor.softonic.ru##.rv-di-step__header--full-image.rv-di-step__header
 ! Убрал кнопку -Автовоспроизведение выключено-
-www.youtube.com##button.ytp-button:nth-of-type(3)
 ##.okko__insert-container
 yandex.ru##.Bno
 ||cdn.*kprtners.com/*.mp4$media
@@ -810,6 +801,18 @@ books.yandex.ru##.LandingOfferBlock_container__IBis_
 ##.InfoSpace_discount
 disk.yandex.ru##.root__bottom-ad
 yandex.ru##.MenuItem_get-premium360
+||www.avito.ru/files/avito/reklama/*.png$image
+kichkas.biz##[href^="https://kichkas.biz/engine/go2.php"]
+alfafile.net##[href="https://donate.redcrossredcrescent.org/ua/donate/~my-donation"]
+alfafile.net##[href^="https://play.google.com/store/apps/details"]
+tsargrad.tv##.sticky-bottom
+www.avito.ru###vr_top
+rutube.ru##.wdp-video-options-row-module__externalDonationButton
+rutube.ru##.r__raichu-endscreen-module__endScreen___B6Tj4.r__raichu-endscreen-module__fullSizeOverlay___frzX1
+monobank.ua
+downldsofts.xyz
+vkvideo.ru##.notifier_type_done_box.notifier_baloon
+peterburg.press##.gnezdo_used
 
 
 
