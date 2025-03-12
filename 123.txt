@@ -609,7 +609,6 @@ ug.tsargrad.tv##.sticky-bottom
 rutube.ru##.notification-container-module__infoNotifications
 cloud.mail.ru##.ph-project-widgets.ph-project
 cloud.mail.ru##.svelte-1mdtsha.balloon-anchor
-cloud.mail.ru##.dimmed.dimmable
 yastatic.net###animation_container
 yandex.ru###search-result-aside
 yandex.ru##.ChristmasTree
@@ -744,6 +743,8 @@ monobank.ua
 downldsofts.xyz
 vkvideo.ru##.notifier_type_done_box.notifier_baloon
 peterburg.press##.gnezdo_used
+news-r.ru##div:nth-of-type(5)
+news-r.ru###block-82
 
 
 
