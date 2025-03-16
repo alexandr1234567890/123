@@ -674,7 +674,6 @@ yandex.ru##.Thumb-Ratio
 ||fb-cdn.premier.one/files/premier/*.png$image
 rutube.ru##.wdp-onboardings-inventory-module__popupBody
 300.ya.ru##.footer
-||pinkamuz.pro/imgs/backgrounds/*.jpg$image
 ||zvu4no.org/img/*.jpg$image
 ||prog-top.net/templates/prowindows/images/bg.png$image
 www.youtube.com##.video-ads
@@ -742,9 +741,18 @@ rutube.ru##.r__raichu-endscreen-module__endScreen___B6Tj4.r__raichu-endscreen-mo
 monobank.ua
 downldsofts.xyz
 vkvideo.ru##.notifier_type_done_box.notifier_baloon
-peterburg.press##.gnezdo_used
 news-r.ru##div:nth-of-type(5)
 news-r.ru###block-82
+##.gnezdo_used
+yandex.ru##.HeaderLogo
+/pandemia_prequel_icon.png$image
+||mloads.com/sm/img/btn.svg$image
+pcprogs.net##.dds > [href^="/index.php"]
+s1pcprogs.ru##.body__download > .body__download-btn
+eadaily.com##.socials-wrapper
+||avatars.dzeninfra.ru/*/blurred*$image
+yandex.*##+js(json-prune, direct rtb seatbid)
+dzen.ru##.content--hkBL0TPgx7QMUUBhJWDEwDfkkjIzkFEtx__hkATXV_otaEsO-3L
 
 
 
