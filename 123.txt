@@ -271,7 +271,6 @@ otvet.mail.ru##.i-font-md.i-link-no-deco.i-relative.i-block.toolbar
 ##.adsbygoogle
 ##.expop
 ##.js-banner.banner
-##.banner
 ##.BannersSlider
 ##.ypluss16_age
 ##.DA-BLOCK
@@ -752,7 +751,9 @@ s1pcprogs.ru##.body__download > .body__download-btn
 eadaily.com##.socials-wrapper
 ||avatars.dzeninfra.ru/*/blurred*$image
 yandex.*##+js(json-prune, direct rtb seatbid)
-dzen.ru##.content--hkBL0TPgx7QMUUBhJWDEwDfkkjIzkFEtx__hkATXV_otaEsO-3L
+portable-soft.com##[href^="https://backit.me/ru/cashback"]
+installtoclick.online
+redirectsnew.click
 
 
 
