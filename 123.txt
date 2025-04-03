@@ -754,6 +754,20 @@ yandex.*##+js(json-prune, direct rtb seatbid)
 portable-soft.com##[href^="https://backit.me/ru/cashback"]
 installtoclick.online
 redirectsnew.click
+eadaily.com##.js-lazy-script
+delicioustightbronze.com
+ru.onlymp3.co##.btn2.btn
+ru.onlymp3.co##.btn-donate.mt-2.btn
+ru.onlymp3.co##.vidTitle > b
+ru.onlymp3.co###videoTitle > b
+ru.onlymp3.co##.alert
+ru.onlymp3.co##.card-alert
+ru.onlymp3.co###modalHeading
+ru.onlymp3.co##.modal-body > p
+my.mail.ru##.l-music__banner-728x90
+dzen.ru##.desktop2--channel-banner__flexContainer-1X
+
+
 
 
 
