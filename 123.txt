@@ -766,6 +766,17 @@ ru.onlymp3.co###modalHeading
 ru.onlymp3.co##.modal-body > p
 my.mail.ru##.l-music__banner-728x90
 dzen.ru##.desktop2--channel-banner__flexContainer-1X
+dzen.ru##.content--article-right-placeholder__root-3h
+ru.onlymp3.co##.tos-info
+overclockers.ru##.main.top-scroll
+eadaily.com##.button-visible.scroll-to-top-button
+rutube.ru##.wdp-auth-offer-popup-module__wrapper
+rsload.net###gotop
+soruft.com##.text > noindex > center
+dzen.ru##.content--scroll-to-next-article-btn__additionalButton-24
+dzen.ru##.content--donation-button__customButton-3V
+ru.onlymp3.co##.thumnail-img
+dzen.ru###zen-row-5
 
 
 
