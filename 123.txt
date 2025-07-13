@@ -297,7 +297,6 @@ otvet.mail.ru##.i-font-md.i-link-no-deco.i-relative.i-block.toolbar
 ##.viqeo-flyWidget
 ##.mailru-visibility-check
 ##.article__item_slot
-##.ydist-popup__content
 ##.promo-banner
 ##.dle_b_yandex2
 ##.pushSubscribe
@@ -350,19 +349,11 @@ otvet.mail.ru##.i-font-md.i-link-no-deco.i-relative.i-block.toolbar
 ||fetchv.net/ads/aisort-en.jpg$image
 yandex.ru##.serp-adv__found
 translate.yandex.ru###themePromo
-yandex.ru##.distr-popup__content.popup2__content
 yandex.ru##.incut_inserted_yes
 yandex.ru##.Warning_type_roskomnadzor
 yandex.ru##.ImagesViewerApp-FooterContent
-yandex.ru##.DistrPopup_location_right-bottom.DistrPopup_visible.DistrPopup_animation_fall-show-bounce.DistrPopup_layout_flat.DistrPopup_motley_dark-blue.DistrPopup
-yandex.ru##.DistrPopup_hideOnPopups.DistrPopup_visible.DistrPopup_animation_bounce.DistrPopup_layout_simple.DistrPopup_motley_dark-grey.DistrPopup_hasShadow.DistrPopup
 yandex.ru##.OrganicReviews.VanillaReact
-yandex.ru##.popup2_visible_yes.popup2_direction_bottom-right.popup2_js_inited.i-bem.serp-user__promo-popup.popup2_view_classic.popup2_hiding_yes.popup2_autoclosable_yes.popup2_target_anchor.popup2_theme_normal.popup2
-yandex.ru##.i-bem.serp.main__distr-popup
-yandex.ru##.DistrPopup-Content
 ya-browser.ru##main > .page
-yandex.ru##.popup_visibility_visible.popup_js_inited.i-bem.serp-user__login-popup.popup_animate_yes.popup_adaptive_no.popup_theme_ffffff.popup_has-close_yes.popup_autoclosable_no.popup_type_modal.popup > .popup__content
-music.yandex.ru##.deco-pane-popup.popup.head-kids__suggest-popup
 yandex.ru##.suggested-user-view
 yandex.ru##.misspell__message_t-mod_anti-mirror
 yandex.ru##.SerpFooter-Carriage
@@ -431,18 +422,15 @@ news-front.su###buttonup
 www.white-windows.ru##.warning--active.warning
 aif.ru##.topline.fixed_menu
 www.rbc.ru##.popmechanic-js-wrapper
-||yastatic.net/s3/home/alice_popup/promo_gpt6.png$image
 ||ug.tsargrad.tv/img/bg-*.png$image
 yandex.ru##.AdvRsyaCrossPage
 yandex.ru##.AdvRsyaSearchColumn
-yandex.ru##.VideoSnippetBadges-ButtonOnboarding.Tooltip_theme_promo.Tooltip_view_default.Tooltip_size_s.Tooltip_visible.Tooltip.Popup2_view_default.Popup2_target_anchor.Popup2_visible.Popup2
 market.yandex.ru###banner-streamer
 yandex.ru##.HeaderDecoration
 market.yandex.ru##.naSP2
 yandex.ru##.JustifierRowLayout-Incut
 market.yandex.ru##.main > noindex
 yandex.ru##a[href*="images/_crpd/"]
-yandex.ru##.FuturisOnboardingPopup.Popup2_target_anchor.Popup2_view_default.Popup2_visible.Popup2
 www.rbc.ru###popmechanic-snippet
 www.youtube.com##.YtSegmentedLikeDislikeButtonViewModelSegmentedButtonsWrapper
 www.rbc.ru##.simple-promo-card
@@ -535,7 +523,6 @@ cloud.mail.ru##.AsidePromoModal__root--2qgpn
 freesoft.ru##.yandex_pack > div > div.row
 www.youtube.com##.status-banner
 dzen.ru##.content--article-action-island-desktop__wHbKUrhogmPTr-12
-dzen.ru##.content--trap-popup__popup-3i
 dzen.ru##.content--action-island__content-tA
 www.youtube.com##.miniplayer
 rsload.net##.prfl
@@ -561,7 +548,6 @@ beatentransfer.com
 ##.product-banner
 insistgoodsrespect.com
 vk.cc
-yandex.ru##.PopupDesktop-Content
 yandex.ru##.DistributionLinkBro
 yandex.ru##.RatingOneStar
 www.youtube.com###teaser-carousel
@@ -584,11 +570,10 @@ www.youtube.com##.ytLikeButtonViewModelHost
 www.youtube.com##.ytDislikeButtonViewModelHost
 www.youtube.com##yt-button-view-model.ytd-menu-renderer
 www.youtube.com##.ytp-pause-overlay
-! Удаляет рекламу расширения -ВПН для YouTube без ограничений в России. Ускорить ютуб на ПК-
+! Удаляет рекламу расширения -ВПН для 123youtube без ограничений в России. Ускорить ютуб на ПК-
 www.youtube.com##.rstxt-review-bg-animate
 yandex-video.naydex.net###click_area > div
 yandex-video.naydex.net###animation_container
-market.yandex.ru###\/content\/popup
 market.yandex.ru###\/content\/header\/headerPromo
 yandex.ru##.MMSidebar-Card_bottomAdv.MMSidebar-Card
 yandex.ru##.DirectStripe
@@ -714,7 +699,6 @@ dzen.ru##.content--corner-banner__root-l4
 ##a[href*="utorrent_installer.exe"]
 dzen.ru##.content--dzen-pro-article-banner__dzenProBanner-3I
 dzen.ru##.video-site--snackbar-v2__isOpening-1o.video-site--snackbar-v2__rootElement-2z
-dzen.ru##.video-site--trap-popup__isShow-2L.trapPopupContainer.video-site--trap-popup__container-3n
 titoralem.com
 ||pruner.ru/wp-content/themes/pruner/images/comp.jpg$image
 ug.tsargrad.tv##.btn-yellow-small.header__btn-small
@@ -800,6 +784,8 @@ dzen.ru###relatives-topic
 /rabota_v_internet.gif$image
 /uploads/files/turb.gif$image
 /uploads/files/rucaptcha.gif$image
+
+
 
 
 
