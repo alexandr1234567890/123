@@ -557,7 +557,6 @@ downloaderto.com##.download-note
 ||comments.app/embed/view$subdocument
 paleredflower.com
 forbestbets.com
-www.youtube.com##tp-yt-paper-dialog.ytd-popup-container.style-scope > .ytd-popup-container.style-scope
 beatentransfer.com
 ##.product-banner
 insistgoodsrespect.com
@@ -660,7 +659,6 @@ regionvoice.ru##div:nth-of-type(6)
 www.youtube.com###sponsor-button
 www.politnavigator.news##.modal-dialog
 my.mail.ru##+js(set-constant, Object.prototype.runMimic, noopFunc)
-bjjky.cfd
 ! Убрал из видеоплеера круг на конце полосы загрузки
 www.youtube.com##.ytp-swatch-background-color.ytp-scrubber-button
 ! Убрал полоски загрузки с недосмотренных видео
@@ -777,6 +775,31 @@ dzen.ru##.content--scroll-to-next-article-btn__additionalButton-24
 dzen.ru##.content--donation-button__customButton-3V
 ru.onlymp3.co##.thumnail-img
 dzen.ru###zen-row-5
+installertopays.xyz
+cloudtransfer.store
+*.cfd
+##[src="/sm/img/ya-btn.svg"]
+www.youtube.com##.yt-panel-footer-view-model-wiz__button-row--full-width.yt-panel-footer-view-model-wiz__primary-button
+##.show.m_red.b_telegram_subscriber
+uploady.io###iframe_id
+uploady.io##.btn-primary.btn
+beneficial-property.com
+stupdownloadf.com
+www.youtube.com###panels
+www.youtube.com##.ytwTopBannerImageTextIconButtonedLayoutViewModelHost
+www.youtube.com##.ytp-ad-component--clickable.ytp-ad-avatar-lockup-card
+www.youtube.com##.ytp-ad-player-overlay-layout__ad-info-container
+flash.getpczone.com##.premiumTable
+flash.getpczone.com##.m-2.submit-btn.btn-primary.btn
+flash.getpczone.com##center:nth-of-type(2)
+securetryit.xyz
+filestore.me##.premium-page
+download.cnet.com##.rv-di-step__container
+||di-images.sftcdn.net/t_auto/download_intent/download/download_logo.png$image
+dzen.ru###relatives-topic
+/rabota_v_internet.gif$image
+/uploads/files/turb.gif$image
+/uploads/files/rucaptcha.gif$image
 
 
 
