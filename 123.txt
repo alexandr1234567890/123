@@ -784,6 +784,27 @@ dzen.ru###relatives-topic
 /rabota_v_internet.gif$image
 /uploads/files/turb.gif$image
 /uploads/files/rucaptcha.gif$image
+frdl.my##ol
+frdl.my##.seperate
+frdl.pw##.btn-lg.btn-warning.btn
+eadaily.com###bn_bfr_menus > .ad-spin
+eadaily.com###col2_height_calc > .ad-spin.size-xs-s-m-hide
+eadaily.com##.ad-spin.forced-reload-ad
+www.youtube.com##yt-related-chip-cloud-renderer
+frdl.hk##.btn-lg.btn-warning.btn
+www.avito.ru##.avito-ads-container_tgb2
+www.avito.ru##.avito-ads-container_wl
+dzen.ru##.comments2--chip__revolver-tt.comments2--chip__chipWrapper-3a
+dzen.ru##.comments2--chip__rootButton-3A
+||bankinform.ru/img/banners/*$image
+market.yandex.ru###\/content\/header\/madvHeaderPromo\/madvHeaderPromo
+bankinform.ru##.banner
+||*/img/ya-btn.svg$image
+torbobit.net###download-main-info [href^="https://download.cdn.yandex.net/yandex-tag/weboffer/YandexPackLoader.exe"]
+xyz##.container
+##.mailru-visibility-check
+e.mail.ru##.layout__column_right-indented.layout__column_right.layout__column
+###octavius-notify-adv-and-predict > div > div
 
 
 
