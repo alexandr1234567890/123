@@ -805,6 +805,15 @@ xyz##.container
 ##.mailru-visibility-check
 e.mail.ru##.layout__column_right-indented.layout__column_right.layout__column
 ###octavius-notify-adv-and-predict > div > div
+sorus.ucoz.ru##[src="//sorus.ucoz.ru/img/vkdjmini.jpg"]
+||*/img/yandex_pack.png$image
+||*/img/adguard2021.png$image
+||*.ozone.ru/*_4320-96.*$image
+e.mail.ru##.trg-b-list
+e.mail.ru##.layer-sent-page__banner
+cloud.mail.ru###sidebar-banner
+frdl.my##.btn-warning
+filedown.uno##.btn-primary
 
 
 
