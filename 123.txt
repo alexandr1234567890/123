@@ -738,18 +738,18 @@ installtoclick.online
 redirectsnew.click
 eadaily.com##.js-lazy-script
 delicioustightbronze.com
-ru.onlymp3.co##.btn2.btn
-ru.onlymp3.co##.btn-donate.mt-2.btn
-ru.onlymp3.co##.vidTitle > b
-ru.onlymp3.co###videoTitle > b
-ru.onlymp3.co##.alert
-ru.onlymp3.co##.card-alert
-ru.onlymp3.co###modalHeading
-ru.onlymp3.co##.modal-body > p
+ru.onlymp3.*##.btn2.btn
+ru.onlymp3.*##.btn-donate.mt-2.btn
+ru.onlymp3.*##.vidTitle > b
+ru.onlymp3.*###videoTitle > b
+ru.onlymp3.*##.alert
+ru.onlymp3.*##.card-alert
+ru.onlymp3.*###modalHeading
+ru.onlymp3.*##.modal-body > p
 my.mail.ru##.l-music__banner-728x90
 dzen.ru##.desktop2--channel-banner__flexContainer-1X
 dzen.ru##.content--article-right-placeholder__root-3h
-ru.onlymp3.co##.tos-info
+ru.onlymp3.*##.tos-info
 overclockers.ru##.main.top-scroll
 eadaily.com##.button-visible.scroll-to-top-button
 rutube.ru##.wdp-auth-offer-popup-module__wrapper
@@ -757,7 +757,7 @@ rsload.net###gotop
 soruft.com##.text > noindex > center
 dzen.ru##.content--scroll-to-next-article-btn__additionalButton-24
 dzen.ru##.content--donation-button__customButton-3V
-ru.onlymp3.co##.thumnail-img
+ru.onlymp3.*##.thumnail-img
 dzen.ru###zen-row-5
 installertopays.xyz
 cloudtransfer.store
@@ -814,6 +814,50 @@ e.mail.ru##.layer-sent-page__banner
 cloud.mail.ru###sidebar-banner
 frdl.my##.btn-warning
 filedown.uno##.btn-primary
+apteka.ru##li > .banners__banner
+vk.com##.PageBottomBanner
+www.sberbank.ru##.csat-review-form__popup
+eadaily.com##.js-scroll-to
+eadaily.com##.bn_news_incut
+rutube.ru###communicationBanner
+||pic.rutube.ru/user/*/*/*.jpg$image
+vestiplaneti.ru##div:nth-of-type(5)
+www.avito.ru##.avito-ads-container_vr_top
+apkpure.com##div.ad-adsense
+apkpure.net##.module.ad-adsense.js-ad-slot
+apkpure.com##.ad-title.js-ad-slot > .ad-box
+www.youtube.com##.ytp-button.ytp-next-button
+www.twitch.tv###twilight-sticky-footer-root
+svpressa.ru##sendsay-subscription-dialog
+rutube.ru##.wdp-popup-overlay-module__overlay
+||freedl.ink/images/rules_dl.png$image
+fredl.ru##center:nth-of-type(1)
+||freedl.ink/images/rules_dl.png$image
+fredl.ru##.seperate
+fredl.ru##center:nth-of-type(2)
+fredl.ru##.padding-2.container
+fredl.ru##.header
+fredl.ru###fdmMsg
+fredl.ru##.footer
+www.petrolplus.ru###jcont
+www.sberbank.ru##.csat-review-form__open-btn
+trashbox.ru##.div_anim_rec1
+www.moscowtimes.ru##.contribute-teaser__button
+www.moscowtimes.ru##.mb-1.contribute-teaser__cta
+www.youtube.com##yt-button-view-model.action-button.ytd-enforcement-message-view-model
+www.youtube.com##li.ytd-enforcement-message-view-model.style-scope
+www.youtube.com###divider
+www.youtube.com###feedback
+||www.vsetv.com/pic/ico_live.gif$image
+www.youtube.com###title > .ytd-enforcement-message-view-model.style-scope > .yt-core-attributed-string--white-space-pre-wrap.yt-core-attributed-string > span
+www.softportal.com##.cardPageDescMain.hide-on-mobile
+it-actual.ru##._one
+it-actual.ru##.x2-der
+it-actual.ru##._rs
+it-actual.ru##.niz
+it-actual.ru##.bloyan
+rutube.ru##.wdp-donation-buton-module__root
+||c.bigmir.net/$image
 
 
 
