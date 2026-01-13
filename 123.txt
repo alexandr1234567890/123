@@ -646,8 +646,6 @@ www.politnavigator.news##.modal-dialog
 my.mail.ru##+js(set-constant, Object.prototype.runMimic, noopFunc)
 ! Убрал из видеоплеера круг на конце полосы загрузки
 www.youtube.com##.ytp-swatch-background-color.ytp-scrubber-button
-! Убрал полоски загрузки с недосмотренных видео
-www.youtube.com##ytd-thumbnail-overlay-resume-playback-renderer.ytd-thumbnail.style-scope
 yandex-partner-web.advmusic.com
 yandex.ru##.Thumb-Ratio
 300.ya.ru##.thumbs
@@ -800,7 +798,6 @@ dzen.ru##.comments2--chip__rootButton-3A
 market.yandex.ru###\/content\/header\/madvHeaderPromo\/madvHeaderPromo
 bankinform.ru##.banner
 ||*/img/ya-btn.svg$image
-torbobit.net###download-main-info [href^="https://download.cdn.yandex.net/yandex-tag/weboffer/YandexPackLoader.exe"]
 xyz##.container
 ##.mailru-visibility-check
 e.mail.ru##.layout__column_right-indented.layout__column_right.layout__column
@@ -858,6 +855,111 @@ it-actual.ru##.niz
 it-actual.ru##.bloyan
 rutube.ru##.wdp-donation-buton-module__root
 ||c.bigmir.net/$image
+tv-soyuz.ru##.twitter-tweet-button
+tv-soyuz.ru##.twitter-share-button
+||vk.com/images/upload.gif$image
+torbobit.net###download-main-info [href^="https://download.cdn.yandex.net/yandex-tag/weboffer/YandexPackLoader.exe"]
+torbobit.net##td.download-button.no-border:nth-of-type(3)
+torbobit.net##[href^="https://download.cdn.yandex.net/yandex-tag/weboffer/YandexPackLoader.exe"]
+torbobit.net###download-top-note
+soruft.com##[href^="https://browsermine.com/"]
+ru.y2mate.is##.support
+ru.y2mate.is###downloadModalTitle
+ru.y2mate.is##.text-center.row.pt-md-3.pt-lg-3.pt-2.ps-md-3.ps-1.pe-md-3.pe-1.pb-md-3.pb-lg-3.pb-2
+ru.y2mate.is##.pt-10.text-center
+downloaderto.com##.lg\:pb-\[63px\].pb-\[51px\].lg\:pt-\[148px\].pt-\[95px\].max-w-\[677px\].mx-auto
+downloaderto.com##.pt-10.video-title.text-center.lg\:text-\[21px\].text-\[15px\].font-medium.mx-auto.max-w-\[496px\]
+downloaderto.com##.partner-list
+www.sibreal.org##.wg-hiding-area
+www.moscowtimes.ru##.timeline
+www.moscowtimes.ru##.contribute-bar
+||counter.yadro.ru/logo$image
+uploady.io##.premium1-premium
+uploady.io##.download2Bar
+yandex.ru##.Distribution-Popup_visible
+dzen.ru##.content--subscribe-banner__subscribeBanner-kp
+unclinic.ru##.scroll-top-left
+www.sberbank.ru##.sber-loader
+www.wildberries.ru##.general-preloader
+www.youtube.com##.yt-spec-button-shape-next--enable-backdrop-filter-experiment.yt-spec-button-shape-next--icon-leading.yt-spec-button-shape-next--size-xs.yt-spec-button-shape-next--overlay.yt-spec-button-shape-next--filled.yt-spec-button-shape-next
+vkvideo.ru##.vkuitokens__defaultColor.vkui--vkCom--dark
+vkvideo.ru##.videoplayer_overlay_btn_container
+www.youtube.com##.ytp-button.ytp-fullscreen-grid-expand-button
+www.youtube.com##.ytp-chapter-title-chevron
+zenstat.ru##.progress
+www.svoboda.org##.wg-hiding-area > .media-block-wrap
+||j.uralweb.ru/hc/bankinform$image
+dzen.ru##.comments2--pro-comment__proBadgeContainer-1F
+www.youtube.com##.ytp-fullscreen-grid
+||informer.yandex.ru/informer/*$image
+rutube.ru##.wdp-feed-banner-module__section
+rutube.ru##.message-module__info
+www.youtube.com##.ytp-info-panel-preview
+www.svoboda.org##.infgraphicsAttach
+www.svoboda.org##.c-mmp__overlay--enabled.js-c-mmp__title-overlay.c-mmp__overlay--slide-from-top.c-mmp__overlay--partial.c-mmp__overlay--title.c-mmp__overlay
+dzen.ru##.channel--parallax-cover-image__rootWrapper-1a
+dzen.ru##.content--button-like__content-20
+dzen.ru##.content--button-footer__buttonFooter-3M
+dzen.ru##.content--button-dislike__content-2Q
+www.youtube.com###page-header-banner
+calcus.ru##[href^="https://ad.adriver.ru/cgi-bin/click.cgi"]
+russeeders.top##[src="/images/light_banner_728х90.png"]
+eadaily.com##.side-announcement-poll.side-announcement
+www.leawo.org##.banner-top
+torbobit.net##.turbo-block
+torbobit.net##.max-speed-time
+torbobit.net##td.minus-ok-cell:nth-of-type(3)
+torbobit.net##tr:nth-of-type(9)
+torbobit.net##.main-menu-links > [href^="/turbo"]
+torbobit.net##.footer
+torbobit.net##.action-block > div > .btn-red
+torbobit.net###premium-download-info
+||avatars.mds.yandex.net/get-market-adv/*/banner-width-*$image
+apkpure.net##.js-ad-slot
+torbobit.net##.payment-block
+torbobit.net##.login-links
+torbobit.net##[src="/fd1/img/main/adult-icon.png"]
+torbobit.net###register-offer-form
+torbobit.net##.active
+locnews.ru##.simnews
+tiktok.softapix.com
+93.ru##.block-opinions
+||static1.eadaily.com/i/decorations/*.png$image
+locnews.ru##.banner_280
+mp3-flac.org##.og-popup-overlay
+www.youtube.com##.ytd-comments-header-renderer.style-scope > yt-button-shape
+www.youtube.com###contentWrapper > .ytd-popup-container.style-scope
+www.youtube.com###button-shape > .yt-spec-button-shape-next--enable-backdrop-filter-experiment
+gigapeta.com##[href^="https://nomi.ai/nomi-ai-companion-api-partnerships/"]
+ria.ru##.recommend__place
+ria.ru##.dot-loader
+my.mail.ru##.l-music__bottom-informer
+web.ligaudio.ru###billboard
+web.ligaudio.ru###DesktopInread
+web.ligaudio.ru###DesktopFooter
+web.ligaudio.ru##.left
+web.ligaudio.ru##.right
+web.ligaudio.ru##p > [href^="/"]
+pinkamuz.pro##.img
+||pinkamuz.pro/imgs/backgrounds/*$image
+dzen.ru##.comments2--tooltip-v3__withAnimationOnClose-21.comments2--tooltip-v3__isVisible-9e.comments2--tooltip-v3__centerTextAlign-3n.comments2--tooltip-v3__animation--L.comments2--tooltip-v3__tooltip-3U
+yandex.ru##.DistributionPopup_visible.DistributionPopup_location_right-bottom.DistributionPopup_animation_fade-show-bounce.DistributionPopup_layout_renew.DistributionPopup_motley_grey.DistributionPopup_hasShadow.DistributionPopup
+notube.net##.social-media
+||cdn.notube.net/images/general/wallpaper*.jpg$image
+notube.net##.share-section
+notube.net##.nt-plus-link
+vk.com##.vkuitokens__defaultColor.vkui--vkCom--dark
+dzen.ru##.comments2--comment-footer__reactionsContainer-17
+dzen.ru##.comments2--comment-input__isMain-1p.comments2--comment-input__block-n7
+93.ru###comment-form-bottom
+93.ru###comment-form-top
+yandex.ru##.Button_size_l.Button_view_clear.DistributionButtonOk.DistributionButton.Button_link.Button
+music.apple.com##.cwc-upsell-banner
+wefightyourtickets.ca##[href^="https://spellingdelicatessenremove.com/"]
+clickapi.net##.mb-2.dark\:text-blue-400.text-blue-600.mx-auto.h-8.w-8
+clickapi.net##.mb-2.dark\:text-blue-200.text-blue-800.font-semibold.text-lg
+clickapi.net##.mb-4.dark\:text-blue-300.text-blue-700.text-sm
+yandex.ru##.Button_size_m.DistributionButtonOk.DistributionButton.Button_link.Button
 
 
 
