@@ -960,6 +960,14 @@ clickapi.net##.mb-2.dark\:text-blue-400.text-blue-600.mx-auto.h-8.w-8
 clickapi.net##.mb-2.dark\:text-blue-200.text-blue-800.font-semibold.text-lg
 clickapi.net##.mb-4.dark\:text-blue-300.text-blue-700.text-sm
 yandex.ru##.Button_size_m.DistributionButtonOk.DistributionButton.Button_link.Button
+clickapi.net##.mb-3.dark\:text-green-300.text-green-700.text-sm
+clickapi.net##.leading-6.dark\:text-white.text-gray-900.text-base.font-semibold
+www.wildberries.ru##.banners-zones-container
+dzen.ru##.channel--channel-banner__flexContainer-1X
+! маклаково.рф
+||xn--80aag4abeevb.xn--p1ai/i/*.gif$image
+||xn--80aag4abeevb.xn--p1ai/images/banner*.gif$image
+||xn--80aag4abeevb.xn--p1ai/images/banner*.png$image
 
 
 
