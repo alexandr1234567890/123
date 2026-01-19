@@ -309,7 +309,6 @@ otvet.mail.ru##.i-font-md.i-link-no-deco.i-relative.i-block.toolbar
 ##.bl_all_rek
 ##.roxotAdContainer
 ##.banner3
-##.mts-floor-aida__block
 ##.float_banner
 ##.-inner-info-fix.video-inner-top
 ##.social-onboarding
@@ -398,19 +397,11 @@ www.avito.ru##.gallery-block-contactBarContainer-jtPAg
 www.pravmir.ru###hh_fond_cause_widget-3
 www.pravmir.ru###hh_donate_button_widget_2-2
 poweruser.guru###footer
-www.youtube.com##.ytd-segmented-like-dislike-button-renderer
-www.youtube.com###dislike-button
-www.youtube.com###like-button
-www.youtube.com###vote-count-middle
-||youtube.com/api/stats/qoe?
 /v1/log_event
 /generate_204
-||youtube.com/ptracking?
 /pagead/lvz?
 ||google.com/gen_204?
 googleads.g.doubleclick.net/pagead/id
-youtube.com/pagead
-www.youtube.com###chat
 overclockers.ru##.right-content-wrap
 www.ebay.com##.srp-save-search__tooltip--shown.srp-save-search__tooltip
 www.tweaktown.com###popular-now
@@ -432,7 +423,6 @@ yandex.ru##.JustifierRowLayout-Incut
 market.yandex.ru##.main > noindex
 yandex.ru##a[href*="images/_crpd/"]
 www.rbc.ru###popmechanic-snippet
-www.youtube.com##.YtSegmentedLikeDislikeButtonViewModelSegmentedButtonsWrapper
 www.rbc.ru##.simple-promo-card
 e.mail.ru##.js-promo-id_widget-header
 e.mail.ru##.ph-logo__img
@@ -501,9 +491,6 @@ cpatracking.ru
 e.mail.ru##.vkuiSnackbar__snackbar.vkuiSnackbar--layout-vertical.vkuiSnackbar__body
 ##.banner-stretch
 aliexpress.ru##.ModuleBanner_ModuleBanner__outer-wrapper__100x6
-www.youtube.com##.ytd-download-button-renderer
-www.youtube.com##.YtwTimedAnimationButtonRendererHost
-www.youtube.com###subscribe-button-shape
 ##[href^="https://yandex.ru/video/_crpd/"]
 hotgame18.ru
 youla.ru###app > div:nth-of-type(4)
@@ -514,17 +501,13 @@ snapsave.io##[src="https://i.ytimg.com/vi/QoYqB7_xAP4/0.jpg"]
 ##.fh5---banner---container
 yandex.ru##.DirectFeature
 e.mail.ru##.notify-stack
-www.youtube.com###mealbar-promo-renderer
 dzen.ru##.content--article-action-island-desktop__container-12
-www.youtube.com###clarify-box
 ogosoft.ucoz.ru##[href^="https://bundle-offer.click/"]
 yandex.ru##.MessageBox-Content
 cloud.mail.ru##.AsidePromoModal__root--2qgpn
 freesoft.ru##.yandex_pack > div > div.row
-www.youtube.com##.status-banner
 dzen.ru##.content--article-action-island-desktop__wHbKUrhogmPTr-12
 dzen.ru##.content--action-island__content-tA
-www.youtube.com##.miniplayer
 rsload.net##.prfl
 rsload.net##.tgwrap
 rsload.net##[href="https://rsload.net/soft/windows/"] > .marker
@@ -550,28 +533,11 @@ insistgoodsrespect.com
 vk.cc
 yandex.ru##.DistributionLinkBro
 yandex.ru##.RatingOneStar
-www.youtube.com###teaser-carousel
-www.youtube.com##div.annotation.annotation-type-custom.iv-branding
-www.youtube.com##div.ytp-cards-button-icon
-www.youtube.com##button.ytp-remote-button.ytp-button
-www.youtube.com##div.ytp-endscreen-content
 yandex.ru###distr-pcode-container
 e.mail.ru##.highlight__percent
 e.mail.ru##.highlight__hoverstar
-www.youtube.com##.ytd-rich-section-renderer.style-scope > .ytd-statement-banner-renderer.style-scope
-www.youtube.com##div.ytp-paid-content-overlay-text
-www.youtube.com##.ytp-ce-element
 e.mail.ru##.noads-button__button
 e.mail.ru##.ad-feedback
-www.youtube.com##.ytp-show-cards-title.ytp-chrome-top
-www.youtube.com##div.ytp-cards-teaser
-www.youtube.com###alerts > .ytd-browse.style-scope
-www.youtube.com##.ytLikeButtonViewModelHost
-www.youtube.com##.ytDislikeButtonViewModelHost
-www.youtube.com##yt-button-view-model.ytd-menu-renderer
-www.youtube.com##.ytp-pause-overlay
-! Удаляет рекламу расширения -ВПН для 123youtube без ограничений в России. Ускорить ютуб на ПК-
-www.youtube.com##.rstxt-review-bg-animate
 yandex-video.naydex.net###click_area > div
 yandex-video.naydex.net###animation_container
 market.yandex.ru###\/content\/header\/headerPromo
@@ -632,7 +598,6 @@ rutube.ru##span.wdp-poster-badge-module__poster-badge.wdp-card-video-options-mod
 ||autofill.yandex.ru/suggest$subdocument
 pikabu.ru##.sidebar-block_half.sidebar-block
 pikabu.ru##.profile-info
-www.youtube.com##div.badge.badge-style-type-verified.style-scope.ytd-badge-supported-renderer.style-scope.ytd-badge-supported-renderer
 dzen.ru##.desktop2--corner-banner__root-sT
 dzen.ru##.desktop2--author-title__verifiedIcon-1- > use
 savrandl.com
@@ -641,11 +606,8 @@ rutube.ru##.svg-icon--IconPhoenix
 ug.tsargrad.tv##div.news-item_article.news-item
 regionvoice.ru##body > div:nth-of-type(8)
 regionvoice.ru##div:nth-of-type(6)
-www.youtube.com###sponsor-button
 www.politnavigator.news##.modal-dialog
 my.mail.ru##+js(set-constant, Object.prototype.runMimic, noopFunc)
-! Убрал из видеоплеера круг на конце полосы загрузки
-www.youtube.com##.ytp-swatch-background-color.ytp-scrubber-button
 yandex-partner-web.advmusic.com
 yandex.ru##.Thumb-Ratio
 300.ya.ru##.thumbs
@@ -656,10 +618,7 @@ rutube.ru##.wdp-onboardings-inventory-module__popupBody
 300.ya.ru##.footer
 ||zvu4no.org/img/*.jpg$image
 ||prog-top.net/templates/prowindows/images/bg.png$image
-www.youtube.com##.video-ads
-www.youtube.com##.ytp-paid-content-overlay-link
 workers.dev
-www.youtube.com##.ytp-title-fullerscreen-link.yt-uix-sessionlink.ytp-title-link
 kinopoisk.ru
 kion.ru
 wink.ru
@@ -682,10 +641,7 @@ www.kino-teatr.ru##.button_online_block
 yandex.ru##.EntityCarousel_theme_movies
 ##a[href^="https://www.kinopoisk.ru/"]
 mail.yandex.ru##.Theme.Modal_theme_normal.Modal_hasAnimation.Modal_visible.Modal
-www.youtube.com##.ytp-ad-action-interstitial-background-container-unified.ytp-ad-action-interstitial-background-container
-www.youtube.com##.ytp-share-icon
 ||*/uploads/ya/*.png$image
-www.youtube.com##.ytp-ad-action-interstitial
 videopad-video-editor.softonic.ru##.rv-di-step__header--full-image.rv-di-step__header
 ! Убрал кнопку -Автовоспроизведение выключено-
 ##.okko__insert-container
@@ -761,16 +717,11 @@ installertopays.xyz
 cloudtransfer.store
 *.cfd
 ##[src="/sm/img/ya-btn.svg"]
-www.youtube.com##.yt-panel-footer-view-model-wiz__button-row--full-width.yt-panel-footer-view-model-wiz__primary-button
 ##.show.m_red.b_telegram_subscriber
 uploady.io###iframe_id
 uploady.io##.btn-primary.btn
 beneficial-property.com
 stupdownloadf.com
-www.youtube.com###panels
-www.youtube.com##.ytwTopBannerImageTextIconButtonedLayoutViewModelHost
-www.youtube.com##.ytp-ad-component--clickable.ytp-ad-avatar-lockup-card
-www.youtube.com##.ytp-ad-player-overlay-layout__ad-info-container
 flash.getpczone.com##.premiumTable
 flash.getpczone.com##.m-2.submit-btn.btn-primary.btn
 flash.getpczone.com##center:nth-of-type(2)
@@ -788,7 +739,6 @@ frdl.pw##.btn-lg.btn-warning.btn
 eadaily.com###bn_bfr_menus > .ad-spin
 eadaily.com###col2_height_calc > .ad-spin.size-xs-s-m-hide
 eadaily.com##.ad-spin.forced-reload-ad
-www.youtube.com##yt-related-chip-cloud-renderer
 frdl.hk##.btn-lg.btn-warning.btn
 www.avito.ru##.avito-ads-container_tgb2
 www.avito.ru##.avito-ads-container_wl
@@ -823,7 +773,6 @@ www.avito.ru##.avito-ads-container_vr_top
 apkpure.com##div.ad-adsense
 apkpure.net##.module.ad-adsense.js-ad-slot
 apkpure.com##.ad-title.js-ad-slot > .ad-box
-www.youtube.com##.ytp-button.ytp-next-button
 www.twitch.tv###twilight-sticky-footer-root
 svpressa.ru##sendsay-subscription-dialog
 rutube.ru##.wdp-popup-overlay-module__overlay
@@ -841,12 +790,7 @@ www.sberbank.ru##.csat-review-form__open-btn
 trashbox.ru##.div_anim_rec1
 www.moscowtimes.ru##.contribute-teaser__button
 www.moscowtimes.ru##.mb-1.contribute-teaser__cta
-www.youtube.com##yt-button-view-model.action-button.ytd-enforcement-message-view-model
-www.youtube.com##li.ytd-enforcement-message-view-model.style-scope
-www.youtube.com###divider
-www.youtube.com###feedback
 ||www.vsetv.com/pic/ico_live.gif$image
-www.youtube.com###title > .ytd-enforcement-message-view-model.style-scope > .yt-core-attributed-string--white-space-pre-wrap.yt-core-attributed-string > span
 www.softportal.com##.cardPageDescMain.hide-on-mobile
 it-actual.ru##._one
 it-actual.ru##.x2-der
@@ -881,27 +825,21 @@ dzen.ru##.content--subscribe-banner__subscribeBanner-kp
 unclinic.ru##.scroll-top-left
 www.sberbank.ru##.sber-loader
 www.wildberries.ru##.general-preloader
-www.youtube.com##.yt-spec-button-shape-next--enable-backdrop-filter-experiment.yt-spec-button-shape-next--icon-leading.yt-spec-button-shape-next--size-xs.yt-spec-button-shape-next--overlay.yt-spec-button-shape-next--filled.yt-spec-button-shape-next
 vkvideo.ru##.vkuitokens__defaultColor.vkui--vkCom--dark
 vkvideo.ru##.videoplayer_overlay_btn_container
-www.youtube.com##.ytp-button.ytp-fullscreen-grid-expand-button
-www.youtube.com##.ytp-chapter-title-chevron
 zenstat.ru##.progress
 www.svoboda.org##.wg-hiding-area > .media-block-wrap
 ||j.uralweb.ru/hc/bankinform$image
 dzen.ru##.comments2--pro-comment__proBadgeContainer-1F
-www.youtube.com##.ytp-fullscreen-grid
 ||informer.yandex.ru/informer/*$image
 rutube.ru##.wdp-feed-banner-module__section
 rutube.ru##.message-module__info
-www.youtube.com##.ytp-info-panel-preview
 www.svoboda.org##.infgraphicsAttach
 www.svoboda.org##.c-mmp__overlay--enabled.js-c-mmp__title-overlay.c-mmp__overlay--slide-from-top.c-mmp__overlay--partial.c-mmp__overlay--title.c-mmp__overlay
 dzen.ru##.channel--parallax-cover-image__rootWrapper-1a
 dzen.ru##.content--button-like__content-20
 dzen.ru##.content--button-footer__buttonFooter-3M
 dzen.ru##.content--button-dislike__content-2Q
-www.youtube.com###page-header-banner
 calcus.ru##[href^="https://ad.adriver.ru/cgi-bin/click.cgi"]
 russeeders.top##[src="/images/light_banner_728х90.png"]
 eadaily.com##.side-announcement-poll.side-announcement
@@ -927,9 +865,6 @@ tiktok.softapix.com
 ||static1.eadaily.com/i/decorations/*.png$image
 locnews.ru##.banner_280
 mp3-flac.org##.og-popup-overlay
-www.youtube.com##.ytd-comments-header-renderer.style-scope > yt-button-shape
-www.youtube.com###contentWrapper > .ytd-popup-container.style-scope
-www.youtube.com###button-shape > .yt-spec-button-shape-next--enable-backdrop-filter-experiment
 gigapeta.com##[href^="https://nomi.ai/nomi-ai-companion-api-partnerships/"]
 ria.ru##.recommend__place
 ria.ru##.dot-loader
@@ -968,6 +903,10 @@ dzen.ru##.channel--channel-banner__flexContainer-1X
 ||xn--80aag4abeevb.xn--p1ai/i/*.gif$image
 ||xn--80aag4abeevb.xn--p1ai/images/banner*.gif$image
 ||xn--80aag4abeevb.xn--p1ai/images/banner*.png$image
+rock-metal-wave.ru###ToTop.go-up
+rock-metal-wave.ru###OnBottom.go-down
+rock-metal-wave.ru##.likebtn-wrapper
+rock-metal-wave.ru##.uSocial-Share
 
 
 
