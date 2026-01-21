@@ -763,7 +763,6 @@ frdl.my##.btn-warning
 filedown.uno##.btn-primary
 apteka.ru##li > .banners__banner
 vk.com##.PageBottomBanner
-www.sberbank.ru##.csat-review-form__popup
 eadaily.com##.js-scroll-to
 eadaily.com##.bn_news_incut
 rutube.ru###communicationBanner
@@ -786,7 +785,6 @@ fredl.ru##.header
 fredl.ru###fdmMsg
 fredl.ru##.footer
 www.petrolplus.ru###jcont
-www.sberbank.ru##.csat-review-form__open-btn
 trashbox.ru##.div_anim_rec1
 www.moscowtimes.ru##.contribute-teaser__button
 www.moscowtimes.ru##.mb-1.contribute-teaser__cta
@@ -823,7 +821,6 @@ uploady.io##.download2Bar
 yandex.ru##.Distribution-Popup_visible
 dzen.ru##.content--subscribe-banner__subscribeBanner-kp
 unclinic.ru##.scroll-top-left
-www.sberbank.ru##.sber-loader
 www.wildberries.ru##.general-preloader
 vkvideo.ru##.vkuitokens__defaultColor.vkui--vkCom--dark
 vkvideo.ru##.videoplayer_overlay_btn_container
@@ -907,6 +904,8 @@ rock-metal-wave.ru###ToTop.go-up
 rock-metal-wave.ru###OnBottom.go-down
 rock-metal-wave.ru##.likebtn-wrapper
 rock-metal-wave.ru##.uSocial-Share
+www.youtube.com##.ytd-download-button-renderer.style-scope
+www.youtube.com##.tp-yt-paper-toggle-button.style-scope.toggle-container
 
 
 
