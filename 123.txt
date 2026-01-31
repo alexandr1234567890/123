@@ -907,6 +907,9 @@ rock-metal-wave.ru##.uSocial-Share
 www.youtube.com##.ytd-download-button-renderer.style-scope
 www.youtube.com##.tp-yt-paper-toggle-button.style-scope.toggle-container
 www.youtube.com###header > .ytd-section-list-renderer.style-scope
+www.youtube.com##.ytd-offline-promo-renderer.style-scope.buttons
+www.youtube.com##.yt-spec-dialog-layout__dialog-layout-footer-container
+the-radio.ru##.artblack-ava
 
 
 
