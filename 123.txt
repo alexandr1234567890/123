@@ -910,6 +910,22 @@ www.youtube.com###header > .ytd-section-list-renderer.style-scope
 www.youtube.com##.ytd-offline-promo-renderer.style-scope.buttons
 www.youtube.com##.yt-spec-dialog-layout__dialog-layout-footer-container
 the-radio.ru##.artblack-ava
+yandex.ru##.DistributionPopup_visible.DistributionPopup_location_bottom.DistributionPopup_animation_bounce.DistributionPopup_layout_system_narrow_button.DistributionPopup_motley_white-old.DistributionPopup
+album-mp3.ru##.mikeoscardeltaalphalima-content
+www.youtube.com##[href^="https://browsec.com/orders/new"]
+www.youtube.com##.ytd-menu-renderer.style-scope.ytSegmentedLikeDislikeButtonViewModelHost
+www.youtube.com##.bg-gradient-fiolet.rstxt-premium.rstxt-review-bg-animate
+www.youtube.com##.rstxt-review.rstxt-review-bg-animate
+www.youtube.com##.ytd-network-status-banner.style-scope.status-banner
+www.youtube.com###top-level-buttons-computed > yt-button-view-model.ytd-menu-renderer
+www.youtube.com###button-shape > .yt-spec-button-shape-next--enable-backdrop-filter-experiment.yt-spec-button-shape-next--icon-button.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--tonal.yt-spec-button-shape-next
+www.svoboda.org##.link-content-sharing.buttons
+rutube.ru##.wdp-video-like-dislike-reactions-module__wrapper
+rutube.ru##.wdp-comment-reactions-module__buttons-row
+rutube.ru##button.wdp-video-row-actions-button-module__item:nth-of-type(2)
+www.youtube.com###action-buttons > .ytd-comment-action-buttons-renderer.style-scope
+www.youtube.com###action-buttons > .ytd-comment-engagement-bar.style-scope
+apteka.ru##li > .RkPosters__item
 
 
 
