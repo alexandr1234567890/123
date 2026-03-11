@@ -926,6 +926,18 @@ rutube.ru##button.wdp-video-row-actions-button-module__item:nth-of-type(2)
 www.youtube.com###action-buttons > .ytd-comment-action-buttons-renderer.style-scope
 www.youtube.com###action-buttons > .ytd-comment-engagement-bar.style-scope
 apteka.ru##li > .RkPosters__item
+the-radio.ru###adbar
+the-radio.ru##.artblack-promo
+www.youtube.com###share-button
+www.youtube.com###repeat-button
+vk.com##.like_btns
+vk.com##.share_link
+yasnonews.ru##.social-popup
+dzen.ru##.content--article-info-block__rightContent-U4 > div
+www.youtube.com###page-header-banner
+www.finam.ru###offfy-bottom-fixed-content
+www.youtube.com##yt-button-view-model.ytd-menu-renderer:nth-of-type(2) > .ytd-menu-renderer.style-scope.ytSpecButtonViewModelHost > .yt-spec-button-shape-next--enable-backdrop-filter-experiment.yt-spec-button-shape-next--icon-leading.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--tonal.yt-spec-button-shape-next
+www.youtube.com##.ytp-swatch-background-color.ytp-scrubber-button
 
 
 
