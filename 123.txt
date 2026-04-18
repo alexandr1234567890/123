@@ -821,7 +821,6 @@ uploady.io##.download2Bar
 yandex.ru##.Distribution-Popup_visible
 dzen.ru##.content--subscribe-banner__subscribeBanner-kp
 unclinic.ru##.scroll-top-left
-www.wildberries.ru##.general-preloader
 vkvideo.ru##.vkuitokens__defaultColor.vkui--vkCom--dark
 vkvideo.ru##.videoplayer_overlay_btn_container
 zenstat.ru##.progress
@@ -876,10 +875,6 @@ pinkamuz.pro##.img
 ||pinkamuz.pro/imgs/backgrounds/*$image
 dzen.ru##.comments2--tooltip-v3__withAnimationOnClose-21.comments2--tooltip-v3__isVisible-9e.comments2--tooltip-v3__centerTextAlign-3n.comments2--tooltip-v3__animation--L.comments2--tooltip-v3__tooltip-3U
 yandex.ru##.DistributionPopup_visible.DistributionPopup_location_right-bottom.DistributionPopup_animation_fade-show-bounce.DistributionPopup_layout_renew.DistributionPopup_motley_grey.DistributionPopup_hasShadow.DistributionPopup
-notube.net##.social-media
-||cdn.notube.net/images/general/wallpaper*.jpg$image
-notube.net##.share-section
-notube.net##.nt-plus-link
 vk.com##.vkuitokens__defaultColor.vkui--vkCom--dark
 dzen.ru##.comments2--comment-footer__reactionsContainer-17
 dzen.ru##.comments2--comment-input__isMain-1p.comments2--comment-input__block-n7
@@ -938,6 +933,49 @@ www.youtube.com###page-header-banner
 www.finam.ru###offfy-bottom-fixed-content
 www.youtube.com##yt-button-view-model.ytd-menu-renderer:nth-of-type(2) > .ytd-menu-renderer.style-scope.ytSpecButtonViewModelHost > .yt-spec-button-shape-next--enable-backdrop-filter-experiment.yt-spec-button-shape-next--icon-leading.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--tonal.yt-spec-button-shape-next
 www.youtube.com##.ytp-swatch-background-color.ytp-scrubber-button
+www.youtube.com###menu > .ytd-watch-metadata.style-scope
+www.youtube.com##.smartimation--enable-masking.smartimation.ytd-subscribe-button-renderer.style-scope
+www.youtube.com##ytd-badge-supported-renderer
+www.youtube.com##.yt-content-metadata-view-model__badge
+www.youtube.com##.yt-core-attributed-string--inline-block-mod
+frdl.hk##.cross
+disk.yandex.ru##.DownloadMobileQR
+ok.ru##.auth_login_banner_auth-login-banner
+www.profinance.ru###quote-table-1
+www.profinance.ru###quote-table-2
+www.profinance.ru###quote-table-3
+www.profinance.ru###quote-table-4
+www.profinance.ru###quote-table-5
+www.profinance.ru##.row.x-w-lg-50.w-auto.w-100.x-red.bd-highlight.p-0 > p
+www.profinance.ru###table-quote-show-cont
+www.profinance.ru##h4
+www.profinance.ru##.bd-footer
+dzen.ru##.content--stellas-fancy-reaction-button__wrapper-1F
+www.profinance.ru##.ticker-main-container
+dzen.ru##.channel--channel-title__verify-oE
+www.youtube.com###subscribe-button-shape
+arenabreakoutinfinite.com
+wherewindsmeetgame.com
+dengisrazy.ru
+becoiffedcucurbitsunstating.com
+openshield.com
+1xlite-*.bar
+getfinefile.com
+smotrim.ru##.subscribe-button
+notube.net##.glyphicon-headphones.glyphicon-blocDL.glyphicon
+notube.net##.glyphicon-film.glyphicon-blocDL.glyphicon
+notube.net##.page-title-desc > div > p
+notube.net##.glyphicon-repeat.glyphicon
+notube.net##.glyphicon-download-alt.glyphicon
+notube.net##.glyphicon-bullhorn.glyphicon-blocDL.glyphicon
+dzen.ru##.comments2--avatar__withBorder-2u.comments2--avatar__avatar-Co
+downtopc.com##[href="javascript:poClick('code=s4l6mp&s1=pusu&title='+document.title+'&title_end={title_end_value}')"]
+www.youtube.com##.iv-click-target.branding-img
+dzen.ru##.comments2--comment-text__addressee-1B.comments2--rich-text__colorPrimary-2J.comments2--rich-text__text-1W
+dzen.ru##div.comments2--comment__root-_K.comments2--comment__isDesktop-1K.comments2--comment__wrapper-2Z > .comments2--comment__content-1L > .comments2--comment__tu1nMaD0-3j > .comments2--comment__comment-2P > div > .comments2--comment-header__dzenProEmojiEnabled-2J.comments2--comment-header__isDesktop-rn.comments2--comment-header__block-3R > .comments2--comment-header__leftRow-ZZ
+dzen.ru###Comments2MicroRoot--5995962702689536459 > .comments2--wrapper-comments__block-2x > .comments2--loading-boundary-stacked-layout__boundary-2W > .comments2--comments-loading-boundary__content-3W.comments2--loading-boundary-stacked-layout__content-3p > div > div.comments2--comment__root-_K.comments2--comment__isDesktop-1K.comments2--comment__wrapper-2Z > .comments2--comment__content-1L > .comments2--comment__tu1nMaD0-3j > .comments2--comment__comment-2P > div > .comments2--comment-header__dzenProEmojiEnabled-2J.comments2--comment-header__isDesktop-rn.comments2--comment-header__block-3R > .comments2--comment-header__rightRow-1N > .comments2--comment__commentMenu-11.comments2--comment-header__item-22.comments2--comment-header__menuButton-1n.comments2--comment-menu__menuIconRedesign-kM > svg > use
+www.youtube.com###movie_player > .ytp-overlays-container > .ytp-overlay-top-right > .ytp-chrome-top-buttons > .ytp-cards-button.ytp-button > .ytp-cards-button-icon-default > .ytp-cards-button-icon
+www.youtube.com###movie_player > .ytp-overlays-container > .ytp-overlay-top-right > .ytp-chrome-top-buttons > .ytp-cards-teaser > .ytp-cards-teaser-text > .ytp-cards-teaser-label
 
 
 
