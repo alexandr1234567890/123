@@ -398,8 +398,8 @@ www.pravmir.ru###hh_fond_cause_widget-3
 www.pravmir.ru###hh_donate_button_widget_2-2
 poweruser.guru###footer
 /v1/log_event
-/generate_204
 /pagead/lvz?
+/generate_204
 ||google.com/gen_204?
 googleads.g.doubleclick.net/pagead/id
 overclockers.ru##.right-content-wrap
@@ -974,8 +974,42 @@ www.youtube.com##.iv-click-target.branding-img
 dzen.ru##.comments2--comment-text__addressee-1B.comments2--rich-text__colorPrimary-2J.comments2--rich-text__text-1W
 dzen.ru##div.comments2--comment__root-_K.comments2--comment__isDesktop-1K.comments2--comment__wrapper-2Z > .comments2--comment__content-1L > .comments2--comment__tu1nMaD0-3j > .comments2--comment__comment-2P > div > .comments2--comment-header__dzenProEmojiEnabled-2J.comments2--comment-header__isDesktop-rn.comments2--comment-header__block-3R > .comments2--comment-header__leftRow-ZZ
 dzen.ru###Comments2MicroRoot--5995962702689536459 > .comments2--wrapper-comments__block-2x > .comments2--loading-boundary-stacked-layout__boundary-2W > .comments2--comments-loading-boundary__content-3W.comments2--loading-boundary-stacked-layout__content-3p > div > div.comments2--comment__root-_K.comments2--comment__isDesktop-1K.comments2--comment__wrapper-2Z > .comments2--comment__content-1L > .comments2--comment__tu1nMaD0-3j > .comments2--comment__comment-2P > div > .comments2--comment-header__dzenProEmojiEnabled-2J.comments2--comment-header__isDesktop-rn.comments2--comment-header__block-3R > .comments2--comment-header__rightRow-1N > .comments2--comment__commentMenu-11.comments2--comment-header__item-22.comments2--comment-header__menuButton-1n.comments2--comment-menu__menuIconRedesign-kM > svg > use
-www.youtube.com###movie_player > .ytp-overlays-container > .ytp-overlay-top-right > .ytp-chrome-top-buttons > .ytp-cards-button.ytp-button > .ytp-cards-button-icon-default > .ytp-cards-button-icon
-www.youtube.com###movie_player > .ytp-overlays-container > .ytp-overlay-top-right > .ytp-chrome-top-buttons > .ytp-cards-teaser > .ytp-cards-teaser-text > .ytp-cards-teaser-label
+www.badpolit.ru##.widget_block.widget
+www.badpolit.ru###footer
+chatgpt.com##.text-token-text-primary.bg-token-main-surface-primary.border-token-border-default
+dzen.ru##.comments2--comment-header__leftRow-ZZ
+dzen.ru##div.comments2--comment__root-_K.comments2--comment__isDesktop-1K.comments2--comment__wrapper-2Z > .comments2--comment__content-1L > .comments2--comment__qNsfWkLg-3j > .comments2--comment__comment-2P > div > .comments2--comment-header__dzenProEmojiEnabled-2J.comments2--comment-header__isDesktop-rn.comments2--comment-header__block-3R
+dzen.ru##.comments2--comment__childComments-2H > .comments2--comment__isDesktop-1K.comments2--comment__wrapper-2Z > .comments2--comment__content-1L > .comments2--comment__left-2P
+dzen.ru##div.comments2--comment__root-_K.comments2--comment__isDesktop-1K.comments2--comment__wrapper-2Z > .comments2--comment__content-1L > .comments2--comment__left-2P
+dzen.ru##.channel--desktop-info-layout__controls-33
+dzen.ru##.content--publisher-block-inline__buttonWrapper-3R
+dzen.ru##.comments2--comment-header__dzenProEmojiEnabled-2J.comments2--comment-header__isDesktop-rn.comments2--comment-header__block-3R
+dzen.ru##.comments2--comment__commentMenu-11.comments2--comment-header__item-22.comments2--comment-header__menuButton-1n.comments2--comment-menu__menuIconRedesign-kM > svg > use
+yandex-video.naydex.net###click1_area
+yandex.ru##.DirectInlineContainer
+www.fontanka.ru##.mt-6
+utorrentsoft.ru##[href="//v1.utorrentsoft.ru/b2/"]
+utorrentsoft.ru##[href="//v1.utorrentsoft.ru/b1/"]
+www.youtube.com##.chip-bar
+www.youtube.com##.ytFlexibleActionsViewModelJustifyContentStart.ytFlexibleActionsViewModelInline.ytPageHeaderViewModelFlexibleActionsMarginBottom.ytPageHeaderViewModelFlexibleActionsMarginTop.ytPageHeaderViewModelFlexibleActions.ytFlexibleActionsViewModelHost
+www.youtube.com##.ytPageHeaderViewModelHeadlineImage.ytDecoratedAvatarViewModelHost
+www.youtube.com##.no-transition.ytd-video-owner-renderer.style-scope
+kod.ru###notifyContainer
+www.sport-interfax.ru##.bss_show_subscribe.bss__wrap
+www.youtube.com##.ytContentMetadataViewModelIcon.ytIconWrapperHost
+www.youtube.com##.ytAttributedStringInlineBlockMod
+www.youtube.com##.ytSpecButtonViewModelHost
+www.youtube.com##.ytContentMetadataViewModelBadge
+www.youtube.com##.ytContentMetadataViewModelLeadingIcon.ytIconWrapperHost
+dzen.ru##.channel--desktop-info-layout__avatar-3a
+dzen.ru##.channel--desktop-info-layout__description-2e
+www.youtube.com##.ytDescriptionPreviewViewModelClickable.ytPageHeaderViewModelDescription.ytDescriptionPreviewViewModelHost
+www.youtube.com###tabs-divider
+www.youtube.com##.ytd-menu-renderer.style-scope > .ytSpecIconShapeHost.yt-icon.style-scope.yt-icon-shape > div
+www.avito.ru##[alt="Картинка баннера"]
+ru.get-save.com##.banner
+www.svoboda.org##.podcast-sub--prog-hdr.podcast-sub
+www.profinance.ru###quote-table-6
 
 
 
