@@ -657,7 +657,6 @@ titoralem.com
 ||pruner.ru/wp-content/themes/pruner/images/comp.jpg$image
 ug.tsargrad.tv##.btn-yellow-small.header__btn-small
 plus.yandex.ru
-360.yandex.ru
 music.yandex.ru
 books.yandex.ru
 books.yandex.ru##.plus-button-cls
@@ -894,6 +893,7 @@ dzen.ru##.channel--channel-banner__flexContainer-1X
 ! Реклама после окончания видео
 www.youtube.com##.ytp-fullscreen-grid-main-content
 www.youtube.com##.ytp-ce-large-round.ytp-ce-video.ytp-ce-element
+www.youtube.com##.ytp-ce-element-show
 ! маклаково.рф
 ||xn--80aag4abeevb.xn--p1ai/i/*.gif$image
 ||xn--80aag4abeevb.xn--p1ai/images/banner*.gif$image
@@ -1021,6 +1021,46 @@ notube.net##.nt-plus-link
 vc.ru##.content__floating
 musify.club##.block.ad-slot
 musify.club##.space-y-3
+turbobit.net##.download-promo__button-fast
+hitfile.net##.download-promo__button-fast
+turbobit.net##.file-block__link_premium
+musify.club##.footer
+musify.club##.premium-upsell
+! Временно (пока скачиваю)
+musify.club##.tracklist__cover-wrap
+
+habr.com##.banner
+www.vbr.ru##.link.popup-content
+www.vbr.ru##.popup-wrapper
+www.vbr.ru##.popup-body
+www.vbr.ru##.-blue.tgb-stick
+www.fontanka.ru###comment-form-bottom
+www.fontanka.ru##.text-style-ui-caption-1
+dimonvideo.ru##.text-left.alert-info.alert
+dimonvideo.ru##.opisan.panel-body > div
+www.business-gazeta.ru##iframe
+www.business-gazeta.ru##.layout__right
+www.business-gazeta.ru##.article__banner
+m.ok.ru##.invite-banner
+club.dns-shop.ru##.rate_type_comment.comment__rate-votes.rate
+www.metal-tracker.com##.mid-replacement > [href="/donate.html"]
+www.metal-tracker.com##.remove-delay > .ui-button-text-icon-primary.ui-corner-all.ui-state-default.ui-widget.ui-button
+harant.ru##.popcity
+ria.ru###widgetBottom
+katfile.space##.recommended-section
+*##.old-browser-warning
+notube.net##.btn-lg.btn-danger.btn
+notube.net##.app-cta-sub
+notube.net##.share-section
+www.svoboda.org##.ymla-section.clear
+www.svoboda.org##footer
+www.svoboda.org##.article-categories
+www.svoboda.org##.footer-toolbar
+www.svoboda.org##.sticky-share-container
+www.svoboda.org##.hdr-20
+*##.material-reactions-buttons
+www.youtube.com##.ytp-cards-teaser-label
+www.youtube.com##.ytp-cards-teaser-text
 
 
 
