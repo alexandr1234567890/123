@@ -1026,8 +1026,7 @@ hitfile.net##.download-promo__button-fast
 turbobit.net##.file-block__link_premium
 musify.club##.footer
 musify.club##.premium-upsell
-! Временно (пока скачиваю)
-musify.club##.tracklist__cover-wrap
+
 
 habr.com##.banner
 www.vbr.ru##.link.popup-content
