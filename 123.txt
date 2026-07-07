@@ -1019,15 +1019,9 @@ ru.get-save.com##.notgetsave4
 notube.net##.like-us-wrapper
 notube.net##.nt-plus-link
 vc.ru##.content__floating
-musify.club##.block.ad-slot
-musify.club##.space-y-3
 turbobit.net##.download-promo__button-fast
 hitfile.net##.download-promo__button-fast
 turbobit.net##.file-block__link_premium
-musify.club##.footer
-musify.club##.premium-upsell
-
-
 habr.com##.banner
 www.vbr.ru##.link.popup-content
 www.vbr.ru##.popup-wrapper
@@ -1060,6 +1054,13 @@ www.svoboda.org##.hdr-20
 *##.material-reactions-buttons
 www.youtube.com##.ytp-cards-teaser-label
 www.youtube.com##.ytp-cards-teaser-text
+cloud.mail.ru##.TelegramMigrationSidebarinfo__root--1w-WV
+cloud.mail.ru##.button.primary.fluid.ui
+e.mail.ru###sidebar-navigation-mailspace-tooltip
+dzen.ru##.channel--one-column-with-side-panel-channel-feed__right-1V
+expertjob.ru##.card-body > div > [href] > .img-fluid
+dzen.ru##.channel--horizontal-article-card__articleImage-2V
+dzen.ru##.channel--tap-icon__rootElement-lJ > svg
 
 
 
